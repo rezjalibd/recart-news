@@ -5,8 +5,16 @@
     <link>https://recart.ir/</link>
     <description>پوشش لحظه‌ای و جامع اخبار فناوری، اقتصاد، ایران و بین‌الملل</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 19:42:08 +0000</lastBuildDate>
     <atom:link href="https://recart.ir/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>اعلام خاموشی دوساعته در تهران؛ مقام‌ها بار کمبود انرژی را بر دوش مردم گذاشتند</title>
+      <link>https://recart.ir/news/f8d3fe6dcee66e01.html</link>
+      <guid>https://recart.ir/news/f8d3fe6dcee66e01.html</guid>
+      <description>شرکت توزیع نیروی برق تهران بزرگ در پیامکی به شماری از مشترکان، زمان قطع دوساعته برق در ۳۰ آبان را اعلام کرد. سخنگوی صنعت برق این قطعی را به «تعمیرات شبکه» نسبت داد و گفت خاموشی‌های برنامه‌ریزی‌شده ممکن است در «هفته‌های آینده» آغاز شود.</description>
+      <category>جامعه و رویدادها</category>
+      <source url="https://www.iranintl.com/202611208996">Iran International</source>
+    </item>
     <item>
       <title>پوچتینو: منچستریونایتد را از صفر می‌سازم</title>
       <link>https://recart.ir/news/d557ddf8ba3a50b8.html</link>
@@ -318,14 +326,6 @@
       <description>بی‌بی‌سی دریافته که یک عملیات امنیت سایبری مخفیانه برای ایمن‌سازی ده‌ها هزار یخچال و فریزر فروشگاهی و سردخانه‌ای در بریتانیا در برابر حمله احتمالی هکرها انجام شده است. این عملیات پس از حمله سایبری در چند کشور اروپایی، برای ایمن‌سازی یخچال‌های سوپرمارکت‌ها، انبارها، رستو...</description>
       <category>امنیت سایبری و شبکه</category>
       <source url="https://www.bbc.com/persian/articles/c6jreyzjw5jno?at_medium=RSS&amp;at_campaign=rss">BBC Persian</source>
-    </item>
-    <item>
-      <title>پرسپولیس ۳-۰ پیکان؛ تارتار هم از بحران خارج شد، هم موقتا به صدر رسید</title>
-      <link>https://recart.ir/news/2c9644f8c52c56cc.html</link>
-      <guid>https://recart.ir/news/2c9644f8c52c56cc.html</guid>
-      <description>تیم فوتبال پرسپولیس در هفته سیزدهم لیگ برتر، در ورزشگاه قلعه‌حسن‌خان، پیکان را با نتیجه سه بر صفر شکست داد. تیوی بیفوما در دقیقه ۳۹ روی پاس محمد عمری، محمدمهدی محبی در دقیقه ۵۳ روی پاس بیفوما و علی علیپور در دقیقه ۷۲ روی پاس پوریا شهرآبادی، گل‌های سرخ‌پوشان را به ثمر رساندند.</description>
-      <category>جامعه و رویدادها</category>
-      <source url="https://www.iranintl.com/202611208743">Iran International</source>
     </item>
   </channel>
 </rss>
