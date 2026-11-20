@@ -5,8 +5,16 @@
     <link>https://recart.ir/</link>
     <description>پوشش لحظه‌ای و جامع اخبار فناوری، اقتصاد، ایران و بین‌الملل</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:32:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:41:07 +0000</lastBuildDate>
     <atom:link href="https://recart.ir/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>اکسیوس: با وجود تلاش‌های قطر، مذاکرات تهران و واشینگتن پیشرفت چشمگیری نداشته است</title>
+      <link>https://recart.ir/news/0acb143c6a064ecc/</link>
+      <guid>https://recart.ir/news/0acb143c6a064ecc/</guid>
+      <description>پایگاه خبری اکسیوس به‌نقل از دو منبع آگاه گزارش داد استیو ویتکاف و جرد کوشنر، فرستادگان ویژه کاخ سفید، در برلین با مقام‌های ارشد قطری درباره مذاکرات تهران و واشینگتن گفت‌وگو کردند، اما مجموع این تلاش‌ها تاکنون پیشرفت چشمگیری به همراه نداشته است.</description>
+      <category>بین‌الملل و سیاست خارجی</category>
+      <source url="https://www.iranintl.com/202611209606">Iran International</source>
+    </item>
     <item>
       <title>اعتراض در مورموری آبدانان؛ معترضان شعار «مرگ بر دیکتاتور» سر دادند</title>
       <link>https://recart.ir/news/a8abdc7f5e669150/</link>
@@ -318,14 +326,6 @@
       <description>وعده اعطای تضمین‌های امنیتی به اوکراین مشابه ماده ۵ پیمان ناتو در خصوص اصل دفاع جمعی ناتو سردرگمی‌هایی را برای کی‌یف ایجاد کرده است. ولودیمیر زلنسکی از آمریکا و اروپا می‌خواهد مشخص کنند که در صورت حمله مجدد روسیه، دقیقاً چه واکنشی نشان خواهند داد.</description>
       <category>امنیت سایبری و شبکه</category>
       <source url="https://parsi.euronews.com/2026/11/20/zelensky-explicit-demand-to-us-and-europe-for-security-guarantees-similar-to-article-5">Euronews Persian</source>
-    </item>
-    <item>
-      <title>ائتلاف جنجالی چپ‌های افراطی و اسلام‌گرایان در آلمان؛ آیا فاشیسم چپ در حال اوج‌گیری و پیشروی است؟</title>
-      <link>https://recart.ir/news/79d3f27e25814bf5/</link>
-      <guid>https://recart.ir/news/79d3f27e25814bf5/</guid>
-      <description>نهادهای امنیتی آلمان و پژوهش‌های دانشگاهی طی سه سال گذشته از نزدیکی فزاینده گروه‌های چپ افراطی و اسلام‌گرا خبر داده‌اند؛ یورونیوز در گفت‌وگو با هندریک هانسن، پژوهشگر افراط‌گرایی سیاسی، ابعاد این همگرایی و پیامدهای احتمالی آن را بررسی کرده است.</description>
-      <category>امنیت سایبری و شبکه</category>
-      <source url="https://parsi.euronews.com/2026/11/20/germany-far-left-islamist-alliance-israel-iran-terrorism">Euronews Persian</source>
     </item>
   </channel>
 </rss>
