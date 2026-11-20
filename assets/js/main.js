@@ -356,4 +356,19 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   }
+
+  // 9. Floating Back to Top Button (REQ 5)
+  const bttBtn = document.getElementById('back-to-top');
+  if (bttBtn) {
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 280) {
+        bttBtn.classList.add('visible');
+      } else {
+        bttBtn.classList.remove('visible');
+      }
+    }, { passive: true });
+    bttBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
 });
