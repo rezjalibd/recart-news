@@ -1,632 +1,732 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://recart.ir</loc>
+    <loc>https://recart.ir/</loc>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://recart.ir/search.html</loc>
+    <loc>https://recart.ir/search/</loc>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://recart.ir/archive/index.html</loc>
+    <loc>https://recart.ir/archive/</loc>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://recart.ir/about.html</loc>
+    <loc>https://recart.ir/about/</loc>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://recart.ir/contact.html</loc>
+    <loc>https://recart.ir/contact/</loc>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://recart.ir/privacy.html</loc>
+    <loc>https://recart.ir/privacy/</loc>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/f8d3fe6dcee66e01.html</loc>
+    <loc>https://recart.ir/news/f8d3fe6dcee66e01/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/d557ddf8ba3a50b8.html</loc>
+    <loc>https://recart.ir/news/d557ddf8ba3a50b8/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/b4052106a49ec350.html</loc>
+    <loc>https://recart.ir/news/b4052106a49ec350/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/fc9472cb8e747c04.html</loc>
+    <loc>https://recart.ir/news/fc9472cb8e747c04/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/0e18340d18a4e4fa.html</loc>
+    <loc>https://recart.ir/news/0e18340d18a4e4fa/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/66e618d0d83a0697.html</loc>
+    <loc>https://recart.ir/news/66e618d0d83a0697/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/52becfa9bab429de.html</loc>
+    <loc>https://recart.ir/news/52becfa9bab429de/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/00cd5470245c17c8.html</loc>
+    <loc>https://recart.ir/news/00cd5470245c17c8/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/68823621396a1a08.html</loc>
+    <loc>https://recart.ir/news/68823621396a1a08/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/1baa6df2fac844e7.html</loc>
+    <loc>https://recart.ir/news/1baa6df2fac844e7/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/b71365e2d48b7705.html</loc>
+    <loc>https://recart.ir/news/b71365e2d48b7705/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/c343c24cb7703b62.html</loc>
+    <loc>https://recart.ir/news/c343c24cb7703b62/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/2a4a1410f3010179.html</loc>
+    <loc>https://recart.ir/news/2a4a1410f3010179/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/1b941c931da33e45.html</loc>
+    <loc>https://recart.ir/news/1b941c931da33e45/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ac328a604245c425.html</loc>
+    <loc>https://recart.ir/news/ac328a604245c425/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/0715dd41214f9097.html</loc>
+    <loc>https://recart.ir/news/0715dd41214f9097/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/e7236d35e7c02157.html</loc>
+    <loc>https://recart.ir/news/e7236d35e7c02157/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/bdd0021fbd444156.html</loc>
+    <loc>https://recart.ir/news/bdd0021fbd444156/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/b63a33f9b1174431.html</loc>
+    <loc>https://recart.ir/news/b63a33f9b1174431/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/fad3e4851a05013d.html</loc>
+    <loc>https://recart.ir/news/fad3e4851a05013d/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/5006aff275982fbf.html</loc>
+    <loc>https://recart.ir/news/5006aff275982fbf/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/9bb61dcf03f26c20.html</loc>
+    <loc>https://recart.ir/news/9bb61dcf03f26c20/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/5063c4a895b1511e.html</loc>
+    <loc>https://recart.ir/news/5063c4a895b1511e/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/6938d8223bf6dbbf.html</loc>
+    <loc>https://recart.ir/news/6938d8223bf6dbbf/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/a427998f8c5eaf65.html</loc>
+    <loc>https://recart.ir/news/a427998f8c5eaf65/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/704d495dbe767105.html</loc>
+    <loc>https://recart.ir/news/704d495dbe767105/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ab8debef0e07dbee.html</loc>
+    <loc>https://recart.ir/news/ab8debef0e07dbee/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/6a673f99d1515150.html</loc>
+    <loc>https://recart.ir/news/6a673f99d1515150/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/365ef1e3bf1e6cbe.html</loc>
+    <loc>https://recart.ir/news/365ef1e3bf1e6cbe/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/4790a4d71a382392.html</loc>
+    <loc>https://recart.ir/news/4790a4d71a382392/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/b637347799b256bd.html</loc>
+    <loc>https://recart.ir/news/b637347799b256bd/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/79d3f27e25814bf5.html</loc>
+    <loc>https://recart.ir/news/79d3f27e25814bf5/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/37918756e9adb2a1.html</loc>
+    <loc>https://recart.ir/news/37918756e9adb2a1/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/29e0185136e423f3.html</loc>
+    <loc>https://recart.ir/news/29e0185136e423f3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/d613ac6a300da1e9.html</loc>
+    <loc>https://recart.ir/news/d613ac6a300da1e9/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/e777e46e853a9985.html</loc>
+    <loc>https://recart.ir/news/e777e46e853a9985/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/9835c59b35e524f2.html</loc>
+    <loc>https://recart.ir/news/9835c59b35e524f2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/74fda90d54eca484.html</loc>
+    <loc>https://recart.ir/news/74fda90d54eca484/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/f85c9495d119cf91.html</loc>
+    <loc>https://recart.ir/news/f85c9495d119cf91/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/dfd254f52c58a153.html</loc>
+    <loc>https://recart.ir/news/dfd254f52c58a153/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/2c9644f8c52c56cc.html</loc>
+    <loc>https://recart.ir/news/2c9644f8c52c56cc/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ae432123f247f2c1.html</loc>
+    <loc>https://recart.ir/news/ae432123f247f2c1/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/21a8a4ea42a7ca6f.html</loc>
+    <loc>https://recart.ir/news/21a8a4ea42a7ca6f/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/e98b81e17dd60c42.html</loc>
+    <loc>https://recart.ir/news/e98b81e17dd60c42/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/f1bdba4c30bcf813.html</loc>
+    <loc>https://recart.ir/news/f1bdba4c30bcf813/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/466b4267a8e2bac6.html</loc>
+    <loc>https://recart.ir/news/466b4267a8e2bac6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/b2995d3fdab17d0c.html</loc>
+    <loc>https://recart.ir/news/b2995d3fdab17d0c/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/2d1c00c66cbf52ae.html</loc>
+    <loc>https://recart.ir/news/2d1c00c66cbf52ae/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/9ab68d4bb84217b6.html</loc>
+    <loc>https://recart.ir/news/9ab68d4bb84217b6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/fc87144061b9a946.html</loc>
+    <loc>https://recart.ir/news/fc87144061b9a946/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/d291ef923797b1ca.html</loc>
+    <loc>https://recart.ir/news/d291ef923797b1ca/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/e69c0cacd2ab869f.html</loc>
+    <loc>https://recart.ir/news/e69c0cacd2ab869f/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/8ab59ba07588e3ee.html</loc>
+    <loc>https://recart.ir/news/8ab59ba07588e3ee/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/7d49e04414bd7bb8.html</loc>
+    <loc>https://recart.ir/news/7d49e04414bd7bb8/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/6cdfe3cfd39514ad.html</loc>
+    <loc>https://recart.ir/news/6cdfe3cfd39514ad/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/da15c780ba5089b5.html</loc>
+    <loc>https://recart.ir/news/da15c780ba5089b5/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/6746674dba9fbd73.html</loc>
+    <loc>https://recart.ir/news/6746674dba9fbd73/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/80425c496d7ab346.html</loc>
+    <loc>https://recart.ir/news/80425c496d7ab346/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/1c5fb652081be443.html</loc>
+    <loc>https://recart.ir/news/1c5fb652081be443/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/5d43677a2d44a992.html</loc>
+    <loc>https://recart.ir/news/5d43677a2d44a992/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/12840e749a18778a.html</loc>
+    <loc>https://recart.ir/news/12840e749a18778a/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/9b42491712a79441.html</loc>
+    <loc>https://recart.ir/news/9b42491712a79441/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/d06f1ddd7112aeb3.html</loc>
+    <loc>https://recart.ir/news/d06f1ddd7112aeb3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/da848304f43ad198.html</loc>
+    <loc>https://recart.ir/news/da848304f43ad198/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/8875f869b85d8f10.html</loc>
+    <loc>https://recart.ir/news/8875f869b85d8f10/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/65f9bf9bd903ab18.html</loc>
+    <loc>https://recart.ir/news/65f9bf9bd903ab18/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ad600f7531f07c4d.html</loc>
+    <loc>https://recart.ir/news/ad600f7531f07c4d/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/474a77f615224581.html</loc>
+    <loc>https://recart.ir/news/474a77f615224581/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/a1aeb6e0e6d5985f.html</loc>
+    <loc>https://recart.ir/news/a1aeb6e0e6d5985f/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/25bc91955d2c92f7.html</loc>
+    <loc>https://recart.ir/news/25bc91955d2c92f7/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/f3b7e4511759027d.html</loc>
+    <loc>https://recart.ir/news/f3b7e4511759027d/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/815eb1dac8bdc618.html</loc>
+    <loc>https://recart.ir/news/815eb1dac8bdc618/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/4edc8ba9f6cd2e74.html</loc>
+    <loc>https://recart.ir/news/4edc8ba9f6cd2e74/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/b451c15415d38866.html</loc>
+    <loc>https://recart.ir/news/b451c15415d38866/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/374722f61d19ea2f.html</loc>
+    <loc>https://recart.ir/news/374722f61d19ea2f/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/8a372971c008e03a.html</loc>
+    <loc>https://recart.ir/news/8a372971c008e03a/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/71b00789b7d2be0e.html</loc>
+    <loc>https://recart.ir/news/71b00789b7d2be0e/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ab9b7d3b19fc9d31.html</loc>
+    <loc>https://recart.ir/news/ab9b7d3b19fc9d31/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/6a4ebdb1e0a20eed.html</loc>
+    <loc>https://recart.ir/news/6a4ebdb1e0a20eed/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/57344937c95b1c25.html</loc>
+    <loc>https://recart.ir/news/57344937c95b1c25/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/036980d3e7aebee2.html</loc>
+    <loc>https://recart.ir/news/036980d3e7aebee2/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/91e1b6e3a7bb408a.html</loc>
+    <loc>https://recart.ir/news/91e1b6e3a7bb408a/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ba61f86ebc8ad767.html</loc>
+    <loc>https://recart.ir/news/ba61f86ebc8ad767/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/584b0c65e3c3b833.html</loc>
+    <loc>https://recart.ir/news/584b0c65e3c3b833/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/36cdd1708a17a338.html</loc>
+    <loc>https://recart.ir/news/36cdd1708a17a338/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/2eb5dd830229861b.html</loc>
+    <loc>https://recart.ir/news/2eb5dd830229861b/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/49c64f5e1a456c89.html</loc>
+    <loc>https://recart.ir/news/49c64f5e1a456c89/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/26c011926cbd863f.html</loc>
+    <loc>https://recart.ir/news/26c011926cbd863f/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/1015e345bd3a8339.html</loc>
+    <loc>https://recart.ir/news/1015e345bd3a8339/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/4fea5f4378b1041f.html</loc>
+    <loc>https://recart.ir/news/4fea5f4378b1041f/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/5afed029297b13e7.html</loc>
+    <loc>https://recart.ir/news/5afed029297b13e7/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/1e8184b68410c0fd.html</loc>
+    <loc>https://recart.ir/news/1e8184b68410c0fd/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/78b6d217a681bd12.html</loc>
+    <loc>https://recart.ir/news/78b6d217a681bd12/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/253c0da77bb48165.html</loc>
+    <loc>https://recart.ir/news/253c0da77bb48165/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/aab3efaf54033eaf.html</loc>
+    <loc>https://recart.ir/news/aab3efaf54033eaf/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/7c2acca6ed8e5fef.html</loc>
+    <loc>https://recart.ir/news/7c2acca6ed8e5fef/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/d02c2ec4b5a20018.html</loc>
+    <loc>https://recart.ir/news/d02c2ec4b5a20018/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/e4e48245be3058be.html</loc>
+    <loc>https://recart.ir/news/e4e48245be3058be/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/aff4f89b20cb2629.html</loc>
+    <loc>https://recart.ir/news/aff4f89b20cb2629/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/41d89efa82f70edf.html</loc>
+    <loc>https://recart.ir/news/41d89efa82f70edf/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ec323f63f8fe1e92.html</loc>
+    <loc>https://recart.ir/news/ec323f63f8fe1e92/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/f464df7d4b562fe3.html</loc>
+    <loc>https://recart.ir/news/f464df7d4b562fe3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/eb80c09e1ed647f3.html</loc>
+    <loc>https://recart.ir/news/eb80c09e1ed647f3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/8a56c013ae169b81.html</loc>
+    <loc>https://recart.ir/news/8a56c013ae169b81/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/39097527d93dbb7c.html</loc>
+    <loc>https://recart.ir/news/39097527d93dbb7c/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/c27052a5aaf99136.html</loc>
+    <loc>https://recart.ir/news/c27052a5aaf99136/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/a6fc70eb36a2d4cd.html</loc>
+    <loc>https://recart.ir/news/a6fc70eb36a2d4cd/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/89611bfb7fb21630.html</loc>
+    <loc>https://recart.ir/news/89611bfb7fb21630/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/8da6b1529d2b381f.html</loc>
+    <loc>https://recart.ir/news/8da6b1529d2b381f/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/799d4a00e49d619c.html</loc>
+    <loc>https://recart.ir/news/799d4a00e49d619c/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/af123160956ebe47.html</loc>
+    <loc>https://recart.ir/news/af123160956ebe47/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/f29435ed67faa470.html</loc>
+    <loc>https://recart.ir/news/f29435ed67faa470/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/4d195d731dec8975.html</loc>
+    <loc>https://recart.ir/news/4d195d731dec8975/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/b1d6302d6ed408e8.html</loc>
+    <loc>https://recart.ir/news/b1d6302d6ed408e8/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/04dc83ece25d676d.html</loc>
+    <loc>https://recart.ir/news/04dc83ece25d676d/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/59f387769c5e49c6.html</loc>
+    <loc>https://recart.ir/news/59f387769c5e49c6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/a1c625b355bb20d6.html</loc>
+    <loc>https://recart.ir/news/a1c625b355bb20d6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/d81297a9aa1f566c.html</loc>
+    <loc>https://recart.ir/news/d81297a9aa1f566c/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/392c2dd0ec6ba9fa.html</loc>
+    <loc>https://recart.ir/news/392c2dd0ec6ba9fa/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/50819009a335189b.html</loc>
+    <loc>https://recart.ir/news/50819009a335189b/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/5eed7f9737679259/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/13b66e0f28b48c26/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/5d7cdce2295ccc55/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/6a982bbf506f4d49/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/7d354e60eb48d6f8/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/685d7b278b3f4a29/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/5a0eb05957fbd606/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ff604f71e37c63f2/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/a1d7b73590f1e9fb/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ea3d4828ee8671b2/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/efd6d8af8b8e318c/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/4ce7acaf3d4cb687/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/fc1aae66f3fec283/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/b8c50c28c4a93fe7/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ffedaf737bc8da5a/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/4b305b2316fec929/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/8cd74be0c96032a6/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/e157b9eb0fdaa48e/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/d94c197913f41452/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/0a5f6ee30ee18362/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
