@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اعتراضات-معیشتی-در-بیش-از-۲۵-کشور-اروپایی-هزاران-نفر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آمریکا-چهار-ایرانی-از-جمله-برادر-رییس-فدراسیون-فوتبال-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بایرن-مونیخ-۱-۱-کلن-بدترین-خبر-برای-کمپانی-مصدومیت-همزمان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -312,6 +322,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اتحادیه-اروپا-و-بریتانیا-جمهوری-اسلامی-باید-حملات-ترکیبی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آخرین-طراحی-مجدد-صفحه-جستجوی-گوگل-دکمه-جستجو-را-حذف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نحوه-استریم-gta-6-بر-روی-iphone-ipad-یا-mac/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -707,26 +727,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارکنان-آرشیو-اینترنت-در-حال-تشکیل-اتحادیه-هستند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نموداری-که-بیشترین-سوء-تفاهم-را-در-هوش-مصنوعی-داشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-کلاه-جان-مشهورترین-اسب-آبی-دنیا-را-گرفت-چرا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معاملات-جمعه-سیاه-coach-شامل-چمدان-ها-تا-40-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-ipo-بزرگ-anthropic-نتوانست-تجارت-هوش-مصنوعی-را-احیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
