@@ -326,6 +326,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رئیس-جدید-مجلس-بودجه-اسپیس-ایکس-را-بر-سر-جنجال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوگل-صفحه-اصلی-جستجوی-جدیدی-را-با-سابقه-چت-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگران-آرشیو-اینترنت-در-حال-تشکیل-اتحادیه-هستند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آخرین-طراحی-مجدد-صفحه-جستجوی-گوگل-دکمه-جستجو-را-حذف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -712,21 +727,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/زمین-گرمایی-سنگ-بسیار-داغ-می-تواند-به-مشکلات-انرژی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-اینجا-همه-چیزهایی-است-که-gta-در-gta-6/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/openai-هاب-های-فضایی-مشترک-خود-را-برای-کاربران-پلاس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارکنان-آرشیو-اینترنت-در-حال-تشکیل-اتحادیه-هستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
