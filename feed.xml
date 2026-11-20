@@ -5,8 +5,16 @@
     <link>https://recart.ir/</link>
     <description>پوشش لحظه‌ای و جامع اخبار فناوری، اقتصاد، ایران و بین‌الملل</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 21:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:32:32 +0000</lastBuildDate>
     <atom:link href="https://recart.ir/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>علیرضا فیروزجا، قهرمان نخستین دوره مسابقات توتال چس بوداپست شد</title>
+      <link>https://recart.ir/news/b0d1504356be2fff/</link>
+      <guid>https://recart.ir/news/b0d1504356be2fff/</guid>
+      <description>علیرضا فیروزجا، شطرنج‌باز ایرانی‌تبار فرانسه با تساوی مقابل آنیش گیری در بازی تعیین‌کننده آرماگدون، قهرمان نخستین دوره آزمایشی مسابقات توتال چس بوداپست شد. فیروزجا با مهره‌های سیاه بازی می‌کرد و طبق قوانین آرماگدون، تساوی برای قهرمانی او کافی بود.</description>
+      <category>ایران و رویدادهای ملی</category>
+      <source url="https://www.iranintl.com/202611208278">Iran International</source>
+    </item>
     <item>
       <title>ترامپ: قیمت بنزین به این بستگی دارد که تکلیف‌مان را با ایران چطور روشن کنیم</title>
       <link>https://recart.ir/news/cc69f0c23763c5b8/</link>
@@ -318,14 +326,6 @@
       <description>یورونیوز به نخستین کارخانه صنعتی جهان که در مقیاس بزرگ e-متانول تولید می‌کند دسترسی یافته است. سایت کاسو در دانمارک راه را برای گذار انرژی سازگار با اقلیم، حتی در بخش‌های سخت‌کاه، هموار می‌کند.</description>
       <category>ایران و رویدادهای ملی</category>
       <source url="https://parsi.euronews.com/2026/11/20/will-e-methanol-become-a-game-changer-for-decarbonising-maritime-shipping-and-plastic-indu">Euronews Persian</source>
-    </item>
-    <item>
-      <title>نروژ با اندونزی و مراکش قرارداد خرید اعتبار کربن برای تامین مالی انرژی تجدیدپذیر امضا کرد</title>
-      <link>https://recart.ir/news/4790a4d71a382392/</link>
-      <guid>https://recart.ir/news/4790a4d71a382392/</guid>
-      <description>خرید اعتبار کربن نروژ به تأمین مالی پروژه‌هایی کمک می‌کند که در غیر این صورت اجرا نمی‌شدند و در عین حال به این کشور اجازه می‌دهد کاهش انتشارها را به نام اهداف خود ثبت کند.</description>
-      <category>رسانه، فرهنگ و هنر</category>
-      <source url="https://parsi.euronews.com/2026/11/20/norway-signs-carbon-credit-deals-with-indonesia-and-morocco-to-help-fund-renewable-energy">Euronews Persian</source>
     </item>
   </channel>
 </rss>
