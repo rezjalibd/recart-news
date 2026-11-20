@@ -5,8 +5,16 @@
     <link>https://recart.ir/</link>
     <description>پوشش لحظه‌ای و جامع اخبار فناوری، اقتصاد، ایران و بین‌الملل</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:48:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 19:52:01 +0000</lastBuildDate>
     <atom:link href="https://recart.ir/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>بریتانیا و اتحادیۀ اروپا بر سر تسهیل تجارت مواد غذایی و تردد جوانان به توافق رسیدند</title>
+      <link>https://recart.ir/news/316a873f18c4eff0/</link>
+      <guid>https://recart.ir/news/316a873f18c4eff0/</guid>
+      <description>بریتانیا و اتحادیۀ اروپا بر سر تسهیل تجارت مواد غذایی و تردد جوانان به توافق رسیدند. اختلاف دو طرف بر سر شهریۀ پرداختی دانشجویان اروپایی در دانشگاه‌های بریتانیا همچنان باقی است. بریتانیا و اتحادیه اروپا روز جمعه ۲۹ آبان‌ماه، در نشستی با هدف بازسازی روابط دوجانبه، توافق‌...</description>
+      <category>فناوری و هوش مصنوعی</category>
+      <source url="https://www.radiofarda.com/a/britain-eu-clinch-food-and-youth-deals-ahead-of-brainstorm-on-future-/33902786.html">Radio Farda</source>
+    </item>
     <item>
       <title>اعلام خاموشی دوساعته در تهران؛ مقام‌ها بار کمبود انرژی را بر دوش مردم گذاشتند</title>
       <link>https://recart.ir/news/f8d3fe6dcee66e01/</link>
@@ -318,14 +326,6 @@
       <description>برخی بازیگران، هنرمندان و ستارگان ورزش از طرفداران پر و پا قرص هوش مصنوعی‌اند. گزارش شده است که آشتون کوچر، خواننده گروه بلک آید پیس ویلی.آیم و بسکتبالیست پیشین NBA تریستان تامپسون با حمایت از شرکت آمریکایی آنتروپیک، سازنده چت‌بات Claude AI، ثروت زیادی به دست آورده‌اند.</description>
       <category>فناوری و هوش مصنوعی</category>
       <source url="https://parsi.euronews.com/2026/11/20/its-all-about-the-money-which-celebrities-are-richer-after-anthropics-wall-street-debut">Euronews Persian</source>
-    </item>
-    <item>
-      <title>ده‌ها هزار یخچال در بریتانیا در عملیاتی محرمانه در برابر حمله سایبری ایمن شد</title>
-      <link>https://recart.ir/news/dfd254f52c58a153/</link>
-      <guid>https://recart.ir/news/dfd254f52c58a153/</guid>
-      <description>بی‌بی‌سی دریافته که یک عملیات امنیت سایبری مخفیانه برای ایمن‌سازی ده‌ها هزار یخچال و فریزر فروشگاهی و سردخانه‌ای در بریتانیا در برابر حمله احتمالی هکرها انجام شده است. این عملیات پس از حمله سایبری در چند کشور اروپایی، برای ایمن‌سازی یخچال‌های سوپرمارکت‌ها، انبارها، رستو...</description>
-      <category>امنیت سایبری و شبکه</category>
-      <source url="https://www.bbc.com/persian/articles/c6jreyzjw5jno?at_medium=RSS&amp;at_campaign=rss">BBC Persian</source>
     </item>
   </channel>
 </rss>
