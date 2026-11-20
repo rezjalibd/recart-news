@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://recart.ir/sitemap.xml
