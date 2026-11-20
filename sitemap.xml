@@ -281,6 +281,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/4d4321a1e7c8f64b/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/abdb5833c22949df/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/3ab7c4db567d5790/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/950db5ed18f00d70/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -712,21 +727,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/4d195d731dec8975/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/b1d6302d6ed408e8/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/04dc83ece25d676d/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/59f387769c5e49c6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
