@@ -438,8 +438,11 @@ button {
   min-width: 0;
 }
 .ticker-scroll {
-  display: inline-block;
-  animation: ticker-anim 90s linear infinite;
+  display: inline-flex;
+  align-items: center;
+  width: max-content;
+  will-change: transform;
+  animation: ticker-anim 45s linear infinite;
 }
 .ticker-scroll:hover {
   animation-play-state: paused;
@@ -447,7 +450,7 @@ button {
 .ticker-item {
   display: inline-flex;
   align-items: center;
-  margin-left: 2rem;
+  margin-left: 2.25rem;
   font-size: 0.88rem;
   color: var(--text-secondary);
 }
@@ -455,8 +458,8 @@ button {
   color: var(--brand-primary);
 }
 @keyframes ticker-anim {
-  0% { transform: translateX(-100%); }
-  100% { transform: translateX(100%); }
+  0% { transform: translate3d(0, 0, 0); }
+  100% { transform: translate3d(50%, 0, 0); }
 }
 
 /* --------------------------------------------------------------------------
@@ -542,30 +545,10 @@ button {
   overflow: hidden;
 }
 
-/* Carousel Controls */
+/* Carousel Controls (Arrows removed per request) */
 .carousel-nav-btn {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 40px;
-  height: 40px;
-  background: rgba(15, 23, 42, 0.6);
-  backdrop-filter: blur(8px);
-  color: #ffffff;
-  border-radius: var(--radius-full);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 10;
-  transition: all var(--transition-fast);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  display: none !important;
 }
-.carousel-nav-btn:hover {
-  background: var(--brand-primary);
-  transform: translateY(-50%) scale(1.08);
-}
-.carousel-prev { right: 1rem; }
-.carousel-next { left: 1rem; }
 
 .carousel-indicators {
   position: absolute;
