@@ -1399,12 +1399,54 @@ button {
 }
 
 @media (max-width: 640px) {
+  .container {
+    padding-left: 0.85rem;
+    padding-right: 0.85rem;
+  }
   .top-bar { display: none; }
-  .hero-carousel { height: 320px; }
-  .carousel-caption { padding: 1.25rem; }
-  .carousel-title { font-size: 1.2rem; }
-  .article-title { font-size: 1.5rem; }
-  .article-meta-bar { flex-direction: column; align-items: flex-start; }
+  .header-inner {
+    height: 58px;
+    gap: 0.5rem;
+  }
+  .brand-logo {
+    height: 32px;
+    max-width: 125px;
+  }
+  .action-btn {
+    width: 36px;
+    height: 36px;
+  }
+  .header-actions {
+    gap: 0.35rem;
+  }
+  .ticker-inner {
+    gap: 0.5rem;
+  }
+  .ticker-badge {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+  }
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .hero-carousel {
+    height: 300px;
+  }
+  .hero-side-list {
+    height: auto;
+    grid-template-rows: auto;
+  }
+  .carousel-caption { padding: 1rem; }
+  .carousel-title { font-size: 1.15rem; }
+  .article-title { font-size: 1.4rem; }
+  .article-meta-bar { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+  .back-to-top-btn {
+    bottom: 1.25rem;
+    left: 1.25rem;
+    width: 42px;
+    height: 42px;
+  }
 }
 
 /* --------------------------------------------------------------------------
