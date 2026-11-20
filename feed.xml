@@ -5,8 +5,16 @@
     <link>https://recart.ir/</link>
     <description>پوشش لحظه‌ای و جامع اخبار فناوری، اقتصاد، ایران و بین‌الملل</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:03:51 +0000</lastBuildDate>
     <atom:link href="https://recart.ir/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>الاهلی ۳ - ۱ النصر؛ گل شماره ۹۸۶ رونالدو مانع شکست نشد</title>
+      <link>https://recart.ir/news/4c1d465e705bbb1f/</link>
+      <guid>https://recart.ir/news/4c1d465e705bbb1f/</guid>
+      <description>تیم فوتبال النصر در هفته نهم لیگ حرفه‌ای عربستان، با وجود گلزنی کریستیانو رونالدو، با نتیجه ۳ بر ۱ مقابل الاهلی شکست خورد و سه امتیاز این مسابقه را از دست داد.</description>
+      <category>ایران و رویدادهای ملی</category>
+      <source url="https://www.iranintl.com/202611203604">Iran International</source>
+    </item>
     <item>
       <title>بریتانیا و اتحادیۀ اروپا بر سر تسهیل تجارت مواد غذایی و تردد جوانان به توافق رسیدند</title>
       <link>https://recart.ir/news/316a873f18c4eff0/</link>
@@ -318,14 +326,6 @@
       <description>داده‌های بهداشتی اتحادیه اروپا نشان می‌دهد که میزان واکسیناسیون HPV بر اساس کشور و جنسیت، در میان زنان و مردان کشورهای عضو، متفاوت است.</description>
       <category>ایران و رویدادهای ملی</category>
       <source url="https://parsi.euronews.com/2026/11/20/this-vaccine-can-prevent-cervical-cancer-which-europeans-actually-receive-it">Euronews Persian</source>
-    </item>
-    <item>
-      <title>ثروت سلبریتی‌ها پس از ورود «Anthropic» به وال‌استریت چقدر افزایش یافت؟</title>
-      <link>https://recart.ir/news/f85c9495d119cf91/</link>
-      <guid>https://recart.ir/news/f85c9495d119cf91/</guid>
-      <description>برخی بازیگران، هنرمندان و ستارگان ورزش از طرفداران پر و پا قرص هوش مصنوعی‌اند. گزارش شده است که آشتون کوچر، خواننده گروه بلک آید پیس ویلی.آیم و بسکتبالیست پیشین NBA تریستان تامپسون با حمایت از شرکت آمریکایی آنتروپیک، سازنده چت‌بات Claude AI، ثروت زیادی به دست آورده‌اند.</description>
-      <category>فناوری و هوش مصنوعی</category>
-      <source url="https://parsi.euronews.com/2026/11/20/its-all-about-the-money-which-celebrities-are-richer-after-anthropics-wall-street-debut">Euronews Persian</source>
     </item>
   </channel>
 </rss>
