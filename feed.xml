@@ -5,8 +5,16 @@
     <link>https://recart.ir/</link>
     <description>پوشش لحظه‌ای و جامع اخبار فناوری، اقتصاد، ایران و بین‌الملل</description>
     <language>fa</language>
-    <lastBuildDate>Fri, 20 Nov 2026 21:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:21:50 +0000</lastBuildDate>
     <atom:link href="https://recart.ir/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ترامپ: قیمت بنزین به این بستگی دارد که تکلیف‌مان را با ایران چطور روشن کنیم</title>
+      <link>https://recart.ir/news/cc69f0c23763c5b8/</link>
+      <guid>https://recart.ir/news/cc69f0c23763c5b8/</guid>
+      <description>دونالد ترامپ، رئیس‌جمهور آمریکا، در نخستین نشست خبری خود پس از دیدار سه‌جانبه با رهبران چین و روسیه، گفت که روند قیمت بنزین در آمریکا تا حدی به چگونگی حل‌وفصل اختلافات با ایران بستگی دارد. او ضمن دفاع از تصمیم خود برای آغاز جنگ با ایران، دیدار با رهبران چین و روسیه را م...</description>
+      <category>فناوری و هوش مصنوعی</category>
+      <source url="https://www.bbc.com/persian/articles/c64gn0j53qgpo?at_medium=RSS&amp;at_campaign=rss">BBC Persian</source>
+    </item>
     <item>
       <title>اکسیوس: با وجود تلاش‌های قطر، مذاکرات تهران و واشینگتن پیشرفت چشمگیری نداشته است</title>
       <link>https://recart.ir/news/0acb143c6a064ecc/</link>
@@ -318,14 +326,6 @@
       <description>خرید اعتبار کربن نروژ به تأمین مالی پروژه‌هایی کمک می‌کند که در غیر این صورت اجرا نمی‌شدند و در عین حال به این کشور اجازه می‌دهد کاهش انتشارها را به نام اهداف خود ثبت کند.</description>
       <category>رسانه، فرهنگ و هنر</category>
       <source url="https://parsi.euronews.com/2026/11/20/norway-signs-carbon-credit-deals-with-indonesia-and-morocco-to-help-fund-renewable-energy">Euronews Persian</source>
-    </item>
-    <item>
-      <title>مطالبه صریح زلنسکی از آمریکا و اروپا درباره تضمین امنیتی مشابه ماده ۵؛ کی‌یف به دنبال چیست؟</title>
-      <link>https://recart.ir/news/b637347799b256bd/</link>
-      <guid>https://recart.ir/news/b637347799b256bd/</guid>
-      <description>وعده اعطای تضمین‌های امنیتی به اوکراین مشابه ماده ۵ پیمان ناتو در خصوص اصل دفاع جمعی ناتو سردرگمی‌هایی را برای کی‌یف ایجاد کرده است. ولودیمیر زلنسکی از آمریکا و اروپا می‌خواهد مشخص کنند که در صورت حمله مجدد روسیه، دقیقاً چه واکنشی نشان خواهند داد.</description>
-      <category>امنیت سایبری و شبکه</category>
-      <source url="https://parsi.euronews.com/2026/11/20/zelensky-explicit-demand-to-us-and-europe-for-security-guarantees-similar-to-article-5">Euronews Persian</source>
     </item>
   </channel>
 </rss>
