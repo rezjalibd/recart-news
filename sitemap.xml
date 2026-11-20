@@ -31,6 +31,31 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/046a50304b7b6dc0/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/bef1d909f94fba54/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/4e7a0faaa55bbeb5/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/db97f0afc214c65f/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/68c5d38d11c83ecd/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/4c1d465e705bbb1f/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -252,6 +277,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/21a8a4ea42a7ca6f/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/950db5ed18f00d70/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -697,36 +727,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/59f387769c5e49c6/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/a1c625b355bb20d6/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/d81297a9aa1f566c/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/392c2dd0ec6ba9fa/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/50819009a335189b/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/5eed7f9737679259/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/13b66e0f28b48c26/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
