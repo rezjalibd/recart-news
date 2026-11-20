@@ -31,12 +31,17 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آمریکا-چهار-ایرانی-از-جمله-برادر-رییس-فدراسیون-فوتبال-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اعتراضات-معیشتی-در-بیش-از-۲۵-کشور-اروپایی-هزاران-نفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آمریکا-چهار-ایرانی-از-جمله-برادر-رییس-فدراسیون-فوتبال-و/</loc>
+    <loc>https://recart.ir/news/آمریکا-چهار-ایرانی-از-جمله-برادر-رییس-فدراسیون-فوتبال-و-264961/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -322,6 +327,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اتحادیه-اروپا-و-بریتانیا-جمهوری-اسلامی-باید-حملات-ترکیبی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-fcc-اعلام-کرد-کالیفرنیا-مجاز-به-اجرای-قوانین-خدمات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -717,16 +727,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-جمعه-سیاه-skims-دارای-30-تخفیف-در-سراسر-سایت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-کدهای-کوپن-madewell-در-نوامبر-2026-40-تخفیف-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-جمعه-سیاه-ugg-با-30-تخفیف-برای-classic-micro/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>

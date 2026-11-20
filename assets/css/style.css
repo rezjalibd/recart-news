@@ -667,6 +667,7 @@ button {
 .indicator-tech { background: var(--brand-cyan); }
 .indicator-economy { background: var(--brand-gold); }
 .indicator-iran { background: var(--brand-crimson); }
+.indicator-world { background: var(--brand-purple); }
 .indicator-media { background: var(--brand-emerald); }
 
 .section-title {
