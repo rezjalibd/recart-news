@@ -441,6 +441,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یوتیوب-می-تواند-3-میلیارد-دلار-برای-حل-و-فصل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چگونه-یک-دامپزشک-ارتش-یک-شلوغی-جانبی-را-به-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیا-آنتروپیک-واقعا-1-3-تریلیون-دلار-ارزش-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تاکسی-های-رباتیک-در-گوانگ-ژو-و-پهپادهای-پزشکی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-نباید-برای-ذخیره-خودکار-به-gta-6-وابسته-باشید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-ترفند-سفر-سریع-gta-6-قیمتی-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بایرن-مونیخ-۱-۱-کلن-بدترین-خبر-برای-کمپانی-مصدومیت-همزمان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تمام-ارتباطات-هایمیچ-و-کتنیس-در-بازی-های-گرسنگی-طلوع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دفاع-دیوید-فینچر-از-استفاده-از-هوش-مصنوعی-در-میان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-پی-جی-برن-ستاره-راکی-را-بازی-می-کنم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تخفیف-جمعه-سیاه-اپل-تی-وی-در-اینجا-نحوه-صرفه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رتبه-بندی-تلویزیون-امتیاز-جوایز-cma-در-هفت-سال-گذشته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رمی-وولف-اولین-بیلبورد-شماره-1-را-به-عنوان-بطری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
