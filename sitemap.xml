@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عراقچی-تغییر-دکترین-هسته-ای-را-رد-کرد-انتقال-اورانیوم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/۲۶-روز-بلاتکلیفی-نعمت-افشار-آسیب-دیده-چشمی-اعتراضات-۱۴۰۱/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تهدید-دانشجویان-تربیت-مدرس-به-برخورد-انضباطی-در-پی-اعتراض/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دادستان-اشنویه-از-بازداشت-۶-نفر-در-پرونده-تعرض-گروهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -631,6 +631,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/معجزه-gta-6-برای-مایکروسافت-فروش-کنسول-های-ایکس-باکس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تصمیم-جدید-برای-خریداران-خودرو-صفر-شیوه-و-زمان-پرداخت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/متا-هدف-خالص-صفر-2030-را-در-میان-انتشار-رکورد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خودروهای-روح-زده-در-چین-ماشین-هایی-که-نیمه-شب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
