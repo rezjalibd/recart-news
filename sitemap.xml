@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/غریب-آبادی-از-رایزنی-دو-ساعته-با-هیات-قطری-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ادامه-موج-بازداشت-ها-در-آبدانان-سه-شهروند-دیگر-نیز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بیش-از-۲۰۰سینماگر-و-نهاد-سینمایی-خواستار-لغو-احکام-جعفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آبدانان-اولین-اعتراض-بعد-از-جنگ-چهل-روزه-چطور-آغاز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -416,6 +416,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اولین-قاب-عکس-دیجیتال-آمازون-برای-جمعه-سیاه-تا-50/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یک-کارآفرین-در-حال-تبدیل-یک-سیلو-هسته-ای-دوران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/horizon-city-estates-رویای-آمریکایی-را-نوید-داد-با-گذشت/</loc>
+    <loc>https://recart.ir/news/آیا-فروش-نسخه-هوش-مصنوعی-چهره-شما-به-این-استارتاپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,12 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هیوندای-النترا-۲۰۲۷-معرفی-شد-بزرگ-تر-قدرتمندتر-و-کم/</loc>
+    <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <loc>https://recart.ir/news/لیز-دالی-برن-مدل-و-همسر-جری-برن-نایب-رئیس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-007-رابرت-پتینسون-در-گفتگوها-برای-فیلمبرداری-در-pinewood/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایکل-جکسون-بیوگرافی-مایکل-در-حال-رد-شدن-از-بفتا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
