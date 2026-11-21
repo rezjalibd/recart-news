@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شادی-خیری-دانشجوی-۲۲ساله-در-خوابگاه-دخترانه-طرشت-جان-باخت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فولاد-۲-۲-سپاهان-بازگشت-نویدکیا-به-صدر-جدول-با-کام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زن-کشی-در-سایه-سنت-گفت-وگوی-رییس-انجمن-جامعه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/۲۶-روز-بلاتکلیفی-نعمت-افشار-آسیب-دیده-چشمی-اعتراضات-۱۴۰۱/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-سنتکام-درباره-استفاده-از-زور-علیه-نفتکش-های-ناقض/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایران-اورانیوم-غنی-شده-از-کشور-خارج-نمی-شود-عراقچی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -416,6 +416,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/36-درصد-از-خانوارها-اخیرا-اشتراک-سرویس-استریم-را-کنار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ماک-اند-پنیر-شبانه-اینا-گارتن-را-امتحان-کردم-بسیار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -447,6 +452,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تیسان-g700-در-برابر-لئوپارد-۷-ام-هیرو-و-تویوتا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/باکس-آفیس-بازی-های-گرسنگی-طلوع-آفتاب-در-درو-جمعه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,12 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جستجو-برای-پرواز-به-میامی-افزایش-یافته-است-زیرا-مسافران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروشندگان-ebay-با-خرید-هودی-های-1800-دلاری-و-کیف/</loc>
+    <loc>https://recart.ir/news/سخنرانی-رپر-گروه-زدبازی-در-پارک-علم-و-فناوری-دانشگاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مزایا-و-معایب-استفاده-از-یک-گوشی-احمقانه-بر-روی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-از-دفترچه-یادداشت-gemini-برای-تبدیل-تحقیقات-خود-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
