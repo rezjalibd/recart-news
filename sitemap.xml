@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بحرین-از-حمله-ایران-به-یک-تاسیسات-صنعتی-غیرنظامی-خبر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مسمومیت-الکلی-در-نیشابور-۳-کشته-برجای-گذاشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عراقچی-استدلال-موافقان-تغییر-دکترین-هسته-ای-ایران-منطق-قوی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سخنگوی-وزارت-کشور-دولت-موانع-صدور-گواهینامه-موتورسیکلت-زنان-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-به-راحتی-fitbit-خود-را-به-تنظیمات-کارخانه-بازنشانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آخرین-نسخه-siri-remote-اپل-چه-چیز-جدیدی-دارد-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یکی-از-بهترین-ویژگی-های-apple-homeview-این-است-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سخنرانی-رپر-گروه-زدبازی-در-پارک-علم-و-فناوری-دانشگاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
