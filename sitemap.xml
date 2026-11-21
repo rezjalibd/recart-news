@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ادامه-میانجی-گری-برای-صلح-ترامپ-ایران-به-دنبال-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ناوهای-هواپیمابر-آمریکا-چه-ظرفیت-هایی-ایجاد-می-کنند-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ما-بچه-های-4-و-6-ساله-مان-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آیا-طرح-مدیریت-خرید-نان-سفره-مردم-را-کوچک-تر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -462,6 +462,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-تفنگ-های-کهنه-در-کنار-سلاح-های-چاپ-سه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سهام-آنتروپیک-یک-روز-پس-از-عرضه-اولیه-با-ریزش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بخش-فروش-alo-تا-30-تخفیف-قبل-از-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گفت-وگوها-برای-تدوین-مقررات-ربات-های-قاتل-تا-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -627,6 +627,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/درخواست-ترامپ-از-هیئت-مدیره-انویدیا-به-جنسن-هوانگ-شانس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/محقق-آنتروپیک-مدعی-حل-یکی-از-مهم-ترین-مسائل-ریاضی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رویکرد-جدید-مدل-های-هوش-مصنوعی-از-لحاظ-فیزیکی-سازگار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-14-ویژگی-جدید-به-ios-27-3-می-آیند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محقق-2-میلیون-قناری-در-زنجیره-تامین-هوش-مصنوعی-کاشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
