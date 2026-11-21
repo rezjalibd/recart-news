@@ -476,6 +476,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یکی-از-بنیانگذاران-scale-ai-می-گوید-که-برای-حمایت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-جمعه-سیاه-bombas-در-حال-حاضر-با-25-تخفیف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/افزایش-۷۴۲-میلیون-تومانی-قیمت-کیا-اسپورتیج-نیوفیس-فروش-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اختصاص-طلا-به-۳۵۹-هزار-کاربر-میلی-در-پی-تاخیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برترین-گیمرهای-تورنمنت-fc27-همراه-اول-معرفی-شدند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/کارمند-anthropic-می-گوید-با-کمک-هوش-مصنوعی-مسئله-۱۶۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-یک-فارغ-التحصیل-نسل-اول-دانشگاه-هستم-که-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-یک-کلیک-به-شخصیت-gta-6-تبدیل-شوید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-کلاد-فرضیه-ریمان-مشهورترین-مسئله-تاریخ-ریاضی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
