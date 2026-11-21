@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گرسنگی-محرومیت-از-درمان-و-شکنجه-زندانیان-در-زندان-وکیل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سنتکام-محاصره-دریایی-ایران-وارد-صدوسی-امین-روز-متوالی-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سایت-هرانا-شمیم-اتحادی-شهروند-بهائی-ساکن-یزد-بازداشت-شده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-مجتبی-خامنه-ای-تا-مستر-اکسپلوسیو-فهرست-۵۰۰-مسلمان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آلاسکا-فرماندار-بعدی-شما-یک-ادم-ویکی-پدیا-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/واقعا-آن-برنامه-های-فلز-یاب-برای-تلفن-شما-چگونه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-ساعت-هوشمند-خوش-ساخت-حاشیه-سرامیکی-دارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-آنتروپیک-می-تواند-ایمنی-را-در-اولویت-قرار-دهد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-پاور-بانک-ها-2026-انتخاب-های-من-پس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-کاوشگر-فضایی-به-سیارک-ها-بازمی-گردد-که-ناسا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مرکز-ملی-فضای-مجازی-از-نخبگان-برای-اعلام-نظر-درباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مانیتور-۲۷-اینچی-tcl-با-وضوح-qhd-و-نرخ-نوسازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
