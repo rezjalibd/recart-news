@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مادرم-می-داند-پدرم-نه-زندگی-پنهانی-زنان-جوان-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قهرمانی-نماینده-ایران-در-اسنوکر-قره-گوزلو-با-شکست-حریف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عبدالله-مهتدی-خشونت-علیه-زنان-و-کودکان-در-خاستگاه-جنبش/</loc>
+    <loc>https://recart.ir/news/حمله-روسیه-با-موشک-بالستیک-به-زادگاه-زلنسکی-در-اوکراین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/درباره-مراکز-بازگشت-رواندا-چه-می-دانیم-و-تا-چه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نامزد-پنهان-یا-ناجی-اردوگاه-میانه-اما-و-اگرهای-ورود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/etsy-می-گوید-از-محتوای-فروشندگان-برای-آموزش-هوش-مصنوعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ذخیره-سازی-داده-ها-در-اوایل-دهه-2000-در-مقایسه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-تخفیف-های-عمیق-روی-ایرپادهای-استفاده-شده-اپل-ارزشش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تقویم-رومیزی-برای-میز-کار-۷-نکته-پیش-از-سفارش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کمیسیون-بورس-آمریکا-درباره-مشکلات-احتمالی-در-حسابداری-انویدیا-تحقیق/</loc>
+    <loc>https://recart.ir/news/جیسون-اسکات-و-گرمای-بالا-به-گروه-موسیقی-آمریکاییانا-نیاز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/زمان-واقعی-بیل-ماهر-به-شوخی-gta-vi-باعث-غیبت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مردی-به-دلیل-شعله-ور-شدن-آتشی-که-به-آتش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
