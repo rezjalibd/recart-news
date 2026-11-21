@@ -601,6 +601,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قطعی-های-فنی-تنها-شروع-است-a-i-اختلالات-بیشتری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دو-گروه-ادعای-ریاضیدان-را-تأیید-می-کنند-که-کلود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-یک-دستگاه-را-از-شبکه-خانگی-خود-مسدود-کنیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سازمان-ملل-در-مورد-قوانین-مربوط-به-ربات-های-قاتل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جایی-که-می-توانید-gpu-را-در-رایانه-شخصی-ویندوز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-برای-تنظیم-قطب-نمای-گوشی-باید-عدد-۸-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-فروش-نسخه-هوش-مصنوعی-چهره-شما-به-این-استارتاپ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جان-رابرتز-صداپیشه-لیندا-بلچر-از-به-پایان-رساندن-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
