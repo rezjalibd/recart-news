@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ثبت-بیش-از-۱۱-هزار-مورد-کودک-آزاری-در-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تنگه-هرمز-شنای-یک-ورزشکار-در-منطقه-جنگی-برای-هشدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هزاران-کامیون-ایرانی-در-مرز-قزاقستان-و-ازبکستان-گرفتار-ترافیک/</loc>
+    <loc>https://recart.ir/news/جوانان-اروپایی-بار-دیگر-خیابان-ها-را-تصرف-کردند-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مطالبه-صریح-زلنسکی-از-آمریکا-و-اروپا-درباره-تضمین-امنیتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ائتلاف-جنجالی-چپ-های-افراطی-و-اسلام-گرایان-در-آلمان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
