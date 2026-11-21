@@ -621,6 +621,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/وان-پلاس-گوشی-قدرتمندی-با-نمایشگر-غول-پیکر-۲۴۰-هرتز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/استارت-آپ-از-اپل-در-هند-به-خاطر-ویژگی-تماس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سیستم-خاموش-کردن-نیسان-برای-تعمیرات-پس-از-تلاش-هک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/باشگاه-بایرن-مونیخ-هری-کین-به-دلیل-پارگی-رباط-مچ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -847,6 +847,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تمام-ارتباطات-هایمیچ-و-کتنیس-در-بازی-های-گرسنگی-طلوع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زمان-واقعی-بیل-ماهر-به-شوخی-gta-vi-باعث-غیبت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بسام-طارق-در-مورد-خروج-از-بلید-مارول-زندگی-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارکنان-cbs-news-پیشنهادات-خرید-را-می-پذیرند-زیرا-skydance/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
