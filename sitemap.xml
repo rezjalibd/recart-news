@@ -601,6 +601,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جان-رابرتز-صداپیشه-لیندا-بلچر-از-به-پایان-رساندن-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راه-هایی-که-می-توانید-به-عمر-باتری-fitbit-خود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مزایا-و-معایب-استفاده-از-vpn-روی-dns-رمزگذاری-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آنچه-که-متحدان-جنسن-هوانگ-می-گویند-از-زمان-استعفا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هیوندای-النترا-۲۰۲۷-معرفی-شد-بزرگ-تر-قدرتمندتر-و-کم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جای-کمی-برای-خطا-آنچه-یک-شرکت-محاسبات-ابری-پر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خلاصه-بررسی-engadget-apple-homeview-ray-ban-meta-gen-3-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-می-توان-بدون-امواج-رادیویی-پیام-فرستاد-پاسخ-پژوهشگران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
