@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/زن-کشی-در-سایه-سنت-گفت-وگوی-رییس-انجمن-جامعه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/غریب-آبادی-از-رایزنی-دو-ساعته-با-هیات-قطری-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایران-اورانیوم-غنی-شده-از-کشور-خارج-نمی-شود-عراقچی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیش-از-۲۰۰سینماگر-و-نهاد-سینمایی-خواستار-لغو-احکام-جعفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -416,6 +416,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ماک-اند-پنیر-شبانه-اینا-گارتن-را-امتحان-کردم-بسیار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اولین-قاب-عکس-دیجیتال-آمازون-برای-جمعه-سیاه-تا-50/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -442,6 +447,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تیسان-g700-در-برابر-لئوپارد-۷-ام-هیرو-و-تویوتا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/hunger-games-sunrise-on-the-reaping-امتیاز-بازی-lionsgate-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,12 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-فروشگاه-ev-در-حال-تبدیل-مدل-3s-به-مینی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-به-خانواده-ها-کمک-می-کنم-تا-از-والدین/</loc>
+    <loc>https://recart.ir/news/دلایل-رایج-خاموش-شدن-تصادفی-آیفون-شما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,12 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قطعی-ها-تازه-شروع-شده-اند/</loc>
+    <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <loc>https://recart.ir/news/پرسی-جکسون-چگونه-تلاش-برای-نجات-آنابث-باعث-می-شود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ماریون-کوتیار-پیش-از-تماشا-می-گوید-من-اینجا-نیستم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استیون-پل-مشاور-ترامپ-امیدوار-است-اعتبار-مالیاتی-ایالات-متحده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
