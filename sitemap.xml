@@ -306,6 +306,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کیتلان-کالینز-خاطرنشان-می-کند-که-غیبت-زمان-واقعی-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مسابقات-قهرمانی-nwsl-را-کجا-تماشا-کنیم-واشنگتن-اسپریت-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/روایت-های-متفاوت-از-انفجار-در-قشم-آتش-سوزی-نفتکشی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بسنت-آمریکا-چین-و-روسیه-در-مورد-عدم-دستیابی-جمهوری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آمازون-از-شورای-نیویورک-در-مورد-برچسب-های-حمل-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گزارش-شده-است-که-fbi-و-usda-در-حملات-سایبری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ابزار-رایگان-raspberry-pi-که-باید-از-آن-برای-دسترسی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کابل-های-فیبر-نوری-قبل-از-از-دست-دادن-سیگنال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترمز-احیاکننده-در-خودروهای-برقی-چیست-و-چگونه-باعث-افزایش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نحوه-تنظیم-صدای-فراگیر-با-apple-tv-4k-و-homepods/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/5-کار-هوشمندانه-که-هنوز-هم-می-توانید-با-پخش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جنجال-اظهارات-مدیران-بایرن-مونیخ-درباره-وضعیت-سلامتی-جمال-موسیالا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوریلاز-chvrches-یونگ-لین-و-موارد-دیگر-5-بهترین-لحظه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نام-های-تئاتر-مرکز-لینکلن-نائومی-واینستاک-مدیر-اجرایی-جدید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/علت-رسمی-مرگ-آنتونی-کلارک-فاش-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
