@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پزشکیان-درباره-کمبود-انرژی-انتظار-این-است-که-در-زمستان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عراقچی-تغییر-دکترین-هسته-ای-را-رد-کرد-انتقال-اورانیوم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -196,6 +201,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خاموشی-های-تهران-از-امروز-آغاز-می-شود-آخرین-توضیح/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/fcc-به-کالیفرنیا-دستور-می-دهد-تا-اجرای-قوانین-خدمات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مظنون-آتش-سوزی-در-palisades-محکوم-به-۴۰-سال-زندان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تهدید-دانشجویان-تربیت-مدرس-به-برخورد-انضباطی-در-پی-اعتراض/</loc>
+    <loc>https://recart.ir/news/ترامپ-اگر-ایران-به-دنبال-ساخت-بمب-کثیف-باشد-آمریکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ملانیا-ترامپ-ابراز-محبت-عمومی-با-دونالد-ترامپ-به-سبک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/سخنگوی-صنعت-آرد-و-نان-حدود-۲۹۰-هزار-کد-ملی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -467,6 +467,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-تفنگ-های-کهنه-در-کنار-سلاح-های-چاپ-سه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اختصاص-طلا-به-۳۵۹-هزار-کاربر-میلی-در-پی-تاخیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برترین-گیمرهای-تورنمنت-fc27-همراه-اول-معرفی-شدند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مکان-تماشای-yellowjackets-stream-فصل-چهارم-و-آخر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-بلک-فرایدی-در-قهوه-ساز-و-دستگاه-اسپرسوساز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گفت-وگوها-برای-تدوین-مقررات-ربات-های-قاتل-تا-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -627,6 +627,41 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایکروسافت-اپلیکیشن-مدیریت-وظایف-to-do-را-بازنشسته-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مردودی-۶-خودروی-داخلی-در-آزمون-های-ایمنی-نام-خودروها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-بخاری-برقی-کم-مصرف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اولین-گوشی-زیربرند-جدید-هواوی-معرفی-شد-osta-o1-pro/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پول-نقد-از-خریداران-خودرو-چک-هشت-ماهه-برای-مراکز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بیمار-معلول-با-ایمپلنت-مغزی-نورالینک-توانست-gta-vi-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تخفیفم-ن-اسنپ-پی-قیمتهارو-شکست-میده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -752,41 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پلیس-در-حال-هل-دادن-بسیار-ناخوشایند-grand-theft-auto/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایلان-ماسک-ربات-انسان-نمای-ما-تا-۱۸-ماه-دیگر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-تلفن-جمعه-سیاه-شامل-تا-400-دلار-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوگل-صفحه-اصلی-جستجوی-جدیدی-را-با-سابقه-چت-هوش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگران-آرشیو-اینترنت-در-حال-تشکیل-اتحادیه-هستند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آخرین-طراحی-مجدد-صفحه-جستجوی-گوگل-دکمه-جستجو-را-حذف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نحوه-استریم-gta-6-بر-روی-iphone-ipad-یا-mac/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/متا-هدف-خالص-صفر-2030-را-در-میان-انتشار-رکورد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
