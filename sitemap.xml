@@ -231,6 +231,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مذاکرات-بین-المللی-سازمان-ملل-در-مورد-کنترل-استفاده-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-4-بار-پاس-قطار-آمتراک-آمریکا-را-خریده-ام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اکسیوس-با-وجود-تلاش-های-قطر-مذاکرات-تهران-و-واشینگتن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-ایران-خواهان-توافق-است-اما-شرایطش-را-نمی-پذیرم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ریاضیدان-انسان-شناسی-ادعا-می-کند-که-از-کلود-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یافته-غیرمنتظره-شکم-شش-تکه-لزوما-مانع-کمردرد-نمی-شود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اشتباهی-که-از-یک-جایزه-بزرگ-تر-شد-پوانکاره-چگونه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فردا-قرعه-کشی-فرمان-طلایی-طلاین-برگزار-می-شود-لحظه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دلایل-رایج-خاموش-شدن-تصادفی-آیفون-شما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -767,26 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چگونه-از-دفترچه-یادداشت-gemini-برای-تبدیل-تحقیقات-خود-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رقیب-تازه-گلکسی-زد-فلیپ-سامسونگ-نخستین-نشانه-های-ریزر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-نوشابه-شیشه-ای-خوشمزه-تر-از-نوشابه-قوطی-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شیائومی-18-پرو-ثابت-می-کند-که-دو-صفحه-نمایش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازی-سال-بالاخره-رسید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
