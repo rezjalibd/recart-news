@@ -416,6 +416,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یک-شکارچی-میلیاردر-فرانسوی-پس-از-شکست-مالیاتی-کالیفرنیا-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنچه-افراد-باهوش-در-مورد-فروش-بازار-از-طریق-فناوری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بعضی-از-دوستی-های-من-بعد-از-اینکه-مامان-شدم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,12 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نخستین-متروباس-های-برقی-۲۶-متری-از-گمرک-ترخیص-شدند/</loc>
+    <loc>https://recart.ir/news/homeview-در-مقابل-echo-show-تفاوت-بین-نمایشگرهای-هوشمند-اپل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/وارن-بافت-در-حال-پایان-دادن-به-کار-خود-در/</loc>
+    <loc>https://recart.ir/news/درآمد-بیشتر-یا-واگذاری-اختیار-محتوا-پشت-پرده-همکاری-تازه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برایان-لورد-از-caa-از-کنگره-می-خواهد-که-قانون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آنچه-چین-از-هانی-پات-های-هوش-مصنوعی-و-تراشه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-تخفیف-های-عمیق-روی-ایرپادهای-استفاده-شده-اپل-ارزشش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
