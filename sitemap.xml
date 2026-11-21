@@ -851,6 +851,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هرآنچه-درباره-فصل-دوم-محقق-بی-گناه-باید-بدانید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آلبوم-the-hunger-games-sunrise-on-the-reaping-دارای-29/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سازندگان-جلیقه-زردها-درباره-بستن-داستان-بقا-کشتن-شخصیت-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایکل-برای-جوایز-بافتا-ارسال-نمی-شود-زیرا-فیلمسازان-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
