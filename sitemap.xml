@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-بسیاری-از-کیس-های-کامپیوترهای-رومیزی-دارای-دیوارهای-شیشه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مالکیت-شخصی-ویلا-بهره-برداری-هتلی-دنسه-از-پروژه-کاندوتل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/خداحافظی-با-چین-خوردگی-نمایشگر-تاشو-tcl-از-پنل-جدیدی/</loc>
+    <loc>https://recart.ir/news/grand-theft-auto-vi-the-album-در-همه-جا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/علت-مرگ-پاتریک-استوارت-فاش-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زمان-واقعی-بیل-ماهر-به-شوخی-gta-vi-باعث-غیبت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
