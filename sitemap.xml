@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/موافقت-مشروط-کمیسیون-اروپا-با-پرداخت-۱۰-میلیارد-یورو-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اعتراضات-معیشتی-در-بیش-از-۲۵-کشور-اروپایی-هزاران-نفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آنچه-ذهن-های-برتر-بازارها-در-مورد-گرانفروشی-از-طریق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-اوایل-جمعه-سیاه-north-face-دارای-مانتوهای-زمستانی-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
