@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/۲۶-روز-بلاتکلیفی-نعمت-افشار-آسیب-دیده-چشمی-اعتراضات-۱۴۰۱/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هشدار-سنتکام-درباره-استفاده-از-زور-علیه-نفتکش-های-ناقض/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دادستان-اشنویه-از-بازداشت-۶-نفر-در-پرونده-تعرض-گروهی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازداشت-شش-متهم-خشونت-جنسی-علیه-زن-دارای-معلولیت-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شجاعی-استقلال-در-ایجاد-رشته-های-جدید-جوگیر-شد-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/باشگاه-بایرن-مونیخ-هری-کین-به-دلیل-پارگی-رباط-مچ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چگونه-می-توان-در-ایجاد-تفاوت-به-عنوان-قوانین-مالیاتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لورن-نوستادتر-در-حال-خروج-از-hello-sunshine-ریس-ویترسپون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
