@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حمله-به-کشتی-باری-عازم-روسیه-در-خلیج-فنلاند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بریتانیا-و-هلند-بر-ضرورت-فشار-بر-روسیه-برای-کشاندن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ویدئو-دستگیری-چاپو-ایسیدرو-سردسته-تحت-تعقیب-اف-بی-آی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ادامه-میانجی-گری-برای-صلح-ترامپ-ایران-به-دنبال-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ناوهای-هواپیمابر-آمریکا-چه-ظرفیت-هایی-ایجاد-می-کنند-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روایت-های-متفاوت-از-انفجار-در-قشم-آتش-سوزی-نفتکشی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
