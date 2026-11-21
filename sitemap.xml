@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-موشک-های-صورتی-تا-زنان-مسلسل-به-دست-چهره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پروانه-خبرنگاری-با-تایید-نهادهای-امنیتی-طرح-تازه-مجلس-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حتی-خانه-هم-امن-نبود-پرونده-۱۳-سال-تجاوز-به/</loc>
+    <loc>https://recart.ir/news/مدیرعامل-شرکت-توانیر-مشترکان-پرمصرف-ممکن-است-با-قطع-چند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/لیوبلیانا-در-اسلوونی-و-کالویای-مایورکا-به-عنوان-پایتخت-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجله-خبری-۳۰-آبان-۱۴۰۵-۲۱-نوامبر-۲۰۲۶---نیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -472,6 +472,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-تفنگ-های-کهنه-در-کنار-سلاح-های-چاپ-سه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هاربینجر-در-حال-ساخت-خودروهای-الکتریکی-غیرجنسی-است-که-اقتصاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دیجی-کالا-به-استقبال-بلک-فرایدی-رفت-امسال-چه-تفاوتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/کارمند-anthropic-می-گوید-با-کمک-هوش-مصنوعی-مسئله-۱۶۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-۴-محصول-را-نخرید-سازمان-غذا-و-دارو-دستور/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/توصیه-های-ارتباط-نماگستر-برای-مدیریت-هزینه-اجرای-پسیو-شبکه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بازی-gta-6-کابوس-مربیان-فوتبال-از-تهدید-دزربی-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -861,6 +861,46 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-اینجا-نحوه-تماشای-ufc-fight-night-procházka-vs-stirling/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مستند-شفا-کیت-میدلتون-در-bbc-و-nbc-ویژه-درباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/محمد-منیر-ستاره-موسیقی-مصری-فیلم-زندگینامه-ای-می-گیرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تایم-حسن-ستاره-الحیبه-در-فیلم-زندگی-نامه-سزار-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مستند-خیریه-سرطان-ان-بی-سی-به-ایر-شاهزاده-ولز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مستند-سرطان-پرنسس-کیت-شفا-تاریخ-های-پخش-بین-المللی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگردان-دختر-شما-درباره-پیوند-با-مادر-ماریان-خوری-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جولی-برتوچلی-کارگردان-درخت-به-iffi-می-گوید-که-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کمیته-فیلم-قطر-و-هندوانه-پیکچرز-با-همکاری-یکدیگر-مجموعه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -887,11 +927,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-007-رابرت-پتینسون-در-گفتگوها-برای-فیلمبرداری-در-pinewood/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تایم-حسن-ستاره-الحیبه-در-فیلم-زندگی-نامه-سزار-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -942,41 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آلبوم-the-hunger-games-sunrise-on-the-reaping-دارای-29/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیکیل-ماهاجان-کارگردان-گوداوری-با-پروژه-بازار-فیلم-waves-mangoose/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جوایز-cma-2026-به-بالاترین-رتبه-بندی-7-ساله-رسید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ملانی-لینسکی-و-کریستینا-ریچی-ستاره-های-jellowjackets-در-فیلم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تحت-فشار-اعضای-مبارز-sag-aftra-قول-داد-که-از-مراقبت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-bad-bunny-گرفته-تا-sexyy-red-در-اینجا-همه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیک-کانن-در-میان-نبرد-لوپوس-در-بیمارستان-بستری-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کایلی-کنترال-درباره-موسیقی-جدید-جسور-بزرگ-و-کثیف-صحبت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
