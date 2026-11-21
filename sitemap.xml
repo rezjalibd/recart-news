@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قهرمانی-نماینده-ایران-در-اسنوکر-قره-گوزلو-با-شکست-حریف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ای-بی-سی-نیوز-حملات-به-کشتی-ها-در-تنگه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اعتراض-در-مورموری-آبدانان-معترضان-شعار-مرگ-بر-دیکتاتور-سر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-محاصره-دریایی-می-تواند-به-مقاومت-جمهوری-اسلامی-پایان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -641,6 +641,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-تخفیف-های-عمیق-روی-ایرپادهای-استفاده-شده-اپل-ارزشش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آمازون-هکرها-با-ایجنت-های-هوش-مصنوعی-یک-آسیب-پذیری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/انویدیا-با-استقرار-vera-rubin-در-آژور-و-عرضه-مدل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رافائل-نادال-اسطوره-تنیس-به-جمع-مدیران-رئال-مادرید-پیوست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -886,6 +886,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مستند-شاهزاده-خانم-ولز-heal-در-bbc-nbc-ویژه-درباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کیلیان-امباپه-تقلید-کننده-فهرست-رنگارنگ-دوبل-ها-در-مستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عاشقانه-های-صمیمی-در-نتفلیکس-در-حال-افزایش-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گیریش-کاساروالی-نویسنده-هندی-به-50-سال-سینما-در-مسترکلاس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
