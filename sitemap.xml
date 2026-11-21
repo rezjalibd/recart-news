@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کاهش-ذخایر-گازوئیل-در-جنگ-هشدار-درباره-قطع-چند-هفته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ثبت-بیش-از-۱۱-هزار-مورد-کودک-آزاری-در-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اعلام-خاموشی-دوساعته-در-تهران-مقام-ها-بار-کمبود-انرژی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مردم-شهر-مورموری-در-استان-ایلام-برای-اعتراض-به-خیابان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -486,6 +486,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تفاوت-واقعی-بین-سیستم-های-صوتی-ارزان-و-گران-قیمت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-واکمن-های-دیجیتالی-جدید-سونی-هزاران-دلار-قیمت-دارند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-نگران-بودم-که-پسرم-پس-از-نقل-مکان-ما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروشندگان-ebay-با-خرید-هودی-های-1800-دلاری-و-کیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-فروشگاه-ev-در-حال-تبدیل-مدل-3s-به-مینی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-به-خانواده-ها-کمک-می-کنم-تا-از-والدین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -881,6 +881,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ادوین-کارگردان-انتقام-مال-من-است-بازیگران-dancing-with-my/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کارگردان-فریمن-کور-درباره-رد-کلیشه-های-غربی-نمی-خواهم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-جیمز-باند-رابرت-پتینسون-به-نام-حرف-زدن-درباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/موسیقی-بتن-لکه-های-پلنگ-در-میان-برندگان-جایزه-رویداد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
