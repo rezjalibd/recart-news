@@ -441,6 +441,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خودروهای-تویوتا-به-استقبال-باتری-حالت-جامد-می-روند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/102-بهترین-پیشنهاد-جمعه-سیاه-که-اکنون-می-خریم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-اوایل-جمعه-سیاه-north-face-دارای-مانتوهای-زمستانی-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-grand-theft-auto-6-در-یک-روز-به-3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -851,6 +851,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نیکیل-ماهاجان-کارگردان-گوداوری-با-پروژه-بازار-فیلم-waves-mangoose/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جوایز-cma-2026-به-بالاترین-رتبه-بندی-7-ساله-رسید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/bts-و-enhypen-برندگان-بزرگ-در-شب-اول-جوایز-mama/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگردان-تنها-در-خانه-کریس-کلمبوس-دقایقی-قبل-از-اعلام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
