@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خوابیدن-با-کاپشن-و-خاموش-کردن-چراغ-ها-واکنش-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وزارت-کشور-بحرین-یک-تاسیسات-غیرنظامی-هدف-حمله-ایران-قرار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -121,6 +126,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-فردا-منتظر-خاموشی-برق-باشید-توانیر-از-قطعی-برق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قهرمانی-نماینده-ایران-در-اسنوکر-قره-گوزلو-با-شکست-حریف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آخرین-ساعات-زندگی-سوگند-صیادی-ضرب-وشتم-در-مدرسه-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بسنت-فشارهای-آمریکا-جمهوری-اسلامی-را-به-میز-مذاکره-بازمی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرستو-فروهر-دستگاه-امنیتی-برای-جلوگیری-از-مراسم-سالگرد-والدینم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شکار-موشک-با-چاپ-استیک-استارشیپ-چطور-قواعد-بازی-فضا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دیسک-ها-در-مقابل-دیسک-ها-تفاوت-چیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اشتباهی-که-از-یک-جایزه-بزرگ-تر-شد-پوانکاره-چگونه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فردا-قرعه-کشی-فرمان-طلایی-طلاین-برگزار-می-شود-لحظه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
