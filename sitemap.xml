@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ساختن-مینی-کامپیوتر-شخصی-خود-سخت-تر-از-آن-چیزی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شش-محصول-و-خدمات-گوگل-در-سال-2026-متوقف-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/homeview-در-مقابل-echo-show-تفاوت-بین-نمایشگرهای-هوشمند-اپل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مورینیو-پس-از-کامبک-رئال-مادرید-این-سه-امتیاز-طلایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لوکا-گوادانینو-می-گوید-فیلم-روانی-آمریکایی-او-به-جلو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گوستاوو-دودامل-دیو-گرول-ال-ال-کول-جی-سینتیا-اریوو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/grand-theft-auto-vi-the-album-در-همه-جا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
