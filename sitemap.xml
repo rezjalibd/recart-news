@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/روایت-های-متفاوت-از-انفجار-در-قشم-آتش-سوزی-نفتکشی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بسنت-آمریکا-چین-و-روسیه-در-مورد-عدم-دستیابی-جمهوری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آلمان-و-اتریش-خواستار-واگذاری-مالکیت-تیک-تاک-به-شرکت/</loc>
+    <loc>https://recart.ir/news/آیا-طرح-مدیریت-خرید-نان-سفره-مردم-را-کوچک-تر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/gta-6-در-روز-اول-3-79-میلیارد-دلار-درآمد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-مزایای-آمازون-پرایم-که-احتمالا-از-آنها-اطلاعی-ندارید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
