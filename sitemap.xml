@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ارتش-ایران-مدعی-آسیب-زدن-به-جنگنده-اف-۱۶-آمریکا-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بحرین-از-حمله-ایران-به-یک-تاسیسات-صنعتی-غیرنظامی-خبر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عراقچی-استدلال-موافقان-تغییر-دکترین-هسته-ای-ایران-منطق-قوی/</loc>
+    <loc>https://recart.ir/news/شوک-نفتی-ناشی-از-جنگ-ایران-بر-مذاکرات-اقلیمی-کاپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-اگر-ایران-به-دنبال-ساخت-بمب-کثیف-باشد-آمریکا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زلنسکی-در-واکنش-به-اظهارات-ترامپ-پوتین-را-دوست-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شش-محصول-و-خدمات-گوگل-در-سال-2026-متوقف-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اینترنت-استارلینک-به-پشت-بام-خانه-ها-می-رود-دکل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-گوشی-شما-حتی-با-سیم-کارت-هم-می-گوید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/homeview-در-مقابل-echo-show-تفاوت-بین-نمایشگرهای-هوشمند-اپل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درآمد-بیشتر-یا-واگذاری-اختیار-محتوا-پشت-پرده-همکاری-تازه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گزارش-شده-است-که-fbi-و-usda-هک-شده-اند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
