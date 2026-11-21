@@ -271,6 +271,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شهرستانی-که-در-مرکز-رونق-مرکز-داده-آمریکا-قرار-دارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آنتونی-آلبانیز-یک-بازی-بزرگ-در-مورد-حاکمیت-صحبت-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پس-از-هشت-سال-سفر-فضاپیمایی-سرانجام-به-عطارد-اسرارآمیز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجله-خبری-۳۰-آبان-۱۴۰۵-۲۱-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -422,6 +422,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-با-5-خواهر-و-برادر-بزرگ-شدم-و-4/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -477,6 +482,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تیسان-g700-در-برابر-لئوپارد-۷-ام-هیرو-و-تویوتا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حداقل-دستمزد-نتفلیکس-آغازگر-دوره-کوتاه-اپیزود-کوتاه-استریمینگ-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مجله-خبری-۳۰-آبان-۱۴۰۵-۲۱-نوامبر-۲۰۲۶---نیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-در-63-سالگی-شغلم-را-رها-کردم-زیرا-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ما-در-نیویورک-و-یک-شهر-کوچکتر-در-شمال-غربی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -811,6 +811,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-تیم-آرایش-السینور-ستاره-های-اندرو-اسکات-و-اولیویا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بزرگ-ترین-نردهای-ساعت-های-هالیوود-به-این-برندهای-مستقل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/میمون-چاق-در-فیلم-بولتریم-در-بازار-فیلم-waves-هند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-برنده-اسکار-فیلم-کمدی-تاریک-استخوان-دماغ-نویسنده-همکار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
