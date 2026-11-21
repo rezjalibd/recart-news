@@ -621,6 +621,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازی-gta-6-رکورد-مصرف-اینترنت-را-در-آمریکا-شکست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قیمت-گوشی-امروز-۳۰-آبان-محصولات-اقتصادی-سامسونگ-گران-تر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ریاضیدان-انسان-شناسی-می-گوید-که-از-هوش-مصنوعی-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-آیفون-در-سال-2026-کدام-گوشی-هوشمند-اپل-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
