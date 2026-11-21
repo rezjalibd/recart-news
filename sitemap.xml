@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اقتصاد-در-آیینه-شبکه-های-اجتماعی-بحران-کار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خبرگزاری-فارس-از-وقوع-انفجار-شدید-در-سیریک-خبر-داد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,11 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عراقچی-اورانیوم-غنی-شده-از-کشور-خارج-نمی-شود-نماینده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پائولو-بولگاری-غول-جواهرسازی-ایتالیایی-در-۸۹-سالگی-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -267,6 +267,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/حمله-روسیه-با-موشک-بالستیک-به-زادگاه-زلنسکی-در-اوکراین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنتونی-آلبانیز-یک-بازی-بزرگ-در-مورد-حاکمیت-صحبت-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پس-از-هشت-سال-سفر-فضاپیمایی-سرانجام-به-عطارد-اسرارآمیز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ملانیا-ترامپ-در-اولین-نمایش-سریال-آمازون-وقتی-از-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شش-پروژه-ساده-raspberry-pi-برای-مبتدیان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-می-گوید-هک-پایگاه-داده-گزارش-شده-fbi-خوب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/5-گجت-دست-دوم-که-هرگز-نباید-خریداری-کنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فلورنتینو-پرز-درباره-بارسلونا-و-پرونده-نگریرا-تا-اجرای-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -807,6 +807,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بزرگ-ترین-نردهای-ساعت-های-هالیوود-به-این-برندهای-مستقل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-برنده-اسکار-فیلم-کمدی-تاریک-استخوان-دماغ-نویسنده-همکار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-مندی-تا-عمر-داوود-۳-بازیگر-ایرانی-تبار-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
