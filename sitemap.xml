@@ -636,6 +636,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ایموجی-های-سه-بعدی-اندروید-فقط-روی-این-گوشی-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-cto-مسافرتی-می-گوید-هوش-مصنوعی-به-تیمش-اجازه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/درخواست-ترامپ-از-هیئت-مدیره-انویدیا-به-جنسن-هوانگ-شانس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محقق-آنتروپیک-مدعی-حل-یکی-از-مهم-ترین-مسائل-ریاضی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
