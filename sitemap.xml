@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عراقچی-استدلال-موافقان-تغییر-دکترین-هسته-ای-ایران-منطق-قوی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آخرین-ساعات-زندگی-سوگند-صیادی-ضرب-وشتم-در-مدرسه-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/احتمال-قطع-کامل-درآمد-نفت-ایران-تندروها-خواستار-شکستن-محاصرۀ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آغاز-دوباره-خاموشی-های-دوساعته-در-تهران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -636,6 +636,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-قفس-یک-هیولا-را-باز-می-کنم-فیلمنامه-نویس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-لپ-تاپ-ها-برای-سفر-2026-کدام-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هکرها-به-اف-بی-آی-و-وزارت-کشاورزی-آمریکا-حمله/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ایموجی-های-سه-بعدی-اندروید-فقط-روی-این-گوشی-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/معجزه-gta-6-برای-مایکروسافت-فروش-کنسول-های-ایکس-باکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تصمیم-جدید-برای-خریداران-خودرو-صفر-شیوه-و-زمان-پرداخت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شاتل-موبایل-جزئیات-تخفیف-های-جشنواره-جمعه-شگفت-انگیز-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درخواست-ترامپ-از-هیئت-مدیره-انویدیا-به-جنسن-هوانگ-شانس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
