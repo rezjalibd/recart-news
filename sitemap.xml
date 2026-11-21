@@ -636,6 +636,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/با-یک-کلیک-به-شخصیت-gta-6-تبدیل-شوید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-کلاد-فرضیه-ریمان-مشهورترین-مسئله-تاریخ-ریاضی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کدهای-تبلیغاتی-therabody-15-تخفیف-در-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کد-کوپن-سخت-افزار-کوهستانی-با-15-تخفیف-در-نوامبر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
