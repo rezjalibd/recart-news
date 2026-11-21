@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دادبان-خطر-اجرای-حکم-اعدام-نوید-نجاران-و-میلاد-آرمون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تسخیر-جهان-با-gta-خامنه-ای-دوم-و-ارتش-آمریکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خاموشی-های-تهران-از-امروز-آغاز-می-شود-آخرین-توضیح/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عراقچی-تغییر-دکترین-هسته-ای-را-رد-کرد-انتقال-اورانیوم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -416,6 +416,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بعضی-از-دوستی-های-من-بعد-از-اینکه-مامان-شدم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/36-درصد-از-خانوارها-اخیرا-اشتراک-سرویس-استریم-را-کنار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عطرهای-400-دلاری-dries-van-noten-آخرین-نماد-وضعیت-هستند/</loc>
+    <loc>https://recart.ir/news/5-کار-هوشمندانه-که-هنوز-هم-می-توانید-با-پخش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بررسی-طرح-موسوم-به-صیانت۳-در-مجلس-از-سر-گرفته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لیست-لوازم-برقی-جهیزیه-عروس-عکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
