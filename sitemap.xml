@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تنگه-هرمز-شنای-یک-ورزشکار-در-منطقه-جنگی-برای-هشدار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پیشنهاد-۲۵-سال-زندان-برای-پدران-فرزندکش-پس-از-مرگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هزاران-کامیون-ایرانی-در-مرز-قزاقستان-و-ازبکستان-گرفتار-ترافیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تاج-آسیا-بر-سر-بانوی-بم-مرضیه-جعفری-بهترین-مربی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شما-ازدواج-کنید-من-پول-می-دهم-روایت-جوانانی-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجله-خبری-۳۰-آبان-۱۴۰۵-۲۱-نوامبر-۲۰۲۶---نیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقاد-مجلس-از-خودروسازان-قیمت-خودروها-۳-برابر-شد-تولید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شرکت-پالایش-و-پخش-فرآورده-های-نفتی-جمع-آوری-کارت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بدون-اشاره-به-یاسر-آسانی-شکایت-الشمال-قطر-در-ای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-مندی-تا-عمر-داوود-۳-بازیگر-ایرانی-تبار-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تمام-ارتباطات-هایمیچ-و-کتنیس-در-بازی-های-گرسنگی-طلوع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/میمون-چاق-در-فیلم-بولتریم-در-بازار-فیلم-waves-هند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/علت-مرگ-پاتریک-استوارت-فاش-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زمان-واقعی-بیل-ماهر-به-شوخی-gta-vi-باعث-غیبت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مردی-به-دلیل-شعله-ور-شدن-آتشی-که-به-آتش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
