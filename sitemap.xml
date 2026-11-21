@@ -856,6 +856,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/موسیقی-بتن-لکه-های-پلنگ-در-میان-برندگان-جایزه-رویداد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/mashd-n-kutcher-remix-rogue-traders-و-dannii-minogue-s/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-بی-زبان-آیس-اسپایس-به-دیدن-مجسمه-مومی-مادام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-می-توان-در-ایجاد-تفاوت-به-عنوان-قوانین-مالیاتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
