@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دیسک-ها-در-مقابل-دیسک-ها-تفاوت-چیست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زنگ-خطر-در-سیاره-سرخ-مریخ-نورد-پرسویرنس-و-مدارگرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دلایل-رایج-خاموش-شدن-تصادفی-آیفون-شما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فلورنتینو-پرز-درباره-بارسلونا-و-پرونده-نگریرا-تا-اجرای-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -807,6 +807,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ست-روگن-می-گوید-برد-پیت-و-بازیگران-12-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ادوین-کارگردان-انتقام-مال-من-است-بازیگران-dancing-with-my/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رافائل-نادال-اسطوره-تنیس-به-جمع-مدیران-رئال-مادرید-پیوست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
