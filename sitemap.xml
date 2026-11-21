@@ -601,6 +601,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کدام-خودرو-بزرگترین-صفحه-نمایش-لمسی-سرگرمی-را-دارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وقتی-رنگ-ها-کنار-می-روند-تماشایی-ترین-تصاویر-جوایز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اختراع-جدید-چری-راز-وانت-دیزلی-برقی-را-فاش-کرد-آفرود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شش-پروژه-ساده-raspberry-pi-برای-مبتدیان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آلاسکا-فرماندار-بعدی-شما-یک-ادم-ویکی-پدیا-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/واقعا-آن-برنامه-های-فلز-یاب-برای-تلفن-شما-چگونه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-ساعت-هوشمند-خوش-ساخت-حاشیه-سرامیکی-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-آنتروپیک-می-تواند-ایمنی-را-در-اولویت-قرار-دهد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
