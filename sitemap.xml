@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سایت-هرانا-شمیم-اتحادی-شهروند-بهائی-ساکن-یزد-بازداشت-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-مجتبی-خامنه-ای-تا-مستر-اکسپلوسیو-فهرست-۵۰۰-مسلمان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کشته-شدن-دومین-کولبر-در-مرز-بانه-طی-یک-هفته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نماینده-مجلس-خواستار-اولتیماتوم-به-آمریکا-و-کشورهای-منطقه-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
