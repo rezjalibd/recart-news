@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جنرال-موتورز-به-دنبال-مدیرعامل-جدید-است-پایان-دوران-۱۲/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رقیب-ارزان-قیمت-برای-خودروهای-گران-شاسی-بلند-جدید-چری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فروش-اطلس-s-سایپا-با-پیش-پرداخت-۵۲۷-میلیون-تومانی/</loc>
+    <loc>https://recart.ir/news/کابل-های-فیبر-نوری-قبل-از-از-دست-دادن-سیگنال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/5-کار-هوشمندانه-که-هنوز-هم-می-توانید-با-پخش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-اینجا-بهترین-عوامل-هوش-مصنوعی-که-می-توانند-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
