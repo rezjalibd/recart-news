@@ -851,6 +851,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/علت-مرگ-پاتریک-استوارت-فاش-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زمان-واقعی-بیل-ماهر-به-شوخی-gta-vi-باعث-غیبت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/در-کانادا-بیلبورد-کانادا-در-سال-2026-زنان-در-موسیقی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بسام-طارق-در-مورد-خروج-از-بلید-مارول-زندگی-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
