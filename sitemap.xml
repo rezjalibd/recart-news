@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/داستان-دو-انویدیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شکار-موشک-با-چاپ-استیک-استارشیپ-چطور-قواعد-بازی-فضا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یافته-غیرمنتظره-شکم-شش-تکه-لزوما-مانع-کمردرد-نمی-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اشتباهی-که-از-یک-جایزه-بزرگ-تر-شد-پوانکاره-چگونه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
