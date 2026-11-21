@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ایران-۱۰---۲-ویتنام-صعود-ساحلی-بازان-با-جشنواره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عراقچی-استدلال-موافقان-تغییر-دکترین-هسته-ای-ایران-منطق-قوی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هم-زمان-با-گمانه-زنی-ها-درباره-شکستن-محاصره-دریایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احتمال-قطع-کامل-درآمد-نفت-ایران-تندروها-خواستار-شکستن-محاصرۀ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -471,6 +471,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نخستین-متروباس-های-برقی-۲۶-متری-از-گمرک-ترخیص-شدند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وارن-بافت-در-حال-پایان-دادن-به-کار-خود-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چگونه-یک-دامپزشک-ارتش-یک-شلوغی-جانبی-را-به-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-یک-نویسنده-معاملات-هستم-و-اینها-10-پیشنهاد-فنی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -856,6 +856,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گیریش-کاساروالی-نویسنده-هندی-به-50-سال-سینما-در-مسترکلاس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ماریون-کوتیار-پیش-از-تماشا-می-گوید-من-اینجا-نیستم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/استیون-پل-مشاور-ترامپ-امیدوار-است-اعتبار-مالیاتی-ایالات-متحده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/e-j-کارول-بازیگر-قانون-و-نظم-gta-5-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ستاره-آرژانتینی-در-حال-ظهور-milo-j-با-caa-امضا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آرون-پیر-ستاره-فانوس-ها-در-آینده-dcu-پس-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
