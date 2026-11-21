@@ -486,6 +486,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-با-زندگی-در-یک-آلونک-در-حیاط-خلوتم-خانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تفاوت-واقعی-بین-سیستم-های-صوتی-ارزان-و-گران-قیمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جستجو-برای-پرواز-به-میامی-افزایش-یافته-است-زیرا-مسافران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروشندگان-ebay-با-خرید-هودی-های-1800-دلاری-و-کیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
