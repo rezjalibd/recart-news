@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-توافق-با-ایران-باید-۲۰-سال-دیگر-هم-دوام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بسته-شدن-مرز-استونی-و-روسیه-ساکنان-برای-عبور-پیش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مکزیک-ال-چاپو-ایسیدرو-قاچاقچی-بزرگ-مواد-مخدر-را-دستگیر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,12 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تاکید-ملانیا-ترامپ-بر-تلاش-های-بشردوستانه-در-اولین-نمایش/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۳۰-آبان-۱۴۰۵-۲۱-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/صدراعظم-آلمان-تنگه-هرمز-باید-به-طور-دائمی-و-امن/</loc>
+    <loc>https://recart.ir/news/وفاداری-به-پارتنر-چرخش-سلطان-بازی-های-خلاف-کاری-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ما-در-نیویورک-و-یک-شهر-کوچکتر-در-شمال-غربی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تیلور-سوئیفت-چقدر-بدهی-مالیاتی-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-شغل-مدیر-میانی-شش-رقمی---بدون-نیاز-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رئال-مادرید-در-رقابت-درآمد-از-بایرن-مونیخ-پیش-افتاد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رئال-مادرید-در-رقابت-درآمدزایی-از-بایرن-مونیخ-پیش-افتاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارگردان-دختر-شما-درباره-پیوند-با-مادر-ماریان-خوری-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جولی-برتوچلی-کارگردان-درخت-به-iffi-می-گوید-که-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
