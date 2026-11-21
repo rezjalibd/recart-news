@@ -641,6 +641,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جای-کمی-برای-خطا-آنچه-یک-شرکت-محاسبات-ابری-پر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خلاصه-بررسی-engadget-apple-homeview-ray-ban-meta-gen-3-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/من-یک-کارمند-سابق-گوگل-هستم-که-یک-مهندس-مستقر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-مدیر-انویدیا-زیر-نظر-جنسن-هوانگ-بودم-او-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
