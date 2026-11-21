@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آبدانان-اولین-اعتراض-بعد-از-جنگ-چهل-روزه-چطور-آغاز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سایت-هرانا-شمیم-اتحادی-شهروند-بهائی-ساکن-یزد-بازداشت-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بلومبرگ-اسرائیل-پس-از-روشن-شدن-شکاف-های-پدافندی-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کشته-شدن-دومین-کولبر-در-مرز-بانه-طی-یک-هفته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -851,6 +851,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فیل-کالینز-می-گوید-که-شر-پس-از-خروج-زودهنگام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/علت-مرگ-پاتریک-استوارت-فاش-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جوایز-cma-با-بازگشت-تیلور-سویفت-به-نمایش-شاهد-افزایش-643776/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-کانادا-بیلبورد-کانادا-در-سال-2026-زنان-در-موسیقی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
