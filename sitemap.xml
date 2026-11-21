@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مالکیت-شخصی-ویلا-بهره-برداری-هتلی-دنسه-از-پروژه-کاندوتل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/etsy-می-گوید-از-محتوای-فروشندگان-برای-آموزش-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خداحافظی-با-چین-خوردگی-نمایشگر-تاشو-tcl-از-پنل-جدیدی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گجت-هوش-مصنوعی-بدون-نمایشگر-ناتینگ-۱۷-آذرماه-معرفی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
