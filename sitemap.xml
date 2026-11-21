@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رقیب-ارزان-قیمت-برای-خودروهای-گران-شاسی-بلند-جدید-چری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قیمت-یک-واکمن-سونی-در-سال-1980-در-مقایسه-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -492,6 +497,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تیسان-g700-در-برابر-لئوپارد-۷-ام-هیرو-و-تویوتا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ران-هاوارد-می-گوید-درخواست-راسل-کرو-برای-فیلمبرداری-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,12 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هاربینجر-در-حال-ساخت-خودروهای-الکتریکی-غیرجنسی-است-که-اقتصاد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بررسی-sony-bravia-9-ii-2026-قابل-تنظیم-و-روشن/</loc>
+    <loc>https://recart.ir/news/سازمان-ملل-در-مورد-قوانین-مربوط-به-ربات-های-قاتل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جان-رابرتز-صداپیشه-لیندا-بلچر-از-به-پایان-رساندن-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/راه-هایی-که-می-توانید-به-عمر-باتری-fitbit-خود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
