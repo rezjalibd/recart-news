@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پائولو-بولگاری-غول-جواهرسازی-ایتالیایی-در-۸۹-سالگی-درگذشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-توافق-با-ایران-باید-۲۰-سال-دیگر-هم-دوام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آلمان-تظاهرات-دانشجویی-در-برلین-علیه-تسلیح-مجدد-و-خدمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-fcc-اعلام-کرد-کالیفرنیا-مجاز-به-اجرای-قوانین-خدمات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-بعضی-آغوش-ها-را-هرگز-فراموش-نمی-کنیم-پژوهش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/راه-اندازی-apple-homeview-به-لطف-آیفون-شما-به-طرز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ذخیره-سازی-داده-ها-در-اوایل-دهه-2000-در-مقایسه/</loc>
+    <loc>https://recart.ir/news/فلورنتینو-پرز-درباره-بارسلونا-و-پرونده-نگریرا-تا-اجرای-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -802,6 +807,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-raising-cane-s-تبدیل-به-یک-آهنربای-a-list-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/استفان-جیمز-در-مورد-احترام-به-میراث-کارل-وترز-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پس-از-ملاقات-در-پشت-صحنه-در-کتاب-مورمون-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مستند-شفا-کیت-میدلتون-در-bbc-و-nbc-ویژه-درباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محمد-منیر-ستاره-موسیقی-مصری-فیلم-زندگینامه-ای-می-گیرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تایم-حسن-ستاره-الحیبه-در-فیلم-زندگی-نامه-سزار-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مستند-خیریه-سرطان-ان-بی-سی-به-ایر-شاهزاده-ولز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مستند-سرطان-پرنسس-کیت-شفا-تاریخ-های-پخش-بین-المللی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
