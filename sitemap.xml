@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مکزیک-ال-چاپو-ایسیدرو-قاچاقچی-بزرگ-مواد-مخدر-را-دستگیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مصدومیت-شدید-دزیره-دوئه-در-بازی-پاری-سن-ژرمن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/صدراعظم-آلمان-تنگه-هرمز-باید-به-طور-دائمی-و-امن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-می-گوید-نمی-توانم-با-او-صحبت-کنم-آیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گزارش-شده-است-که-fbi-و-usda-هک-شده-اند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-یکپارچهسازی-با-سیستمعامل-کلاسیک-بازنشر-شده-ترین-بازی-تمام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عقاب-ها-می-توانند-بابون-های-۲۶-کیلویی-را-شکار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,22 +791,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آمازون-هکرها-با-ایجنت-های-هوش-مصنوعی-یک-آسیب-پذیری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کمیسر-حقوق-بشر-سازمان-ملل-هوش-مصنوعی-به-شیوه-ای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رئال-مادرید-در-رقابت-درآمدزایی-از-بایرن-مونیخ-پیش-افتاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کلر-دینز-با-سریال-درام-جدید-بازمی-گردد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جولی-برتوچلی-کارگردان-درخت-به-iffi-می-گوید-که-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازی-gta-6-کابوس-مربیان-فوتبال-از-تهدید-دزربی-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
