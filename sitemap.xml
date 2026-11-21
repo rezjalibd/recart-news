@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بسنت-فشار-اقتصادی-نتیجه-داده-و-ممکن-است-اعضای-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بسنت-آمریکا-چین-و-روسیه-بر-عدم-دستیابی-جمهوری-اسلامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/fcc-به-کالیفرنیا-دستور-می-دهد-تا-اجرای-قوانین-خدمات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بر-اساس-یافته-های-دیده-بان-پنتاگون-به-جای-پیشی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -631,6 +631,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مجلس-پیشنهاد-داد-سهمیه-سوخت-در-برخی-استان-ها-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مایکروسافت-اپلیکیشن-مدیریت-وظایف-to-do-را-بازنشسته-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-نباید-برای-ذخیره-خودکار-به-gta-6-وابسته-باشید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پلیس-در-حال-هل-دادن-بسیار-ناخوشایند-grand-theft-auto/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
