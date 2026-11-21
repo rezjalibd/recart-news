@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سنتکام-محاصره-دریایی-ایران-وارد-صدوسی-امین-روز-متوالی-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/علی-قره-گوزلو-قهرمان-مسابقات-اسنوکر-جهان-در-هند-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آمریکا-چهار-ایرانی-از-جمله-برادر-رئیس-فدراسیون-فوتبال-را/</loc>
+    <loc>https://recart.ir/news/منچسترسیتی-۱-۱-فولام-اوضاع-سیتی-پس-از-فیفادی-هم-بهتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-ایران-خواهان-توافق-است-اما-شرایطش-را-نمی-پذیرم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنجال-تازه-برای-حزب-مارین-لوپن-تحقیق-قضایی-درباره-افشای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
