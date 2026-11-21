@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-پینگ-شما-وحشتناک-است-با-وجود-اینکه-اینترنت-سریع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آلاسکا-فرماندار-بعدی-شما-یک-ادم-ویکی-پدیا-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-پاور-بانک-ها-2026-انتخاب-های-من-پس-از/</loc>
+    <loc>https://recart.ir/news/گفتگوی-illit-ایجاد-icon-by-stake-با-le-sserafim-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شجاعی-استقلال-در-ایجاد-رشته-های-جدید-جوگیر-شد-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/mashd-n-kutcher-remix-rogue-traders-و-dannii-minogue-s/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
