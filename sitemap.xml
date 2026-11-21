@@ -446,6 +446,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جشن-hunger-games-sunrise-on-the-reaping-با-بیش-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هرگز-پول-قرض-ندهید-مالیات-خود-را-پرداخت-کنید-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-یک-ژنرال-زر-هستم-که-علاقه-ای-به-آماده/</loc>
+    <loc>https://recart.ir/news/waymo-رباتاکسی-را-پس-از-اینکه-در-خطوط-بسته-آزادراه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جایی-که-می-توانید-gpu-را-در-رایانه-شخصی-ویندوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-برای-تنظیم-قطب-نمای-گوشی-باید-عدد-۸-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,22 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/محقق-آنتروپیک-هوش-مصنوعی-می-تواند-تمام-انسان-ها-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/openai-به-دنبال-همکاری-با-فاکسکان-برای-تولید-اولین-گوشی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اینتل-دلیل-شکست-نمونه-های-اولیه-حافظه-ddr5-را-توضیح/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لیندسی-هابارد-اسپین-آف-خانه-تابستانی-فصل-دوم-در-شهر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/استیون-پل-مشاور-ترامپ-امیدوار-است-اعتبار-مالیاتی-ایالات-متحده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-007-رابرت-پتینسون-در-گفتگوها-برای-فیلمبرداری-در-pinewood/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
