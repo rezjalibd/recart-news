@@ -271,6 +271,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سیستم-رانندگی-کمکی-تسلا-برای-عرضه-در-ایتالیا-چراغ-سبز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مذاکرات-بین-المللی-سازمان-ملل-در-مورد-کنترل-استفاده-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ملانیا-ترامپ-در-اولین-نمایش-سریال-آمازون-وقتی-از-کودکان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آلمان-تظاهرات-دانشجویی-در-برلین-علیه-تسلیح-مجدد-و-خدمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-می-گوید-هک-پایگاه-داده-گزارش-شده-fbi-خوب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نحوه-استفاده-از-پنل-خورشیدی-برای-شارژ-گوشی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چقدر-می-توانید-برای-اپل-واچ-قدیمی-و-متوقف-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فرضیه-ریمان-چیست-و-چرا-اثباتش-۱۶۷-سال-آرزوی-ریاضی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/thinking-machines-با-مدل-ترانسفورماتور-حلقه-دار-inkling-2-mini/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -771,26 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کدام-دستگاه-های-سامسونگ-احتمالا-آپدیت-one-ui-9-5/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تصاویر-ماکت-جدید-آیفون-ایر-۲-و-آیفون-۱۸-طراحی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-بسیاری-از-کیس-های-کامپیوترهای-رومیزی-دارای-دیوارهای-شیشه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مالکیت-شخصی-ویلا-بهره-برداری-هتلی-دنسه-از-پروژه-کاندوتل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فلورنتینو-پرز-درباره-بارسلونا-و-پرونده-نگریرا-تا-اجرای-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -807,6 +807,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوریلاز-روح-انقلابی-مکزیک-را-در-corona-capital-جشن-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/از-مندی-تا-عمر-داوود-۳-بازیگر-ایرانی-تبار-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-اینجا-نحوه-تماشای-ufc-fight-night-procházka-vs-stirling/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
