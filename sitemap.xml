@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فیلم-برنده-اسکار-فیلم-کمدی-تاریک-استخوان-دماغ-نویسنده-همکار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/در-اینجا-نحوه-تماشای-ufc-fight-night-procházka-vs-stirling/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مردی-به-دلیل-شعله-ور-شدن-آتشی-که-به-آتش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هرآنچه-درباره-فصل-دوم-محقق-بی-گناه-باید-بدانید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
