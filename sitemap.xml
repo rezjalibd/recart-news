@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سخنگوی-صنعت-آرد-و-نان-حدود-۲۹۰-هزار-کد-ملی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-طرح-مدیریت-خرید-نان-سفره-مردم-را-کوچک-تر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-معاملات-بلک-فرایدی-در-قهوه-ساز-و-دستگاه-اسپرسوساز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-هدفون-و-هدفون-بلک-فرایدی-شامل-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
