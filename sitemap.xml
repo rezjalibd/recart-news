@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دنسه-با-پروژه-چالوس-وارد-صنعت-کاندوتل-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-با-5-خواهر-و-برادر-بزرگ-شدم-و-4/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جهش-۵-میلیارد-تومانی-قیمت-لوکانو-l8-شاسی-بلند-مونتاژی/</loc>
+    <loc>https://recart.ir/news/جی-تی-ای-۶-تمام-رکوردها-رو-زد-تک-تاک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/redwood-materials-یک-کاربرد-بسیار-کاربردی-برای-هوش-مصنوعی-پیدا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-پینگ-شما-وحشتناک-است-با-وجود-اینکه-اینترنت-سریع/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
