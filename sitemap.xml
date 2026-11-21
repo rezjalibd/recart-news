@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/زنگ-خطر-در-سیاره-سرخ-مریخ-نورد-پرسویرنس-و-مدارگرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-apple-vision-pro-هرگز-مانند-هدست-های-vr-متا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دلایل-رایج-خاموش-شدن-تصادفی-آیفون-شما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/waymo-رباتاکسی-را-پس-از-اینکه-در-خطوط-بسته-آزادراه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
