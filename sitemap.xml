@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دونالد-ترامپ-می-گوید-با-گروه-سوم-رهبران-جمهوری-اسلامی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یک-کشتی-باری-روسیه-در-خلیج-فنلاند-هدف-حمله-پهپادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/به-نظر-می-رسد-آلمان-در-مورد-تصاحب-tiktok-europe/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ملانیا-ترامپ-ابراز-محبت-عمومی-با-دونالد-ترامپ-به-سبک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -746,6 +746,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/برایان-لورد-از-caa-از-کنگره-می-خواهد-که-قانون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آنچه-چین-از-هانی-پات-های-هوش-مصنوعی-و-تراشه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,17 +791,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-می-لرزیدم-گریه-می-کردم-مشکل-تنفسی-داشتم-آسیب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رئال-مادرید-در-رقابت-درآمدزایی-از-بایرن-مونیخ-پیش-افتاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-فیلم-های-امسال-از-مصنوعی-تا-من-راکی-بازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عاشقانه-های-صمیمی-در-نتفلیکس-در-حال-افزایش-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گیریش-کاساروالی-نویسنده-هندی-به-50-سال-سینما-در-مسترکلاس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
