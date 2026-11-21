@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/راه-اندازی-apple-homeview-به-لطف-آیفون-شما-به-طرز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/homeview-در-مقابل-echo-show-تفاوت-بین-نمایشگرهای-هوشمند-اپل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/برایان-لورد-از-caa-از-کنگره-می-خواهد-که-قانون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رئال-مادرید-در-رقابت-درآمد-از-بایرن-مونیخ-پیش-افتاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیش-بینی-های-جوایز-بازیگر-اندرو-گارفیلد-ایند-ناوارت-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مستند-سرطان-پرنسس-کیت-شفا-تاریخ-های-پخش-بین-المللی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگردان-دختر-شما-درباره-پیوند-با-مادر-ماریان-خوری-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
