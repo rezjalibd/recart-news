@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نشد-که-کلاه-را-از-شکم-اسب-آبی-بیرون-بیاوریم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-پی-کشته-شدن-سوگند-صیادی-بهزیستی-از-نبود-مددکاران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پنتاگون-فیلم-تازه-از-مشاهده-یوفو-توسط-ارتش-آمریکا-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازنواخته-شدن-سرود-ملی-بریتانیا-در-نهادهای-اروپایی-نمادی-پسابرگزیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-واکسن-از-سرطان-دهانه-رحم-پیشگیری-می-کند-چه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اتحادیه-اروپا-و-بریتانیا-جمهوری-اسلامی-باید-حملات-ترکیبی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -856,6 +856,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/استیون-پل-مشاور-ترامپ-امیدوار-است-اعتبار-مالیاتی-ایالات-متحده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فیلم-007-رابرت-پتینسون-در-گفتگوها-برای-فیلمبرداری-در-pinewood/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آرون-پیر-ستاره-فانوس-ها-در-آینده-dcu-پس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/علت-مرگ-آنتونی-کلارک-ستاره-بله-عزیز-فاش-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
