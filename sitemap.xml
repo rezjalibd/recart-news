@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اوکراین-دوربین-خودرو-لحظه-انفجار-مهیب-در-خیابانی-در-لویو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یک-پاس-خاویاری-لطفا-حضور-دیدیه-دشان-در-تبلیغ-برگر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/زلنسکی-در-واکنش-به-اظهارات-ترامپ-پوتین-را-دوست-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتایج-مطالعه-ای-تازه-نشان-داد-تنهایی-مزمن-خطر-زوال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
