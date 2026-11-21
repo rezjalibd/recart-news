@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عبدالله-مهتدی-خشونت-علیه-زنان-و-کودکان-در-خاستگاه-جنبش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-آزمایش-زندان-استنفورد-آیا-یک-پژوهش-جنجالی-باید-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/متهم-پرونده-فرفورد-در-دادگاه-نیویورک-ما-ارتش-قاسم-سلیمانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احمد-علم-الهدی-مساله-اول-مردم-حجاب-و-نگرانی-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
