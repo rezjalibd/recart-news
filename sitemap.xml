@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ویدئو-دستگیری-چاپو-ایسیدرو-سردسته-تحت-تعقیب-اف-بی-آی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نیوکاسل-۲-۲-آرسنال-توقف-آرتتا-در-سنت-جیمز-پارک-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بسنت-آمریکا-چین-و-روسیه-در-مورد-عدم-دستیابی-جمهوری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زمستان-سرد-در-اروپا-با-وارونگی-گردباد-قطبی-آیا-پمپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-apple-vision-pro-هرگز-مانند-هدست-های-vr-متا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قطعی-های-فنی-تنها-شروع-است-a-i-اختلالات-بیشتری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/waymo-رباتاکسی-را-پس-از-اینکه-در-خطوط-بسته-آزادراه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جایی-که-می-توانید-gpu-را-در-رایانه-شخصی-ویندوز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
