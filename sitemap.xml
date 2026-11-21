@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ای-بی-سی-نیوز-حملات-به-کشتی-ها-در-تنگه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کاهش-ذخایر-گازوئیل-در-جنگ-هشدار-درباره-قطع-چند-هفته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آیا-محاصره-دریایی-می-تواند-به-مقاومت-جمهوری-اسلامی-پایان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اعلام-خاموشی-دوساعته-در-تهران-مقام-ها-بار-کمبود-انرژی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -641,6 +641,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-نوشابه-شیشه-ای-خوشمزه-تر-از-نوشابه-قوطی-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شیائومی-18-پرو-ثابت-می-کند-که-دو-صفحه-نمایش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دانشمندان-برای-نخستین-بار-کبد-انسان-را-۷-هفته-خارج/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رافائل-نادال-اسطوره-تنیس-به-جمع-مدیران-رئال-مادرید-پیوست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -877,6 +877,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تمام-ارتباطات-هایمیچ-و-کتنیس-در-بازی-های-گرسنگی-طلوع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/علت-رسمی-مرگ-آنتونی-کلارک-فاش-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مایکل-جکسون-بیوگرافی-مایکل-در-حال-رد-شدن-از-بفتا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-جیمز-باند-رابرت-پتینسون-به-نام-حرف-زدن-درباره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
