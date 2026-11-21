@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تسخیر-جهان-با-gta-خامنه-ای-دوم-و-ارتش-آمریکا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شادی-خیری-دانشجوی-۲۲ساله-در-خوابگاه-دخترانه-طرشت-جان-باخت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/۲۶-روز-بلاتکلیفی-نعمت-افشار-آسیب-دیده-چشمی-اعتراضات-۱۴۰۱/</loc>
+    <loc>https://recart.ir/news/یک-کشتی-باری-روسیه-در-خلیج-فنلاند-هدف-حمله-پهپادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ملانیا-ترامپ-ابراز-محبت-عمومی-با-دونالد-ترامپ-به-سبک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اکسیوس-با-وجود-تلاش-های-قطر-مذاکرات-تهران-و-واشینگتن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-اینجا-بهترین-عوامل-هوش-مصنوعی-که-می-توانند-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یکی-از-بهترین-ویژگی-های-apple-homeview-این-است-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سخنرانی-رپر-گروه-زدبازی-در-پارک-علم-و-فناوری-دانشگاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حرکت-بعدی-chess-com-یک-مرکز-جدید-برای-بازی-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مزایا-و-معایب-استفاده-از-یک-گوشی-احمقانه-بر-روی/</loc>
+    <loc>https://recart.ir/news/رئال-مادرید-در-رقابت-درآمدزایی-از-بایرن-مونیخ-پیش-افتاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گیریش-کاساروالی-نویسنده-هندی-به-50-سال-سینما-در-مسترکلاس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماریون-کوتیار-پیش-از-تماشا-می-گوید-من-اینجا-نیستم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
