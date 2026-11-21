@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-ابزار-داخلی-ویندوز-می-تواند-تشخیص-دهد-که-directx/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آمازون-از-شورای-نیویورک-در-مورد-برچسب-های-حمل-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عقاب-ها-می-توانند-بابون-های-۲۶-کیلویی-را-شکار/</loc>
+    <loc>https://recart.ir/news/رئال-مادرید-۲-۱-سلتاویگو-کامبک-دشوار-رئال-مادرید-در-برنابئو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -807,6 +812,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رئال-مادرید-در-رقابت-درآمدزایی-از-بایرن-مونیخ-پیش-افتاد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نقد-و-بررسی-گودزیلا-منهای-صفر-هر-چیزی-است-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کیلیان-امباپه-تقلید-کننده-فهرست-رنگارنگ-دوبل-ها-در-مستند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شکایت-کارکنان-skyshowtime-از-فرهنگ-محل-کار-و-رسیدگی-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نام-های-تئاتر-مرکز-لینکلن-نائومی-واینستاک-مدیر-اجرایی-جدید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
