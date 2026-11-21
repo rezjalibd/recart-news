@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-پزشکیان-درباره-دشواری-تامین-انرژی-در-زمستان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/احضار-علی-پورداراب-روزنامه-نگار-پیگیر-پرونده-جان-باختگان-اعتراضات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رویترز-آمریکا-به-سنگاپور-و-مالزی-درباره-همکاری-با-شرکت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تهدید-دادخواهان-تلاش-جمهوری-اسلامی-برای-خلوت-کردن-قتلگاه-فروهرها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -631,6 +631,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نیویورک-روی-مچ-دست-کاسیو-با-نسخه-ویژه-جی-شاک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تجربه-بازی-gta-vi-با-سیگنال-های-مغزی-و-تراشه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راهنمای-سونی-ایده-آل-برای-خرید-لنز-سونی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجلس-پیشنهاد-داد-سهمیه-سوخت-در-برخی-استان-ها-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وان-پلاس-گوشی-قدرتمندی-با-نمایشگر-غول-پیکر-۲۴۰-هرتز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استارت-آپ-از-اپل-در-هند-به-خاطر-ویژگی-تماس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مسابقه-برای-اثبات-فرضیه-ریمان-به-یک-مسابقه-انسان-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-نباید-برای-ذخیره-خودکار-به-gta-6-وابسته-باشید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
