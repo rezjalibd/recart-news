@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سطح-تازه-ای-از-تجاوزگری-روسیه-در-اروپا-ماکرون-هشدار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ژاپن-تاکسی-هوایی-خودران-نخستین-پرواز-مسافری-بدون-خلبان-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/لیوبلیانا-در-اسلوونی-و-کالویای-مایورکا-به-عنوان-پایتخت-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سفرهای-رویایی-اروپا-مقصدهای-خیره-کننده-تعطیلات-۲۰۲۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -641,6 +641,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جدیدترین-واکی-تاکی-شیائومی-در-رنگ-نارنجی-رونمایی-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/برترین-انتخاب-های-آزمایش-شده-ما-از-فروش-جمعه-سیاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نیویورک-روی-مچ-دست-کاسیو-با-نسخه-ویژه-جی-شاک/</loc>
+    <loc>https://recart.ir/news/بازی-gta-6-کابوس-مربیان-فوتبال-از-تهدید-دزربی-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کایلی-کنترال-درباره-موسیقی-جدید-جسور-بزرگ-و-کثیف-صحبت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بسام-طارق-می-گوید-ریبوت-بلید-مارول-به-او-آموخت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
