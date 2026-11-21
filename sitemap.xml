@@ -156,6 +156,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مظنون-آتش-سوزی-در-palisades-محکوم-به-۴۰-سال-زندان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تهدید-دانشجویان-تربیت-مدرس-به-برخورد-انضباطی-در-پی-اعتراض/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/احمد-علم-الهدی-مساله-اول-مردم-حجاب-و-نگرانی-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فرمانده-عملیات-سایبری-بریتانیا-از-عملیات-تهاجمی-علیه-جمهوری-اسلامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -851,6 +851,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جوایز-cma-2026-به-بالاترین-رتبه-بندی-7-ساله-رسید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ملانی-لینسکی-و-کریستینا-ریچی-ستاره-های-jellowjackets-در-فیلم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارگردان-تنها-در-خانه-کریس-کلمبوس-دقایقی-قبل-از-اعلام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/enhypen-در-مورد-گناه-جهان-موازی-بازتاب-می-کند-جوایز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
