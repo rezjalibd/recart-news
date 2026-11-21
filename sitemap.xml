@@ -621,6 +621,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/استارت-آپ-از-اپل-در-هند-به-خاطر-ویژگی-تماس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مسابقه-برای-اثبات-فرضیه-ریمان-به-یک-مسابقه-انسان-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سیستم-خاموش-کردن-نیسان-برای-تعمیرات-پس-از-تلاش-هک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محققان-شیوه-راه-رفتن-می-تواند-نشانه-هایی-از-وضعیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
