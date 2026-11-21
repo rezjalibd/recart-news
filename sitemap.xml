@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-مجتبی-خامنه-ای-تا-مستر-اکسپلوسیو-فهرست-۵۰۰-مسلمان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آمریکا-چهار-ایرانی-از-جمله-برادر-رئیس-فدراسیون-فوتبال-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ونس-جمهوری-اسلامی-بزرگترین-حامی-تروریسم-است-و-جلوگیری-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنگ-ایران-روند-بهبود-لوفت-هانزا-را-کند-کرده-کاهش/</loc>
+    <loc>https://recart.ir/news/زمستان-سرد-در-اروپا-با-وارونگی-گردباد-قطبی-آیا-پمپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نیروهای-دولتی-عراق-وارد-پایگاه-اصلی-کتائب-حزب-الله-مورد/</loc>
+    <loc>https://recart.ir/news/برف-و-اسکی-زمستانی-می-خواهید-این-مقاصد-کمترشناخته-آسیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,12 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تاکید-ملانیا-ترامپ-بر-تلاش-های-بشردوستانه-در-اولین-نمایش/</loc>
+    <loc>https://recart.ir/news/تخریب-خاک-ممکن-است-تا-۵۰۹-میلیارد-یورو-بر-بودجه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-می-گوید-نمی-توانم-با-او-صحبت-کنم-آیا/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۳۰-آبان-۱۴۰۵-۲۱-نوامبر-۲۰۲۶---بامدادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -447,6 +457,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-تفنگ-های-کهنه-در-کنار-سلاح-های-چاپ-سه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رکورد-جدید-دنیای-سرگرمی-gta-vi-در-روز-نخست-عرضه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قیمت-بیت-کوین-برای-اولین-بار-در-دو-سال-اخیر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -581,26 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/طبق-گزارش-ها-یوتیوب-در-حال-آماده-شدن-برای-رسیدگی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/64-بهترین-ایده-برای-هدیه-فارغ-التحصیلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-بلک-فرایدی-ضبط-و-میز-گردان-تا-40/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-تلویزیون-65-اینچی-مینی-ال-ای-دی-سامسونگ-قبل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جست-وجوی-سیاره-ها-با-هوش-مصنوعی-یافته-های-اخترشناسان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -622,6 +622,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کد-تبلیغاتی-هاستینگر-85-تخفیف-برای-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-dna-نئاندرتال-ها-هنوز-در-بدن-بسیاری-از-انسان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارشناسان-هشدار-می-دهند-تقریبا-همه-افراد-در-هوش-مصنوعی-ceaf30/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
