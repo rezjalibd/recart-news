@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پیشنهاد-۲۵-سال-زندان-برای-پدران-فرزندکش-پس-از-مرگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-موشک-های-صورتی-تا-زنان-مسلسل-به-دست-چهره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تاج-آسیا-بر-سر-بانوی-بم-مرضیه-جعفری-بهترین-مربی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/۲-متهم-پرونده-طرح-حمله-به-پایگاه-هوایی-فرفورد-احتمالا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -476,6 +476,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/افزایش-۷۴۲-میلیون-تومانی-قیمت-کیا-اسپورتیج-نیوفیس-فروش-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-اطلس-s-سایپا-با-پیش-پرداخت-۵۲۷-میلیون-تومانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هاربینجر-در-حال-ساخت-خودروهای-الکتریکی-غیرجنسی-است-که-اقتصاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سهام-آنتروپیک-یک-روز-پس-از-عرضه-اولیه-با-ریزش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وزارت-اقتصاد-محدودیتی-برای-توزیع-آرد-و-گندم-اعمال-نکرده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/کارمند-anthropic-می-گوید-با-کمک-هوش-مصنوعی-مسئله-۱۶۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,41 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-یک-کشیش-هستم-جستجوی-سیلیکون-ولی-برای-روح-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-پاور-بانک-ها-2026-انتخاب-های-من-پس-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-کاوشگر-فضایی-به-سیارک-ها-بازمی-گردد-که-ناسا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مرکز-ملی-فضای-مجازی-از-نخبگان-برای-اعلام-نظر-درباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مانیتور-۲۷-اینچی-tcl-با-وضوح-qhd-و-نرخ-نوسازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سامسونگ-ساختار-مدیریتی-خود-را-پس-از-هفت-سال-تغییر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انویدیا-با-استقرار-vera-rubin-در-آژور-و-عرضه-مدل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -756,37 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عصر-جدیدی-از-آشوب-مبتنی-بر-هوش-مصنوعی-که-فقط/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-دلتنگی-برای-تاماگوچی-ها-حیوانات-خانگی-مجازی-نمی-میرند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/17-بهترین-هدیه-برای-زنان-در-انشیتوسن-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/manosphere-برای-brothercore-آماده-نیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ضربان-قلب-رانندگان-فرمول-یک-روی-صفحه-تلویزیون-تحول-جذاب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اپلیکیشن-chatgpt-با-تغییرات-جدید-و-تب-اختصاصی-ایجنت-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جبران-تأخیر-برداشت-های-ریالی-در-کمپین-به-رسم-دوستی/</loc>
+    <loc>https://recart.ir/news/از-مندی-تا-عمر-داوود-۳-بازیگر-ایرانی-تبار-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هرآنچه-درباره-فصل-دوم-محقق-بی-گناه-باید-بدانید-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آلبوم-the-hunger-games-sunrise-on-the-reaping-دارای-29/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
