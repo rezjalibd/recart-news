@@ -451,6 +451,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بیت-کوین-به-زیر-۵۷-هزار-دلار-سقوط-کرد-پایین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خودروهای-تویوتا-به-استقبال-باتری-حالت-جامد-می-روند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تلویزیون-های-oled-roku-برای-جمعه-سیاه-از-700-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تاکسی-های-رباتیک-در-گوانگ-ژو-و-پهپادهای-پزشکی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روزی-که-انسان-پرواز-کرد-۳۰-آبان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنسن-هوانگ-دروغگو-هیئت-مدیره-انویدیا-را-پیش-از-استعفای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ریاضیدان-انسان-شناسی-می-گوید-که-از-هوش-مصنوعی-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
