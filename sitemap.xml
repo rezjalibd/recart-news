@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بسنت-آمریکا-چین-و-روسیه-در-مورد-عدم-دستیابی-جمهوری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زمستان-سرد-در-اروپا-با-وارونگی-گردباد-قطبی-آیا-پمپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آلمان-و-اتریش-خواستار-واگذاری-مالکیت-تیک-تاک-به-شرکت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ملانیا-ترامپ-در-اولین-نمایش-سریال-آمازون-وقتی-از-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -626,6 +626,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شکایت-از-اپل-قابلیت-نیم-دراپ-آیفون-به-سرقت-ایده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کد-تبلیغاتی-هاستینگر-85-تخفیف-برای-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یک-زنجیره-تامین-هوش-مصنوعی-درز-داده-های-مخفی-کاربر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-dna-نئاندرتال-ها-هنوز-در-بدن-بسیاری-از-انسان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
