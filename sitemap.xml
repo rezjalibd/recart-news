@@ -441,6 +441,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/102-بهترین-پیشنهاد-جمعه-سیاه-که-اکنون-می-خریم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یوتیوب-می-تواند-3-میلیارد-دلار-برای-حل-و-فصل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جمعه-سرخ-s-p-500-و-داو-به-قلمرو-اصلاحی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تاکسی-های-رباتیک-در-گوانگ-ژو-و-پهپادهای-پزشکی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مسابقه-برای-اثبات-فرضیه-ریمان-به-یک-مسابقه-انسان-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ارتش-در-بحبوحه-ترس-و-خشم-منفجر-کردن-آزید-سرب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بایرن-مونیخ-۱-۱-کلن-بدترین-خبر-برای-کمپانی-مصدومیت-همزمان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تمام-ارتباطات-هایمیچ-و-کتنیس-در-بازی-های-گرسنگی-طلوع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ستاره-آرژانتینی-در-حال-ظهور-milo-j-با-caa-امضا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جوایز-cma-با-بازگشت-تیلور-سوئیفت-به-اوج-مخاطبان-7/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-lisa-از-blackpink-و-gracie-abrams-گرفته-تا-آلبوم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
