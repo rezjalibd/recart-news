@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ناوهای-هواپیمابر-آمریکا-چه-ظرفیت-هایی-ایجاد-می-کنند-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/روایت-های-متفاوت-از-انفجار-در-قشم-آتش-سوزی-نفتکشی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هر-ظاهری-که-ملانیا-ترامپ-در-دومین-دوره-ریاست-جمهوری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آیا-طرح-مدیریت-خرید-نان-سفره-مردم-را-کوچک-تر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -462,6 +462,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-تفنگ-های-کهنه-در-کنار-سلاح-های-چاپ-سه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیجی-کالا-به-استقبال-بلک-فرایدی-رفت-امسال-چه-تفاوتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/gta-6-در-روز-اول-3-79-میلیارد-دلار-درآمد/</loc>
+    <loc>https://recart.ir/news/گفت-وگوها-برای-تدوین-مقررات-ربات-های-قاتل-تا-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -622,6 +627,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-به-گوگل-مایکروسافت-و-دیگر-غول-های-فناوری-هشدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/محقق-2-میلیون-قناری-در-زنجیره-تامین-هوش-مصنوعی-کاشته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرسش-و-پاسخ-ایجاد-تعاملات-و-درک-بیشتر-شبیه-انسان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-زنجیره-تامین-هوش-مصنوعی-درز-داده-های-مخفی-کاربر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
