@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نیوکاسل-۲-۲-آرسنال-توقف-آرتتا-در-سنت-جیمز-پارک-پس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پائولو-بولگاری-غول-جواهرسازی-ایتالیایی-در-۸۹-سالگی-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برف-و-اسکی-زمستانی-می-خواهید-این-مقاصد-کمترشناخته-آسیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سی-ان-ان-اف-بی-آی-نفوذ-احتمالی-به-پایگاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نشانه-هایی-است-که-زمان-تعویض-محافظ-صفحه-نمایش-گوشی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وقتی-کل-شهر-شیکاگو-را-با-جک-از-روی-زمین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جی-تی-ای-۶-تمام-رکوردها-رو-زد-تک-تاک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آنچه-که-متحدان-جنسن-هوانگ-می-گویند-از-زمان-استعفا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/redwood-materials-یک-کاربرد-بسیار-کاربردی-برای-هوش-مصنوعی-پیدا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فلورنتینو-پرز-درباره-بارسلونا-و-پرونده-نگریرا-تا-اجرای-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -807,6 +807,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هندوانه-جاه-طلبی-های-تولید-را-گسترش-می-دهد-زیرا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مینی-سریال-داستان-واقعی-یک-موفقیت-جهانی-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تماشای-فیلم-های-سه-بعدی-در-خانه-متا-پرده-سینمای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگردان-فریمن-کور-درباره-رد-کلیشه-های-غربی-نمی-خواهم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بدون-اشاره-به-یاسر-آسانی-شکایت-الشمال-قطر-در-ای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
