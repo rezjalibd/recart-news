@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هم-زمان-با-تاکید-تهران-بر-شکستن-محاصره-دریایی-ترامپ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دادبان-خطر-اجرای-حکم-اعدام-نوید-نجاران-و-میلاد-آرمون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/خاموشی-های-تهران-از-امروز-آغاز-می-شود-آخرین-توضیح/</loc>
+    <loc>https://recart.ir/news/لیدز-پس-از-۲۷-سال-در-خانه-چلسی-پیروز-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-قیمت-بنزین-به-این-بستگی-دارد-که-تکلیف-مان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-نظر-می-رسد-آلمان-در-مورد-تصاحب-tiktok-europe/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نحوه-تنظیم-صدای-فراگیر-با-apple-tv-4k-و-homepods/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/5-کار-هوشمندانه-که-هنوز-هم-می-توانید-با-پخش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,17 +791,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بررسی-طرح-موسوم-به-صیانت۳-در-مجلس-از-سر-گرفته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رئال-مادرید-در-رقابت-درآمدزایی-از-بایرن-مونیخ-پیش-افتاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/صداهای-سلولوئید-آهنگسازان-زن-کمتری-روی-صفحه-نمایش-داده-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کمیته-فیلم-قطر-و-هندوانه-پیکچرز-با-همکاری-یکدیگر-مجموعه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عاشقانه-های-صمیمی-در-نتفلیکس-در-حال-افزایش-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
