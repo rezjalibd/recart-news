@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازگشت-آزمایش-زندان-استنفورد-آیا-یک-پژوهش-جنجالی-باید-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عراقچی-گفت-تغییر-دکترین-هسته-ای-جمهوری-اسلامی-پیامدهای-مهمی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نماینده-خامنه-ای-در-استان-گلستان-مردم-دمای-وسایل-گرمایشی/</loc>
+    <loc>https://recart.ir/news/پس-از-هشت-سال-سفر-فضاپیمایی-سرانجام-به-عطارد-اسرارآمیز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -386,6 +391,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ملانیا-ترامپ-در-اولین-نمایش-سریال-آمازون-وقتی-از-کودکان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تاکید-ملانیا-ترامپ-بر-تلاش-های-بشردوستانه-در-اولین-نمایش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دونالد-ترامپ-از-حمایت-دو-حزبی-باور-نکردنی-از-انگیزه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دونالد-ترامپ-از-حمایت-دو-حزبی-باور-نکردنی-از-انگیزه-0891bf/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-توسط-پوتین-و-شی-بازی-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/باشگاه-بایرن-مونیخ-هری-کین-به-دلیل-پارگی-رباط-مچ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بایرن-مونیخ-۱-۱-کلن-بدترین-خبر-برای-کمپانی-مصدومیت-همزمان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +847,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تمام-ارتباطات-هایمیچ-و-کتنیس-در-بازی-های-گرسنگی-طلوع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیک-کانن-در-میان-نبرد-لوپوس-در-بیمارستان-بستری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کایلی-کنترال-درباره-موسیقی-جدید-جسور-بزرگ-و-کثیف-صحبت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بسام-طارق-می-گوید-ریبوت-بلید-مارول-به-او-آموخت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/براندی-و-مونیکا-لاس-وگاس-رزیدنسی-2027-در-اینجا-بلیط/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لورن-نوستادتر-از-hello-sunshine-ریس-ویترسپون-خارج-می-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روزالیا-تیلور-سوئیفت-را-استاد-ترانه-سرا-خطاب-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لورن-نوستادتر-از-hello-sunshine-شرکت-ریس-ویترسپون-را-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چهار-منهای-سه-هرم-طلایی-جشنواره-فیلم-قاهره-را-برد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
