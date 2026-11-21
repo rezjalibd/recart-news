@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بسنت-فشارهای-آمریکا-جمهوری-اسلامی-را-به-میز-مذاکره-بازمی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پرستو-فروهر-دستگاه-امنیتی-برای-جلوگیری-از-مراسم-سالگرد-والدینم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/صعود-نوجوانان-ایران-به-جام-ملت-های-آسیا-با-چهار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترافیک-سنگین-مرز-قزاقستان-و-ازبکستان-کامیون-های-ایرانی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -471,6 +471,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شروع-بلک-فرایدی-دیجی-کالا-هزاران-کالا-با-تخفیف-واقعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انتقاد-مجلس-از-خودروسازان-قیمت-خودروها-۳-برابر-شد-تولید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شرکت-پالایش-و-پخش-فرآورده-های-نفتی-جمع-آوری-کارت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/وال-استریت-قیمت-حیرت-انگیزی-برای-جنسن-هوانگ-انویدیا-گذاشته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/38-بهترین-هدیه-برای-همکاران-زیر-50-دلار-از-کارت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گفت-وگوها-برای-تدوین-مقررات-ربات-های-قاتل-تا-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -627,6 +627,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اپلیکیشن-chatgpt-با-تغییرات-جدید-و-تب-اختصاصی-ایجنت-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جبران-تأخیر-برداشت-های-ریالی-در-کمپین-به-رسم-دوستی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/توصیه-های-ارتباط-نماگستر-برای-مدیریت-هزینه-اجرای-پسیو-شبکه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازی-gta-6-رکورد-مصرف-اینترنت-را-در-آمریکا-شکست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قیمت-گوشی-امروز-۳۰-آبان-محصولات-اقتصادی-سامسونگ-گران-تر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وان-پلاس-گوشی-قدرتمندی-با-نمایشگر-غول-پیکر-۲۴۰-هرتز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/شجاعی-استقلال-در-ایجاد-رشته-های-جدید-جوگیر-شد-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تمام-ارتباطات-هایمیچ-و-کتنیس-در-بازی-های-گرسنگی-طلوع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایکل-جکسون-بیوگرافی-مایکل-در-حال-رد-شدن-از-بفتا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دفاع-دیوید-فینچر-از-استفاده-از-هوش-مصنوعی-در-میان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-پی-جی-برن-ستاره-راکی-را-بازی-می-کنم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
