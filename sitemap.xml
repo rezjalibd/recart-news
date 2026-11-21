@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تعطیلی-کارخانه-های-پنبه-پاک-کنی-گلستان-در-پی-کاهش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شما-ازدواج-کنید-من-پول-می-دهم-روایت-جوانانی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -477,6 +482,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-تفنگ-های-کهنه-در-کنار-سلاح-های-چاپ-سه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نماینده-مجلس-دولت-با-ترمیم-حقوق-کارگران-در-نیمه-دوم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شروع-بلک-فرایدی-دیجی-کالا-هزاران-کالا-با-تخفیف-واقعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتقاد-مجلس-از-خودروسازان-قیمت-خودروها-۳-برابر-شد-تولید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/کارمند-anthropic-می-گوید-با-کمک-هوش-مصنوعی-مسئله-۱۶۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-ها-هزار-یخچال-در-بریتانیا-در-عملیاتی-محرمانه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خلاصه-بررسی-engadget-apple-homeview-ray-ban-meta-gen-3-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-می-توان-بدون-امواج-رادیویی-پیام-فرستاد-پاسخ-پژوهشگران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/امپراتوری-نئوکلود-انویدیا-بزرگترین-قهرمان-خود-را-از-دست-داد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/با-یک-کلیک-به-شخصیت-gta-6-تبدیل-شوید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بدون-اشاره-به-یاسر-آسانی-شکایت-الشمال-قطر-در-ای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -867,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تمام-ارتباطات-هایمیچ-و-کتنیس-در-بازی-های-گرسنگی-طلوع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگردان-فریمن-کور-درباره-رد-کلیشه-های-غربی-نمی-خواهم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیل-کالینز-می-گوید-که-شر-پس-از-خروج-زودهنگام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/علت-مرگ-پاتریک-استوارت-فاش-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
