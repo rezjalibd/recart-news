@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ادامه-موج-بازداشت-ها-در-آبدانان-سه-شهروند-دیگر-نیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گرسنگی-محرومیت-از-درمان-و-شکنجه-زندانیان-در-زندان-وکیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آبدانان-اولین-اعتراض-بعد-از-جنگ-چهل-روزه-چطور-آغاز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سایت-هرانا-شمیم-اتحادی-شهروند-بهائی-ساکن-یزد-بازداشت-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -416,6 +416,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یک-کارآفرین-در-حال-تبدیل-یک-سیلو-هسته-ای-دوران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-در-ده-ها-فروشگاه-جامع-اقامت-داشته-ام-مورد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هدفون-های-ما-برای-برقراری-تماس-به-پایین-ترین-قیمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,12 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیا-حباب-zone-2-ترکیده-است-واکنش-متقابل-علیه-یک/</loc>
+    <loc>https://recart.ir/news/آنچه-که-متحدان-جنسن-هوانگ-می-گویند-از-زمان-استعفا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شروع-بلک-فرایدی-دیجی-کالا-هزاران-کالا-با-تخفیف-واقعی/</loc>
+    <loc>https://recart.ir/news/redwood-materials-یک-کاربرد-بسیار-کاربردی-برای-هوش-مصنوعی-پیدا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,12 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-یک-فارغ-التحصیل-نسل-اول-دانشگاه-هستم-که-در/</loc>
+    <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-یک-کشیش-هستم-جستجوی-سیلیکون-ولی-برای-روح-هوش/</loc>
+    <loc>https://recart.ir/news/فیلم-جدید-کریسمس-در-نتفلیکس-رودخانه-ویرجین-2-0-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مایکل-جکسون-بیوگرافی-مایکل-در-حال-رد-شدن-از-بفتا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-جیمز-باند-رابرت-پتینسون-به-نام-حرف-زدن-درباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/موسیقی-بتن-لکه-های-پلنگ-در-میان-برندگان-جایزه-رویداد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
