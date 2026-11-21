@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بیش-از-۲۰۰سینماگر-و-نهاد-سینمایی-خواستار-لغو-احکام-جعفر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آبدانان-اولین-اعتراض-بعد-از-جنگ-چهل-روزه-چطور-آغاز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وال-استریت-ژورنال-رئیس-موساد-خواستار-حملات-چند-روزه-آمریکا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بلومبرگ-اسرائیل-پس-از-روشن-شدن-شکاف-های-پدافندی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -466,6 +466,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/وزارت-اقتصاد-محدودیتی-برای-توزیع-آرد-و-گندم-اعمال-نکرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دیجی-کالا-به-استقبال-بلک-فرایدی-رفت-امسال-چه-تفاوتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بخش-فروش-alo-تا-30-تخفیف-قبل-از-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زلزله-در-صنعت-سرگرمی-فروش-gta-6-در-روز-اول/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -851,6 +851,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/mashd-n-kutcher-remix-rogue-traders-و-dannii-minogue-s/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فیل-کالینز-می-گوید-که-شر-پس-از-خروج-زودهنگام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/لورن-نوستادتر-در-حال-خروج-از-hello-sunshine-ریس-ویترسپون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جوایز-cma-با-بازگشت-تیلور-سویفت-به-نمایش-شاهد-افزایش-643776/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
