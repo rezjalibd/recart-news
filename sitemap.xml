@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سیگنال-اسکرین-شات-های-موبایل-را-محدود-می-کند-زیرا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چگونه-به-راحتی-fitbit-خود-را-به-تنظیمات-کارخانه-بازنشانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یکی-از-بهترین-ویژگی-های-apple-homeview-این-است-که/</loc>
+    <loc>https://recart.ir/news/جنجال-اظهارات-مدیران-بایرن-مونیخ-درباره-وضعیت-سلامتی-جمال-موسیالا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/علت-رسمی-مرگ-آنتونی-کلارک-فاش-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ادوین-کارگردان-انتقام-مال-من-است-بازیگران-dancing-with-my/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
