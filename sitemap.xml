@@ -31,6 +31,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خبرگزاری-فارس-از-وقوع-انفجار-شدید-در-سیریک-خبر-داد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خوابیدن-با-کاپشن-و-خاموش-کردن-چراغ-واکنش-ها-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انتقال-میلاد-آرمون-و-نوید-نجاران-به-سلول-انفرادی-نگرانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هم-زمان-با-تاکید-تهران-بر-شکستن-محاصره-دریایی-ترامپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -202,21 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عراقچی-اورانیوم-غنی-شده-از-کشور-خارج-نمی-شود-نماینده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بسنت-فشار-اقتصادی-نتیجه-داده-و-ممکن-است-اعضای-سپاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بسنت-آمریکا-چین-و-روسیه-بر-عدم-دستیابی-جمهوری-اسلامی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پزشکیان-درباره-کمبود-انرژی-انتظار-این-است-که-در-زمستان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/thinking-machines-با-مدل-ترانسفورماتور-حلقه-دار-inkling-2-mini/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-بعضی-آغوش-ها-را-هرگز-فراموش-نمی-کنیم-پژوهش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/etsy-می-گوید-از-محتوای-فروشندگان-برای-آموزش-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فلورنتینو-پرز-درباره-بارسلونا-و-پرونده-نگریرا-تا-اجرای-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -807,6 +807,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/bts-enhypen-bigbang-و-cortis-برندگان-بزرگ-جوایز-mama-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/در-اینجا-نحوه-تماشای-ufc-fight-night-procházka-vs-stirling/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مستند-شفا-کیت-میدلتون-در-bbc-و-nbc-ویژه-درباره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
