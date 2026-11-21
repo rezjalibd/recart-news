@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-سنتکام-درباره-استفاده-از-زور-علیه-نفتکش-های-ناقض/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایران-اورانیوم-غنی-شده-از-کشور-خارج-نمی-شود-عراقچی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بیش-از-۲۰۰سینماگر-و-نهاد-سینمایی-خواستار-لغو-احکام-جعفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/متهمان-پرونده-فرفورد-مرتبط-با-سپاه-پاسداران-اتهامات-را-رد/</loc>
+    <loc>https://recart.ir/news/زلنسکی-در-واکنش-به-اظهارات-ترامپ-پوتین-را-دوست-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/وال-استریت-ژورنال-رئیس-موساد-خواستار-حملات-چند-روزه-آمریکا/</loc>
+    <loc>https://recart.ir/news/نتایج-مطالعه-ای-تازه-نشان-داد-تنهایی-مزمن-خطر-زوال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ملانیا-ترامپ-ابراز-محبت-عمومی-با-دونالد-ترامپ-به-سبک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ملانیا-ترامپ-می-گوید-نمایش-عمومی-محبت-با-دونالد-ترامپ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-برای-انتقال-مراکز-داده-هوش-مصنوعی-به-خارج-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -631,6 +631,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تصمیم-جدید-برای-خریداران-خودرو-صفر-شیوه-و-زمان-پرداخت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شاتل-موبایل-جزئیات-تخفیف-های-جشنواره-جمعه-شگفت-انگیز-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/درخواست-ترامپ-از-هیئت-مدیره-انویدیا-به-جنسن-هوانگ-شانس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودروهای-روح-زده-در-چین-ماشین-هایی-که-نیمه-شب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارشناسان-هشدار-می-دهند-تقریبا-همه-افراد-در-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رویکرد-جدید-مدل-های-هوش-مصنوعی-از-لحاظ-فیزیکی-سازگار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
