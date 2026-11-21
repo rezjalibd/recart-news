@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/علی-قره-گوزلو-قهرمان-مسابقات-اسنوکر-جهان-در-هند-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مادرم-می-داند-پدرم-نه-زندگی-پنهانی-زنان-جوان-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,12 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ونس-جمهوری-اسلامی-بزرگترین-حامی-تروریسم-است-و-جلوگیری-از/</loc>
+    <loc>https://recart.ir/news/حمله-روسیه-با-موشک-بالستیک-به-زادگاه-زلنسکی-در-اوکراین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حمله-روسیه-با-موشک-بالستیک-به-زادگاه-زلنسکی-در-اوکراین/</loc>
+    <loc>https://recart.ir/news/من-4-بار-پاس-قطار-آمتراک-آمریکا-را-خریده-ام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/درباره-مراکز-بازگشت-رواندا-چه-می-دانیم-و-تا-چه/</loc>
+    <loc>https://recart.ir/news/هدفون-های-ما-برای-برقراری-تماس-به-پایین-ترین-قیمت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-یک-توسعه-دهنده-املاک-و-مستغلات-هستم-که-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تیسان-g700-در-برابر-لئوپارد-۷-ام-هیرو-و-تویوتا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -586,17 +601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شرکت-پالایش-و-پخش-فرآورده-های-نفتی-جمع-آوری-کارت/</loc>
+    <loc>https://recart.ir/news/آیا-آنتروپیک-می-تواند-ایمنی-را-در-اولویت-قرار-دهد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اختصاص-طلا-به-۳۵۹-هزار-کاربر-میلی-در-پی-تاخیر/</loc>
+    <loc>https://recart.ir/news/5-گجت-دست-دوم-که-هرگز-نباید-خریداری-کنید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/برترین-گیمرهای-تورنمنت-fc27-همراه-اول-معرفی-شدند/</loc>
+    <loc>https://recart.ir/news/کدام-دستگاه-های-سامسونگ-احتمالا-آپدیت-one-ui-9-5/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تصاویر-ماکت-جدید-آیفون-ایر-۲-و-آیفون-۱۸-طراحی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -617,6 +637,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ذخیره-سازی-داده-ها-در-اوایل-دهه-2000-در-مقایسه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنچه-چین-از-هانی-پات-های-هوش-مصنوعی-و-تراشه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -766,27 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سامسونگ-ساختار-مدیریتی-خود-را-پس-از-هفت-سال-تغییر/</loc>
+    <loc>https://recart.ir/news/فید-آنتونی-راموس-و-دیگران-برای-پیوستن-به-صدمین-رژه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/انویدیا-با-استقرار-vera-rubin-در-آژور-و-عرضه-مدل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-۴-محصول-را-نخرید-سازمان-غذا-و-دارو-دستور/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جدیدترین-واکی-تاکی-شیائومی-در-رنگ-نارنجی-رونمایی-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برترین-انتخاب-های-آزمایش-شده-ما-از-فروش-جمعه-سیاه/</loc>
+    <loc>https://recart.ir/news/گوستاوو-دودامل-دیو-گرول-ال-ال-کول-جی-سینتیا-اریوو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/mashd-n-kutcher-remix-rogue-traders-و-dannii-minogue-s/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیل-کالینز-می-گوید-که-شر-پس-از-خروج-زودهنگام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/علت-مرگ-پاتریک-استوارت-فاش-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
