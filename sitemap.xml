@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دموکرات-ها-بزرگترین-اکثریت-در-مجلس-نمایندگان-طی-۳۵-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/علیرضا-بیرانوند-افتخار-بزرگی-است-که-نامم-در-کنار-علی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اوکراین-بیم-آن-می-رود-که-تا-هفت-نفر-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ژاپن-تب-عروسک-های-نمادین-در-سایتاما-با-۲۰۰-شخصیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترفند-جالب-دوربین-گوشی-که-می-تواند-باتری-کنترل-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کدام-نوع-پنل-خورشیدی-برای-خانه-شما-بهتر-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/امیدی-تازه-برای-درمان-سرطان-قرص-خوراکی-رشد-تومورهای-لوزالمعده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونالدو-مارادونا-و-باجو-تیم-منتخب-جهان-چه-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -822,6 +822,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ateez-رتبه-چهارم-بیلبورد-200-را-با-ساعت-طلایی-قسمت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زمستان-کامرون-در-آخر-هفته-ایندی-پر-جنب-و-جوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کریس-کولفر-ستاره-glee-می-گوید-که-کرت-هومل-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آرتور-هراری-کارگردان-ناشناخته-می-گوید-هوش-مصنوعی-یک-شیب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اینجا-جایی-است-که-می-توان-بازی-دلفین-های-میامی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ج-ا-guneet-monga-kapoor-برنده-جایزه-اسکار-دانشجویی-هیئت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/امروز-50-سال-پیش-the-beach-boys-کنسرت-محوری-brian/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
