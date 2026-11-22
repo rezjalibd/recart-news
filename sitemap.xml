@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مایع-زمان-حالت-عجیبی-از-ماده-که-از-دل-آشفتگی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سرشماری-مجازی-تا-۵-آذر-تمدید-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ربات-های-میکروسکوپی-وارد-رگ-های-خونی-می-شوند-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تغییر-مهم-در-خرید-خودروهای-صفر-از-اول-آذر-پرداخت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
