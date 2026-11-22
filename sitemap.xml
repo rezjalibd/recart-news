@@ -831,6 +831,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/طرفداران-leave-with-me-از-lisa-را-به-عنوان-موسیقی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ماهرشالا-علی-می-گوید-داشتن-2-اسکار-مهم-نیست-هنگام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جف-گلدبلوم-ماریون-کوتیار-و-جان-تورتورو-با-شاهزاده-hrh/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ریان-جانسون-دلیل-خوشبین-بودن-به-آینده-فیلمسازی-مستقل-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
