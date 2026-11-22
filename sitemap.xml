@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بحرین-حملات-جمهوری-اسلامی-را-محکوم-کرد-و-از-شورای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ارتش-ایران-مدعی-آسیب-زدن-به-جنگنده-اف-۱۶-آمریکا-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آماده-باش-نفت-کش-ها-در-خارک-آیا-ایران-محاصره/</loc>
+    <loc>https://recart.ir/news/وقتی-کره-شمالی-به-کره-جنوبی-یورش-می-برد-آیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پنتاگون-فیلم-تازه-از-مشاهده-یوفو-توسط-ارتش-آمریکا-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دومین-قاضی-فدرال-آمریکا-نیز-ساخت-بنای-طاق-نصرت-جنجالی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-همان-چیزی-است-که-می-تواند-اتفاق-بیفتد-اگر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پورت-usb-رایانه-شما-می-تواند-تلفن-شما-را-حتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چقدر-می-توانید-برای-اپل-واچ-قدیمی-و-متوقف-شده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مورینیو-پس-از-کامبک-رئال-مادرید-این-سه-امتیاز-طلایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سازندگان-jellowjackets-در-پایان-برنامه-قبل-از-برنامه-پنج-فصل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جان-کارپنتر-فاش-کرد-که-رابرت-رودریگز-در-بازی-running/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کایران-کالکین-می-گوید-یک-اسپین-اف-جانشینی-ایده-وحشتناکی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/لیندسی-هابارد-اسپین-آف-خانه-تابستانی-فصل-دوم-در-شهر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لیز-دالی-برن-مدل-و-همسر-جری-برن-نایب-رئیس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-جدید-کریسمس-در-نتفلیکس-رودخانه-ویرجین-2-0-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شاهزاده-خانم-ولز-در-فیلم-مستند-ویژه-شفا-به-نبرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
