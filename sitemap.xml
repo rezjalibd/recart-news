@@ -611,6 +611,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/متا-و-سازنده-کلاد-بار-دیگر-به-سرقت-محتوای-کتاب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اگر-شبکه-ملی-اطلاعات-تکمیل-نشود-نسل-های-آینده-شهروندان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روزنه-امید-در-مقابله-با-سرطان-لوزالمعده-مهار-رشد-تومور/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شرکت-مونتاژکننده-آیفون-احتمالا-اولین-گوشی-اوپن-ای-آی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-جمنای-کنترل-مک-را-به-دست-می-گیرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/توجه-دارندگان-پیکسل-9-و-10-آیا-واقعا-ارزش-ارتقا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تلویزیون-های-oled-سامسونگ-در-مقابل-ال-جی-تفاوت-بین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-همان-چیزی-است-که-می-تواند-اتفاق-بیفتد-اگر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
