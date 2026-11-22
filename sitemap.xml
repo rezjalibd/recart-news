@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نماد-کلید-کوچک-در-دستگاه-اندروید-شما-به-چه-معناست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/برای-استفاده-از-صفحه-نمایش-تقسیم-شده-در-اندروید-نیازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-دیگر-با-شوهرم-صحبت-نکردم-و-اجازه-دادم-هوش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونالدو-مارادونا-و-باجو-تیم-منتخب-جهان-چه-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -822,6 +822,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/sheglam-با-سومین-مجموعه-آرایش-های-هری-پاتر-خزانه-جادوگران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جان-تورتورو-در-حالی-که-جایزه-بزرگداشت-جشنواره-فیلم-مراکش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازی-های-گرسنگی-جوزف-زادا-را-در-فیلم-برداری-نقش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وحید-صابری-صدایی-که-از-کابل-برخاست-و-در-غربت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ازدواج-مایلی-سایرس-و-مکس-موراندو-در-عروسی-پالم-اسپرینگز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ساترا-پخش-آنلاین-جشن-حافظ-را-متوقف-کرد-ادامه-محدودیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بی-بی-سی-پس-از-قطع-شدن-قاطعانه-بیا-رقصیدن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
