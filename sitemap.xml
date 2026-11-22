@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جنگ-و-تحریم-هزینه-تولید-خودرو-بی-کیفیت-در-ایران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/در-بازگشت-خاموشی-ها-شهروندان-از-قطع-چند-ساعته-برق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دادبان-خطر-اجرای-حکم-اعدام-نوید-نجاران-و-میلاد-آرمون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تسخیر-جهان-با-gta-خامنه-ای-دوم-و-ارتش-آمریکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کشف-آسیب-پذیری-بحرانی-در-دروپال-هکرها-می-توانند-کنترل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هشدار-درباره-حملات-سایبری-به-زیرساخت-های-مخابرات-دستور-تقویت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وزیر-کره-جنوبی-پس-از-رسوایی-تقلب-هوش-مصنوعی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شرکت-های-حسابداری-برای-استفاده-از-هوش-مصنوعی-رقابت-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-دنبال-فرمولی-برای-توقف-یک-آخرالزمان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-سوپر-ال-نینو-امسال-گرسنگی-جهانی-را-تشدید-خواهد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
