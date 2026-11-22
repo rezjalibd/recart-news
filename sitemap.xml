@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازداشت-خشونت-آمیز-سارا-کاظمی-کلهر-فعال-حقوق-زنان-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پارسا-نجفی-پس-از-۱۷۰روز-بازداشت-از-تماس-و-ملاقات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مجتبی-زارعی-نماینده-تهران-جلسه-مجلس-به-دلیل-لات-بازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تصفیه-آب-نیمه-صنعتی-در-ویلاهای-مدرن-کنترل-کیفیت-آب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نحوه-تمیز-کردن-ایمن-gpu-رایانه-شخصی-برای-جلوگیری-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-وقتی-مانیتور-شما-آن-را-روشن-می-کنید-سوسو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/در-هواپیما-وسط-پرواز-کنده-شد-حادثه-هولناک-در-آسمان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تحرک-techcrunch-ربات-های-تست-a-b-در-مقابل-انسان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
