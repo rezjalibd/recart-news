@@ -31,7 +31,17 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سپاه-از-انفجار-دو-نفتکش-در-شرق-تنگه-هرمز-خبر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/روستایی-در-شرق-انگلستان-در-اعتراض-به-طرح-اسکان-پناهجویان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روستایی-در-شرق-انگلستان-در-اعتراض-به-طرح-اسکان-پناهجویان-21c960/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تغییر-ساختار-وزارت-اطلاعات-با-حمایت-طائب-سازمان-های-حفاظت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/صدور-حکم-۲۱۷-سال-حبس-برای-۳۲-شهروند-بهایی-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماکسیم-در-ایران-۹-سال-فعالیت-۱۲-میلیون-مسافر-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -416,6 +416,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/برخی-از-بازی-های-مورد-علاقه-ما-switch-2-تا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-اولین-ملک-اجاره-ای-خود-را-در-23-سالگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -432,6 +437,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فراخوان-گیم-جم-بازی-سازی-بر-پایه-آی-پی-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازی-های-گرسنگی-طلوع-آفتاب-در-درو-بهترین-های-افتتاحیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,12 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قیمت-اسکوترهای-طرح-هوندا-adv-در-بازار-ایران-از-۶۷۶/</loc>
+    <loc>https://recart.ir/news/در-اینجا-نحوه-صحیح-تست-سرعت-usb-خود-آورده-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تورم-تولیدکننده-از-۱۲۰-درصد-گذشت-اقتصاد-ایران-کوچک-تر/</loc>
+    <loc>https://recart.ir/news/از-مهندسی-نرم-افزار-تا-پایه-گذاری-مرجع-آنلاین-شعر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/انقلاب-کدنویسی-در-حال-آمدن-به-همه-ابزارها-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بنیانگذاران-آنتروپیک-واقعا-ثروتمند-هستند-چقدر-از-ایلان-ماسک-عقب/</loc>
+    <loc>https://recart.ir/news/داستان-جذاب-فوتبال-مونتزا-شهری-که-فقط-فرمول-یک-نیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -807,6 +812,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جو-روسو-درباره-استراتژی-تیزر-تریلر-روز-قیامت-پیش-از-انتشار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-اوبا-باتلر-راه-خود-را-به-hbo-فریب-داد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جان-کارپنتر-فاش-کرد-که-رابرت-رودریگز-در-بازی-running/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کایران-کالکین-می-گوید-یک-اسپین-اف-جانشینی-ایده-وحشتناکی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مارتین-کورتیس-بعد-از-اجرای-چپ-دست-پانیک-را-افسانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/le-sserafim-در-مورد-همکاری-با-katseye-illit-برای-iconic/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
