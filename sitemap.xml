@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-بازی-gta-6-به-طور-مخفیانه-پرونده-روان-شناختی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/۳۸-سال-پیش-در-چنین-روزی-بمب-افکن-بی-۲/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تماشا-کنید-ربات-تنیس-بازی-سونی-یکی-از-بازیکن-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جی-تی-ای-۶-تمام-رکوردها-رو-زد-تک-تاک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/امنیت-icloud-private-relay-در-مقایسه-با-جایگزین-های-vpn/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مورینیو-پس-از-کامبک-رئال-مادرید-این-سه-امتیاز-طلایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایلی-سایرس-با-مکس-موراندو-در-مراسم-کنار-استخر-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیش-بینی-های-جوایز-بازیگر-اندرو-گارفیلد-ایند-ناوارت-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کلر-دینز-با-سریال-درام-جدید-بازمی-گردد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
