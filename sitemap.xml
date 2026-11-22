@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خطای-جدی-قضاوت-خشم-نسبت-به-رویداد-نظامی-هوش-مصنوعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-بازی-gta-6-به-طور-مخفیانه-پرونده-روان-شناختی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نشانه-هایی-است-که-زمان-تعویض-محافظ-صفحه-نمایش-گوشی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وقتی-کل-شهر-شیکاگو-را-با-جک-از-روی-زمین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
