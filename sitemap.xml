@@ -836,6 +836,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جان-کارپنتر-رابرت-رودریگز-را-در-بازی-running-to-helm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لوکا-گوادانینو-می-گوید-فیلم-روانی-آمریکایی-او-به-جلو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فید-آنتونی-راموس-و-دیگران-برای-پیوستن-به-صدمین-رژه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوستاوو-دودامل-دیو-گرول-ال-ال-کول-جی-سینتیا-اریوو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
