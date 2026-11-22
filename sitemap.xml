@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تنها-با-چند-کلیک-می-توانید-تمام-ایمیل-های-خود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسیس-به-دنبال-تولید-هیولای-آفرودی-۱۱۰۰-اسب-بخاری-x/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پروازهای-دلتا-در-داخل-و-خارج-از-آتلانتا-به-دلیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تسلا-fsd-نسخه-۱۵-را-منتشر-کرد-بهبود-تشخیص-تابلوها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-سخت-افزار-کامپیوتر-قدیمی-واقعا-بی-فایده-می-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/داستان-جذاب-فوتبال-مونتزا-شهری-که-فقط-فرمول-یک-نیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -816,12 +816,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رابرت-اگرز-مشتاق-دور-شدن-از-ژانر-ترسناک-است-فکر/</loc>
+    <loc>https://recart.ir/news/ریان-جانسون-دلیل-خوشبین-بودن-به-آینده-فیلمسازی-مستقل-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ریان-جانسون-دلیل-خوشبین-بودن-به-آینده-فیلمسازی-مستقل-از/</loc>
+    <loc>https://recart.ir/news/رابرت-اگرز-مشتاق-دور-شدن-از-ژانر-ترسناک-است-فکر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
