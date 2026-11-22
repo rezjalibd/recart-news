@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کدام-نوع-پنل-خورشیدی-برای-خانه-شما-بهتر-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دانشمند-ارشد-openai-در-مورد-چگونگی-محدود-کردن-توسعه-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/امیدی-تازه-برای-درمان-سرطان-قرص-خوراکی-رشد-تومورهای-لوزالمعده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/۶-محصول-و-سرویس-گوگل-که-در-سال-۲۰۲۶-بازنشسته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
