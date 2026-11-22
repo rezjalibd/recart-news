@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عضو-کمیسیون-بهداشت-مجلس-هزینه-ماهانه-داروی-برخی-بیماران-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زندگی-بازنشستگان-ایرانی-در-اعماق-فقر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -447,6 +452,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سرپرست-وزارت-نفت-عرضه-نفت-در-بورس-به-زودی-آغاز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گرین-وب-بله-و-آچاره-در-بورس-تهران-پذیرش-شدند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -582,21 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/من-با-زندگی-در-یک-آلونک-در-حیاط-خلوتم-خانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تفاوت-واقعی-بین-سیستم-های-صوتی-ارزان-و-گران-قیمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-واکمن-های-دیجیتالی-جدید-سونی-هزاران-دلار-قیمت-دارند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-نگران-بودم-که-پسرم-پس-از-نقل-مکان-ما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
