@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رشد-۴-۵-اقتصاد-اسرائیل-در-میانه-جنگ-اروپا-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پیش-بینی-رشد-۴-۵-درصدی-اقتصاد-اسرائیل-در-میانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قطع-داروهای-کاهش-وزن-در-افراد-مبتلا-به-دیابت-نوع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گادی-آیزنکوت-حزب-لیکود-نتانیاهو-را-به-مذاکرات-فشرده-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/لیورپول-۴-۰-منچستریونایتد-باخت-سنگین-و-آغاز-فاجعه-بار-دوران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/داستان-جذاب-فوتبال-مونتزا-شهری-که-فقط-فرمول-یک-نیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +817,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نوآ-اشنپ-می-گوید-که-برای-بازی-در-بازی-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اینترمیامی-۰---۳-کلمبوس-مسی-در-آستانه-حذف-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارلا-سوفیا-گاسکون-می-گوید-جنجال-های-اسکار-امیلیا-پرز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بریتنی-اسپیرز-در-اینستاگرام-از-خانواده-اش-عذرخواهی-کرد-من/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
