@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جنگ-و-تشدید-بحران-انرژی-در-ایران-خاموشی-های-برنامه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/توقیف-دارایی-۵۰-شهروند-در-ری-بدون-اعلام-هویت-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قهرمانی-نماینده-ایران-در-اسنوکر-قره-گوزلو-با-شکست-حریف/</loc>
+    <loc>https://recart.ir/news/قطع-داروهای-کاهش-وزن-در-افراد-مبتلا-به-دیابت-نوع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گادی-آیزنکوت-حزب-لیکود-نتانیاهو-را-به-مذاکرات-فشرده-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آنتونی-آلبانیز-یک-بازی-بزرگ-در-مورد-حاکمیت-صحبت-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سیستم-رانندگی-کمکی-تسلا-برای-عرضه-در-ایتالیا-چراغ-سبز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مذاکرات-بین-المللی-سازمان-ملل-در-مورد-کنترل-استفاده-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/روزنه-امید-برای-مقابله-با-سرطان-لوزالمعده-مهار-رشد-تومور/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/صلیب-سرخ-هشدار-می-دهد-که-به-زودی-برای-تنظیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-کاری-که-هرگز-نباید-در-گوشی-اندرویدی-خود-انجام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-بهترین-نوع-هدفون-بی-سیم-برای-خروجی-صدا-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
