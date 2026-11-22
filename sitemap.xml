@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پس-از-انتقال-آرمون-و-نجاران-به-انفرادی-درخواست-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازداشت-خشونت-آمیز-سارا-کاظمی-کلهر-فعال-حقوق-زنان-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مجتبی-زارعی-نماینده-تهران-جلسه-مجلس-به-دلیل-لات-بازی/</loc>
+    <loc>https://recart.ir/news/پارک-مجسمه-های-سورئال-در-مراکش-جهان-را-وارونه-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-نام-و-تصویر-نیکلاس-مادورو-در-ونزوئلا-در-حال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آتش-گرفتن-کشتی-باری-روسیه-در-خلیج-فنلاند-پس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-با-ey-از-لندن-به-آستین-نقل-مکان-کردم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پس-از-جدایی-مدیرعامل-وحید-رضایی-از-هدایت-شمس-آذر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-می-توانید-با-خیال-راحت-از-شارژر-140-واتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-برنامه-رایگان-تلفن-اندرویدی-شما-را-به-صورت-بی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/binding-of-isaac-توسعه-دهنده-موسیقی-هوش-مصنوعی-را-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/5-تغییر-ios-27-3-تا-سال-2027-به-دستگاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
