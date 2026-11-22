@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازگشت-خاموشی-ها-به-ایران-با-آغاز-سرما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جنگ-و-تحریم-هزینه-تولید-خودرو-بی-کیفیت-در-ایران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دادبان-خطر-اجرای-حکم-اعدام-نوید-نجاران-و-میلاد-آرمون/</loc>
+    <loc>https://recart.ir/news/کاپ-۳۱-با-رد-پیش-نویس-از-سوی-اتحادیه-اروپا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پائولو-بولگاری-غول-جواهرسازی-ایتالیایی-در-۸۹-سالگی-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-توافق-با-ایران-باید-۲۰-سال-دیگر-هم-دوام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/apple-airpods-5-در-مقابل-airpods-pro-3-تفاوت-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/10-کنسول-بازی-کمیاب-که-تقریبا-هیچ-کس-مالک-آنها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دانشمندان-با-ویتامین-b12-باتری-شارژی-ساختند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-دانشمندان-به-کاوشگران-ماه-قمر-زمین-را-به-غرب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
