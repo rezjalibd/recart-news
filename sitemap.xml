@@ -836,6 +836,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شان-آستین-sag-aftra-را-در-مبارزه-برای-مراقبت-های-بهداشتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مایلی-سایرس-و-مکس-موراندو-ازدواج-کردند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/صداهای-سلولوئید-آهنگسازان-زن-کمتری-روی-صفحه-نمایش-داده-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-فیلم-های-امسال-از-مصنوعی-تا-من-راکی-بازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
