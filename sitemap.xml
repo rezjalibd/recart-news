@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/احضار-و-بازجویی-کوروش-گل-محمدی-در-کامیاران-تلفن-همراه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-خاموشی-ها-به-ایران-با-آغاز-سرما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-میلاد-آرمون-و-نوید-نجاران-به-سلول-انفرادی-نگرانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هم-زمان-با-تاکید-تهران-بر-شکستن-محاصره-دریایی-ترامپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-بعضی-ها-بیشتر-از-دیگران-سرما-می-خورند-علم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ازکی-سلر-از-قابلیت-کارمزد-ماندگار-رونمایی-کرد-حفظ-کارمزد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/apple-airpods-5-در-مقابل-airpods-pro-3-تفاوت-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دانشمندان-سعی-کردند-این-خاک-را-از-بین-ببرند-اما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دانشمندان-با-ویتامین-b12-باتری-شارژی-ساختند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/وحید-صابری-صدایی-که-از-کابل-برخاست-و-در-غربت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -867,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نتفلیکس-با-سریال-های-درام-تند-غافلگیر-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/لوکا-گوادانینو-می-گوید-فیلم-روانی-آمریکایی-او-به-جلو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عذرخواهی-ستاره-نذر-کریس-هریسون-برای-گرفتن-ته-ته-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
