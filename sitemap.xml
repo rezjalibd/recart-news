@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سیگنال-جعلی-یا-اقدام-برای-شکستن-محاصره-آمریکا-داده-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/۳۳-نفر-در-نیشابور-به-دلیل-مسمومیت-الکلی-بستری-شدند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/من-از-ایالات-متحده-به-فرانسه-نقل-مکان-کردم-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نشد-که-کلاه-را-از-شکم-اسب-آبی-بیرون-بیاوریم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
