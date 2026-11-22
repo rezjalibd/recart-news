@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-ایران-رانندگان-در-چند-شهر-دست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازگشت-خاموشی-ها-به-ایران-با-آغاز-فصل-سرما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/احضار-و-بازجویی-کوروش-گل-محمدی-در-کامیاران-تلفن-همراه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/خوابیدن-با-کاپشن-و-خاموش-کردن-چراغ-واکنش-ها-به/</loc>
+    <loc>https://recart.ir/news/شنای-پرخطر-یک-بریتانیایی-در-تنگه-هرمز-با-هدف-جلب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/انتقال-میلاد-آرمون-و-نوید-نجاران-به-سلول-انفرادی-نگرانی/</loc>
+    <loc>https://recart.ir/news/حمله-پهپادی-روسیه-به-منطقه-کی-یف-زلنسکی-بار-دیگر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نیوکاسل-۲-۲-آرسنال-توقف-آرتتا-در-سنت-جیمز-پارک-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پائولو-بولگاری-غول-جواهرسازی-ایتالیایی-در-۸۹-سالگی-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/برخی-بیماران-سرطانی-حتی-با-بیمه-ماهانه-۷۵-میلیون-تومان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -482,6 +482,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کنسول-نینتندو-سوییچ-2-برای-جمعه-سیاه-50-دلار-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قیمت-اسکوترهای-طرح-هوندا-adv-در-بازار-ایران-از-۶۷۶/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گزارش-ها-می-گویند-اف-بی-آی-در-حال-بررسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-سخت-افزار-کامپیوتر-قدیمی-واقعا-بی-فایده-می-شود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بلک-فرایدی-موبایل-۱۴۰-با-همکاری-سرویس-های-خرید-اعتباری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قابلیت-لایو-نوتیفیکیشن-در-one-ui-9-5-شبیه-داینامیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دوازدهمین-سمپوزیوم-بین-المللی-مخابرات-۱۰-آذر-برپا-می-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/وحید-صابری-صدایی-که-از-کابل-برخاست-و-در-غربت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -867,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/امروز-50-سال-پیش-the-beach-boys-کنسرت-محوری-brian/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جان-کارپنتر-رابرت-رودریگز-را-در-بازی-running-to-helm/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لوکا-گوادانینو-می-گوید-فیلم-روانی-آمریکایی-او-به-جلو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
