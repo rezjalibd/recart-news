@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پورت-usb-رایانه-شما-می-تواند-تلفن-شما-را-حتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/10-کاری-که-هرگز-نباید-در-گوشی-اندرویدی-خود-انجام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چقدر-می-توانید-برای-اپل-واچ-قدیمی-و-متوقف-شده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فرضیه-ریمان-چیست-و-چرا-اثباتش-۱۶۷-سال-آرزوی-ریاضی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
