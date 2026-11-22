@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اعتراض-به-افزایش-هزینه-های-زندگی-هزاران-نفر-در-پرتغال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازداشت-چهار-شهروند-کرد-در-دره-شهر-افزایش-شمار-بازداشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ایجاد-سازمان-حفاظت-طرح-بزرگترین-تغییرات-در-وزارت-اطلاعات-ایران/</loc>
+    <loc>https://recart.ir/news/مذاکرات-اقلیمی-کوپ۳۱-پس-از-رد-شدن-پیش-نویس-توافق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیزنکوت-حملات-شهرک-نشینان-به-روستاهای-فلسطینی-در-کرانه-باختری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سیگنال-جعلی-یا-اقدام-برای-شکستن-محاصره-آمریکا-داده-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/۳۳-نفر-در-نیشابور-به-دلیل-مسمومیت-الکلی-بستری-شدند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-دوست-من-پوتین-تا-تداعی-یالتا-ترامپ-عکسش-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-تلویزیون-می-تواند-خیلی-بزرگ-باشد-یک-تحقیق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خواب-در-مقابل-خاموش-شدن-دارندگان-xbox-series-x-واقعا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-می-توانید-one-ui-را-به-طور-کامل-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-nintendo-switch-2-2026-بسته-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دارویی-جدید-از-خانواده-ویاگرا-پیشرفت-آلزایمر-را-در-گروهی/</loc>
+    <loc>https://recart.ir/news/اینجا-جایی-است-که-می-توان-بازی-دلفین-های-میامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-گودزیلا-منهای-صفر-هر-چیزی-است-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوریلاز-chvrches-یونگ-لین-و-موارد-دیگر-5-بهترین-لحظه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
