@@ -421,6 +421,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/صدها-پرواز-دلتا-در-سراسر-کشور-پس-از-مشکل-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شتر-خون-آشام-جانور-عجیبی-که-۱۳-میلیون-سال-پیش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کاهش-شدید-قیمت-مس-نشان-می-دهد-که-اقتصاد-ایالات/</loc>
+    <loc>https://recart.ir/news/11-نوع-ابزار-هوشمند-که-باید-با-زنگ-در-حلقه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایلان-ماسک-هشدار-داد-که-تاخیر-در-مرکز-داده-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هدف-از-پورت-sc-در-لپ-تاپ-قدیمی-شما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پاوربانک-جدید-کوکتک-به-پشت-آیفون-می-چسبد-طراحی-فوق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/داستان-جذاب-فوتبال-مونتزا-شهری-که-فقط-فرمول-یک-نیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -816,7 +816,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سلنا-گومز-به-زوج-در-افشای-جنسیت-کودک-در-بازی/</loc>
+    <loc>https://recart.ir/news/سلنا-گومز-در-افشای-جنسیت-کودک-در-بازی-اسپرز-بدون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پس-از-114-سال-هتل-بورلی-هیلز-یک-زندگی-شب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شیلا-منگوبات-نامزد-90-روزه-قبل-از-ستاره-90-روز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مفقود-شدن-ده-ها-نفر-پس-از-آتش-سوزی-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایلی-سایرس-با-مکس-موراندو-در-مراسم-کنار-استخر-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایلی-سایرس-با-مکس-موراندو-در-پالم-اسپرینگز-ازدواج-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
