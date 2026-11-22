@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مزایای-استفاده-از-ایستگاه-اتصال-usb-c/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/می-خواهید-کنترل-بیشتری-بر-صفحه-اصلی-youtube-خود-داشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قابل-تشخیص-ترین-نوع-ایمیل-هرزنامه-بسیار-قدیمی-تر-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/4-جایگزین-ipad-pro-برای-کسانی-که-به-دنبال-کنار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
