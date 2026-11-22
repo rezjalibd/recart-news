@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-جدی-سیگنال-درباره-جاسوسی-ناخواسته-هوش-مصنوعی-پیام-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-ریاضیات-را-رها-نمی-کنم-علیرغم-اینکه-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آموزش-وپرورش-مدارس-در-روزهای-آلوده-باید-آخرین-گزینه-تعطیلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازی-gta-6-رکورد-مصرف-اینترنت-اپراتور-مخابراتی-آمریکا-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
