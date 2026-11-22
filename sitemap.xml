@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ارزان-خواری-در-ایران-بزرگسالان-از-غذای-خود-می-زنند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وزارت-بهداشت-از-ثبت-روزانه-حدود-۳۹۰-مورد-جدید-سرطان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تنگه-هرمز-شنای-یک-ورزشکار-در-منطقه-جنگی-برای-هشدار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیشنهاد-۲۵-سال-زندان-برای-پدران-فرزندکش-پس-از-مرگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رقابت-برای-تصاحب-حق-پخش-جام-جهانی-۲۰۳۰-دیزنی-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خداحافظی-با-مدارک-کاغذی-بیمه-تحول-ناگهانی-در-بیمه-ثالث/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قطعی-های-فنی-تنها-شروع-است-a-i-اختلالات-بیشتری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-گروه-ادعای-ریاضیدان-را-تأیید-می-کنند-که-کلود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
