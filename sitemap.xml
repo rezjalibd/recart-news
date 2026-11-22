@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جزییات-تازه-از-قتل-صدف-حق-بین-متهم-اعتراف-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-ایران-رانندگان-در-چند-شهر-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ارتش-ایران-مدعی-آسیب-زدن-به-جنگنده-اف-۱۶-آمریکا-شد/</loc>
+    <loc>https://recart.ir/news/اجلاس-اقلیمی-کاپ-۳۱-در-ترکیه-بدون-رسیدن-به-توافق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وقتی-کره-شمالی-به-کره-جنوبی-یورش-می-برد-آیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-مچ-پاهای-قوی-تر-و-سالم-تری-داشته-باشیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هدف-از-پورت-sc-در-لپ-تاپ-قدیمی-شما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پاوربانک-جدید-کوکتک-به-پشت-آیفون-می-چسبد-طراحی-فوق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گزارش-ها-می-گویند-اف-بی-آی-در-حال-بررسی/</loc>
+    <loc>https://recart.ir/news/ج-ا-guneet-monga-kapoor-برنده-جایزه-اسکار-دانشجویی-هیئت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گوریلاز-chvrches-یونگ-لین-و-موارد-دیگر-5-بهترین-لحظه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنجال-اظهارات-مدیران-بایرن-مونیخ-درباره-وضعیت-سلامتی-جمال-موسیالا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
