@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بختیاری-زاده-العین-تیم-قدرتمندی-است-اما-از-هیچ-حریفی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کرانه-باختری-چهار-روستای-فلسطینی-هدف-حملات-احتمالی-شهرک-نشینان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بلومبرگ-نگرانی-اصلی-نخست-وزیر-بریتانیا-نه-برگزیت-و-رفاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بررسی-اقیانوسی-مادیرا-مؤثر-بودن-حفاظت-را-نشان-داد-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/4-برنامه-تصادفی-که-ممکن-است-متوجه-نشوید-با-android/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/6-روش-مفید-برای-استفاده-از-مینی-کامپیوتر-قدیمی-خود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سوراخ-ریز-پایین-پنجره-هواپیما-برای-چیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اولین-جمعه-سیاه-هوش-مصنوعی-یک-شروع-دشوار-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دانشمندان-ژاپنی-با-ترکیب-dna-جلبک-و-همستر-سلول-دورگه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-پیشین-sec-حباب-هوش-مصنوعی-پیش-از-انتخابات-۲۰۲۸/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
