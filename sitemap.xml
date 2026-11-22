@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-عقب-نشینی-سیاسی-تا-کناره-گیری-جنسن-هوانگ-۵/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سناتور-آمریکایی-می-گوید-رابطه-جنسی-جنسن-هوانگ-گران-ترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تظاهرکنندگان-به-دفاتر-متا-در-هند-یورش-بردند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مینی-ون-لوکس-هواوی-و-بایک-با-صندلی-های-چرخان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
