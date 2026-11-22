@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حرکت-نفت-کش-ایرانی-در-تنگه-هرمز-آیا-خط-شکن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/امارات-متحده-عربی-با-کمک-آمریکا-نفت-را-از-تنگه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نماینده-مجلس-دولت-با-ترمیم-حقوق-کارگران-در-نیمه-دوم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شما-ازدواج-کنید-من-پول-می-دهم-روایت-جوانانی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -836,6 +836,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/روانی-آمریکایی-تبریر-می-شود-لوکا-گوادانینو-تأیید-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شان-آستین-sag-aftra-را-در-مبارزه-برای-مراقبت-های-بهداشتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آریانا-گرانده-وحشی-ترین-جایی-را-که-موسیقی-اش-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/صداهای-سلولوئید-آهنگسازان-زن-کمتری-روی-صفحه-نمایش-داده-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
