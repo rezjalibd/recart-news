@@ -191,6 +191,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تبلت-خاموش-حمید-رسایی-جلسه-مجلس-را-به-تعطیلی-کشاند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سهم-۴۶-۵-درصدی-وسایل-نقلیه-در-آلودگی-هوای-تهران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یک-زن-ایرانی-برای-جلوگیری-از-اعدام-به-روش-ارثی/</loc>
+    <loc>https://recart.ir/news/مقام-سازمان-ملل-داعش-خراسان-در-افغانستان-به-پهپاد-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-4-بار-پاس-قطار-آمتراک-آمریکا-را-خریده-ام/</loc>
+    <loc>https://recart.ir/news/پتروشیمی-زاگرس-از-مدار-خارج-شد-دولت-آماری-از-کسری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حداقل-دستمزد-نتفلیکس-آغازگر-دوره-کوتاه-اپیزود-کوتاه-استریمینگ-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/امید-تازه-برای-درمان-آلزایمر-قطره-بینی-که-حافظه-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/صلیب-سرخ-هشدار-می-دهد-که-به-زودی-برای-تنظیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-چاپگر-سه-بعدی-خود-را-کالیبره-کنید-و-چرا/</loc>
+    <loc>https://recart.ir/news/جنجال-تازه-در-لیگ-برتر-پای-وزیر-بازرگانی-بریتانیا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چگونه-تیم-آرایش-السینور-ستاره-های-اندرو-اسکات-و-اولیویا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بزرگ-ترین-نردهای-ساعت-های-هالیوود-به-این-برندهای-مستقل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
