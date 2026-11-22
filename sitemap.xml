@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/برخی-بیماران-سرطانی-حتی-با-بیمه-ماهانه-۷۵-میلیون-تومان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجله-خبری-۱-آذر-۱۴۰۵-۲۲-نوامبر-۲۰۲۶---نیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -477,6 +482,51 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یادداشت-معاون-سیاستگذاری-وزیر-ارتباطات-تخفیف-های-جعلی-جمعه-سیاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-و-دوستانم-آرزوی-بازنشستگی-بی-دغدغه-را-داشتیم-اکنون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-دخترم-را-2-هفته-از-مدرسه-خارج-کردم-مدیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-هوش-مصنوعی-سرمایه-گذاران-را-در-آستانه-قرار-داده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/23-بهترین-هدیه-لوکس-که-زندگی-روزمره-را-بالا-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/موضوع-مهم-بازپرداخت-وام-دانشجویی-که-توجه-دو-حزبی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-با-2-هفته-کار-و-چند-صد-دلار-مشاور/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کاهش-شدید-قیمت-مس-نشان-می-دهد-که-اقتصاد-ایالات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازیکنان-gta-6-نمی-توانند-جلوی-دور-زدن-در-بازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -551,56 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گذار-به-بانکداری-باز-و-احیای-سرمایه-های-مرده-طلای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دونالد-ترامپ-پس-از-نزدیک-به-۲۵۰-سال-به-تولید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قیمت-جدید-باتری-خودرو-در-بازار-اعلام-شد-باتری-۶۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آمریکا-تولید-سکه-ای-را-که-چهار-برابر-ارزشش-هزینه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سرپرست-وزارت-نفت-عرضه-نفت-در-بورس-به-زودی-آغاز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گرین-وب-بله-و-آچاره-در-بورس-تهران-پذیرش-شدند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتشار-بازی-gta-6-چه-تأثیری-بر-قیمت-کنسول-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-ai-اکنون-تایوان-را-مجبور-کرده-است-تا-اقدامات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ipad-air-در-مقابل-ipad-pro-ویژگی-هایی-که-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنرال-موتورز-به-دنبال-مدیرعامل-جدید-است-پایان-دوران-۱۲/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گزارش-ها-می-گویند-اف-بی-آی-در-حال-بررسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آماده-سازان-بعد-از-قطعی-وسایل-اضطراری-وسایل-اضطراری-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-بنیان-گذاران-فین-تک-می-گویند-هوش-مصنوعی-بازخورد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جریان-های-هوش-مصنوعی-در-یک-مکان-موسیقی-آینده-داستان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بلک-فرایدی-موبایل-۱۴۰-خرید-محصولات-دیجیتال-با-پیشنهادهای-ویژه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اینترنت-همراه-اول-برای-خط-اعتباری-یا-دائمی-پیش-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پلیس-فتا-درباره-کلاهبرداری-با-تخفیف-های-بلک-فرایدی-هشدار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-وزارت-ارشاد-انتشار-خبر-بدون-مجوز-در-سکوهای-فروش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
