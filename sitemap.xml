@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-رایگانی-که-ویدیوهای-معمولی-را-به-انیمیشن-سه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-جمنای-کنترل-مک-را-به-دست-می-گیرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وقتی-رنگ-ها-کنار-می-روند-تماشایی-ترین-تصاویر-جوایز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اختراع-جدید-چری-راز-وانت-دیزلی-برقی-را-فاش-کرد-آفرود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
