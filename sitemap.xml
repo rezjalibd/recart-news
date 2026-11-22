@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آتش-گرفتن-کشتی-باری-روسیه-در-خلیج-فنلاند-پس-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پس-از-جدایی-مدیرعامل-وحید-رضایی-از-هدایت-شمس-آذر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مکزیک-ال-چاپو-ایسیدرو-قاچاقچی-بزرگ-مواد-مخدر-را-دستگیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/برخی-بیماران-سرطانی-حتی-با-بیمه-ماهانه-۷۵-میلیون-تومان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -482,6 +482,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/داروهای-glp-1-می-توانند-بازده-زیست-محیطی-شگفت-انگیزی-داشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نوبیتکس-گام-تازه-ای-در-توسعه-خدمات-مالی-مبتنی-بر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گزارش-ها-می-گویند-اف-بی-آی-در-حال-بررسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سرشماری-مجازی-تا-۵-آذر-تمدید-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تغییر-مهم-در-خرید-خودروهای-صفر-از-اول-آذر-پرداخت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-بلک-فرایدی-فیدیبو-تا-۷۰-تخفیف-چه-کتابی-بخریم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
