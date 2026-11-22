@@ -421,6 +421,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شتر-خون-آشام-جانور-عجیبی-که-۱۳-میلیون-سال-پیش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-حلقه-های-پیاز-را-از-burger-king-dairy-queen/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازیکنان-gta-6-نمی-توانند-جلوی-دور-زدن-در-بازی/</loc>
+    <loc>https://recart.ir/news/binding-of-isaac-توسعه-دهنده-موسیقی-هوش-مصنوعی-را-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/5-تغییر-ios-27-3-تا-سال-2027-به-دستگاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/apple-airpods-5-در-مقابل-airpods-pro-3-تفاوت-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/10-کنسول-بازی-کمیاب-که-تقریبا-هیچ-کس-مالک-آنها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/داستان-جذاب-فوتبال-مونتزا-شهری-که-فقط-فرمول-یک-نیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تام-جکسون-پخش-کننده-تالار-مشاهیر-espn-و-مدافع-خط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنیفر-لوپز-دنباله-هیولا-در-قانون-را-با-جین-فوندا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سازندگان-jellowjackets-در-پایان-برنامه-قبل-از-برنامه-پنج-فصل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
