@@ -486,17 +486,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کارمزد-خرید-طلا-در-میلی-از-۳۰-آبان-تا-۶/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جشنواره-بلک-فرایدی-فراز-آغاز-شد-تخفیف-های-ویژه-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یک-خواستگار-نخبه-نشان-می-دهد-که-مدیران-از-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اتوی-موی-خشک-به-خشک-dyson-s-airstrait-با-100/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارمزد-خرید-طلا-در-میلی-از-۳۰-آبان-تا-۶/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/از-وام-بدون-ضامن-تا-تسهیلات-۴۰۰-میلیون-تومانی-جزئیات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گزارش-ها-می-گویند-اف-بی-آی-در-حال-بررسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/10-کنسول-بازی-کمیاب-که-تقریبا-هیچ-کس-مالک-آنها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نماد-دانه-برف-آبی-برای-باتری-تسلا-شما-چه-معنایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چطور-با-۷-دستور-ساده-هر-موضوعی-را-با-هوش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-معاون-سابق-منابع-انسانی-در-مایکروسافت-هستم-اگر-می/</loc>
+    <loc>https://recart.ir/news/وحید-صابری-صدایی-که-از-کابل-برخاست-و-در-غربت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عذرخواهی-ستاره-نذر-کریس-هریسون-برای-گرفتن-ته-ته-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماهرشالا-علی-می-گوید-مهم-نیست-که-2-اسکار-برده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
