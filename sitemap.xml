@@ -221,6 +221,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بررسی-اقیانوسی-مادیرا-مؤثر-بودن-حفاظت-را-نشان-داد-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اروپا-آماده-است-کارگران-را-با-مهارت-نه-مدرک-بسنجد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اقامت-پنج-ستاره-در-قطر-هتل-ها-و-اقامتگاه-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مرگ-دو-کودک-به-دست-پدر-در-مصر-چه-کسی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سیگنال-جعلی-یا-اقدام-برای-شکستن-محاصره-آمریکا-داده-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -391,22 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مدیرعامل-شرکت-توانیر-مشترکان-پرمصرف-ممکن-است-با-قطع-چند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سطح-تازه-ای-از-تجاوزگری-روسیه-در-اروپا-ماکرون-هشدار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ژاپن-تاکسی-هوایی-خودران-نخستین-پرواز-مسافری-بدون-خلبان-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-از-ایالات-متحده-به-فرانسه-نقل-مکان-کردم-و/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۱-آذر-۱۴۰۵-۲۲-نوامبر-۲۰۲۶---بامدادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تعطیلی-کارخانه-های-پنبه-پاک-کنی-گلستان-در-پی-کاهش/</loc>
+    <loc>https://recart.ir/news/محدودیت-برق-از-امروز-آغاز-می-شود-اطلاع-رسانی-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارمند-anthropic-ادعا-می-کند-که-معروف-ترین-مسئله-ریاضی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نشانه-هایی-است-که-زمان-تعویض-محافظ-صفحه-نمایش-گوشی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
