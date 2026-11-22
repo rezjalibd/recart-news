@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/علیرضا-بیرانوند-افتخار-بزرگی-است-که-نامم-در-کنار-علی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-جمهوری-اسلامی-را-به-ازسرگیری-حملات-پس-از-آغاز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پیش-بینی-رشد-۴-۵-درصدی-اقتصاد-اسرائیل-در-میانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,22 +411,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-درباره-هک-پایگاه-اطلاعات-جنایی-اف-بی-آی-اتفاق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رسانه-های-اسرائیلی-واشنگتن-و-تل-آویو-برای-ازسرگیری-احتمالی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجله-خبری-۱-آذر-۱۴۰۵-۲۲-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بیش-از-1000-پرواز-دلتا-در-سراسر-کشور-به-دلیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/23-بهترین-هدیه-لوکس-که-زندگی-روزمره-را-بالا-می/</loc>
+    <loc>https://recart.ir/news/این-ربات-نرم-بدون-هیچ-تراشه-ای-با-سرعت-۱۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/محققان-شب-بیداری-و-شام-دیرهنگام-می-تواند-سلامت-شما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-هرگز-نباید-داخل-کامپیوتر-خود-را-جاروبرقی-بکشید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
