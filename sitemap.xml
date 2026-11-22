@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/۱۳۰-روز-محاصره-دریایی-ایران-نفتکش-خط-شکن-وجود-خارجی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ارزان-خواری-در-ایران-بزرگسالان-از-غذای-خود-می-زنند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/۱۰۵۰-واگن-متروی-تهران-در-چین-زمین-گیر-شدند-محاصره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تنگه-هرمز-شنای-یک-ورزشکار-در-منطقه-جنگی-برای-هشدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مفقود-شدن-ده-ها-نفر-پس-از-آتش-سوزی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مورینیو-پس-از-کامبک-رئال-مادرید-این-سه-امتیاز-طلایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پس-از-ملاقات-در-پشت-صحنه-در-کتاب-مورمون-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیش-بینی-های-جوایز-بازیگر-اندرو-گارفیلد-ایند-ناوارت-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
