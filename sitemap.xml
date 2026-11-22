@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/۳۴۵-پیروزی-در-لالیگا-دیگو-سیمئونه-به-یک-رکورد-دست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پارک-مجسمه-های-سورئال-در-مراکش-جهان-را-وارونه-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آتش-گرفتن-کشتی-باری-روسیه-در-خلیج-فنلاند-پس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مرکز-آمار-ایران-تورم-نقطه-به-نقطه-تولیدکننده-از-۱۲۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -422,6 +422,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یوتیوب-در-آستانه-پرداخت-غرامت-۳-میلیارد-دلاری-اتهام-آسیب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زمانی-که-یک-موسس-کافی-شاپ-مدلی-را-که-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-116-زن-رقابت-کننده-برای-انتخاب-miss-universe-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -582,21 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اتوی-موی-خشک-به-خشک-dyson-s-airstrait-با-100/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قیمت-روز-انواع-خودرو-در-بازار-۱-آذر-۱۴۰۵/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-رویداد-مل-ی-گلد-باهدف-رونمایی-از-کتاب-پلتفرم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شفافیت-در-اقتصاد-دیجیتال-از-مزیت-رقابتی-تا-مسئولیت-سازمانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -831,6 +831,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اتیز-امسال-برای-سومین-بار-در-بیلبورد-200-در-جایگاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طرفداران-leave-with-me-از-lisa-را-به-عنوان-موسیقی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پس-از-114-سال-هتل-بورلی-هیلز-یک-زندگی-شب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جف-گلدبلوم-ماریون-کوتیار-و-جان-تورتورو-با-شاهزاده-hrh/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
