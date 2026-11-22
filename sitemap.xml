@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/توجه-دارندگان-پیکسل-9-و-10-آیا-واقعا-ارزش-ارتقا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تلویزیون-های-oled-سامسونگ-در-مقابل-ال-جی-تفاوت-بین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-همان-چیزی-است-که-می-تواند-اتفاق-بیفتد-اگر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شش-پروژه-ساده-raspberry-pi-برای-مبتدیان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-می-گوید-هک-پایگاه-داده-گزارش-شده-fbi-خوب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نحوه-استفاده-از-پنل-خورشیدی-برای-شارژ-گوشی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
