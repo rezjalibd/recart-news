@@ -496,6 +496,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-به-یک-مستند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازی-های-گرسنگی-طلوع-آفتاب-در-درو-بهترین-های-افتتاحیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-و-دوستانم-آرزوی-بازنشستگی-بی-دغدغه-را-داشتیم-اکنون/</loc>
+    <loc>https://recart.ir/news/می-خواهید-کنترل-بیشتری-بر-صفحه-اصلی-youtube-خود-داشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تظاهرکنندگان-به-دفاتر-متا-در-هند-یورش-بردند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونالدو-مارادونا-و-باجو-تیم-منتخب-جهان-چه-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -822,6 +822,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/عکس-های-عروسی-مایلی-سایرس-و-مکس-موراندو-اینجا-هستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/sxsw-با-جشنواره-uth-مصر-که-به-فرهنگ-جوانان-اختصاص/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ساترا-مانع-پخش-زنده-جشن-تئاتر-و-موسیقی-حافظ-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
