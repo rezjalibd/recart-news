@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-نتیجه-انتخابات-در-۴-کشور-بزرگ-اتحادیه-اروپا-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اجلاس-اقلیمی-کاپ-۳۱-در-ترکیه-بدون-رسیدن-به-توافق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/وقتی-کره-شمالی-به-کره-جنوبی-یورش-می-برد-آیا/</loc>
+    <loc>https://recart.ir/news/فراخوان-گیم-جم-بازی-سازی-بر-پایه-آی-پی-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/افزایش-شدید-قیمت-خودروهای-هیوندای-در-آذر-۱۴۰۵-توسان-۳/</loc>
+    <loc>https://recart.ir/news/آیا-می-توانید-one-ui-را-به-طور-کامل-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دارویی-جدید-از-خانواده-ویاگرا-پیشرفت-آلزایمر-را-در-گروهی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-جدی-سیگنال-درباره-جاسوسی-ناخواسته-هوش-مصنوعی-پیام-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
