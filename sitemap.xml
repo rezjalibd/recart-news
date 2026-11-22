@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-شبح-جنگ-تا-شهرهای-موشکی-بازدارندگی-مطلق-پس-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تغییر-ساختار-وزارت-اطلاعات-با-حمایت-طائب-سازمان-های-حفاظت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کاهش-ذخایر-گازوئیل-در-جنگ-هشدار-درباره-قطع-چند-هفته/</loc>
+    <loc>https://recart.ir/news/مرگ-دو-کودک-به-دست-پدر-در-مصر-وقتی-خطر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مسابقات-قهرمانی-nwsl-را-کجا-تماشا-کنیم-واشنگتن-اسپریت-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جوانان-اروپایی-بار-دیگر-خیابان-ها-را-تصرف-کردند-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,7 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/امید-تازه-برای-درمان-آلزایمر-قطره-بینی-که-حافظه-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پلیس-فتا-درباره-کلاهبرداری-با-تخفیف-های-بلک-فرایدی-هشدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گزارش-شده-است-که-fbi-و-usda-در-حملات-سایبری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ابزار-رایگان-raspberry-pi-که-باید-از-آن-برای-دسترسی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کابل-های-فیبر-نوری-قبل-از-از-دست-دادن-سیگنال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
