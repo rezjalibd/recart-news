@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/صدور-حکم-بیش-از-۱۵سال-زندان-برای-معین-فلاحیان-شهروند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ثبت-۱۳۸-حادثه-برای-نفتکش-ها-و-کشتی-های-تجاری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنگ-و-تشدید-بحران-انرژی-در-ایران-خاموشی-های-برنامه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تبلت-خاموش-حمید-رسایی-جلسه-مجلس-را-به-تعطیلی-کشاند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/برای-استفاده-از-صفحه-نمایش-تقسیم-شده-در-اندروید-نیازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/برند-pureview-نوکیا-احیا-می-شود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/apple-intelligence-چقدر-در-آیفون-شما-استفاده-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونالدو-مارادونا-و-باجو-تیم-منتخب-جهان-چه-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -822,6 +822,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نوآ-اشنپ-تصویری-از-استماع-طلوع-خورشید-در-درو-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شیلا-منگوبات-نامزد-90-روزه-قبل-از-ستاره-90-روز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -872,11 +882,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پس-از-114-سال-هتل-بورلی-هیلز-یک-زندگی-شب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شیلا-منگوبات-نامزد-90-روزه-قبل-از-ستاره-90-روز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بی-بی-سی-پس-از-قطع-شدن-قاطعانه-بیا-رقصیدن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جیمز-گری-در-مورد-توصیه-فرانسیس-فورد-کاپولا-که-شغل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
