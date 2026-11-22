@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ثبت-۱۳۸-حادثه-برای-نفتکش-ها-و-کشتی-های-تجاری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/محمد-مالجو-پژوهشگر-و-اقتصاددان-به-یک-سال-زندان-محکوم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/توقیف-دارایی-۵۰-شهروند-در-ری-بدون-اعلام-هویت-و/</loc>
+    <loc>https://recart.ir/news/پیش-بینی-رشد-۴-۵-درصدی-اقتصاد-اسرائیل-در-میانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/میلان-۵-۱-فروزینونه-پیروزی-آسان-روسونری-در-سن-سیرو-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -231,7 +241,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پیش-بینی-رشد-۴-۵-درصدی-اقتصاد-اسرائیل-در-میانه/</loc>
+    <loc>https://recart.ir/news/پیش-بینی-رشد-۴-۵-درصدی-اقتصاد-اسرائیل-در-میانه-fd187c/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -302,6 +312,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اجلاس-اقلیمی-کاپ-۳۱-در-ترکیه-بدون-رسیدن-به-توافق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تحلیل-ها-نشان-می-دهد-که-روسای-مرکز-داده-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -392,21 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رسانه-های-اسرائیلی-واشنگتن-و-تل-آویو-برای-ازسرگیری-احتمالی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/با-وجود-مخالفت-جمهوری-اسلامی-اجرای-مسیر-ترامپ-در-قفقاز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرستو-فروهر-شرکت-کنندگان-مراسم-سالگرد-قتل-والدینم-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زهرا-اینچه-درگاهی-رییس-پیشین-فدراسیون-ژیمناستیک-به-دو-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/5-تنظیمات-اپل-واچ-که-می-تواند-به-شما-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایستگاه-شارژ-جدید-جکری-با-پشتیبانی-از-شارژ-خورشیدی-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نماد-ساعت-کوچک-در-بالای-گوشی-سامسونگ-شما-به-چه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیا-تلویزیون-می-تواند-خیلی-بزرگ-باشد-یک-تحقیق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خواب-در-مقابل-خاموش-شدن-دارندگان-xbox-series-x-واقعا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/لیورپول-۴-۰-منچستریونایتد-باخت-سنگین-و-آغاز-فاجعه-بار-دوران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیوید-لیچ-به-روزرسانی-ocean-s-14-را-ارائه-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شوک-به-صدرنشین-لیگ-برتر-مصدومیت-نگران-کننده-رایا-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کاتسی-کامیلا-کابلو-را-برای-رقص-گابریلا-در-شوی-لس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
