@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>داشبورد مدیریت و تحلیل ترافیک — ریکارت (نیلای)</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <style>
+    :root {
+      --dash-bg: #f8fafc;
+      --dash-card: #ffffff;
+      --dash-border: #e2e8f0;
+      --dash-text: #0f172a;
+      --dash-subtext: #64748b;
+      --dash-accent: #0284c7;
+      --dash-accent-hover: #0369a1;
+      --dash-success: #10b981;
+      --dash-danger: #ef4444;
+      --dash-badge-bg: #f1f5f9;
+    }
+    [data-theme="dark"] {
+      --dash-bg: #0b0f19;
+      --dash-card: #111827;
+      --dash-border: #1f2937;
+      --dash-text: #f9fafb;
+      --dash-subtext: #9ca3af;
+      --dash-accent: #38bdf8;
+      --dash-accent-hover: #0284c7;
+      --dash-success: #34d399;
+      --dash-danger: #f87171;
+      --dash-badge-bg: #1e293b;
+    }
+    body {
+      background-color: var(--dash-bg);
+      color: var(--dash-text);
+      font-family: var(--font-body, 'IRANSansX', sans-serif);
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+    .dash-header {
+      background: var(--dash-card);
+      border-bottom: 1px solid var(--dash-border);
+      padding: 1rem 1.5rem;
+      position: sticky;
+      top: 0;
+      z-index: 40;
+    }
+    .dash-header-inner {
+      max-width: 1300px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .dash-brand {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+    .dash-title-group h1 {
+      font-family: var(--font-heading, 'Peyda', sans-serif);
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin: 0;
+      color: var(--dash-text);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .dash-title-group p {
+      margin: 0.15rem 0 0 0;
+      font-size: 0.8rem;
+      color: var(--dash-subtext);
+    }
+    .dash-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.5rem 0.9rem;
+      font-size: 0.85rem;
+      font-family: var(--font-body, 'IRANSansX', sans-serif);
+      font-weight: 600;
+      border-radius: 8px;
+      border: 1px solid var(--dash-border);
+      background: var(--dash-card);
+      color: var(--dash-text);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      text-decoration: none;
+    }
+    .btn:hover {
+      border-color: var(--dash-accent);
+      color: var(--dash-accent);
+    }
+    .btn-primary {
+      background: var(--dash-accent);
+      border-color: var(--dash-accent);
+      color: #ffffff !important;
+    }
+    .btn-primary:hover {
+      background: var(--dash-accent-hover);
+      border-color: var(--dash-accent-hover);
+    }
+    .btn-sm {
+      padding: 0.35rem 0.65rem;
+      font-size: 0.8rem;
+    }
+    .dash-container {
+      max-width: 1300px;
+      margin: 1.5rem auto;
+      padding: 0 1.25rem;
+    }
+    /* Controls Bar */
+    .controls-panel {
+      background: var(--dash-card);
+      border: 1px solid var(--dash-border);
+      border-radius: 12px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+    .filter-label {
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--dash-subtext);
+      margin-left: 0.25rem;
+    }
+    .pill-select {
+      display: inline-flex;
+      background: var(--dash-badge-bg);
+      padding: 3px;
+      border-radius: 8px;
+      border: 1px solid var(--dash-border);
+    }
+    .pill-btn {
+      padding: 0.4rem 0.8rem;
+      font-size: 0.82rem;
+      font-family: inherit;
+      border: none;
+      background: transparent;
+      color: var(--dash-subtext);
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 500;
+      transition: all 0.2s;
+    }
+    .pill-btn.active {
+      background: var(--dash-card);
+      color: var(--dash-accent);
+      font-weight: 700;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+    }
+    /* Stats Grid */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    .kpi-card {
+      background: var(--dash-card);
+      border: 1px solid var(--dash-border);
+      border-radius: 12px;
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      transition: transform 0.2s;
+    }
+    .kpi-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 0.82rem;
+      color: var(--dash-subtext);
+    }
+    .kpi-val {
+      font-family: var(--font-heading, 'Peyda', sans-serif);
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--dash-text);
+      line-height: 1.1;
+    }
+    .kpi-desc {
+      font-size: 0.78rem;
+      color: var(--dash-subtext);
+    }
+    /* Main Content Card */
+    .dash-main-card {
+      background: var(--dash-card);
+      border: 1px solid var(--dash-border);
+      border-radius: 12px;
+      overflow: hidden;
+      margin-bottom: 2rem;
+    }
+    .tabs-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--dash-border);
+      padding: 0 1rem;
+      background: var(--dash-badge-bg);
+      overflow-x: auto;
+    }
+    .tab-nav {
+      display: flex;
+      gap: 0.25rem;
+    }
+    .tab-btn {
+      padding: 1rem 1.25rem;
+      font-family: var(--font-heading, 'Peyda', sans-serif);
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--dash-subtext);
+      background: transparent;
+      border: none;
+      border-bottom: 2px solid transparent;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      white-space: nowrap;
+      transition: all 0.2s;
+    }
+    .tab-btn:hover {
+      color: var(--dash-text);
+    }
+    .tab-btn.active {
+      color: var(--dash-accent);
+      border-bottom-color: var(--dash-accent);
+      background: var(--dash-card);
+    }
+    .tab-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem 0;
+    }
+    .search-box {
+      position: relative;
+      min-width: 200px;
+    }
+    .search-input {
+      width: 100%;
+      padding: 0.45rem 2rem 0.45rem 0.75rem;
+      border: 1px solid var(--dash-border);
+      border-radius: 6px;
+      background: var(--dash-card);
+      color: var(--dash-text);
+      font-family: inherit;
+      font-size: 0.82rem;
+      box-sizing: border-box;
+    }
+    .search-icon {
+      position: absolute;
+      right: 0.6rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--dash-subtext);
+      pointer-events: none;
+    }
+    .tab-content {
+      display: none;
+      padding: 1.25rem;
+    }
+    .tab-content.active {
+      display: block;
+    }
+    /* Tables */
+    .table-responsive {
+      overflow-x: auto;
+    }
+    .dash-table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: right;
+      font-size: 0.88rem;
+    }
+    .dash-table th {
+      padding: 0.75rem 1rem;
+      font-family: var(--font-heading, 'Peyda', sans-serif);
+      font-weight: 700;
+      color: var(--dash-subtext);
+      background: var(--dash-badge-bg);
+      border-bottom: 1px solid var(--dash-border);
+      white-space: nowrap;
+    }
+    .dash-table td {
+      padding: 0.85rem 1rem;
+      border-bottom: 1px solid var(--dash-border);
+      color: var(--dash-text);
+      vertical-align: middle;
+    }
+    .dash-table tr:hover td {
+      background-color: var(--dash-badge-bg);
+    }
+    .rank-num {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--dash-badge-bg);
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--dash-subtext);
+    }
+    .rank-top {
+      background: #fef3c7;
+      color: #b45309;
+    }
+    [data-theme="dark"] .rank-top {
+      background: #78350f;
+      color: #fef3c7;
+    }
+    .badge-cat {
+      display: inline-block;
+      padding: 0.2rem 0.55rem;
+      font-size: 0.75rem;
+      border-radius: 4px;
+      font-weight: 600;
+      background: var(--dash-badge-bg);
+      color: var(--dash-subtext);
+    }
+    .progress-bar-wrap {
+      width: 100%;
+      min-width: 100px;
+      background: var(--dash-badge-bg);
+      height: 6px;
+      border-radius: 3px;
+      overflow: hidden;
+      margin-top: 0.35rem;
+    }
+    .progress-bar-fill {
+      height: 100%;
+      background: var(--dash-accent);
+      border-radius: 3px;
+    }
+    /* Auth Modal */
+    .auth-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.75);
+      backdrop-filter: blur(8px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 100;
+      padding: 1rem;
+    }
+    .auth-box {
+      background: var(--dash-card);
+      border: 1px solid var(--dash-border);
+      border-radius: 16px;
+      width: 100%;
+      max-width: 400px;
+      padding: 2.25rem 2rem;
+      box-shadow: 0 20px 25px -5px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+    .auth-box h2 {
+      font-family: var(--font-heading, 'Peyda', sans-serif);
+      margin: 1rem 0 0.5rem 0;
+      font-size: 1.35rem;
+    }
+    .auth-box p {
+      color: var(--dash-subtext);
+      font-size: 0.88rem;
+      margin-bottom: 1.5rem;
+    }
+    .auth-input {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      border: 1px solid var(--dash-border);
+      border-radius: 8px;
+      background: var(--dash-bg);
+      color: var(--dash-text);
+      font-size: 1rem;
+      direction: ltr;
+      text-align: center;
+      box-sizing: border-box;
+      margin-bottom: 1rem;
+    }
+    .auth-input:focus {
+      outline: none;
+      border-color: var(--dash-accent);
+    }
+    .auth-error {
+      color: var(--dash-danger);
+      font-size: 0.82rem;
+      margin-top: 0.5rem;
+      display: none;
+    }
+    /* Loading Spinner */
+    .spinner {
+      border: 2px solid var(--dash-border);
+      border-top-color: var(--dash-accent);
+      border-radius: 50%;
+      width: 18px;
+      height: 18px;
+      animation: spin 0.8s linear infinite;
+      display: inline-block;
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    .empty-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--dash-subtext);
+    }
+    .tag-cloud {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      padding: 0.5rem 0;
+    }
+    .tag-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.4rem 0.8rem;
+      border-radius: 20px;
+      background: var(--dash-badge-bg);
+      border: 1px solid var(--dash-border);
+      font-size: 0.82rem;
+      color: var(--dash-text);
+    }
+    .tag-chip strong {
+      color: var(--dash-accent);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Auth Screen -->
+  <div id="auth-modal" class="auth-overlay">
+    <div class="auth-box">
+      <div style="display: flex; justify-content: center; margin-bottom: 0.5rem;">
+        <img src="/assets/images/Recart_Logo_Dark.webp" alt="ریکارت" style="height: 38px;">
+      </div>
+      <h2>ورود به پیشخوان تحلیل نیلای</h2>
+      <p>جهت دسترسی به گزارش‌های تحلیلی، رمز عبور را وارد نمایید.</p>
+      <form id="auth-form" onsubmit="handleLogin(event)">
+        <input type="password" id="auth-pass" class="auth-input" placeholder="رمز عبور" required autocomplete="current-password" autofocus>
+        <button type="submit" id="auth-submit-btn" class="btn btn-primary" style="width: 100%; justify-content: center; padding: 0.75rem;">
+          <span>تایید و ورود</span>
+        </button>
+        <div id="auth-error-msg" class="auth-error">رمز عبور نادرست است.</div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Main Dashboard App (hidden until auth) -->
+  <div id="dash-app" style="display: none;">
+    
+    <!-- Top Header -->
+    <header class="dash-header">
+      <div class="dash-header-inner">
+        <div class="dash-brand">
+          <a href="/" style="display: flex; align-items: center;">
+            <img src="/assets/images/Recart_Logo_Dark.webp" alt="ریکارت" style="height: 32px;">
+          </a>
+          <div class="dash-title-group">
+            <h1>پیشخوان تحلیل و گزارش ترافیک</h1>
+            <p>رسانه هوشمند ریکارت • سامانه گزارش‌گیری Nilay</p>
+          </div>
+        </div>
+        <div class="dash-actions">
+          <button id="theme-btn" class="btn btn-sm" onclick="toggleTheme()" title="تغییر تم">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+            <span id="theme-text">حالت تیره</span>
+          </button>
+          <button class="btn btn-sm" onclick="fetchAnalytics()" id="refresh-btn">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+            <span>بروزرسانی</span>
+          </button>
+          <button class="btn btn-sm" onclick="handleLogout()" style="color: var(--dash-danger);">
+            <span>خروج</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <div class="dash-container">
+      
+      <!-- Filter Controls Bar -->
+      <section class="controls-panel">
+        <div class="filter-group">
+          <span class="filter-label">بازه زمانی:</span>
+          <div class="pill-select">
+            <button class="pill-btn active" data-period="today" onclick="setPeriod('today')">امروز (روزانه)</button>
+            <button class="pill-btn" data-period="week" onclick="setPeriod('week')">۷ روز گذشته (هفتگی)</button>
+            <button class="pill-btn" data-period="month" onclick="setPeriod('month')">۳۰ روز گذشته (ماهانه)</button>
+            <button class="pill-btn" data-period="year" onclick="setPeriod('year')">یک سال گذشته (سالانه)</button>
+          </div>
+        </div>
+        
+        <div class="filter-group">
+          <span class="filter-label">ترتیب نمایش:</span>
+          <div class="pill-select">
+            <button class="pill-btn active" data-sort="desc" onclick="setSort('desc')">پربازدیدترین ⬇️</button>
+            <button class="pill-btn" data-sort="asc" onclick="setSort('asc')">کم‌بازدیدترین ⬆️</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- KPI Summary Cards -->
+      <section class="kpi-grid">
+        <div class="kpi-card">
+          <div class="kpi-header">
+            <span>کل بازدید صفحات</span>
+            <span>👁️</span>
+          </div>
+          <div class="kpi-val" id="kpi-total-views">۰</div>
+          <div class="kpi-desc">مجموع بارگذاری صفحات در بازه انتخابی</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-header">
+            <span>بازدیدکنندگان یکتا</span>
+            <span>👥</span>
+          </div>
+          <div class="kpi-val" id="kpi-total-visitors">۰</div>
+          <div class="kpi-desc">تعداد شناسه بازدیدکنندگان منحصر‌به‌فرد</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-header">
+            <span>صفحات و پست‌های فعال</span>
+            <span>📑</span>
+          </div>
+          <div class="kpi-val" id="kpi-total-posts">۰</div>
+          <div class="kpi-desc">تعداد پست‌ها و صفحات مشاهده شده</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-header">
+            <span>میانگین بازدید کاربر</span>
+            <span>⚡</span>
+          </div>
+          <div class="kpi-val" id="kpi-avg-views">۰</div>
+          <div class="kpi-desc">شاخص تعامل به ازای هر کاربر</div>
+        </div>
+      </section>
+
+      <!-- Main Breakdown Tabs Card -->
+      <section class="dash-main-card">
+        <div class="tabs-header">
+          <div class="tab-nav">
+            <button class="tab-btn active" data-tab="tab-posts" onclick="switchTab('tab-posts')">
+              <span>📑 پست‌ها و اخبار</span>
+            </button>
+            <button class="tab-btn" data-tab="tab-categories" onclick="switchTab('tab-categories')">
+              <span>🏷️ دسته‌بندی‌ها</span>
+            </button>
+            <button class="tab-btn" data-tab="tab-tags" onclick="switchTab('tab-tags')">
+              <span>🔖 تگ‌ها و کلیدواژه‌ها</span>
+            </button>
+            <button class="tab-btn" data-tab="tab-sources" onclick="switchTab('tab-sources')">
+              <span>📡 منابع خبری</span>
+            </button>
+          </div>
+          <div class="tab-actions">
+            <div class="search-box">
+              <svg class="search-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+              <input type="text" id="tab-search" class="search-input" placeholder="جستجو در این جدول..." oninput="handleTableSearch(this.value)">
+            </div>
+            <button class="btn btn-sm" onclick="exportCurrentTabCSV()" title="خروجی فایل اکسل/CSV">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+              <span>CSV</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- 1. Posts Tab -->
+        <div id="tab-posts" class="tab-content active">
+          <div class="table-responsive">
+            <table class="dash-table">
+              <thead>
+                <tr>
+                  <th style="width: 50px;">رتبه</th>
+                  <th>عنوان خبر / صفحه</th>
+                  <th style="width: 130px;">دسته‌بندی</th>
+                  <th style="width: 120px;">منبع</th>
+                  <th style="width: 110px;">بازدید</th>
+                  <th style="width: 110px;">کاربران یکتا</th>
+                  <th style="width: 80px;">پیوند</th>
+                </tr>
+              </thead>
+              <tbody id="posts-tbody">
+                <tr><td colspan="7" class="empty-state">در حال بارگذاری اطلاعات...</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- 2. Categories Tab -->
+        <div id="tab-categories" class="tab-content">
+          <div class="table-responsive">
+            <table class="dash-table">
+              <thead>
+                <tr>
+                  <th style="width: 50px;">رتبه</th>
+                  <th>دسته‌بندی</th>
+                  <th style="width: 120px;">تعداد بازدید</th>
+                  <th style="width: 120px;">کاربران یکتا</th>
+                  <th>سهم از کل ترافیک</th>
+                </tr>
+              </thead>
+              <tbody id="categories-tbody">
+                <tr><td colspan="5" class="empty-state">در حال بارگذاری اطلاعات...</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- 3. Tags Tab -->
+        <div id="tab-tags" class="tab-content">
+          <div id="tags-cloud-box" class="tag-cloud" style="margin-bottom: 1.25rem;"></div>
+          <div class="table-responsive">
+            <table class="dash-table">
+              <thead>
+                <tr>
+                  <th style="width: 50px;">رتبه</th>
+                  <th>نام تگ / کلیدواژه</th>
+                  <th style="width: 150px;">تعداد بازدید</th>
+                  <th>سهم نسبی</th>
+                </tr>
+              </thead>
+              <tbody id="tags-tbody">
+                <tr><td colspan="4" class="empty-state">در حال بارگذاری اطلاعات...</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- 4. Sources Tab -->
+        <div id="tab-sources" class="tab-content">
+          <div class="table-responsive">
+            <table class="dash-table">
+              <thead>
+                <tr>
+                  <th style="width: 50px;">رتبه</th>
+                  <th>منبع خبر</th>
+                  <th style="width: 130px;">تعداد بازدید</th>
+                  <th style="width: 130px;">کاربران یکتا</th>
+                  <th>سهم از کل ترافیک</th>
+                </tr>
+              </thead>
+              <tbody id="sources-tbody">
+                <tr><td colspan="5" class="empty-state">در حال بارگذاری اطلاعات...</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </div>
+
+  <script>
+    // State management
+    const state = {
+      token: '',
+      period: 'today',
+      sort: 'desc',
+      activeTab: 'tab-posts',
+      data: null,
+      searchQuery: ''
+    };
+
+    const PERSIAN_DIGITS = ['۰','۱','۲','۳','۴','۵','۶','۷','۸','۹'];
+    function toFa(num) {
+      if (num === null || num === undefined) return '۰';
+      return String(num).replace(/[0-9]/g, d => PERSIAN_DIGITS[d]);
+    }
+
+    // Category Persian mapping
+    const catMap = {
+      'tech': 'فناوری و هوش مصنوعی',
+      'economy': 'اقتصاد، بازار و سرمایه',
+      'iran': 'ایران و رویدادها',
+      'world': 'بین‌الملل و جهان',
+      'media': 'فرهنگ، رسانه و هنر'
+    };
+
+    // On Load
+    document.addEventListener('DOMContentLoaded', () => {
+      initTheme();
+      const savedPass = sessionStorage.getItem('recart_admin_pwd');
+      if (savedPass) {
+        state.token = savedPass;
+        document.getElementById('auth-modal').style.display = 'none';
+        document.getElementById('dash-app').style.display = 'block';
+        fetchAnalytics();
+      }
+    });
+
+    // Theme Management
+    function initTheme() {
+      const savedTheme = localStorage.getItem('recart-theme') || 'light';
+      document.documentElement.setAttribute('data-theme', savedTheme);
+      updateThemeLabel(savedTheme);
+    }
+
+    function toggleTheme() {
+      const current = document.documentElement.getAttribute('data-theme') || 'light';
+      const next = current === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('recart-theme', next);
+      updateThemeLabel(next);
+    }
+
+    function updateThemeLabel(t) {
+      const label = document.getElementById('theme-text');
+      if (label) label.textContent = t === 'dark' ? 'حالت روشن' : 'حالت تیره';
+    }
+
+    // Authentication
+    async function handleLogin(e) {
+      e.preventDefault();
+      const passInput = document.getElementById('auth-pass');
+      const submitBtn = document.getElementById('auth-submit-btn');
+      const errorMsg = document.getElementById('auth-error-msg');
+      const pwd = passInput.value.trim();
+
+      errorMsg.style.display = 'none';
+      submitBtn.disabled = true;
+      submitBtn.innerHTML = '<span class="spinner"></span> <span>در حال بررسی...</span>';
+
+      try {
+        const res = await fetch('https://n8n.nilayteam.ir/webhook/recart-analytics', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ password: pwd, period: state.period, sort: state.sort })
+        });
+        const json = await res.json();
+        if (res.ok && json.success) {
+          state.token = pwd;
+          sessionStorage.setItem('recart_admin_pwd', pwd);
+          state.data = json;
+          document.getElementById('auth-modal').style.display = 'none';
+          document.getElementById('dash-app').style.display = 'block';
+          renderDashboard(json);
+        } else {
+          errorMsg.textContent = json.error || 'رمز عبور نادرست است.';
+          errorMsg.style.display = 'block';
+        }
+      } catch (err) {
+        errorMsg.textContent = 'خطا در برقراری ارتباط با سرور.';
+        errorMsg.style.display = 'block';
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = '<span>تایید و ورود</span>';
+      }
+    }
+
+    function handleLogout() {
+      sessionStorage.removeItem('recart_admin_pwd');
+      state.token = '';
+      state.data = null;
+      document.getElementById('dash-app').style.display = 'none';
+      document.getElementById('auth-modal').style.display = 'flex';
+      document.getElementById('auth-pass').value = '';
+    }
+
+    // Fetch Analytics Data
+    async function fetchAnalytics() {
+      if (!state.token) return;
+      const refBtn = document.getElementById('refresh-btn');
+      refBtn.disabled = true;
+      refBtn.innerHTML = '<span class="spinner"></span>';
+
+      try {
+        const res = await fetch('https://n8n.nilayteam.ir/webhook/recart-analytics', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            password: state.token,
+            period: state.period,
+            sort: state.sort
+          })
+        });
+        const json = await res.json();
+        if (res.ok && json.success) {
+          state.data = json;
+          renderDashboard(json);
+        } else if (res.status === 401) {
+          handleLogout();
+        }
+      } catch (err) {
+        console.error('Error fetching analytics:', err);
+      } finally {
+        refBtn.disabled = false;
+        refBtn.innerHTML = `
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
+          <span>بروزرسانی</span>
+        `;
+      }
+    }
+
+    // Set Filters
+    function setPeriod(p) {
+      state.period = p;
+      document.querySelectorAll('[data-period]').forEach(btn => {
+        btn.classList.toggle('active', btn.getAttribute('data-period') === p);
+      });
+      fetchAnalytics();
+    }
+
+    function setSort(s) {
+      state.sort = s;
+      document.querySelectorAll('[data-sort]').forEach(btn => {
+        btn.classList.toggle('active', btn.getAttribute('data-sort') === s);
+      });
+      fetchAnalytics();
+    }
+
+    function switchTab(tabId) {
+      state.activeTab = tabId;
+      document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.getAttribute('data-tab') === tabId);
+      });
+      document.querySelectorAll('.tab-content').forEach(c => {
+        c.classList.toggle('active', c.id === tabId);
+      });
+      document.getElementById('tab-search').value = '';
+      state.searchQuery = '';
+      if (state.data) renderDashboard(state.data);
+    }
+
+    function handleTableSearch(q) {
+      state.searchQuery = q.trim().toLowerCase();
+      if (state.data) renderDashboard(state.data);
+    }
+
+    // Render Logic
+    function renderDashboard(data) {
+      const ov = data.overview || {};
+      const totalViews = ov.total_views || 0;
+      const totalVisitors = ov.total_visitors || 0;
+      const totalPosts = ov.total_posts || 0;
+      const avgViews = totalVisitors > 0 ? (totalViews / totalVisitors).toFixed(1) : '۰';
+
+      document.getElementById('kpi-total-views').textContent = toFa(totalViews);
+      document.getElementById('kpi-total-visitors').textContent = toFa(totalVisitors);
+      document.getElementById('kpi-total-posts').textContent = toFa(totalPosts);
+      document.getElementById('kpi-avg-views').textContent = toFa(avgViews);
+
+      renderPosts(data.posts || [], totalViews);
+      renderCategories(data.categories || [], totalViews);
+      renderTags(data.tags || [], totalViews);
+      renderSources(data.sources || [], totalViews);
+    }
+
+    function renderPosts(posts, totalViews) {
+      const tbody = document.getElementById('posts-tbody');
+      let filtered = posts;
+      if (state.searchQuery) {
+        filtered = posts.filter(p => (p.title || '').toLowerCase().includes(state.searchQuery) || (p.path || '').toLowerCase().includes(state.searchQuery));
+      }
+
+      if (!filtered.length) {
+        tbody.innerHTML = '<tr><td colspan="7" class="empty-state">موردی برای نمایش یافت نشد.</td></tr>';
+        return;
+      }
+
+      tbody.innerHTML = filtered.map((p, idx) => {
+        const catName = catMap[p.category] || p.category || 'عمومی';
+        const isTop = idx < 3 && state.sort === 'desc';
+        return `
+          <tr>
+            <td><span class="rank-num ${isTop ? 'rank-top' : ''}">${toFa(idx + 1)}</span></td>
+            <td>
+              <div style="font-weight: 600; color: var(--dash-text); margin-bottom: 2px;">${escapeHtml(p.title || p.path)}</div>
+              <div style="font-size: 0.76rem; color: var(--dash-subtext); direction: ltr; text-align: right;">${escapeHtml(p.path)}</div>
+            </td>
+            <td><span class="badge-cat">${escapeHtml(catName)}</span></td>
+            <td><strong>${escapeHtml(p.source || '—')}</strong></td>
+            <td><span style="font-weight: 700; color: var(--dash-accent);">${toFa(p.views)}</span></td>
+            <td>${toFa(p.visitors)}</td>
+            <td>
+              <a href="${escapeHtml(p.path)}" target="_blank" class="btn btn-sm" title="مشاهده خبر" style="padding: 2px 6px;">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+              </a>
+            </td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function renderCategories(categories, totalViews) {
+      const tbody = document.getElementById('categories-tbody');
+      let filtered = categories;
+      if (state.searchQuery) {
+        filtered = categories.filter(c => (catMap[c.category] || c.category || '').toLowerCase().includes(state.searchQuery));
+      }
+
+      if (!filtered.length) {
+        tbody.innerHTML = '<tr><td colspan="5" class="empty-state">موردی برای نمایش یافت نشد.</td></tr>';
+        return;
+      }
+
+      tbody.innerHTML = filtered.map((c, idx) => {
+        const catName = catMap[c.category] || c.category || 'عمومی';
+        const percent = totalViews > 0 ? ((c.views / totalViews) * 100).toFixed(1) : 0;
+        const isTop = idx === 0 && state.sort === 'desc';
+        return `
+          <tr>
+            <td><span class="rank-num ${isTop ? 'rank-top' : ''}">${toFa(idx + 1)}</span></td>
+            <td><strong>${escapeHtml(catName)}</strong> <span style="font-size: 0.78rem; color: var(--dash-subtext);">(${c.category})</span></td>
+            <td><span style="font-weight: 700; color: var(--dash-accent);">${toFa(c.views)}</span></td>
+            <td>${toFa(c.visitors)}</td>
+            <td style="width: 250px;">
+              <div style="display: flex; justify-content: space-between; font-size: 0.78rem; margin-bottom: 2px;">
+                <span>${toFa(percent)}٪</span>
+              </div>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar-fill" style="width: ${percent}%;"></div>
+              </div>
+            </td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function renderTags(tags, totalViews) {
+      const tbody = document.getElementById('tags-tbody');
+      const cloudBox = document.getElementById('tags-cloud-box');
+      let filtered = tags;
+      if (state.searchQuery) {
+        filtered = tags.filter(t => (t.tag || '').toLowerCase().includes(state.searchQuery));
+      }
+
+      // Render Tag Cloud
+      if (tags.length) {
+        cloudBox.innerHTML = tags.slice(0, 25).map(t => `
+          <span class="tag-chip">#${escapeHtml(t.tag)} <strong>${toFa(t.views)}</strong></span>
+        `).join('');
+      } else {
+        cloudBox.innerHTML = '';
+      }
+
+      if (!filtered.length) {
+        tbody.innerHTML = '<tr><td colspan="4" class="empty-state">موردی برای نمایش یافت نشد.</td></tr>';
+        return;
+      }
+
+      const maxViews = Math.max(...tags.map(t => t.views), 1);
+      tbody.innerHTML = filtered.map((t, idx) => {
+        const relPercent = ((t.views / maxViews) * 100).toFixed(1);
+        return `
+          <tr>
+            <td><span class="rank-num">${toFa(idx + 1)}</span></td>
+            <td><strong>#${escapeHtml(t.tag)}</strong></td>
+            <td><span style="font-weight: 700; color: var(--dash-accent);">${toFa(t.views)}</span></td>
+            <td style="width: 200px;">
+              <div class="progress-bar-wrap">
+                <div class="progress-bar-fill" style="width: ${relPercent}%;"></div>
+              </div>
+            </td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function renderSources(sources, totalViews) {
+      const tbody = document.getElementById('sources-tbody');
+      let filtered = sources;
+      if (state.searchQuery) {
+        filtered = sources.filter(s => (s.source || '').toLowerCase().includes(state.searchQuery));
+      }
+
+      if (!filtered.length) {
+        tbody.innerHTML = '<tr><td colspan="5" class="empty-state">موردی برای نمایش یافت نشد.</td></tr>';
+        return;
+      }
+
+      tbody.innerHTML = filtered.map((s, idx) => {
+        const percent = totalViews > 0 ? ((s.views / totalViews) * 100).toFixed(1) : 0;
+        return `
+          <tr>
+            <td><span class="rank-num">${toFa(idx + 1)}</span></td>
+            <td><strong>${escapeHtml(s.source || 'نامشخص')}</strong></td>
+            <td><span style="font-weight: 700; color: var(--dash-accent);">${toFa(s.views)}</span></td>
+            <td>${toFa(s.visitors)}</td>
+            <td style="width: 250px;">
+              <div style="display: flex; justify-content: space-between; font-size: 0.78rem; margin-bottom: 2px;">
+                <span>${toFa(percent)}٪</span>
+              </div>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar-fill" style="width: ${percent}%;"></div>
+              </div>
+            </td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function exportCurrentTabCSV() {
+      if (!state.data) return;
+      let rows = [];
+      let filename = `recart-analytics-${state.activeTab}-${state.period}.csv`;
+
+      if (state.activeTab === 'tab-posts') {
+        rows.push(['رتبه', 'عنوان خبر', 'مسیر', 'دسته', 'منبع', 'بازدید', 'کاربران یکتا']);
+        (state.data.posts || []).forEach((p, i) => {
+          rows.push([i + 1, p.title, p.path, p.category, p.source, p.views, p.visitors]);
+        });
+      } else if (state.activeTab === 'tab-categories') {
+        rows.push(['رتبه', 'شناسه دسته', 'نام فارسی', 'بازدید', 'کاربران یکتا']);
+        (state.data.categories || []).forEach((c, i) => {
+          rows.push([i + 1, c.category, catMap[c.category] || c.category, c.views, c.visitors]);
+        });
+      } else if (state.activeTab === 'tab-tags') {
+        rows.push(['رتبه', 'تگ', 'بازدید']);
+        (state.data.tags || []).forEach((t, i) => {
+          rows.push([i + 1, t.tag, t.views]);
+        });
+      } else if (state.activeTab === 'tab-sources') {
+        rows.push(['رتبه', 'منبع', 'بازدید', 'کاربران یکتا']);
+        (state.data.sources || []).forEach((s, i) => {
+          rows.push([i + 1, s.source, s.views, s.visitors]);
+        });
+      }
+
+      const csvContent = "\uFEFF" + rows.map(e => e.map(cell => `"${String(cell || '').replace(/"/g, '""')}"`).join(",")).join("\n");
+      const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = filename;
+      link.click();
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+  </script>
+</body>
+</html>
