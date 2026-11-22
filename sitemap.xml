@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/زندگی-بازنشسستگان-ایرانی-در-اعماق-فقر-و-فلاکت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجله-خبری-۱-آذر-۱۴۰۵-۲۲-نوامبر-۲۰۲۶---بامدادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/افزایش-۳-۵-میلیارد-تومانی-قیمت-لوکانو-l7-کراس-اوور/</loc>
+    <loc>https://recart.ir/news/فقهای-شورای-نگهبان-تشکیل-ستاد-ساماندهی-فضای-مجازی-را-خلاف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فراری-از-هیولای-۶۷۰-اسب-بخاری-رونمایی-کرد-خودروی-مسابقه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فعال-سیاسی-اصولگرا-در-قطع-کابل-های-اینترنت-خلیج-فارس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/زنگ-خطر-در-سیاره-سرخ-مریخ-نورد-پرسویرنس-و-مدارگرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-apple-vision-pro-هرگز-مانند-هدست-های-vr-متا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قطعی-های-فنی-تنها-شروع-است-a-i-اختلالات-بیشتری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مفقود-شدن-ده-ها-نفر-پس-از-آتش-سوزی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بریتنی-اسپیرز-در-اینستاگرام-از-خانواده-اش-عذرخواهی-کرد-من/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/استفان-جیمز-در-مورد-احترام-به-میراث-کارل-وترز-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پس-از-ملاقات-در-پشت-صحنه-در-کتاب-مورمون-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
