@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اسرائیل-در-آستانه-تبدیل-شدن-به-بیست-وپنجمین-اقتصاد-جهان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مارک-مارکز-برای-هشتمین-بار-قهرمان-موتو-جی-پی-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-عربستان-سعودی-در-جنگ-فرسایشی-با-حوثی-ها-دست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مسمومیت-الکلی-در-نیشابور-منجر-به-بستری-شدن-۳۳-نفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-هواپیما-وسط-پرواز-کنده-شد-حادثه-هولناک-در-آسمان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تحرک-techcrunch-ربات-های-تست-a-b-در-مقابل-انسان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-کنسول-بازی-کمیاب-که-تقریبا-هیچ-کس-مالک-آنها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نماد-دانه-برف-آبی-برای-باتری-تسلا-شما-چه-معنایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
