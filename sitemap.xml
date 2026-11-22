@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پارسا-نجفی-پس-از-۱۷۰روز-بازداشت-از-تماس-و-ملاقات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/صدور-حکم-بیش-از-۱۵سال-زندان-برای-معین-فلاحیان-شهروند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تصفیه-آب-نیمه-صنعتی-در-ویلاهای-مدرن-کنترل-کیفیت-آب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنگ-و-تشدید-بحران-انرژی-در-ایران-خاموشی-های-برنامه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رمز-عبور-شما-چقدر-امن-است-در-اینجا-نحوه-آزمایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-برنامه-ها-برای-پیدا-کردن-دوستان-جدید-در-حال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رفع-این-ویژگی-آزاردهنده-one-ui-آسان-است-اما-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونالدو-مارادونا-و-باجو-تیم-منتخب-جهان-چه-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -822,6 +822,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جوایز-جشنواره-فیلم-هوئلوایبرو-آمریکایی-پس-از-النا-آلفردو-کاسترو-لوسیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/امروز-50-سال-پیش-the-beach-boys-کنسرت-محوری-brian/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتفلیکس-با-سریال-های-درام-تند-غافلگیر-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
