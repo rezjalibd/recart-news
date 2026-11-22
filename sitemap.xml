@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رسانه-نزدیک-به-سپاه-طرح-حرکت-دسته-جمعی-نفتکش-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سپاه-از-انفجار-دو-نفتکش-در-شرق-تنگه-هرمز-خبر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -77,6 +82,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جزییات-تازه-از-قتل-صدف-حق-بین-متهم-اعتراف-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/همسر-راسل-برند-قوانین-زندان-را-که-پیام-های-او/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/از-شبح-جنگ-تا-شهرهای-موشکی-بازدارندگی-مطلق-پس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تغییر-ساختار-وزارت-اطلاعات-با-حمایت-طائب-سازمان-های-حفاظت/</loc>
+    <loc>https://recart.ir/news/پیش-بینی-رشد-۴-۵-اقتصاد-اسرائیل-در-میانه-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مرگ-دو-کودک-به-دست-پدر-در-مصر-وقتی-خطر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-عربستان-سعودی-در-جنگ-فرسایشی-با-حوثی-ها-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-اشتراک-nintendo-switch-online-خود-را-لغو-کنیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-ماهی-قرمز-پشت-فرمان-نشست-و-رکورد-رانندگی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/binding-of-isaac-توسعه-دهنده-موسیقی-هوش-مصنوعی-را-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چرا-بعضی-ها-بیشتر-از-دیگران-سرما-می-خورند-علم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ازکی-سلر-از-قابلیت-کارمزد-ماندگار-رونمایی-کرد-حفظ-کارمزد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/داستان-جذاب-فوتبال-مونتزا-شهری-که-فقط-فرمول-یک-نیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ریان-جانسون-دلیل-خوشبین-بودن-به-آینده-فیلمسازی-مستقل-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مایلی-سایرس-و-مکس-موراندو-ازدواج-کردند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنیفر-لوپز-دنباله-هیولا-در-قانون-را-با-جین-فوندا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
