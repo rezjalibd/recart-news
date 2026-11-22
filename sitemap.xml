@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-پی-وخامت-اوضاع-معیشتی-کامیون-داران-در-شماری-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هشدار-سازمان-حقوق-بشری-درباره-خطر-اعدام-قریب-الوقوع-میلاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تصفیه-آب-نیمه-صنعتی-در-ویلاهای-مدرن-کنترل-کیفیت-آب/</loc>
+    <loc>https://recart.ir/news/ژاپن-تب-عروسک-های-نمادین-در-سایتاما-با-۲۰۰-شخصیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یک-کشتی-باری-روسیه-در-خلیج-فنلاند-هدف-حمله-پهپادی/</loc>
+    <loc>https://recart.ir/news/تورم-تولیدکننده-از-۱۲۰-درصد-گذشت-اقتصاد-ایران-کوچک-تر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آنچه-افراد-باهوش-در-مورد-فروش-بازار-از-طریق-فناوری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/امید-تازه-برای-درمان-آلزایمر-قطره-بینی-که-حافظه-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانشمندان-سعی-کردند-این-خاک-را-از-بین-ببرند-اما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانشمندان-با-ویتامین-b12-باتری-شارژی-ساختند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مدل-هوش-مصنوعی-inkling-2-mini-با-قابلیت-اجرای-آفلاین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/fbi-و-وزارت-کشاورزی-آمریکا-همزمان-هک-شدند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جنجال-تازه-در-لیگ-برتر-پای-وزیر-بازرگانی-بریتانیا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -857,6 +857,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بی-بی-سی-پس-از-قطع-شدن-قاطعانه-بیا-رقصیدن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ست-روگن-می-گوید-برد-پیت-و-بازیگران-12-سال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جف-گلدبلوم-در-فستیوال-فیلم-مراکش-یک-پیانو-را-اجرا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
