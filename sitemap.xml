@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کرانه-باختری-چهار-روستای-فلسطینی-هدف-حملات-احتمالی-شهرک-نشینان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کاپ-۳۱-اختلاف-نظر-بر-سر-سوخت-های-فسیلی-مانع/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اروپا-آماده-است-کارگران-را-با-مهارت-نه-مدرک-بسنجد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -432,6 +432,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فراخوان-گیم-جم-بازی-سازی-بر-پایه-آی-پی-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/باکس-آفیس-sunrise-on-the-reaping-با-اولین-فروش-۱۲۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-آخرین-روز-شکرگزاری-را-به-پیاده-روی-در-نارووز/</loc>
+    <loc>https://recart.ir/news/سوراخ-ریز-پایین-پنجره-هواپیما-برای-چیست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازی-کال-آو-دیوتی-باعث-تخلیه-اضطراری-یک-هواپیما-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رئیس-پیشین-sec-حباب-هوش-مصنوعی-پیش-از-انتخابات-۲۰۲۸/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-90-درصد-متخصصان-خدمات-سایت-شخصی-ندارند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رونمایی-از-کارمزد-ماندگار-ازکی-سلر-فروشندگان-از-خرید-مستقیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
