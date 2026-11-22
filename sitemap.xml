@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/محمد-مالجو-پژوهشگر-و-اقتصاددان-به-یک-سال-زندان-محکوم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رسانه-نزدیک-به-سپاه-طرح-حرکت-دسته-جمعی-نفتکش-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سهم-۴۶-۵-درصدی-وسایل-نقلیه-در-آلودگی-هوای-تهران/</loc>
+    <loc>https://recart.ir/news/مدافع-تراکتور-پیش-از-بازی-با-الوصل-۲۰-ساعت-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیش-نویس-تازه-توافق-کوپ۳۱-ارائه-شد-کشورها-برای-نجات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مرگ-دو-کودک-به-دست-پدر-در-مصر-وقتی-خطر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پروازهای-دلتا-در-داخل-و-خارج-از-آتلانتا-به-دلیل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چگونه-اشتراک-nintendo-switch-online-خود-را-لغو-کنیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بلک-فرایدی-موبایل-۱۴۰-با-همکاری-سرویس-های-خرید-اعتباری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/داستان-جذاب-فوتبال-مونتزا-شهری-که-فقط-فرمول-یک-نیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رابرت-اگرز-مشتاق-دور-شدن-از-ژانر-ترسناک-است-فکر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شان-آستین-sag-aftra-را-در-مبارزه-برای-مراقبت-های-بهداشتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایلی-سایرس-و-مکس-موراندو-ازدواج-کردند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
