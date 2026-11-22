@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/با-وجود-مخالفت-جمهوری-اسلامی-اجرای-مسیر-ترامپ-در-قفقاز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پرستو-فروهر-شرکت-کنندگان-مراسم-سالگرد-قتل-والدینم-را-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زهرا-اینچه-درگاهی-رییس-پیشین-فدراسیون-ژیمناستیک-به-دو-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مذاکرات-سازمان-ملل-برای-تدوین-معاهده-کنترل-سلاح-های-خودمختار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شهرستانی-که-در-مرکز-رونق-مرکز-داده-آمریکا-قرار-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پتروشیمی-زاگرس-از-مدار-خارج-شد-دولت-آماری-از-کسری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -462,6 +462,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-یک-وکیل-مهاجرت-تجاری-هستم-مشتریان-من-به-دلیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هدفون-های-ما-برای-برقراری-تماس-به-پایین-ترین-قیمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-یک-توسعه-دهنده-املاک-و-مستغلات-هستم-که-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ساترا-مانع-پخش-زنده-جشن-تئاتر-و-موسیقی-حافظ-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-godzilla-minus-zero-به-لیست-دنباله-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +857,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-زندگی-نامه-ای-سزار-با-پشتوانه-نئون-درباره-افسر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مینی-سریال-داستان-واقعی-یک-موفقیت-جهانی-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درمان-برادوی-برای-بلوز-پس-از-تعطیلات-ستاره-ها-ستاره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-تیم-آرایش-السینور-ستاره-های-اندرو-اسکات-و-اولیویا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
