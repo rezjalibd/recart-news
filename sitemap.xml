@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-اگر-ایران-بخواهد-محاصره-دریایی-را-بشکند-کشتی-هایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رشد-۴-۵-اقتصاد-اسرائیل-در-میانه-جنگ-اروپا-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/زهرا-اینچه-درگاهی-رییس-پیشین-فدراسیون-ژیمناستیک-به-دو-سال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قطع-داروهای-کاهش-وزن-در-افراد-مبتلا-به-دیابت-نوع/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نماد-ساعت-کوچک-در-بالای-گوشی-سامسونگ-شما-به-چه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/11-نوع-ابزار-هوشمند-که-باید-با-زنگ-در-حلقه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیا-می-توانید-one-ui-را-به-طور-کامل-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/لیورپول-۴-۰-منچستریونایتد-باخت-سنگین-و-آغاز-فاجعه-بار-دوران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/منوی-هتل-بل-ایر-به-سنت-برمی-گردد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاتسی-کامیلا-کابلو-را-برای-رقص-گابریلا-در-شوی-لس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اینترمیامی-۰---۳-کلمبوس-مسی-در-آستانه-حذف-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
