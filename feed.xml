@@ -5,8 +5,16 @@
     <link>https://recart.ir/</link>
     <description>پوشش لحظه‌ای و جامع اخبار فناوری، اقتصاد، ایران و بین‌الملل</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:51:42 +0000</lastBuildDate>
     <atom:link href="https://recart.ir/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>افزایش ۲۹ درصدی آمار اعدام‌ها در ایران؛ سه زندانی در شیراز و زاهدان اعدام شدند</title>
+      <link>https://recart.ir/news/افزایش-۲۹-درصدی-آمار-اعدام-ها-در-ایران-سه-زندانی/</link>
+      <guid>https://recart.ir/news/افزایش-۲۹-درصدی-آمار-اعدام-ها-در-ایران-سه-زندانی/</guid>
+      <description>خبرگزاری هرانا از اعدام سه زندانی به اتهام قتل در زندان‌های عادل‌آباد شیراز و زاهدان خبر داد. این اعدام‌ها در حالی گزارش می‌شوند که احکام اعدام دو متهم پرونده شهرک اکباتان در دیوان عالی کشور تایید شده و یک جوان ۲۳ ساله بازداشت‌شده در اعتراضات دی‌ماه نیز به اعدام محکوم شده است.</description>
+      <category>ایران</category>
+      <source url="https://parsi.euronews.com/2026/11/22/irans-executions-increase-by-29-three-prisoners-executed-in-shiraz-and-zahedan">Euronews Persian</source>
+    </item>
     <item>
       <title>اتحادیه عرب حمله جمهوری اسلامی به بحرین را محکوم کرد</title>
       <link>https://recart.ir/news/اتحادیه-عرب-حمله-جمهوری-اسلامی-به-بحرین-را-محکوم-کرد/</link>
@@ -304,12 +312,12 @@
       <source url="https://iranwire.com/fa/features/160574-%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D8%AE%D9%88%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B2%D8%B1%DA%AF%D8%B3%D8%A7%D9%84%D8%A7%D9%86-%D8%A7%D8%B2-%D8%BA%D8%B0%D8%A7%DB%8C-%D8%AE%D9%88%D8%AF-%D9%85%DB%8C%D8%B2%D9%86%D9%86%D8%AF-%D8%AA%D8%A7-%D8%A8%DA%86%D9%87%D9%87%D8%A7-%D8%A8%D9%87%D8%AA%D8%B1-%D8%A8%D8%AE%D9%88%D8%B1%D9%86%D8%AF/">IranWire</source>
     </item>
     <item>
-      <title>وزارت بهداشت از ثبت روزانه حدود ۳۹۰ مورد جدید سرطان در ایران خبر داد</title>
-      <link>https://recart.ir/news/وزارت-بهداشت-از-ثبت-روزانه-حدود-۳۹۰-مورد-جدید-سرطان/</link>
-      <guid>https://recart.ir/news/وزارت-بهداشت-از-ثبت-روزانه-حدود-۳۹۰-مورد-جدید-سرطان/</guid>
-      <description>مریم بهشتیان، مقام وزارت بهداشت، به ایرنا گفت سالانه حدود ۱۴۲ هزار مورد جدید سرطان در ایران ثبت می‌شود و مردان بیش از نیمی از این موارد را تشکیل می‌دهند. او همچنین گفت سن بروز برخی سرطان‌ها، از جمله سرطان پستان، در حال کاهش است.</description>
-      <category>ایران</category>
-      <source url="https://www.iranintl.com/202611229986">Iran International</source>
+      <title>کاپ ۳۱؛ اختلاف نظر بر سر سوخت‌های فسیلی مانع از توافق در اجلاس تغییرات اقلیمی شد</title>
+      <link>https://recart.ir/news/کاپ-۳۱-اختلاف-نظر-بر-سر-سوخت-های-فسیلی-مانع/</link>
+      <guid>https://recart.ir/news/کاپ-۳۱-اختلاف-نظر-بر-سر-سوخت-های-فسیلی-مانع/</guid>
+      <description>اجلاس تغییرات اقلیمی سازمان ملل متحد، کاپ ۳۱، در آنتالیای ترکیه دو روز پس از موعد بدون دستیابی به توافق به پایان می‌رسد؛ اتحادیه اروپا و برخی دیگر از طرف‌ها با پیش‌نویس نهایی مخالفت کردند، زیرا که در آن هیچ اشاره‌ای به ضرورت حذف تدریجی سوخت‌های فسیلی، که عامل اصلی گرمای...</description>
+      <category>بین‌الملل</category>
+      <source url="https://www.bbc.com/persian/articles/cme39qrr62z0o?at_medium=RSS&amp;at_campaign=rss">BBC Persian</source>
     </item>
     <item>
       <title>کاوشگر «بپی‌کلمبو» پس از هشت سال وارد مدار سیاره عطارد شد</title>
@@ -318,14 +326,6 @@
       <description>این مأموریت با هدف مطالعهٔ همهٔ جنبه‌های سیاره عطارد انجام می‌شود تا به دانشمندان کمک کند این سیاره و روند تکامل منظومهٔ شمسی‌مان را بهتر درک کنند.</description>
       <category>بین‌الملل</category>
       <source url="https://parsi.euronews.com/2026/11/22/the-bepicolombo-space-probe-has-entered-mercurys-orbit-after-an-eight-year-journey">Euronews Persian</source>
-    </item>
-    <item>
-      <title>مذاکرات اقلیمی کوپ۳۱ پس از رد شدن پیش‌نویس توافق نهایی از سوی اتحادیه اروپا شکست خورد</title>
-      <link>https://recart.ir/news/مذاکرات-اقلیمی-کوپ۳۱-پس-از-رد-شدن-پیش-نویس-توافق/</link>
-      <guid>https://recart.ir/news/مذاکرات-اقلیمی-کوپ۳۱-پس-از-رد-شدن-پیش-نویس-توافق/</guid>
-      <description>یک پیش‌نویس جدید توافق‌نامه COP31 بامداد یکشنبه در بحبوحه اختلاف بر سر سوخت‌های فسیلی، که به نقطهٔ تنش اصلی در مذاکرات بدل شده‌اند، منتشر شد.</description>
-      <category>بین‌الملل</category>
-      <source url="https://parsi.euronews.com/2026/11/22/cop31-climate-talks-fail-after-the-eu-and-other-parties-reject-the-final-deal-proposal">Euronews Persian</source>
     </item>
   </channel>
 </rss>

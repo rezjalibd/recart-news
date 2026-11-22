@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/افزایش-۲۹-درصدی-آمار-اعدام-ها-در-ایران-سه-زندانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اتحادیه-عرب-حمله-جمهوری-اسلامی-به-بحرین-را-محکوم-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/وزارت-بهداشت-از-ثبت-روزانه-حدود-۳۹۰-مورد-جدید-سرطان/</loc>
+    <loc>https://recart.ir/news/کاپ-۳۱-اختلاف-نظر-بر-سر-سوخت-های-فسیلی-مانع/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,17 +411,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اقامت-پنج-ستاره-در-قطر-هتل-ها-و-اقامتگاه-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فراخوان-گیم-جم-بازی-سازی-بر-پایه-آی-پی-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/افتتاحیه-۱۲۰-میلیون-دلاری-hunger-games-sunrise-on-the-reaping/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/افتتاحیه-۱۲۰-میلیون-دلاری-hunger-games-sunrise-on-the-reaping-3ac141/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ناظر-مجلس-در-شورای-عالی-بورس-رمزارز-بابک-زنجانی-غیرقانونی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرتغال-کارگران-زیر-باران-برای-زندگی-ارزان-تر-دست-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
