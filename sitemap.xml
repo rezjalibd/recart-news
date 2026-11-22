@@ -171,6 +171,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ماکسیم-در-ایران-۹-سال-فعالیت-۱۲-میلیون-مسافر-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-فردا-منتظر-خاموشی-برق-باشید-توانیر-از-قطعی-برق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بررسی-طرح-ساماندهی-فضای-مجازی-در-مجلس-دوباره-از-سر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/۱۰۵۰-واگن-متروی-تهران-در-چین-زمین-گیر-شدند-محاصره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -356,6 +356,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مذاکرات-سازمان-ملل-برای-تدوین-معاهده-کنترل-سلاح-های-خودمختار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شهرستانی-که-در-مرکز-رونق-مرکز-داده-آمریکا-قرار-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ماموریت-های-شکار-فرعی-p-8-poseidon-به-اندازه-کافی-سخت/</loc>
+    <loc>https://recart.ir/news/زندگی-بازنشستگان-ایرانی-در-اعماق-فقر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قیمت-روز-آیفون-و-آیپد-30-آبان-1405/</loc>
+    <loc>https://recart.ir/news/بازی-gta-6-رکورد-مصرف-اینترنت-اپراتور-مخابراتی-آمریکا-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فقهای-شورای-نگهبان-تشکیل-ستادی-را-که-اتصال-مجدد-اینترنت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیویورک-تایمز-جنسن-هوانگ-سال-ها-کارمندان-انویدیا-را-تحقیر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/معاوضه-های-استفاده-از-هدفون-airpods-max-اپل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/داستان-دو-انویدیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شکار-موشک-با-چاپ-استیک-استارشیپ-چطور-قواعد-بازی-فضا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دیسک-ها-در-مقابل-دیسک-ها-تفاوت-چیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
