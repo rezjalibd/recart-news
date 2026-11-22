@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-عمو-می-تواند-پس-از-ازدواج-مادر-قیمومت-فرزند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مجتبی-زارعی-نماینده-تهران-جلسه-مجلس-به-دلیل-لات-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جنگ-و-تشدید-بحران-انرژی-در-ایران-خاموشی-های-برنامه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -196,6 +206,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تصفیه-آب-نیمه-صنعتی-در-ویلاهای-مدرن-کنترل-کیفیت-آب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تبلت-خاموش-حمید-رسایی-جلسه-مجلس-را-به-تعطیلی-کشاند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -206,17 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ماکسیم-در-ایران-۹-سال-فعالیت-۱۲-میلیون-مسافر-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-فردا-منتظر-خاموشی-برق-باشید-توانیر-از-قطعی-برق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برند-راسل-در-حالی-که-در-زندان-است-کالای-راسل/</loc>
+    <loc>https://recart.ir/news/زهرا-اینچه-درگاهی-رییس-پیشین-فدراسیون-ژیمناستیک-به-دو-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آنتونی-آلبانیز-یک-بازی-بزرگ-در-مورد-حاکمیت-صحبت-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پتروشیمی-زاگرس-از-مدار-خارج-شد-دولت-آماری-از-کسری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -462,6 +462,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/افزایش-شدید-قیمت-خودروهای-هیوندای-در-آذر-۱۴۰۵-توسان-۳/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نوبیتکس-گام-تازه-ای-در-توسعه-خدمات-مالی-مبتنی-بر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یوتوب-برای-حل-وفصل-شکایت-های-اعتیاد-به-شبکه-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -586,27 +601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تیسان-g700-در-برابر-لئوپارد-۷-ام-هیرو-و-تویوتا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ران-هاوارد-می-گوید-درخواست-راسل-کرو-برای-فیلمبرداری-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ران-هاوارد-می-گوید-که-درخواست-راسل-کرو-برای-فیلمبرداری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/امید-تازه-برای-درمان-آلزایمر-قطره-بینی-که-حافظه-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شرکت-مونتاژکننده-آیفون-احتمالا-اولین-گوشی-اوپن-ای-آی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوگل-با-استقبال-گسترده-از-هوش-مصنوعی-درآمدهای-تبلیغاتی-خود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-همان-چیزی-است-که-می-تواند-اتفاق-بیفتد-اگر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پورت-usb-رایانه-شما-می-تواند-تلفن-شما-را-حتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/10-کاری-که-هرگز-نباید-در-گوشی-اندرویدی-خود-انجام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
