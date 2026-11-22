@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-سازمان-حقوق-بشری-درباره-خطر-اعدام-قریب-الوقوع-میلاد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/با-بازداشت-علی-حسینی-شمار-بازداشت-شدگان-اعتراضات-آبدانان-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تصفیه-آب-نیمه-صنعتی-در-ویلاهای-مدرن-کنترل-کیفیت-آب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تبلت-خاموش-حمید-رسایی-جلسه-مجلس-را-به-تعطیلی-کشاند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-دانشمندان-به-کاوشگران-ماه-قمر-زمین-را-به-غرب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چطور-با-۷-دستور-ساده-هر-موضوعی-را-با-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/fbi-و-وزارت-کشاورزی-آمریکا-همزمان-هک-شدند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محدودیت-برق-از-امروز-آغاز-می-شود-اطلاع-رسانی-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
