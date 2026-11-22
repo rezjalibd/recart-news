@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کاوشگر-بپی-کلمبو-پس-از-هشت-سال-وارد-مدار-سیاره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مذاکرات-اقلیمی-کوپ۳۱-پس-از-رد-شدن-پیش-نویس-توافق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -237,6 +242,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اجلاس-اقلیمی-کاپ-۳۱-در-ترکیه-بدون-رسیدن-به-توافق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جورج-پسر-در-سفرش-به-اسرائیل-نمی-توانستم-چیزی-نگویم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اقامت-پنج-ستاره-در-قطر-هتل-ها-و-اقامتگاه-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مرگ-دو-کودک-به-دست-پدر-در-مصر-چه-کسی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سیگنال-جعلی-یا-اقدام-برای-شکستن-محاصره-آمریکا-داده-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/4-جایگزین-ipad-pro-برای-کسانی-که-به-دنبال-کنار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تظاهرکنندگان-به-دفاتر-متا-در-هند-یورش-بردند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مایع-زمان-حالت-عجیبی-از-ماده-که-از-دل-آشفتگی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سرشماری-مجازی-تا-۵-آذر-تمدید-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
