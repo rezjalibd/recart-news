@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پس-از-جدایی-مدیرعامل-وحید-رضایی-از-هدایت-شمس-آذر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-تصویر-کنفرانس-تهران-را-منتشر-کرد-رضایی-آمریکا-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مصدومیت-شدید-دزیره-دوئه-در-بازی-پاری-سن-ژرمن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تورم-تولیدکننده-از-۱۲۰-درصد-گذشت-اقتصاد-ایران-کوچک-تر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -472,6 +472,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جزئیات-کمپین-قسطی-جمعه-دیجی-پی-اعتبار-تا-سقف-۴۰۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قیمت-یک-واکمن-سونی-در-سال-1980-در-مقایسه-با/</loc>
+    <loc>https://recart.ir/news/گزارش-ها-می-گویند-اف-بی-آی-در-حال-بررسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -607,6 +612,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-ریاضیات-را-رها-نمی-کنم-علیرغم-اینکه-هوش-مصنوعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-هدایا-برای-مادر-2026-تقویم-دیواری-دیجیتال-کیف-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بانک-ها-تا-اینجا-با-عامل-هوش-مصنوعی-شما-این/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -767,26 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازی-gta-6-رکورد-مصرف-اینترنت-اپراتور-مخابراتی-آمریکا-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فقهای-شورای-نگهبان-تشکیل-ستادی-را-که-اتصال-مجدد-اینترنت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیویورک-تایمز-جنسن-هوانگ-سال-ها-کارمندان-انویدیا-را-تحقیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فقهای-شورای-نگهبان-تشکیل-ستاد-ساماندهی-فضای-مجازی-را-خلاف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فراری-از-هیولای-۶۷۰-اسب-بخاری-رونمایی-کرد-خودروی-مسابقه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
