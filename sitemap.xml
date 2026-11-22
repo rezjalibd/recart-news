@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازداشت-چهار-شهروند-کرد-در-دره-شهر-افزایش-شمار-بازداشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قمار-پرمخاطره-ایران-در-خلیج-فارس-نفتکش-ها-در-مسیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جزییات-تازه-از-قتل-صدف-حق-بین-متهم-اعتراف-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایجاد-سازمان-حفاظت-طرح-بزرگترین-تغییرات-در-وزارت-اطلاعات-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بحرین-حملات-جمهوری-اسلامی-را-محکوم-کرد-و-از-شورای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برند-راسل-در-حالی-که-در-زندان-است-کالای-راسل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
