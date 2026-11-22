@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رئیس-سازمان-فضایی-۳۶-ماهواره-در-دست-ساخت-داریم-رونمایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مایع-زمان-حالت-عجیبی-از-ماده-که-از-دل-آشفتگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ضوابط-استفاده-از-هوش-مصنوعی-در-دانشگاه-ها-آماده-ابلاغ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ربات-های-میکروسکوپی-وارد-رگ-های-خونی-می-شوند-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
