@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پیش-نویس-تازه-توافق-کوپ۳۱-ارائه-شد-کشورها-برای-نجات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مرگ-دو-کودک-به-دست-پدر-در-مصر-وقتی-خطر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کیتلان-کالینز-خاطرنشان-می-کند-که-غیبت-زمان-واقعی-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مسابقات-قهرمانی-nwsl-را-کجا-تماشا-کنیم-واشنگتن-اسپریت-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
