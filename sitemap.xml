@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-درباره-هک-پایگاه-اطلاعات-جنایی-اف-بی-آی-اتفاق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رسانه-های-اسرائیلی-واشنگتن-و-تل-آویو-برای-ازسرگیری-احتمالی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/با-وجود-مخالفت-جمهوری-اسلامی-اجرای-مسیر-ترامپ-در-قفقاز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,12 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/منچسترسیتی-۱-۱-فولام-اوضاع-سیتی-پس-از-فیفادی-هم-بهتر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حمله-روسیه-با-موشک-بالستیک-به-زادگاه-زلنسکی-در-اوکراین/</loc>
+    <loc>https://recart.ir/news/پرتغال-کارگران-زیر-باران-برای-زندگی-ارزان-تر-دست-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هدفون-های-ما-برای-برقراری-تماس-به-پایین-ترین-قیمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/امید-تازه-برای-درمان-آلزایمر-قطره-بینی-که-حافظه-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برنامه-نویسان-به-کمک-هوش-مصنوعی-برای-اجرای-gta-6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-جمنای-کنترل-مک-را-به-دست-می-گیرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جنجال-تازه-در-لیگ-برتر-پای-وزیر-بازرگانی-بریتانیا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -857,6 +857,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/sxsw-با-جشنواره-uth-مصر-که-به-فرهنگ-جوانان-اختصاص/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هندوانه-جاه-طلبی-های-تولید-را-گسترش-می-دهد-زیرا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مینی-سریال-داستان-واقعی-یک-موفقیت-جهانی-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
