@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تغییر-ساختار-وزارت-اطلاعات-با-حمایت-طائب-سازمان-های-حفاظت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/صدور-حکم-۲۱۷-سال-حبس-برای-۳۲-شهروند-بهایی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ثبت-بیش-از-۱۱-هزار-مورد-کودک-آزاری-در-یک/</loc>
+    <loc>https://recart.ir/news/چرا-عربستان-سعودی-در-جنگ-فرسایشی-با-حوثی-ها-دست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مسمومیت-الکلی-در-نیشابور-منجر-به-بستری-شدن-۳۳-نفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مذاکرات-بین-المللی-در-مورد-کنترل-استفاده-از-تسلیحات-خودمختار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-ترامپ-به-شرکت-های-فناوری-ساخت-دیتاسنتر-در-خارج/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/عضو-کمیسیون-بهداشت-مجلس-هزینه-ماهانه-داروی-برخی-بیماران-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -452,6 +452,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آمریکا-تولید-سکه-ای-را-که-چهار-برابر-ارزشش-هزینه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هرگز-پول-قرض-ندهید-مالیات-خود-را-پرداخت-کنید-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-با-زندگی-در-یک-آلونک-در-حیاط-خلوتم-خانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
