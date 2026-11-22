@@ -496,6 +496,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تاد-بوهلی-تشریح-می-کند-که-چگونه-میز-تجارت-دانیل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-به-یک-مستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یادداشت-معاون-سیاستگذاری-وزیر-ارتباطات-تخفیف-های-جعلی-جمعه-سیاه/</loc>
+    <loc>https://recart.ir/news/برند-pureview-نوکیا-احیا-می-شود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قابل-تشخیص-ترین-نوع-ایمیل-هرزنامه-بسیار-قدیمی-تر-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونالدو-مارادونا-و-باجو-تیم-منتخب-جهان-چه-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -826,6 +826,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اینا-گارتن-می-گوید-که-رقصیدن-با-ستاره-ها-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نوآ-اشنپ-می-گوید-که-برای-بازی-در-بازی-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عکس-های-عروسی-مایلی-سایرس-و-مکس-موراندو-اینجا-هستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -847,11 +857,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/منوی-هتل-بل-ایر-به-سنت-برمی-گردد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نوآ-اشنپ-می-گوید-که-برای-بازی-در-بازی-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جیمز-گری-در-مورد-توصیه-فرانسیس-فورد-کاپولا-که-شغل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/sxsw-با-جشنواره-uth-مصر-که-به-فرهنگ-جوانان-اختصاص/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
