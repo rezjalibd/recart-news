@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اتحادیه-عرب-حمله-جمهوری-اسلامی-به-بحرین-را-محکوم-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اعتراض-به-افزایش-هزینه-های-زندگی-هزاران-نفر-در-پرتغال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وزارت-بهداشت-از-ثبت-روزانه-حدود-۳۹۰-مورد-جدید-سرطان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استاندار-آذربایجان-غربی-حجم-دریاچه-ارومیه-بیش-از-۱۰-برابر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تظاهرکنندگان-به-دفاتر-متا-در-هند-یورش-بردند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مینی-ون-لوکس-هواوی-و-بایک-با-صندلی-های-چرخان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پژوهش-جدید-تنهایی-مداوم-ریسک-ابتلا-به-زوال-عقل-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/محققان-شب-بیداری-و-شام-دیرهنگام-می-تواند-سلامت-شما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-هرگز-نباید-داخل-کامپیوتر-خود-را-جاروبرقی-بکشید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -767,26 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سرشماری-مجازی-تا-۵-آذر-تمدید-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/8-بهترین-آداپتور-مسافرتی-2026-بیش-از-20-مدل-آزمایش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همانطور-که-دنیای-واقعی-از-هم-می-پاشد-grand-theft/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آماده-سازان-بعد-از-قطعی-وسایل-اضطراری-وسایل-اضطراری-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-بنیان-گذاران-فین-تک-می-گویند-هوش-مصنوعی-بازخورد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
