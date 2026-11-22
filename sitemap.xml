@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بلومبرگ-نگرانی-اصلی-نخست-وزیر-بریتانیا-نه-برگزیت-و-رفاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بررسی-اقیانوسی-مادیرا-مؤثر-بودن-حفاظت-را-نشان-داد-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ماموریت-های-شکار-فرعی-p-8-poseidon-به-اندازه-کافی-سخت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئالیسم-نژادی-واقع-بینانه-نیست---و-علم-خوبی-نیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خداحافظی-با-مدارک-کاغذی-بیمه-تحول-ناگهانی-در-بیمه-ثالث/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مدل-هوش-مصنوعی-inkling-2-mini-با-قابلیت-اجرای-آفلاین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دو-گروه-ادعای-ریاضیدان-را-تأیید-می-کنند-که-کلود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-یک-دستگاه-را-از-شبکه-خانگی-خود-مسدود-کنیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
