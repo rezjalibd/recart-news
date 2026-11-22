@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مهمانخانه-ندار-گ-در-سیستان-و-بلوچستان-برنده-جایزه-جهانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/افزایش-مسمومان-الکل-دست-ساز-در-نیشابور-به-۵۷نفر-چهار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فولاد-۲-۲-سپاهان-بازگشت-نویدکیا-به-صدر-جدول-با-کام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زن-کشی-در-سایه-سنت-گفت-وگوی-رییس-انجمن-جامعه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
