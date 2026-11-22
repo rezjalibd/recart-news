@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پیش-بینی-رشد-۴-۵-درصدی-اقتصاد-اسرائیل-در-میانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برای-کنترل-قند-خون-یک-پیاده-روی-طولانی-بهتر-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-از-احتمال-شروع-جنگ-پس-از-سال-نو-میلادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,22 +411,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مقام-سازمان-ملل-داعش-خراسان-در-افغانستان-به-پهپاد-دست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ابراز-نگرانی-در-اروپا-از-سرریز-جنگ-اوکراین-به-خاک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجله-خبری-۱-آذر-۱۴۰۵-۲۲-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معایب-اضافه-کردن-پنل-های-خورشیدی-به-خانه-شما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-مومیایی-مغز-تا-کلون-های-دیجیتال-و-بدن-یدکی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/23-بهترین-هدیه-لوکس-که-زندگی-روزمره-را-بالا-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/موضوع-مهم-بازپرداخت-وام-دانشجویی-که-توجه-دو-حزبی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-با-2-هفته-کار-و-چند-صد-دلار-مشاور/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -816,6 +816,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فصل-تاریخی-ویرجین-ریور-به-نتفلیکس-می-رسد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سلنا-گومز-در-افشای-جنسیت-کودک-در-بازی-اسپرز-بدون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بریتنی-اسپیرز-در-اینستاگرام-از-خانواده-اش-عذرخواهی-کرد-من/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مفقود-شدن-ده-ها-نفر-پس-از-آتش-سوزی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
