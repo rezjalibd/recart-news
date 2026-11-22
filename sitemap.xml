@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-بیش-از-100/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-از-انتظارات-بازنشستگی-خود-برای-مراقبت-از-والدینم-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تخفیفم-ن-اسنپ-پی-آغاز-شد-از-میلیون-ها-کالا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/داروهای-glp-1-می-توانند-بازده-زیست-محیطی-شگفت-انگیزی-داشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -826,6 +826,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ماهرشالا-علی-می-گوید-برای-من-نقشی-وجود-ندارد-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ateez-رتبه-چهارم-بیلبورد-200-را-با-ساعت-طلایی-قسمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فصل-جدید-سریال-جنایی-برتر-سوئدی-در-نتفلیکس-در-دسترس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آرتور-هراری-کارگردان-ناشناخته-می-گوید-هوش-مصنوعی-یک-شیب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
