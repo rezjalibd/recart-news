@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-تصویر-کنفرانس-تهران-را-منتشر-کرد-رضایی-آمریکا-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اوکراین-بیم-آن-می-رود-که-تا-هفت-نفر-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/لیدز-پس-از-۲۷-سال-در-خانه-چلسی-پیروز-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تورم-تولیدکننده-از-۱۲۰-درصد-گذشت-اقتصاد-ایران-کوچک-تر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -472,6 +472,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سقوط-لحظه-ای-قیمت-بیت-کوین-به-۱۷-هزار-دلار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قیمت-یک-واکمن-سونی-در-سال-1980-در-مقایسه-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دنسه-با-پروژه-چالوس-وارد-صنعت-کاندوتل-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
