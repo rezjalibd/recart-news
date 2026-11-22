@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آتالانتا-۴-۴-اینتر-هت-تریک-اسپوزیتو-هم-مانع-کامبک-تماشایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دموکرات-ها-بزرگترین-اکثریت-در-مجلس-نمایندگان-طی-۳۵-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-تصویر-کنفرانس-تهران-را-منتشر-کرد-رضایی-آمریکا-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اوکراین-بیم-آن-می-رود-که-تا-هفت-نفر-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-وقتی-مانیتور-شما-آن-را-روشن-می-کنید-سوسو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اپل-از-بحران-کمبود-آیفون-دوئو-فاصله-می-گیرد-موعد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترفند-جالب-دوربین-گوشی-که-می-تواند-باتری-کنترل-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/می-توانید-از-gopro-قدیمی-خود-به-چند-روش-مختلف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تلویزیون-های-قاب-هنری-2026-سامسونگ-هایسنس-و-tcl/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونالدو-مارادونا-و-باجو-تیم-منتخب-جهان-چه-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -822,6 +822,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بیست-و-یک-خلبان-فرزندان-هلو-و-موارد-دیگر-5/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تام-جکسون-پشتیبان-تمام-حرفه-ای-denver-broncos-و-تحلیلگر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فصل-جدید-سریال-جنایی-برتر-سوئدی-در-نتفلیکس-در-دسترس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
