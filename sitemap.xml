@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-tamagotchis-ما-را-به-حیوانات-خانگی-دیجیتال-جذب-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کشف-آسیب-پذیری-بحرانی-در-دروپال-هکرها-می-توانند-کنترل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شرکت-های-حسابداری-برای-استفاده-از-هوش-مصنوعی-رقابت-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ساترا-پخش-آنلاین-جشن-حافظ-را-متوقف-کرد-ادامه-محدودیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/9-تفاوت-بزرگ-بین-کتاب-و-فیلم-طلوع-خورشید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ازدواج-مایلی-سایرس-و-مکس-موراندو-در-عروسی-پالم-اسپرینگز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ماهرشالا-علی-می-گوید-مهم-نیست-که-2-اسکار-برده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوریلاز-chvrches-یونگ-لین-و-موارد-دیگر-5-بهترین-لحظه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
