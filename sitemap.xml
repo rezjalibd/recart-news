@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یوونتوس-۴-۰-ونتزیا-چهار-گل-در-پاسخ-به-سوت-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شنای-پرخطر-یک-بریتانیایی-در-تنگه-هرمز-با-هدف-جلب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ویدئو-دستگیری-چاپو-ایسیدرو-سردسته-تحت-تعقیب-اف-بی-آی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/برخی-بیماران-سرطانی-حتی-با-بیمه-ماهانه-۷۵-میلیون-تومان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -482,6 +482,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فراری-296-چلنج-استراداله-معرفی-شد-سوپراسپرت-۶۶۱-اسب-بخاری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قیمت-روز-پرفروش-ترین-گوشی-های-بازار-ایران-1-آذر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گزارش-ها-می-گویند-اف-بی-آی-در-حال-بررسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-دو-حزب-شکننده-در-زمینه-هوش-مصنوعی-از-فصل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نمایش-به-زودی-شروع-می-شود-لطفا-هدفون-خود-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دلایل-رایج-قرمز-بودن-برخی-پورت-های-usb/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کاوش-جهان-در-کوچک-ترین-مقیاس-فیزیک-دانان-سرن-نادرترین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تسلا-fsd-نسخه-۱۵-را-منتشر-کرد-بهبود-تشخیص-تابلوها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -762,31 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دارویی-جدید-از-خانواده-ویاگرا-پیشرفت-آلزایمر-را-در-گروهی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-جدی-سیگنال-درباره-جاسوسی-ناخواسته-هوش-مصنوعی-پیام-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-ریاضیات-را-رها-نمی-کنم-علیرغم-اینکه-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-هدایا-برای-مادر-2026-تقویم-دیواری-دیجیتال-کیف-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بانک-ها-تا-اینجا-با-عامل-هوش-مصنوعی-شما-این/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سامسونگ-شیائومی-و-اوپو-از-همین-حالا-به-فکر-تولید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
