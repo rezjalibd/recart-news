@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سناتور-آمریکایی-می-گوید-رابطه-جنسی-جنسن-هوانگ-گران-ترین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/واقعا-یک-fitbit-جدید-چقدر-باید-دوام-بیاورد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-ربات-نرم-بدون-هیچ-تراشه-ای-با-سرعت-۱۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پژوهش-جدید-تنهایی-مداوم-ریسک-ابتلا-به-زوال-عقل-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محققان-شب-بیداری-و-شام-دیرهنگام-می-تواند-سلامت-شما/</loc>
+    <loc>https://recart.ir/news/رونالدو-مارادونا-و-باجو-تیم-منتخب-جهان-چه-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -817,6 +822,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیوانه-واکنش-مارک-دیویس-مالک-raiders-را-به-خاطر-نقش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ساترا-مانع-پخش-زنده-جشن-تئاتر-و-موسیقی-حافظ-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-زندگی-نامه-ای-سزار-با-پشتوانه-نئون-درباره-افسر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنجال-تازه-در-لیگ-برتر-پای-وزیر-بازرگانی-بریتانیا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
