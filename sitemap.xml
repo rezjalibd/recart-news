@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-دوست-من-پوتین-تا-تداعی-یالتا-ترامپ-عکسش-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وقتی-کره-شمالی-به-کره-جنوبی-یورش-می-برد-آیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/در-پی-کشته-شدن-سوگند-صیادی-بهزیستی-از-نبود-مددکاران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پنتاگون-فیلم-تازه-از-مشاهده-یوفو-توسط-ارتش-آمریکا-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
