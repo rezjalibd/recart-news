@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-هرگز-نباید-داخل-کامپیوتر-خود-را-جاروبرقی-بکشید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-تلویزیون-می-تواند-خیلی-بزرگ-باشد-یک-تحقیق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جریان-های-هوش-مصنوعی-در-یک-مکان-موسیقی-آینده-داستان/</loc>
+    <loc>https://recart.ir/news/بارسلونا-۳-۲-ویارئال-کامبک-بارسا-در-نیوکمپ-پس-از-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آرتور-هراری-کارگردان-ناشناخته-می-گوید-هوش-مصنوعی-یک-شیب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-godzilla-minus-zero-به-لیست-دنباله-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئال-مادرید-۲-۱-سلتاویگو-کامبک-دشوار-رئال-مادرید-در-برنابئو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نقد-و-بررسی-گودزیلا-منهای-صفر-هر-چیزی-است-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
