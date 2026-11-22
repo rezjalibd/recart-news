@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/محمد-شرقی-از-بازداشت-شدگان-اعتراضات-دی-ماه-به-اعدام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/افزایش-۲۹-درصدی-آمار-اعدام-ها-در-ایران-سه-زندانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/۱۳۰-روز-محاصره-دریایی-ایران-نفتکش-خط-شکن-وجود-خارجی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارزان-خواری-در-ایران-بزرگسالان-از-غذای-خود-می-زنند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-دیگر-با-شوهرم-صحبت-نکردم-و-اجازه-دادم-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/apple-intelligence-چقدر-در-آیفون-شما-استفاده-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/احرازینو-معرفی-۵۰-وب-سرویس-و-api-برای-کسب-وکارها/</loc>
+    <loc>https://recart.ir/news/درگذشت-میلاد-فراهانی-دروازه-بان-سابق-فوتبال-ایران-در-سانحه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عذرخواهی-ستاره-نذر-کریس-هریسون-برای-گرفتن-ته-ته-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماهرشالا-علی-می-گوید-مهم-نیست-که-2-اسکار-برده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
