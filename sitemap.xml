@@ -146,6 +146,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/برند-راسل-در-حالی-که-در-زندان-است-کالای-راسل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قهرمانی-نماینده-ایران-در-اسنوکر-قره-گوزلو-با-شکست-حریف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ایران-۱۰---۲-ویتنام-صعود-ساحلی-بازان-با-جشنواره/</loc>
+    <loc>https://recart.ir/news/چگونه-مچ-پاهای-قوی-تر-و-سالم-تری-داشته-باشیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دومین-قاضی-فدرال-آمریکا-نیز-ساخت-بنای-طاق-نصرت-جنجالی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-اگر-ایران-به-دنبال-ساخت-بمب-کثیف-باشد-آمریکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-بهترین-نوع-هدفون-بی-سیم-برای-خروجی-صدا-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-چاپگر-سه-بعدی-خود-را-کالیبره-کنید-و-چرا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ساختن-مینی-کامپیوتر-شخصی-خود-سخت-تر-از-آن-چیزی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/thinking-machines-با-مدل-ترانسفورماتور-حلقه-دار-inkling-2-mini/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-بعضی-آغوش-ها-را-هرگز-فراموش-نمی-کنیم-پژوهش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/راه-اندازی-apple-homeview-به-لطف-آیفون-شما-به-طرز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>

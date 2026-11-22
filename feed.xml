@@ -5,7 +5,7 @@
     <link>https://recart.ir/</link>
     <description>پوشش لحظه‌ای و جامع اخبار فناوری، اقتصاد، ایران و بین‌الملل</description>
     <language>fa</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:21:58 +0000</lastBuildDate>
     <atom:link href="https://recart.ir/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ارتش ایران مدعی آسیب زدن به جنگنده اف-۱۶ آمریکا شد؛ سنتکام تکذیب کرد</title>
@@ -192,6 +192,14 @@
       <source url="https://digiato.com/iran-technology-news/power-outages-start-azar-1405">Digiato</source>
     </item>
     <item>
+      <title>برند راسل در حالی که در زندان است، کالای «راسل رایگان» را از طریق کسب و کار سلامتی خود می فروشد</title>
+      <link>https://recart.ir/news/برند-راسل-در-حالی-که-در-زندان-است-کالای-راسل/</link>
+      <guid>https://recart.ir/news/برند-راسل-در-حالی-که-در-زندان-است-کالای-راسل/</guid>
+      <description>او اخیراً به دلیل به اشتراک گذاشتن پیامی از پشت میله‌های زندان که توسط همسرش لورا برند در کانال یوتیوب خود که در آن ادعا می‌کرد بی‌گناه است، با واکنش‌ها مواجه شد. راسل برند در حالی که پس از محکوم شدن به 10 سال و شش ماه زندان پس از محکوم شدن به تجاوز جنسی و تجاوز جنسی، د...</description>
+      <category>ایران</category>
+      <source url="https://www.hollywoodreporter.com/news/general-news/russell-brand-selling-free-russell-merch-in-prison-1236760597/">Hollywood Reporter</source>
+    </item>
+    <item>
       <title>قهرمانی نماینده ایران در اسنوکر؛ قره‌گوزلو با شکست حریف هنگ‌کنگی طلایی شد</title>
       <link>https://recart.ir/news/قهرمانی-نماینده-ایران-در-اسنوکر-قره-گوزلو-با-شکست-حریف/</link>
       <guid>https://recart.ir/news/قهرمانی-نماینده-ایران-در-اسنوکر-قره-گوزلو-با-شکست-حریف/</guid>
@@ -304,12 +312,12 @@
       <source url="https://parsi.euronews.com/2026/11/21/oil-tankers-on-standby-in-kharg-will-iran-break-the-us-naval-blockade">Euronews Persian</source>
     </item>
     <item>
-      <title>ایران ۱۰ - ۲ ویتنام؛ صعود ساحلی‌بازان با جشنواره گل قطعی شد</title>
-      <link>https://recart.ir/news/ایران-۱۰---۲-ویتنام-صعود-ساحلی-بازان-با-جشنواره/</link>
-      <guid>https://recart.ir/news/ایران-۱۰---۲-ویتنام-صعود-ساحلی-بازان-با-جشنواره/</guid>
-      <description>تیم ملی فوتبال ساحلی ایران با پیروزی پرگل ۱۰ بر ۲ مقابل ویتنام، دومین برد خود در مرحله گروهی جام ملت‌های فوتبال ساحلی آسیا را به دست آورد و صعودش به مرحله یک‌چهارم نهایی را قطعی کرد.</description>
-      <category>ایران</category>
-      <source url="https://www.iranintl.com/202611219889">Iran International</source>
+      <title>چگونه مچ پاهای قوی‌تر و سالم‌تری داشته باشیم؟</title>
+      <link>https://recart.ir/news/چگونه-مچ-پاهای-قوی-تر-و-سالم-تری-داشته-باشیم/</link>
+      <guid>https://recart.ir/news/چگونه-مچ-پاهای-قوی-تر-و-سالم-تری-داشته-باشیم/</guid>
+      <description>مچ پا یکی از اصلی‌ترین ضربه‌گیرهای بدن است و برای حفظ تعادل، ایستادن، راه رفتن و دویدن نقش حیاتی دارد. با این حال بیشتر ما تا زمانی که دچار آسیب نشویم، چندان به آن فکر نمی‌کنیم. مچ پاها نخستین ضربه‌گیر بدن هستند؛ اندام‌هایی که نقشی حیاتی در حفظ تعادل، ایستادن، راه رفتن ...</description>
+      <category>بین‌الملل</category>
+      <source url="https://www.bbc.com/persian/articles/c6vg2770vz2po?at_medium=RSS&amp;at_campaign=rss">BBC Persian</source>
     </item>
     <item>
       <title>شوک نفتی ناشی از جنگ ایران بر مذاکرات اقلیمی کاپ ۳۱ در ترکیه سایه انداخت</title>
@@ -318,14 +326,6 @@
       <description>مذاکرات اجلاس تغییرات اقلیمی سازمان ملل متحد، کاپ ۳۱، در آنتالیای ترکیه برای دومین روز پس از موعد پایان آن ادامه یافته است؛ در حالی که اختلاف شدید کشورها بر سر آینده سوخت‌های فسیلی، دستیابی به توافق نهایی را دشوار کرده است. این مذاکرات در شرایطی به درازا کشیده که کشورها...</description>
       <category>بین‌الملل</category>
       <source url="https://www.bbc.com/persian/articles/cx5y1gd37je0o?at_medium=RSS&amp;at_campaign=rss">BBC Persian</source>
-    </item>
-    <item>
-      <title>اوکراین؛ دوربین خودرو لحظه انفجار مهیب در خیابانی در لویو را ثبت کرد</title>
-      <link>https://recart.ir/news/اوکراین-دوربین-خودرو-لحظه-انفجار-مهیب-در-خیابانی-در-لویو/</link>
-      <guid>https://recart.ir/news/اوکراین-دوربین-خودرو-لحظه-انفجار-مهیب-در-خیابانی-در-لویو/</guid>
-      <description>دوربین داش‌کم لحظه برخورد یک پرتابه روسی به ساختمانی روبه‌روی خودرو در لووف را ثبت کرد و راننده را به عقب‌رفتن واداشت. این حمله دو کشته و دست‌کم ۱۰ زخمی برجا گذاشت.</description>
-      <category>بین‌الملل</category>
-      <source url="https://parsi.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street">Euronews Persian</source>
     </item>
   </channel>
 </rss>
