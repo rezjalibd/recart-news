@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-بازگشت-خاموشی-ها-شهروندان-از-قطع-چند-ساعته-برق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خاموشی-های-خانگی-و-تهدید-تولید-هم-زمان-با-کمبود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مهمانخانه-ندار-گ-در-سیستان-و-بلوچستان-برنده-جایزه-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شادی-خیری-دانشجوی-۲۲ساله-در-خوابگاه-دخترانه-طرشت-جان-باخت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فولاد-۲-۲-سپاهان-بازگشت-نویدکیا-به-صدر-جدول-با-کام/</loc>
+    <loc>https://recart.ir/news/شوک-بزرگ-به-پاری-سن-ژرمن-پارگی-رباط-صلیبی-دزیره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بسته-شدن-مرز-استونی-و-روسیه-ساکنان-برای-عبور-پیش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/برخی-بیماران-سرطانی-حتی-با-بیمه-ماهانه-۷۵-میلیون-تومان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -482,6 +482,41 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتقال-نفت-از-تنگه-هرمز-در-پی-تشدید-حملات-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-خواستگار-نخبه-نشان-می-دهد-که-مدیران-از-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اتوی-موی-خشک-به-خشک-dyson-s-airstrait-با-100/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارمزد-خرید-طلا-در-میلی-از-۳۰-آبان-تا-۶/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قیمت-روز-انواع-خودرو-در-بازار-۱-آذر-۱۴۰۵/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-رویداد-مل-ی-گلد-باهدف-رونمایی-از-کتاب-پلتفرم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شفافیت-در-اقتصاد-دیجیتال-از-مزیت-رقابتی-تا-مسئولیت-سازمانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تخفیفم-ن-اسنپ-پی-آغاز-شد-از-میلیون-ها-کالا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -566,41 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-آخرین-روز-شکرگزاری-را-به-پیاده-روی-در-نارووز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اوبر-حساب-کاربری-خود-را-به-دلیل-یک-خطای-اداری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیمی-از-فارغ-التحصیلان-اخیر-کالج-نمی-توانند-شغلی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بررسی-مک-مینی-m6-اپل-یک-جهش-تمام-عیار-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ناظر-مجلس-در-شورای-عالی-بورس-رمزارز-بابک-زنجانی-غیرقانونی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-یک-وکیل-مهاجرت-تجاری-هستم-مشتریان-من-به-دلیل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افزایش-شدید-قیمت-خودروهای-هیوندای-در-آذر-۱۴۰۵-توسان-۳/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گزارش-ها-می-گویند-اف-بی-آی-در-حال-بررسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,56 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فریزرهای-داغ-اختلال-جی-پی-اس-و-بمب-های-جعلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وزیر-کره-جنوبی-پس-از-رسوایی-تقلب-هوش-مصنوعی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سوالات-شما-در-مورد-صدای-apple-homeview-پاسخ-داده-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انقلاب-کدنویسی-در-حال-آمدن-به-همه-ابزارها-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بنیانگذاران-آنتروپیک-واقعا-ثروتمند-هستند-چقدر-از-ایلان-ماسک-عقب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اولین-جمعه-سیاه-هوش-مصنوعی-یک-شروع-دشوار-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانشمندان-ژاپنی-با-ترکیب-dna-جلبک-و-همستر-سلول-دورگه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رئیس-پیشین-sec-حباب-هوش-مصنوعی-پیش-از-انتخابات-۲۰۲۸/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-90-درصد-متخصصان-خدمات-سایت-شخصی-ندارند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رونمایی-از-کارمزد-ماندگار-ازکی-سلر-فروشندگان-از-خرید-مستقیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/احرازینو-معرفی-۵۰-وب-سرویس-و-api-برای-کسب-وکارها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -741,52 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-توزیع-لینوکس-تنها-۷۵-مگابایت-رم-نیاز-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برنامه-نویسان-به-کمک-هوش-مصنوعی-برای-اجرای-gta-6/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/متا-و-سازنده-کلاد-بار-دیگر-به-سرقت-محتوای-کتاب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اگر-شبکه-ملی-اطلاعات-تکمیل-نشود-نسل-های-آینده-شهروندان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روزنه-امید-در-مقابله-با-سرطان-لوزالمعده-مهار-رشد-تومور/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شرکت-مونتاژکننده-آیفون-احتمالا-اولین-گوشی-اوپن-ای-آی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوگل-با-استقبال-گسترده-از-هوش-مصنوعی-درآمدهای-تبلیغاتی-خود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روزنه-امید-برای-مقابله-با-سرطان-لوزالمعده-مهار-رشد-تومور/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/صلیب-سرخ-هشدار-می-دهد-که-به-زودی-برای-تنظیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ضوابط-استفاده-از-هوش-مصنوعی-در-دانشگاه-ها-آماده-ابلاغ/</loc>
+    <loc>https://recart.ir/news/ساترا-پخش-آنلاین-جشن-حافظ-را-متوقف-کرد-ادامه-محدودیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گوریلاز-chvrches-یونگ-لین-و-موارد-دیگر-5-بهترین-لحظه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ست-روگن-می-گوید-برد-پیت-و-بازیگران-12-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
