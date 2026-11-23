@@ -31,6 +31,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فرود-اضطراری-پرواز-تهران-کیش-در-شیراز-تشنج-و-حمله/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گزارش-آتلانتیک-از-نادانسته-های-جنگ-با-ایران-پنتاگون-چه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پهنه-فرونشست-زمین-در-جنوب-غرب-تهران-طی-دو-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کانال-۱۲-اسرائیل-ارتش-هشدار-داد-حمله-به-ایران-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -206,17 +221,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازگشت-خاموشی-های-خانگی-و-تهدید-تولید-هم-زمان-با/</loc>
+    <loc>https://recart.ir/news/سرایت-جنگ-اوکراین-به-بیخ-گوش-ناتو-شناور-روسیه-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/در-پی-وخامت-اوضاع-معیشتی-کامیون-داران-در-شماری-از/</loc>
+    <loc>https://recart.ir/news/بادبان-های-بادی-ای-متانول-و-توافق-جهانی-متوقف-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هشدار-سازمان-حقوق-بشری-درباره-خطر-اعدام-قریب-الوقوع-میلاد/</loc>
+    <loc>https://recart.ir/news/نابرابری-درآمد-در-اروپا-کجا-بیشتر-است-و-چگونه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راهنمای-سفر-دسامبر-۲۰۲۶-بهترین-مقصدهای-اروپا-برای-دیدن-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -391,22 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیزنکوت-حملات-شهرک-نشینان-به-روستاهای-فلسطینی-در-کرانه-باختری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-نتیجه-انتخابات-در-۴-کشور-بزرگ-اتحادیه-اروپا-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اجلاس-اقلیمی-کاپ-۳۱-در-ترکیه-بدون-رسیدن-به-توافق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درخواست-مجدد-ترامپ-از-هیئت-مدیره-انویدیا-بازگشت-جنسن-هوانگ/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۲-آذر-۱۴۰۵-۲۳-نوامبر-۲۰۲۶---بامدادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باکس-آفیس-sunrise-on-the-reaping-با-اولین-فروش-۱۲۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افتتاحیه-۱۲۰-میلیون-دلاری-hunger-games-sunrise-on-the-reaping/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
