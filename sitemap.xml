@@ -831,6 +831,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اینا-گارتن-فاش-می-کند-که-چرا-هرگز-رقصیدن-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هایلی-استاینفلد-بازگشت-انتقام-جویان-روز-قیامت-در-نقش-کیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/منوی-هتل-بل-ایر-به-سنت-برمی-گردد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فصل-تاریخی-ویرجین-ریور-به-نتفلیکس-می-رسد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
