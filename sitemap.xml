@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ناو-جنگی-روسیه-پس-از-حمله-ای-منتسب-به-اوکراین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-گفت-حملات-جمهوری-اسلامی-پس-از-پیروزی-دموکرات-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -381,6 +386,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شاسی-بلند-معروف-چینی-به-دلیل-کپی-برداری-از-طراحی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تحلیل-ها-نشان-می-دهد-که-روسای-مرکز-داده-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نکونام-بازی-با-الوصل-برای-تراکتور-حکم-فینال-را-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-در-56-سالگی-از-ایالات-متحده-به-جنوب-فرانسه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-افسر-ارتش-ایالات-متحده-به-داخل-killhouse-اوکراین-رفت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -831,6 +831,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/باکس-آفیس-چین-بازی-های-گرسنگی-طلوع-آفتاب-در-درو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کنسرت-دون-تولیور-در-منچستر-پس-از-پرتاب-گاز-اشک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نوآ-کاهان-سزاوار-عشق-گرمی-بسیار-بیشتر-از-یک-نامزدی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دیوید-لیچ-به-روزرسانی-ocean-s-14-را-ارائه-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
