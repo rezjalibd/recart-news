@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ابوالفضل-ابوترابی-روزانه-۱۰-نفتکش-را-هدف-می-گیریم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فرود-اضطراری-پرواز-تهران-کیش-یک-مسافر-بازداشت-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/احضار-و-بازجویی-لیدا-پیراسته-هم-زمان-با-تداوم-بازداشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اسنپ-پی-کمپین-بلک-فرایدی-تخفیفم-ن-را-با-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنگ-و-تحریم-هزینه-تولید-خودرو-بی-کیفیت-در-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-بازگشت-خاموشی-ها-شهروندان-از-قطع-چند-ساعته-برق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -621,6 +621,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سخنگوی-وزارت-آموزش-وپرورش-تا-زمانی-که-شاخص-آلودگی-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خودروهای-بدون-راننده-ویمو-از-کنترل-پلیس-سرپیچی-می-کنند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/داپر-لیام-و-نوئل-بیورک-تجربی-و-بووی-خود-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-برنامه-رایگان-تلفن-اندرویدی-شما-را-به-صورت-بی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نحوه-تمیز-کردن-ایمن-gpu-رایانه-شخصی-برای-جلوگیری-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پوچتینو-پس-از-باخت-در-اولین-بازی-با-منچستریونایتد-باید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-های-هوش-مصنوعی-از-کرالا-تا-جزایر-آندامان-برنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/زمستان-کامرون-در-آخر-هفته-ایندی-پر-جنب-و-جوش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کریس-کولفر-ستاره-glee-می-گوید-که-کرت-هومل-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
