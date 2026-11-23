@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/با-افزایش-تقاضا-برای-هوش-مصنوعی-در-cx-سیرا-طی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ماگ-ارزان-قیمت-شیائومی-دمای-نوشیدنی-ها-را-تا-۶/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازگشت-ایران-خودرو-به-سوددهی-در-تابستان-۱۴۰۵-ثبت-سود/</loc>
+    <loc>https://recart.ir/news/جنسن-هوانگ-به-مدیریت-انویدیا-بازگشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -612,6 +617,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ساخت-ویدیو-رایگان-با-هوش-مصنوعی-گوگل-آموزش-انتقال-حرکت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,12 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پایان-پایداری-هزاران-ساله-یخ-های-زمین-از-محدوده-ایمن/</loc>
+    <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مانیتورهای-قابل-حمل-سه-صفحه-ای-برای-افراد-ضعیف-مناسب/</loc>
+    <loc>https://recart.ir/news/تریلر-پایانی-انتقام-جویان-روز-قیامت-لحظه-اصلی-مردان-ایکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وریا-غفوری-سرمربی-شمس-آذر-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/caa-امضای-همسران-خواهر-و-هماهنگ-صمیمیت-فیلمساز-و-بازیگر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیلی-وکیل-دادگستری-حکم-شلاق-پرستو-احمدی-و-چهار-نفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
