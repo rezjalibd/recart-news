@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/روایت-تازه-از-مرگ-سوگند-پدرش-می-گفت-یک-روز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هکر-بازی-جی-تی-ای-۶-به-هفت-سال-زندان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سی-ان-ان-جمهوری-خواهان-سنا-به-دنبال-توافقی-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سازمان-عفو-بین-الملل-خواستار-مشارکت-عمومی-در-مستندسازی-کشتار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مرخصی-شش-روزه-حمید-رسایی-پایان-یافت-ولی-به-اوین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایراندوست-باشگاه-از-من-قهرمانی-نخواسته-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -671,6 +671,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حالت-هوش-مصنوعی-جستجوی-google-اکنون-می-تواند-برای-پاسخ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-جوانان-امروزی-واقعا-مضطرب-تر-از-نسل-های-گذشته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سامسونگ-با-هوش-مصنوعی-عکس-های-شما-را-به-ویدیوهای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/nothing-s-upcoming-ear-note-یک-جفت-هدفون-با-رونویسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سیاست-مرکز-داده-سوئد-پیچیده-تر-از-آن-چیزی-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/samsung-odyssey-g6-g60h-اولین-مانیتور-گیمینگ-1100-هرتزی-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/می-توانید-در-این-پلتفرم-های-رسانه-های-اجتماعی-ناهنجاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/انگلیس-اسکاتلند-ولز-و-ایرلند-شمالی-میزبان-مشترک-جام-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -816,12 +816,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نمایش-های-جادویی-جدید-به-جای-هری-پاتر-ارزش-دیدن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/8-سلبریتی-که-قبل-از-معروف-شدن-در-مسابقه-miss/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مستندهای-موسیقی-درباره-oasis-پل-مک-کارتنی-الویس-و-دیگر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سورپرایز-عروسی-کیسی-واسرمن-و-جنی-چندلر-ازدواج-خود-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طراحی-پیش-درآمد-بازی-های-گرسنگی-از-استفاده-از-600000/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مگی-کیلی-کارگردان-بدون-عنوان-زنان-شکار-من-تو-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برای-یحیی-عبدالمتین-دوم-غرفه-صخره-یک-سال-عظیم-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استیون-اسپیلبرگ-برای-کارگردانی-فیلم-وسترن-با-بازی-کیلیان-مورفی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قرارداد-21-دور-shawn-levy-با-جوهرهای-غنی-از-فیلم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زندگی-مخفی-همسران-مورمون-اورنج-کانتی-برای-فصل-دوم-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
