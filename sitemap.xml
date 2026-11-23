@@ -221,6 +221,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یافته-های-تازه-درباره-میراث-ژنتیکی-نئاندرتال-ها-آیا-مغز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اوکراین-نجات-شبانه-زن-گرفتار-زیر-آوار-پس-از-۲۲/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بلیت-های-هواپیما-در-اروپا-در-سال-۲۰۲۷-تا-حد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یافته-نگران-کننده-یک-پژوهش-تازه-آیا-خواب-زیاد-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -396,21 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ضرب-الاجل-جدید-ترامپ-برای-مذاکرات-با-ایران-توافق-حاصل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آتالانتا-۴-۴-اینتر-هت-تریک-اسپوزیتو-هم-مانع-کامبک-تماشایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دموکرات-ها-بزرگترین-اکثریت-در-مجلس-نمایندگان-طی-۳۵-سال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دیگر-اجناس-مان-را-با-کالابرگ-نمی-فروشیم-ماه-هاست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -457,6 +457,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/افزایش-حقوق-کارمندان-در-دستور-کار-مجلس-قرار-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-اولین-ملک-اجاره-ای-خود-را-در-23-سالگی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مردم-هر-سال-کمتر-با-یکدیگر-صحبت-می-کنند-چرا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شکست-گوگل-در-کارآمد-کردن-نقشه-های-گوگل-برای-فلسطینی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانمارک-کشتی-های-مسافربری-تمام-برقی-و-پرسرعت-با-باتری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پروژه-مخفی-سامسونگ-برای-تولید-لپ-تاپ-اندرویدی-لو-رفت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/منتظر-گلکسی-واچ-جدید-در-سال-۲۰۲۷-نباشید-پایان-عرضه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اپل-برای-عرضه-آیفون-18e-آیپد-اقتصادی-و-مک-بوک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
