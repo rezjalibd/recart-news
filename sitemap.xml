@@ -411,6 +411,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سکه-۱۳-میلیون-تومان-گران-شد-دلار-از-۲۷۲هزار-تومان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کامیون-داران-دیگر-توان-حرکت-نداریم-کرایه-ها-خرج-کامیون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عبور-نفت-از-تنگه-هرمز-کندتر-شد-اما-قیمت-نفت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -467,6 +477,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مانیتور-گیمینگ-1100-هرتزی-پوچ-سامسونگ-ماه-آینده-با-قیمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -586,17 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/در-اینجا-زمانی-است-که-raspberry-pi-5-را-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیش-از-1000-پرواز-دلتا-در-سراسر-کشور-به-دلیل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معایب-اضافه-کردن-پنل-های-خورشیدی-به-خانه-شما/</loc>
+    <loc>https://recart.ir/news/کراداسترایک-زسکیلر-را-در-معامله-امنیت-سایبری-۴۰-میلیارد-یورویی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-دنبال-یک-اتوپیای-خودکار-گشتم-تنها-چیزی-که-به/</loc>
+    <loc>https://recart.ir/news/غلامرضا-نیکخواه-هنرپیشه-سینما-و-تلویزیون-ایران-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -867,6 +872,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کنسرت-دون-تولیور-پس-از-رهاسازی-مواد-موجود-در-هوا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فستیوال-بین-المللی-فیلم-روتردام-پپین-کویپر-مدیر-عامل-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مولی-ملدرام-مراسم-تشییع-جنازه-ایالتی-را-در-نقش-کایلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-داخل-گازومتر-استکهلم-جاه-طلبانه-ترین-مکان-موسیقی-جدید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیروستا-استیل-نسخه-های-جایگزین-my-skyscraper-tracks-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باکس-آفیس-کره-تریلر-اسرارآمیز-white-blast-در-رتبه-اول/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
