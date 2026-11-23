@@ -56,6 +56,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-ارومیه-تا-آمریکا-کوروش-ترابی-جوان-ایرانی-که-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/محسنی-اژه-ای-مشکل-معیشتی-جدی-است-از-حوزه-علمیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -107,6 +112,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عراق-گذرگاه-مرزی-شلمچه-را-تا-اطلاع-ثانوی-بست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مهاجری-خطاب-به-پزشکیان-برخی-اعضای-شورای-عالی-فضای-مجازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -166,12 +176,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ادعای-جنجالی-سعید-لیلاز-درباره-استخدام-۳۰۰-نفر-با-فشار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/همسر-راسل-برند-پس-از-انتقال-پیام-متجاوز-از-طریق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بقایی-مجید-موسوی-پاسخ-به-آمریکا-را-در-بسته-بندی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/گمانه-زنی-ها-پیرامون-تلاش-ایران-برای-شکستن-محاصره-دریایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/همسر-راسل-برند-قول-می-دهد-که-پیام-های-زندان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -192,31 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بقائی-ایران-برای-مقابله-با-محاصره-دریایی-آمریکا-از-همه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ابوالفضل-ابوترابی-روزانه-۱۰-نفتکش-را-هدف-می-گیریم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فرود-اضطراری-پرواز-تهران-کیش-یک-مسافر-بازداشت-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احضار-و-بازجویی-لیدا-پیراسته-هم-زمان-با-تداوم-بازداشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترکیه-چگونه-از-جنگ-ایران-برای-گسترش-نفوذ-نظامی-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خاموشی-های-برنامه-ریزی-شده-در-ایران-آغاز-شد-هشدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -282,6 +282,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آغاز-اجرای-رسمی-طرح-مسیر-ترامپ-در-جنوب-ارمنستان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/babylon-on-the-potomac-کلیسای-رادیکال-پیت-هگزت-dc-نخبگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,17 +411,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سرایت-جنگ-اوکراین-به-بیخ-گوش-ناتو-شناور-روسیه-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/چگونه-یک-شراب-ساز-در-ماکائو-هم-خانه-اش-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قیمت-نهایی-بی-ام-و-i3-برقی-در-ایران-اعلام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/nbcuniversal-آمازون-در-مسابقه-تبلیغاتی-تعطیلات-در-هفته-شکرگزاری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لگو-کارخانه-ای-یک-میلیارد-یورویی-در-پرتغال-می-سازد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سمت-تاریک-موج-سواری-برنده-بفتا-در-حال-بررسی-اتهامات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -427,86 +442,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گسترش-اختلاف-بر-سر-دستمزد-در-آلمان-اعتصاب-۲۴ساعته-مرسدس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/میراث-کلاه-سازی-شازل-سور-لیون-از-اوج-شکوفایی-صنعتی-تا-کارگاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سکه-۱۳-میلیون-تومان-گران-شد-دلار-از-۲۷۲هزار-تومان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کامیون-داران-دیگر-توان-حرکت-نداریم-کرایه-ها-خرج-کامیون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عبور-نفت-از-تنگه-هرمز-کندتر-شد-اما-قیمت-نفت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مجله-خبری-۲-آذر-۱۴۰۵-۲۳-نوامبر-۲۰۲۶---نیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دیگر-اجناس-مان-را-با-کالابرگ-نمی-فروشیم-ماه-هاست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/۹-ماه-پس-از-آغاز-جنگ-ایران-قیمت-نفت-کاهش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شانزه-لیزه-برای-جشن-های-سال-نو-نورباران-شد-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرتغال-به-کمک-تکیور-به-جمع-ده-کشور-برتر-اروپا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اعلام-نزدیک-به-۱۵-میلیارد-یورو-سرمایه-گذاری-جدید-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مجله-خبری-۲-آذر-۱۴۰۵-۲۳-نوامبر-۲۰۲۶---بامدادی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بخش-فناوری-دوباره-زیر-آتش-معامله-گران-سقوط-وال-استریت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مرکز-آمار-ایران-تورم-نقطه-به-نقطه-تولیدکننده-از-۱۲۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مجله-خبری-۱-آذر-۱۴۰۵-۲۲-نوامبر-۲۰۲۶---شامگاهی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قیمت-نهایی-بی-ام-و-i3-برقی-در-ایران-اعلام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -541,6 +476,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/میراث-کلاه-سازی-شازل-سور-لیون-از-اوج-شکوفایی-صنعتی-تا-کارگاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ویوو-برای-بازار-گوشی-های-ارزان-آماده-می-شود-مشخصات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -561,12 +501,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سکه-۱۳-میلیون-تومان-گران-شد-دلار-از-۲۷۲هزار-تومان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کامیون-داران-دیگر-توان-حرکت-نداریم-کرایه-ها-خرج-کامیون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مانیتور-گیمینگ-1100-هرتزی-پوچ-سامسونگ-ماه-آینده-با-قیمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/geico-امیدوار-است-انیمیشن-دو-دقیقه-ای-ویژه-تعطیلات-بتواند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/44-بهترین-هدیه-زیر-100-دلار-که-wired-دوست-دارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تحقیقات-نشان-می-دهد-که-مالیات-نتفلیکس-بحث-برانگیز-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -577,6 +537,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هنگ-کنگ-به-دنبال-کنترل-گسترده-تر-بازار-رمزارزها-فعالیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/عبور-نفت-از-تنگه-هرمز-کندتر-شد-اما-قیمت-نفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مجله-خبری-۲-آذر-۱۴۰۵-۲۳-نوامبر-۲۰۲۶---نیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,57 +571,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سوزان-ساراندون-در-امضای-نامه-سرگشاده-به-ناتالی-دورمر-ریچارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیگر-اجناس-مان-را-با-کالابرگ-نمی-فروشیم-ماه-هاست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قیمت-قطعی-یا-ریسک-پنهان-مقایسه-خرید-۶۰-روزه-فونیکس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کاریزما-کلاب-باشگاه-مشتریانی-با-مزایای-مالی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/۹-ماه-پس-از-آغاز-جنگ-ایران-قیمت-نفت-کاهش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آغاز-پیش-ثبت-نام-فروش-فیدلیتی-الیت-بهمن-موتور-پیش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-جایگاه-مدیرعامل-انویدیا-۱۱-روز-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خرید-زدسکیلر-توسط-کروداستریک-در-معامله-امنیت-سایبری-۴۰-میلیارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کراداسترایک-زسکیلر-را-در-معامله-امنیت-سایبری-۴۰-میلیارد-یورویی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دونالد-ترامپ-از-انویدیا-خواست-جنسن-هوانگ-مدیرعامل-سابق-دوباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-از-انویدیا-خواست-ینسن-هوانگ-را-دوباره-به-سمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-هوش-مصنوعی-می-تواند-تشخیص-سرطان-پستان-را-سریع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-هوش-مصنوعی-متا-هشدار-داد-نباید-جامعه-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مردم-هر-سال-کمتر-با-یکدیگر-صحبت-می-کنند-چرا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-چگونه-سفر-و-گردشگری-را-دگرگون-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-هوش-مصنوعی-می-تواند-فتوا-بدهد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -666,7 +616,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/انویدیا-جنسن-هوانگ-را-به-عنوان-مدیرعامل-بازگرداند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جنسن-هوانگ-به-عنوان-مدیرعامل-انویدیا-بازگشته-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-پس-از-سری-کارها-به-عنوان-مدیرعامل-انویدیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -726,6 +686,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خرید-زدسکیلر-توسط-کروداستریک-در-معامله-امنیت-سایبری-۴۰-میلیارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آمازون-در-حال-دریافت-سفارشات-برای-moto-tag-3-قبل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -766,6 +731,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کراداسترایک-زسکیلر-را-در-معامله-امنیت-سایبری-۴۰-میلیارد-یورویی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پایان-پایداری-هزاران-ساله-یخ-های-زمین-از-محدوده-ایمن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -791,112 +761,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دونالد-ترامپ-از-انویدیا-خواست-جنسن-هوانگ-مدیرعامل-سابق-دوباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانشمندان-با-فناوری-ساخت-تراشه-از-خاک-مصنوعی-ماه-اکسیژن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ظاهر-گلکسی-s26-اولترا-با-نمایشگر-پشتی-شبیه-شیائومی-گوشی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-از-انویدیا-خواست-ینسن-هوانگ-را-دوباره-به-سمت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/meta-muse-می-تواند-خرید-جمعه-سیاه-شما-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-هدایا-برای-والدین-و-نوزادانشان-بطری-شوی-غذاهای-آماده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پرتیسهد-به-کارزار-بدون-موسیقی-برای-نسل-کشی-همراه-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حکم-۷۴-ضربه-شلاق-پرستو-احمدی-و-چهار-نفر-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/غلامرضا-نیکخواه-هنرپیشه-سینما-و-تلویزیون-ایران-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/غلامرضا-نیکخواه-بازیگر-باسابقه-سینما-و-تلویزیون-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احمد-گوهری-به-پرداخت-بیش-از-یک-میلیارد-تومان-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وریا-غفوری-سرمربی-شمس-آذر-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیلی-وکیل-دادگستری-حکم-شلاق-پرستو-احمدی-و-چهار-نفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محسن-نامجو-در-ایران-به-من-اجازه-برگزاری-کنسرت-نمی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لامین-یامال-دیدار-بارسلونا-مقابل-صباح-را-از-دست-داد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اجبار-خانواده-علیرضا-رئیسی-به-پاک-کردن-شعر-یادبود-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدیر-پیشین-استقلال-خوزستان-پیامک-های-غیراخلاقی-مربی-به-بازیکنان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پوچتینو-پس-از-باخت-در-اولین-بازی-با-منچستریونایتد-باید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رونالدو-مارادونا-و-باجو-تیم-منتخب-جهان-چه-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لیورپول-۴-۰-منچستریونایتد-باخت-سنگین-و-آغاز-فاجعه-بار-دوران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/داستان-جذاب-فوتبال-مونتزا-شهری-که-فقط-فرمول-یک-نیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درگذشت-میلاد-فراهانی-دروازه-بان-سابق-فوتبال-ایران-در-سانحه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بارسلونا-۳-۲-ویارئال-کامبک-بارسا-در-نیوکمپ-پس-از-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/blade-runner-2099-یک-پیچ-و-تاب-مبتکرانه-در-کلاسیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-gta-6-هر-عرضه-سرگرمی-در-سال-2026-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-شطرنج-را-فتح-کرد-اتفاقات-بعدی-باید-ما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خودگرزی-شهرازاد-عامیانه-ای-زیبا-و-ژانر-آشفته-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -907,6 +802,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تام-میسلبروک-پس-از-شش-سال-از-شرکت-سینفلیکس-شب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/blade-runner-2099-یک-پیچ-و-تاب-مبتکرانه-در-کلاسیک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -922,6 +822,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کریستین-مونگیو-کارگردان-فیلم-آبدره-می-گوید-تصمیم-گیری-درباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حکم-۷۴-ضربه-شلاق-پرستو-احمدی-و-چهار-نفر-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -977,6 +882,101 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-blade-runner-2099-هانتر-شافر-با-کمک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نقد-و-بررسی-حفاری-کمدی-باستان-شناسی-امی-پولر-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/grand-theft-auto-vi-the-album-deluxe-23-آهنگ-اصلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جشنواره-فیلم-روتردام-پپین-کویپر-را-به-عنوان-مدیر-عامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-gta-6-هر-عرضه-سرگرمی-در-سال-2026-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-شطرنج-را-فتح-کرد-اتفاقات-بعدی-باید-ما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روتردام-پپین-کویپر-را-به-عنوان-مدیر-عامل-استخدام-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سرانجام-بریتانیا-می-تواند-همه-چیز-را-ببیند-الیزابت-هلمز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/غلامرضا-نیکخواه-هنرپیشه-سینما-و-تلویزیون-ایران-درگذشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کنسرت-دون-تولیور-پس-از-رهاسازی-مواد-موجود-در-هوا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فستیوال-بین-المللی-فیلم-روتردام-پپین-کویپر-مدیر-عامل-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/غلامرضا-نیکخواه-بازیگر-باسابقه-سینما-و-تلویزیون-درگذشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/احمد-گوهری-به-پرداخت-بیش-از-یک-میلیارد-تومان-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نمایش-دون-تولیور-در-منچستر-پس-از-انتشار-مواد-ناشناخته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وریا-غفوری-سرمربی-شمس-آذر-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/caa-امضای-همسران-خواهر-و-هماهنگ-صمیمیت-فیلمساز-و-بازیگر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیلی-وکیل-دادگستری-حکم-شلاق-پرستو-احمدی-و-چهار-نفر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تایسون-فیوری-در-سند-نتفلیکس-تشخیص-اسکیزوفرنی-را-فاش-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بیلی-پورتر-هانا-جان-کامن-هیئت-رنگ-پوست-من-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/svenja-liebrecht-نماینده-سابق-caa-به-تهیه-کننده-ndf-the/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
