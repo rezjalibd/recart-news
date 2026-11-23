@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گادی-آیزنکوت-نیازی-به-اقدام-نظامی-فوری-علیه-جمهوری-اسلامی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازداشت-سه-شهروند-بهایی-در-کرمان-و-انتقال-به-مکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تهران-از-آمادگی-برای-مقابله-با-محاصره-آمریکا-خبر-داد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بقائی-سخنگوی-وزارت-خارجه-کاردار-قطر-را-احضار-و-اعتراض/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -421,6 +421,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/cop31-با-شکاف-کشورها-بر-سر-سوخت-های-فسیلی-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ساعت-های-جدیدی-که-بدون-نیاز-به-باتری-کار-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هدایای-تعطیلات-مورد-علاقه-the-verge-که-50-دلار-یا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مانیتور-گیمینگ-1100-هرتزی-پوچ-سامسونگ-ماه-آینده-با-قیمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/geico-امیدوار-است-انیمیشن-دو-دقیقه-ای-ویژه-تعطیلات-بتواند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/هیئت-مدیره-انویدیا-بار-دیگر-جنسن-هوانگ-را-به-سمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سازمان-حفظ-حریم-خصوصی-هلند-از-مصرف-کنندگان-می-خواهد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,17 +791,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/f1-در-لاس-وگاس-شما-هرگز-مسابقه-f1-مانند-این/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجازات-زنان-برای-آواز-خواندن-بدون-حجاب-وکیل-پرستو-احمدی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شصت-سال-در-ساخت-تریلر-عجیب-و-غریب-مردم-اشتباه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آهنگ-کامیکازی-پس-از-مرگ-d-angelo-را-بشنوید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مسابقه-رقص-بی-بی-سی-با-صداهای-جنسی-شوخی-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کراو-یاگا-را-برای-فصل-2-با-بازگشت-کری-آن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/میکاپ-آرتیست-ها-و-آرایشگران-انجمن-صنفی-ست-های-رونی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نقد-و-بررسی-blade-runner-2099-میشل-یو-و-هانتر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/canada-s-crave-orders-فصل-2-yaga-با-بازی-کری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
