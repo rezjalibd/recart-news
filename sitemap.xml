@@ -531,6 +531,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/درخشانتر-از-خورشید-چگونه-بازاریابی-و-روابط-عمومی-lionsgate-تبدیل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تاد-بوهلی-تشریح-می-کند-که-چگونه-میز-تجارت-دانیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اتوی-موی-خشک-به-خشک-dyson-s-airstrait-با-100/</loc>
+    <loc>https://recart.ir/news/8-برنامه-ویندوز-که-احتمالا-باید-از-رایانه-شخصی-خود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آدرس-های-ip-عمومی-در-مقابل-خصوصی-چه-تفاوتی-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تنها-با-چند-کلیک-می-توانید-تمام-ایمیل-های-خود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسیس-به-دنبال-تولید-هیولای-آفرودی-۱۱۰۰-اسب-بخاری-x/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پوچتینو-پس-از-باخت-در-اولین-بازی-با-منچستریونایتد-باید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مولی-ملدروم-پخش-کننده-موسیقی-استرالیایی-و-مجری-countdown-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سلنا-گومز-در-افشای-جنسیت-کودک-در-بازی-اسپرز-بدون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پس-از-114-سال-هتل-بورلی-هیلز-یک-زندگی-شب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
