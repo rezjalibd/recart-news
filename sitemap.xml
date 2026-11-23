@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/منتظر-گلکسی-واچ-جدید-در-سال-۲۰۲۷-نباشید-پایان-عرضه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اپل-برای-عرضه-آیفون-18e-آیپد-اقتصادی-و-مک-بوک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حلقه-معروف-ارباب-حلقه-ها-واقعی-شد-این-بار-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برای-استفاده-از-صفحه-نمایش-تقسیم-شده-در-اندروید-نیازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برند-pureview-نوکیا-احیا-می-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مزایای-استفاده-از-ایستگاه-اتصال-usb-c/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
