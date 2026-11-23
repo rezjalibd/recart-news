@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دو-سال-حبس-بهای-زنی-که-دختران-ایران-را-جهانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/۳۰-مورد-مسمومیت-الکلی-و-یک-کشته-در-فارس-شمار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فرود-اضطراری-پرواز-تهران-کیش-در-شیراز-تشنج-و-حمله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کنایه-روزبه-سینکی-به-پزشکیان-آیا-برای-خوابیدن-با-کاپشن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-سازمان-حقوق-بشر-ایران-درباره-خطر-اعدام-آرمون-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بحرین-حملات-جمهوری-اسلامی-ایران-را-محکوم-کرد-و-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-خودرو-با-انرژی-خورشیدی-کار-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پروژه-مخفی-سامسونگ-برای-تولید-لپ-تاپ-اندرویدی-لو-رفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/منتظر-گلکسی-واچ-جدید-در-سال-۲۰۲۷-نباشید-پایان-عرضه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نماد-کلید-کوچک-در-دستگاه-اندروید-شما-به-چه-معناست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برای-استفاده-از-صفحه-نمایش-تقسیم-شده-در-اندروید-نیازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پوچتینو-پس-از-باخت-در-اولین-بازی-با-منچستریونایتد-باید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مولی-ملدرام-مراسم-تشییع-جنازه-ایالتی-را-در-نقش-کایلی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/plaqueboymax-می-خواهد-هنرمند-مورد-علاقه-بعدی-شما-را-پیدا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/sheglam-با-سومین-مجموعه-آرایش-های-هری-پاتر-خزانه-جادوگران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
