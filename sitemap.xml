@@ -436,6 +436,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/الفت-نسب-زیرساخت-های-ناقص-مانع-اتصال-پلتفرم-های-طلا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/با-سقوط-سهام-آسیایی-معاملات-آتی-سهام-ایالات-متحده-افزایش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازی-های-گرسنگی-طلوع-آفتاب-در-درو-۱۲۰-میلیون-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باکس-آفیس-sunrise-on-the-reaping-با-اولین-فروش-۱۲۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
