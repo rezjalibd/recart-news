@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اسپانیا-حکومت-طالبان-را-هرگز-به-رسمیت-نخواهیم-شناخت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عملکرد-بلو-لاگون-ایسلند-پس-از-عرضه-اولیه-اش-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/لیست-قیمت-لپ-تاپ-های-پرفروش-بازار-ایران-از-مدل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ج-نسن-هوانگ-به-عنوان-رئیس-و-مدیر-انویدیا-برگشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -642,6 +642,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سبد-سهام-خود-ترامپ-از-افزایش-انویدیا-سود-می-برد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/crowdstrike-برای-خرید-zscaler-به-مبلغ-44-میلیارد-دلار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چراغ-چشمک-زن-سبز-روی-کنترل-از-راه-دور-roku/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/nvidia-جنسن-هوانگ-را-به-عنوان-مدیر-عامل-و-رئیس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/5-میانبر-کم-ارزش-اپل-واچ-که-می-توانید-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انویدیا-جنسن-هوانگ-را-به-عنوان-مدیرعامل-بازگرداند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بت-موبیل-مشهور-فیلم-بتمن-بازمی-گردد-اثر-تیم-برتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روزی-روزگاری-در-خاورمیانه-برنده-پلنگ-برفی-بهترین-فیلم-جشنواره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آلیسون-جانای-همیلتون-به-عنوان-اولین-پروژه-عکس-ها-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جاستین-تیمبرلیک-در-مستند-چهار-قسمتی-درباره-اوج-و-فرودهای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/10-مدرسه-برتر-انیمیشن-هالیوود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سامانتا-مورتون-ستاره-اودیسه-با-کمک-مالی-bfi-تجلیل-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/doc-nyc-برندگان-جوایز-ایالات-متحده-مسابقات-بین-المللی-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دایناسورها-اقیانوس-با-دیوید-آتنبرو-تهیه-کننده-فیلم-های-silverback/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-مستند-جاستین-تیمبرلیک-او-آن-چیزی-نیست-که-من/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سامانتا-مورتون-بورسیه-bfi-را-دریافت-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
