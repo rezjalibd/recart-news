@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/صدای-ما-را-بشنوید-در-مادرید-تأکید-اسپانیا-بر-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اوکراین-مسئولیت-غرق-کردن-ناو-جنگی-روسیه-در-بندر-بنغازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کره-جنوبی-و-چین-بر-سر-گسترش-توافق-تجاری-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/راهنمای-سفر-دسامبر-۲۰۲۶-بهترین-مقصدهای-اروپا-برای-دیدن-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چربی-سوزی-و-تنظیم-قند-خون-ورزش-چگونه-سوخت-وساز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گ-وورگ-تامامیان-جوان-ترین-نامزد-برای-ریاست-سازمان-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -651,6 +651,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دیلن-موران-در-این-نمایش-کمدی-گیج-کننده-به-دنبال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/امن-ترین-و-ناامن-ترین-اپراتورهای-پیامک-انبوه-معرفی-شدند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دانلود-مشکل-قضاوت-هوش-مصنوعی-و-تهدید-محصول-حذف-کربن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شکست-گوگل-در-کارآمد-کردن-نقشه-های-گوگل-برای-فلسطینی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دانمارک-کشتی-های-مسافربری-تمام-برقی-و-پرسرعت-با-باتری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-ارائه-دهنده-برق-برای-متا-از-رگولاتورها-خواست-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
