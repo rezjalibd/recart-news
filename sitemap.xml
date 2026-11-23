@@ -346,6 +346,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-یک-بازگشت-مخاطره-آمیز-برای-جنسن-هوانگ-طراحی-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فرماندار-جدید-می-گوید-که-اگر-انفجار-تصادفی-منفجر-شود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-از-شرکت-های-آمریکایی-می-خواهد-که-به-یاد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترفند-شکار-سه-هزار-ساله-بومیان-آمریکا-گاومیش-ها-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -676,6 +676,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تحریم-های-دولت-ترامپ-علیه-مگاسپید-شرکت-سنگاپوری-در-مرکز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/anthropic-claude-ship-را-راه-اندازی-کرد-و-به-عوامل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -692,11 +697,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/megaspeed-شرکتی-که-در-مرکز-رسوایی-جنسن-هوانگ-قرار-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تحریم-های-دولت-ترامپ-علیه-مگاسپید-شرکت-سنگاپوری-در-مرکز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/صنعت-موسیقی-حرکت-می-کند-علائم-املاک-gram-parsons-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/saturday-night-live-رابرت-دنیرو-و-تیموتی-شالامه-به-عنوان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/snl-تیموتی-شالامه-و-رابرت-دنیرو-را-به-عنوان-میزبان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/میسی-گری-برای-انتشار-آلبوم-بعدی-در-داخل-یک-میکرودرام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
