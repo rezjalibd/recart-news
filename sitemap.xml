@@ -31,6 +31,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شوراهای-صنفی-۳۱-دانشگاه-در-برابر-سرکوب-نمایندگان-دانشجویان-سکوت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/موج-تازه-مسمومیت-با-مشروبات-الکلی-تقلبی-در-ایران-۵/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سازمان-عفو-بین-الملل-خواستار-مشارکت-عمومی-در-مستندسازی-کشتار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مرخصی-شش-روزه-حمید-رسایی-پایان-یافت-ولی-به-اوین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -202,21 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سپاه-از-انفجار-دو-نفتکش-در-شرق-تنگه-هرمز-خبر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روستایی-در-شرق-انگلستان-در-اعتراض-به-طرح-اسکان-پناهجویان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روستایی-در-شرق-انگلستان-در-اعتراض-به-طرح-اسکان-پناهجویان-21c960/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محمد-شرقی-از-بازداشت-شدگان-اعتراضات-دی-ماه-به-اعدام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -471,6 +471,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بومی-سازی-فاوا-میان-حمایت-و-انحصار-اختلاف-نظر-دولت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هنگ-کنگ-به-دنبال-کنترل-گسترده-تر-بازار-رمزارزها-فعالیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/صدها-پرواز-دلتا-در-سراسر-کشور-پس-از-مشکل-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آیا-هوش-مصنوعی-می-تواند-تشخیص-سرطان-پستان-را-سریع/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -627,6 +627,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-استفاده-از-سنگ-ها-برای-حذف-کربن-می-تواند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نیویورک-تایمز-آلیس-هوانگ-در-حین-رابطه-با-مدیرعامل-انویدیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-ایرانی-در-مسیر-تحول-از-توسعه-مدل-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
