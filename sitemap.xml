@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حکم-۷۴-ضربه-شلاق-پرستو-احمدی-و-چهار-همراهش-اجرا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/عدم-صدور-ویزای-بحرین-برای-منصوریان-الزورا-خواستار-تغییر-مکان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زمستان-هنوز-نرسیده-خاموشی-ها-آغاز-شد-بحران-برق-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گزارش-آتلانتیک-از-نادانسته-های-جنگ-با-ایران-پنتاگون-چه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پهنه-فرونشست-زمین-در-جنوب-غرب-تهران-طی-دو-سال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کانال-۱۲-اسرائیل-ارتش-هشدار-داد-حمله-به-ایران-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -486,6 +486,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-این-6-سهم-از-مسیر-هوش-مصنوعی-برنده-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انویدیا-پس-از-کاهش-ارزش-یک-تریلیون-دلاری-تقریبا-9/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هفته-بد-وال-استریت-بدون-کمبود-نقاط-عطف-زشت-بود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رئیس-مشترک-آپولو-گفت-این-2-ویژگی-رهبران-را-متمایز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معامله-شام-بوقلمون-والمارت-باعث-هجوم-سفارشات-می-شود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اقتصاددان-بانک-هشدار-داد-که-برای-3-افزایش-متوالی-نرخ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ویوو-برای-بازار-گوشی-های-ارزان-آماده-می-شود-مشخصات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -571,36 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/میشل-یئو-64-ساله-می-گوید-که-برنامه-سلامتی-صبحگاهی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قیمت-ساعت-هوشمند-امروز-۲-آذر-افت-۲۰-درصدی-گلکسی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-اینجا-هزینه-starlink-در-سال-2020-در-برابر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سرمایه-قابل-توجه-gic-و-بیلی-گیفورد-چگونه-پیش-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یوتیوب-در-آستانه-پرداخت-غرامت-۳-میلیارد-دلاری-اتهام-آسیب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زمانی-که-یک-موسس-کافی-شاپ-مدلی-را-که-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خرید-زدسکیلر-توسط-کروداستریک-در-معامله-امنیت-سایبری-۴۰-میلیارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -647,6 +647,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انویدیا-اکنون-رابط-های-مغز-و-کامپیوتر-را-تقویت-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-اولیه-دستگاه-اسپرسو-جمعه-سیاه-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/غلامرضا-نیکخواه-هنرپیشه-سینما-و-تلویزیون-ایران-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بارسلونا-۳-۲-ویارئال-کامبک-بارسا-در-نیوکمپ-پس-از-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-gta-6-هر-عرضه-سرگرمی-در-سال-2026-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-بزرگترین-تعطیلات-آخر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-های-هوش-مصنوعی-از-کرالا-تا-جزایر-آندامان-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
