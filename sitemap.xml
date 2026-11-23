@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ادامه-موج-بازداشت-ها-در-آبدانان-سروش-گیلانی-و-شایان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/موج-جدید-مسمومیت-الکلی-در-ایران-دستکم-هشت-نفر-جان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-شهروندان-به-مسمومیت-الکلی-ده-ها-نفر-منع-فروش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شروع-توفانی-تیم-ملی-هندبال-در-آسیا-زنان-ایران-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -661,6 +661,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-با-انویدیا-کار-کرده-اید-ما-می-خواهیم-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چه-بلایی-سر-کابین-خودروها-آمده-است-چرا-دکمه-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/robotrack-ردیابی-نقطه-ای-برای-دستکاری-رباتیک-در-دنیای-واقعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رهبران-فناوری-بازگشت-جنسن-هوانگ-را-جشن-می-گیرند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مردی-خودش-را-آتش-زد-و-۱۷۳-متر-در-هوا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بت-موبیل-مشهور-فیلم-بتمن-بازمی-گردد-اثر-تیم-برتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رقص-چارلی-دی-آملیو-نایل-کاتسی-با-گروه-گابریلا-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ساخته-شده-توسط-all-hires-مدیر-سابق-spotter-rolling-stone/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلمی-که-قبلا-دیده-نشده-بود-از-لد-زپلین-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/don-toliver-نمایش-o2-arena-را-پس-از-تخلیه-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کمدین-پیتون-رادی-با-شرکای-سرگرمی-brillstein-امضا-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسپایک-لی-و-ویلم-دافو-فیلم-کوتاه-پانکاجا-به-عنوان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روزی-روزگاری-در-خاورمیانه-برنده-پلنگ-برفی-بهترین-فیلم-جشنواره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آلیسون-جانای-همیلتون-به-عنوان-اولین-پروژه-عکس-ها-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جاستین-تیمبرلیک-در-مستند-چهار-قسمتی-درباره-اوج-و-فرودهای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
