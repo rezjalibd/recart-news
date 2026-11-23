@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رسانه-های-عراقی-ویزای-منصوریان-برای-سفر-به-بحرین-صادر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جرف-الصخر-بازگشت-ارتش-عراق-یا-تداوم-نفوذ-کتائب-حزب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گمانه-زنی-ها-پیرامون-تلاش-ایران-برای-شکستن-محاصره-دریایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همسر-راسل-برند-قول-می-دهد-که-پیام-های-زندان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عملکرد-بلو-لاگون-ایسلند-پس-از-عرضه-اولیه-اش-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-بتمن-خودروی-نمادین-بات-موبیل-تیم-برتون-به-حراج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کامیون-داران-دیگر-توان-حرکت-نداریم-کرایه-ها-خرج-کامیون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/هیئت-مدیره-انویدیا-بار-دیگر-جنسن-هوانگ-را-به-سمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اگر-قلمرو-انسان-خردمند-در-اوراسیا-گسترش-نمی-یافت-نئاندرتال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,17 +791,32 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/uber-اکنون-به-شما-امکان-می-دهد-سواری-هایی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجازات-زنان-برای-آواز-خواندن-بدون-حجاب-وکیل-پرستو-احمدی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/همه-جوایز-cma-برندگان-جدید-هنرمند-سال-بیش-از-30/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شصت-سال-در-ساخت-تریلر-عجیب-و-غریب-مردم-اشتباه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روکش-نقدی-خشمگین-و-پرخاشگر-نیک-کیو-روز-شما-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آخرین-کنسرت-قبل-از-وقفه-نامحدود-را-با-ترفند-ارزان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -812,11 +832,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چارلی-کاکس-ستاره-دردویل-از-جیمز-باند-درخواست-تست-بازیگری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شصت-سال-در-ساخت-تریلر-عجیب-و-غریب-مردم-اشتباه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/blade-runner-2099-یک-پیچ-و-تاب-مبتکرانه-در-کلاسیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تغییر-در-هنگام-تولد-چگونه-دو-مرد-36-سال-زندگی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-پایانی-انتقام-جویان-روز-قیامت-پسر-کاپیتان-آمریکا-فاش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کریستین-مونگیو-کارگردان-فیلم-آبدره-می-گوید-تصمیم-گیری-درباره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
