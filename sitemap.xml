@@ -221,6 +221,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اختلاف-اروپا-و-آمریکا-بر-سر-مذاکرات-صلح-اوکراین-فون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تنگه-هرمز-از-نگاه-شناگر-بریتانیایی-خطرهایی-که-زیر-آب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گرینلند-به-ترامپ-واگذار-نشده-واشنگتن-دقیقا-چه-امتیازهایی-گرفته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تراکتور-۱-۵-الوصل-شکست-سنگین-تراکتور-در-آسیا-به-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -297,6 +312,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/میراث-سیاسی-ترامپ-در-گرو-حمله-به-ایران-دیپلمات-پیشین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ملانیا-ترامپ-می-گوید-که-برای-پسرش-بارون-ترامپ-مادر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-فتوشاپی-از-جنسن-هوانگ-در-حالی-که-سوتین-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-از-شرکت-های-آمریکایی-می-خواهد-که-به-یاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -381,36 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اوکراین-مسئولیت-غرق-کردن-ناو-جنگی-روسیه-در-بندر-بنغازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کره-جنوبی-و-چین-بر-سر-گسترش-توافق-تجاری-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایمیل-های-تهدید-به-بمب-گذاری-در-مدارس-آلمان-پلیس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مرسدس-و-ب-ام-و-هدف-اعتصاب-۲۴-ساعته-شدند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خبرگزاری-مهر-از-بسته-شدن-مرز-شلمچه-خبر-داد-منبع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتانیاهو-برای-حمله-به-ایران-به-ترامپ-فشار-می-آورد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/امانوئل-مکرون-۳۵۰-میلیون-یورو-کمک-به-صنعت-هوانوردی-فرانسه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -442,6 +442,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-بولت-اروپا-در-ربات-تاکسی-و-بورس-از-رقبا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یکی-از-نقشه-ها-نشان-می-دهد-که-مسکن-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بررسی-هدفون-سیمی-حذف-نویز-bose-موردی-قانع-کننده-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-1-تریلیون-دلار-برای-انویدیا-ارزش-دارد-هیئت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-جمعه-سیاه-béis-دارای-چمدان-ها-و-چمدان-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-از-ظرف-شستن-به-امپراتوری-10-5-میلیون-دلاری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -576,27 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/خیره-کننده-ترین-دریاچه-در-هر-ایالت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-یک-شراب-ساز-در-ماکائو-هم-خانه-اش-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قیمت-نهایی-بی-ام-و-i3-برقی-در-ایران-اعلام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/nbcuniversal-آمازون-در-مسابقه-تبلیغاتی-تعطیلات-در-هفته-شکرگزاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لگو-کارخانه-ای-یک-میلیارد-یورویی-در-پرتغال-می-سازد/</loc>
+    <loc>https://recart.ir/news/نقش-ترامپ-در-بازگشت-جنسن-هوانگ-به-انویدیا-دموکرات-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -661,6 +666,41 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اورگان-و-ویرجینیا-از-اسپیس-ایکس-به-خاطر-دیپ-فیک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-حافظه-پنهان-را-در-fire-tv-خود-پاک-کنیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-بازگشته-است-و-سهام-انویدیا-نیز-همینطور/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زنی-پس-از-۳۲-سال-جست-وجو-مادر-گمشده-اش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-انویدیا-خبر-بدی-برای-آنتروپیک-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-شرط-بندی-کوتاه-فروش-علیه-انویدیا-در-مورد-بازگشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یادداشت-را-بخوانید-رئیس-هیئت-مدیره-انویدیا-به-کارمندان-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جنسن-هوانگ-قرار-است-هفته-آینده-پس-از-بازگرداندن-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -682,11 +722,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/می-توانید-در-این-پلتفرم-های-رسانه-های-اجتماعی-ناهنجاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-برگشته-و-سهام-انویدیا-هم-همینطور/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -756,37 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-هنوز-از-جنگل-بیرون-نیامده-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چقدر-باید-متعجب-باشیم-پس-از-قطعی-های-دسته-جمعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مزایا-و-معایب-پوشیدن-fitbit-در-اطراف-مچ-پا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-y-combinator-به-این-وکلا-چکی-بزرگتر-از-قرارداد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آنتروپیک-چگونه-کاربران-claude-را-از-روی-مشخصات-مرورگر-شناسایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جهش-۳۰-درصدی-سهام-انویدیا-پس-از-بازگشت-جنسن-هوانگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-عنوان-مدیر-عامل-انویدیا-مانند-دژا/</loc>
+    <loc>https://recart.ir/news/انگلیس-اسکاتلند-ولز-و-ایرلند-شمالی-میزبان-مشترک-جام-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -807,6 +812,36 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/funko-pop-فروش-بزرگ-جمعه-سیاه-در-کلکسیون-های-kpop/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مگی-جیلنهال-فیلم-کوتاه-تأثیر-گوشتی-را-بازنمایی-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سورپرایز-پنج-هارلان-کوبنز-جدید-برای-نتفلیکس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/4-ایده-هدیه-فنی-از-insta360-segway-bose-و-oura/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-موسیقی-موج-نو-از-بین-نمی-رود-مستند-جدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تیلور-سویفت-سوپر-طرفدار-برندا-لی-ستاره-را-با-پلاک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -942,41 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رقص-چارلی-دی-آملیو-نایل-کاتسی-با-گروه-گابریلا-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ساخته-شده-توسط-all-hires-مدیر-سابق-spotter-rolling-stone/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلمی-که-قبلا-دیده-نشده-بود-از-لد-زپلین-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/don-toliver-نمایش-o2-arena-را-پس-از-تخلیه-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استیون-اسپیلبرگ-اقتباسی-از-قلب-در-زمستان-را-به-عنوان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هرآنچه-درباره-اقتباس-خدای-جنگ-تلویزیون-آمازون-mgm-و-sony/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اودیسه-با-11-جوایز-منتخب-منتقدان-در-فهرست-های-کوتاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماجراهای-اشتباه-بیشتر-کلیف-بوث-دنباله-ای-نیست-این-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
