@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/توصیه-های-پزشک-امباپه-بی-فایده-بود-سینر-زانوی-خود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سهراب-بختیاری-زاده-اگر-خوش-شانس-بودیم-العین-را-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اوکراین-هشدار-داد-روسیه-هر-5-ساعت-یک-موشک-بالستیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارتش-بریتانیا-یک-افسر-اوکراینی-را-که-در-نبرد-آزمایش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -671,6 +671,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/megaspeed-شرکتی-که-در-مرکز-رسوایی-جنسن-هوانگ-قرار-دارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دولت-ترامپ-megaspeed-شرکت-سنگاپوری-در-مرکز-رسوایی-nvidia-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بسیاری-از-زبان-ها-یک-کد-عصبی-مشترک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-از-nvidia-در-3-دسامبر-به-طور-علنی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پایان-عرضه-سالانه-گلکسی-واچ-سامسونگ-به-تغییر-برنامه-فکر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دفتر-شهردار-نیویورک-اولین-مدیر-اجرایی-موسیقی-را-استخدام-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حتی-سینا-میلر-هم-از-پایان-جنگ-غافلگیر-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/داکوتا-جانسون-بازیگر-و-تهیه-کننده-درام-رابطه-ای-tell/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/enhypen-فراتر-از-داستان-خون-آشام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سدی-سندلر-در-فیلم-ترسناک-نتفلیکس-malibu-از-سرگیجه-شاد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/bby-wow-کارول-جی-پیشتاز-جدول-جهانی-بیلبورد-صعود-سرودهای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استعداد-متکی-جیسون-زنوویچ-کایل-لوینسون-ریک-فرل-و-میشل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
