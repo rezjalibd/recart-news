@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فراخوان-عفو-بین-الملل-برای-مستندسازی-کشتار-معترضان-در-دی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وزارت-اطلاعات-بازداشت-۳۳-نفر-خبر-داد-استارلینک-و-اسلحه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ثبت-۱۳۸-حادثه-برای-نفتکش-ها-و-کشتی-های-تجاری/</loc>
+    <loc>https://recart.ir/news/کاپ۳۱-پنج-نکته-از-نشست-اقلیمی-که-به-توافق-نرسید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اجرای-طرح-مسیر-ترامپ-در-جنوب-ارمنستان-رسما-آغاز-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هشدار-ارتش-اسرائیل-به-نتانیاهو-درباره-حمله-دوباره-به-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لیکود-و-یاشار-بر-سر-تشکیل-دولت-ائتلافی-اسرائیل-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/عبور-نفت-از-تنگه-هرمز-کندتر-شد-اما-قیمت-نفت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -467,6 +467,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/44-بهترین-هدیه-زیر-100-دلار-که-wired-دوست-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/از-مومیایی-مغز-تا-کلون-های-دیجیتال-و-بدن-یدکی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دونالد-ترامپ-از-انویدیا-خواست-جنسن-هوانگ-مدیرعامل-سابق-دوباره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نقد-و-بررسی-asus-proart-p16-نگاهی-اجمالی-به-آینده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سوالات-خود-را-ارسال-کنید-آیا-کسی-شما-را-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ممنوعیت-نقل-وانتقال-۵-ساله-برای-برخی-خودروهای-وارداتی-مناطق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تعدیل-نیرو-به-توسعه-سیری-آسیب-نزده-اما-مشکلات-دستیار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عرضه-رنج-جدید-سیم-کارت-های-شاتل-موبایل-با-کدهای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
