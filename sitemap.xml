@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نتانیاهو-برای-حمله-به-ایران-به-ترامپ-فشار-می-آورد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کاپ۳۱-پنج-نکته-از-نشست-اقلیمی-که-به-توافق-نرسید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-گفت-حملات-جمهوری-اسلامی-پس-از-پیروزی-دموکرات-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پایان-محدودیت-های-تاریخی-جاسوسان-آلمانی-وارد-عصر-عملیات-مخفی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -641,6 +641,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مانیتور-قابل-حمل-با-سه-صفحه-به-معنای-پیکسل-بیشتر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-asus-proart-p16-نگاهی-اجمالی-به-آینده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ممنوعیت-نقل-وانتقال-۵-ساله-برای-برخی-خودروهای-وارداتی-مناطق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/وریا-غفوری-سرمربی-شمس-آذر-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -857,6 +857,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/caa-امضای-همسران-خواهر-و-هماهنگ-صمیمیت-فیلمساز-و-بازیگر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هایلی-استاینفلد-تایید-کرد-که-در-فیلم-avengers-doomsday-حضور/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دنی-بنتون-ستاره-عصر-طلایی-در-ازدواجش-با-دکتر-کرکلند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
