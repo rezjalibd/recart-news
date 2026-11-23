@@ -261,6 +261,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گفته-می-شود-که-ترامپ-تلاش-هایی-را-برای-بازگرداندن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کاخ-سفید-به-خود-می-بالد-که-ترامپ-کاملا-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -277,6 +282,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ارتش-بریتانیا-یک-افسر-اوکراینی-را-که-در-نبرد-آزمایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-پس-از-بازگرداندن-مدیرعامل-انویدیا-میم-عجیب-و-غریب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/زلنسکی-حمله-به-دو-کشتی-روسیه-در-آب-های-لیبی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شکستن-رکورد-فروش-جی-تی-ای-۶-دولت-ترامپ-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فرانسه-امانوئل-ماکرون-۳۵۰-میلیون-یورو-کمک-به-صنعت-هواپیمایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -432,6 +432,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-بولت-اروپا-در-ربات-تاکسی-و-بورس-از-رقبا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-تمام-عمرم-را-در-نیوانگلند-زندگی-کرده-ام-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چرا-این-6-سهم-از-مسیر-هوش-مصنوعی-برنده-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رسوایی-تقلب-با-هوش-مصنوعی-در-کره-جنوبی-وزیر-آموزش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -657,6 +657,36 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-هنوز-از-جنگل-بیرون-نیامده-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چقدر-باید-متعجب-باشیم-پس-از-قطعی-های-دسته-جمعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مزایا-و-معایب-پوشیدن-fitbit-در-اطراف-مچ-پا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-y-combinator-به-این-وکلا-چکی-بزرگتر-از-قرارداد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنتروپیک-چگونه-کاربران-claude-را-از-روی-مشخصات-مرورگر-شناسایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جهش-۳۰-درصدی-سهام-انویدیا-پس-از-بازگشت-جنسن-هوانگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -761,36 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/airpods-pro-3-اپل-قبل-از-جمعه-سیاه-40-درصد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-وکلا-بدون-شرکت-در-برنامه-y-combinator-مورد-حمایت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پس-از-بازگرداندن-جنسن-هوانگ-به-عنوان-مدیرعامل-انویدیا-سهام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هیئت-مدیره-انویدیا-قبل-از-بازگرداندن-جنسن-هوانگ-از-سطوح/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انویدیا-در-یک-تغییر-تکان-دهنده-جنسن-هوانگ-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/wifi-motion-sensing-می-تواند-هر-کاری-را-که-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بت-موبیل-مشهور-فیلم-بتمن-بازمی-گردد-اثر-تیم-برتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,56 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رندی-نیومن-ماروین-هملیش-ارل-هاگن-و-دیگران-توسط-انجمن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایکل-کاستارز-نامزد-فیلم-و-تلویزیون-aarp-برای-جوایز-بزرگسالان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/god-of-war-deborah-ann-woll-دوباره-نقش-faye-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نقد-و-بررسی-focker-in-law-رابرت-دنیرو-و-بن-استیلر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تراویس-اسکات-slayyyter-ویژگی-dare-در-موسیقی-متن-deluxe-gta/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نقد-و-بررسی-فیلم-focker-in-law-آریانا-گرانده-در-چهارمین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رندی-نیومن-جایزه-یک-عمر-دستاورد-انجمن-آهنگسازان-و-ترانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نقد-و-بررسی-focker-in-law-آریانا-گرانده-به-طور-پراکنده-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اودیسه-با-11-بار-نام-بردن-به-عنوان-تلماسه-قسمت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تنش-های-من-یک-سلبریتی-هستم-بین-aj-odudu-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -927,56 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چارلی-کاکس-ستاره-دردویل-از-جیمز-باند-درخواست-تست-بازیگری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آهنگ-کامیکازی-پس-از-مرگ-d-angelo-را-بشنوید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مسابقه-رقص-بی-بی-سی-با-صداهای-جنسی-شوخی-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سریال-جنایی-واقعی-در-نتفلیکس-وحشیانه-و-دلخراش-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیانیه-itv-در-میان-اعتراض-به-aj-odudu-در-حال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/allison-janae-hamilton-با-حضور-والری-جون-به-عنوان-اولین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سامانتا-مورتون-برای-دریافت-کمک-هزینه-تحصیلی-bfi/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کناره-گیری-کیت-شولی-و-آلستر-فوترگیل-از-سمت-مدیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-آهنگ-پس-از-مرگ-d-angelo-kamikaze-گوش-کنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کورینا-اسمیت-با-یونیورسال-موزیک-لاتین-امضا-می-کند-آنها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-فقط-یک-آهنگ-در-رادیو-نیست-چگونه-موسیقی-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
