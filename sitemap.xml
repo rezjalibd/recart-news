@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نتانیاهو-در-مخالفت-با-آیزنکوت-تهدید-جمهوری-اسلامی-فوری-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بیان-صالحیان-پزشک-ساکن-ارومیه-به-یک-سال-زندان-محکوم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ادعای-جنجالی-سعید-لیلاز-درباره-استخدام-۳۰۰-نفر-با-فشار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همسر-راسل-برند-پس-از-انتقال-پیام-متجاوز-از-طریق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/xteink-x4-pro-با-اندازه-کیف-پول-هدیه-سال-کتابخوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مانیتور-بازی-27-اینچی-alienware-qd-oled-قابل-اعتماد-من-فقط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آمار-واردات-کجاست-چرا-ثبت-سفارش-و-عرضه-خودرو-وارداتی/</loc>
+    <loc>https://recart.ir/news/ج-نسن-هوانگ-به-عنوان-رئیس-و-مدیر-انویدیا-برگشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,7 +621,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ج-نسن-هوانگ-به-عنوان-رئیس-و-مدیر-انویدیا-برگشت/</loc>
+    <loc>https://recart.ir/news/ج-نسن-هوانگ-به-عنوان-رئیس-و-مدیر-انویدیا-برگشت-4d980f/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -637,6 +642,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دو-ایالت-از-اسپیس-ایکس-به-خاطر-دیپ-فیک-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/10-هک-find-hub-که-هر-کاربر-اندرویدی-باید-بداند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-به-عنوان-مدیر-عامل-انویدیا-رئیس-هیئت-مدیره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انویدیا-جنسن-هوانگ-را-به-عنوان-مدیرعامل-بازگرداند-7e6330/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-به-عنوان-مدیرعامل-انویدیا-بازگشته-است-99048c/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بت-موبیل-مشهور-فیلم-بتمن-بازمی-گردد-اثر-تیم-برتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بنا-به-گزارش-ها-پورتی-هد-موسیقی-را-از-سرویس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تریلر-مستند-جاستین-تیمبرلیک-مجموعه-تلویزیونی-اپل-برای-بازگشایی-جنجال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ریان-جانسون-نسبت-به-هوش-مصنوعی-شیطان-کننده-هشدار-داد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-پایانی-انتقام-جویان-روز-قیامت-لحظه-اصلی-مردان-ایکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کمیته-ملی-دموکراتیک-12-مناظره-اولیه-ریاست-جمهوری-را-برنامه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
