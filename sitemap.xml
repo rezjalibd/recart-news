@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آکسفام-حملات-اسرائیل-غزه-را-به-سرزمینی-آلوده-و-غیرقابل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نماینده-مجلس-ایران-پایگاه-های-آمریکا-در-قاره-اروپا-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تهدید-ترامپ-به-جنگ-دوباره-و-بلندپروازی-های-هسته-ای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وزیر-خارجه-آمریکا-و-نخست-وزیر-قطر-در-واشنگتن-دیدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -646,6 +646,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رهبران-فناوری-بازگشت-جنسن-هوانگ-را-جشن-می-گیرند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مردی-خودش-را-آتش-زد-و-۱۷۳-متر-در-هوا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/داستان-کامل-بازی-جی-تی-ای-۶-gta-vi-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دو-ایالت-از-اسپیس-ایکس-به-خاطر-دیپ-فیک-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ریان-جانسون-منتقد-هوش-مصنوعی-آواز-نسبت-به-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-جایگاه-مدیرعامل-انویدیا-۱۱-روز-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/fsd-v15-تسلا-تصاویر-رانندگی-را-به-grand-theft-auto/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بت-موبیل-مشهور-فیلم-بتمن-بازمی-گردد-اثر-تیم-برتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تماشای-تیلور-سویفت-در-حال-سورپرایز-برندا-لی-با-راکین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/buzzfeed-بایرون-آلن-کریس-پویدنیس-یکی-از-بنیانگذاران-آژانس-بازاریابی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سامانتا-مورتون-بورسیه-bfi-را-دریافت-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/the-grand-tour-برای-فصل-2-با-مجریان-فرانسیس-بورژوا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ریان-جانسون-نسبت-به-هوش-مصنوعی-شیطان-کننده-هشدار-داد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
