@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آمریکا-۲۹-فرد-و-نهاد-مرتبط-با-جمهوری-اسلامی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ادامه-موج-بازداشت-ها-در-آبدانان-سروش-گیلانی-و-شایان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,11 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/واکنش-شهروندان-به-مسمومیت-الکلی-ده-ها-نفر-منع-فروش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گرینلند-به-ترامپ-واگذار-نشده-آمریکا-دقیقا-چه-امتیازی-گرفته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -326,6 +326,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دونالد-ترامپ-خود-را-در-مرکز-بازگرداندن-جنسن-هوانگ-قرار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیبی-بریجرز-مهمانی-های-بیشتری-برای-گوش-دادن-به-سیاره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-پس-از-بازگرداندن-مدیرعامل-انویدیا-میم-عجیب-و-غریب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاپ۳۱-پنج-نکته-از-نشست-اقلیمی-که-به-توافق-نرسید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اجرای-طرح-مسیر-ترامپ-در-جنوب-ارمنستان-رسما-آغاز-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آغاز-اجرای-رسمی-طرح-مسیر-ترامپ-در-جنوب-ارمنستان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -661,6 +661,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سیاست-مرکز-داده-سوئد-پیچیده-تر-از-آن-چیزی-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/samsung-odyssey-g6-g60h-اولین-مانیتور-گیمینگ-1100-هرتزی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نفتکش-به-کشتی-گردشگری-کوبید-و-آن-را-واژگون-کرد/</loc>
+    <loc>https://recart.ir/news/العین-۱-۱-استقلال-تساوی-ارزشمند-استقلال-در-لیگ-نخبگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -802,6 +807,46 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هر-سال-که-در-آن-همه-نامزدهای-رکورد-گرمی-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خدا-با-ما-ساخته-جیمی-جنکینز-با-بازی-روتیمی-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سری-اپل-تحت-رهبری-جیمز-ماردن-disavowed-چهار-نفر-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/استیون-اسپیلبرگ-برای-کارگردانی-پل-توماس-اندرسون-پن-قلب-در-زمستان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زندگی-مخفی-همسران-مورمون-اورنج-کانتی-در-hulu-تمدید-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/21-دور-شاون-لوی-قرارداد-کلی-فیلم-را-در-سونی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نقد-و-بررسی-راه-بچه-جنگجو-کریس-پرت-تمرکز-زیادی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ساندرا-هولر-با-جایزه-spotlight-در-جوایز-بین-المللی-فیلم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -932,51 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلمساز-3-30-شلوک-چوداری-و-تهیه-کننده-سونیل-سادارانگانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آهنگ-kamikaze-از-gta-vi-d-angelo-در-حالی-منتشر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جوایز-فیلم-بفتا-پس-از-30-سال-از-دست-دادن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سریال-لایو-اکشن-god-of-war-دبورا-آن-وول-نقش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دانگ-من-راجر-میلر-پس-از-مرگ-به-تالار-مشاهیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هفته-دالی-پارتون-در-the-voice-است-فهرست-کامل-ترانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نامزدهای-فیلم-و-تلویزیون-aarp-برای-جوایز-بزرگسالان-شامل-اندرو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دبورا-آن-وول-دوباره-نقش-خدای-جنگ-را-در-سریال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رندی-نیومن-ماروین-هملیش-ارل-هاگن-و-دیگران-توسط-انجمن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایکل-کاستارز-نامزد-فیلم-و-تلویزیون-aarp-برای-جوایز-بزرگسالان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
