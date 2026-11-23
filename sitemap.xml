@@ -31,6 +31,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/احضار-و-بازجویی-لیدا-پیراسته-هم-زمان-با-تداوم-بازداشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترکیه-چگونه-از-جنگ-ایران-برای-گسترش-نفوذ-نظامی-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خاموشی-های-برنامه-ریزی-شده-در-ایران-آغاز-شد-هشدار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رضا-امیرخانی-نویسنده-محبوب-علی-خامنه-ای-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -206,17 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/villa-vie-شانس-دوم-آنها-برای-زندگی-در-دریا-بود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مهمانخانه-ندار-گ-در-سیستان-و-بلوچستان-برنده-جایزه-جهانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افزایش-مسمومان-الکل-دست-ساز-در-نیشابور-به-۵۷نفر-چهار/</loc>
+    <loc>https://recart.ir/news/گفت-وگوهای-کوپ۳۱-به-دلیل-حذف-سوخت-های-فسیلی-بی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کاوشگر-بپی-کلمبو-پس-از-هشت-سال-وارد-مدار-سیاره/</loc>
+    <loc>https://recart.ir/news/پرتغال-به-کمک-تکیور-به-جمع-ده-کشور-برتر-اروپا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اعلام-نزدیک-به-۱۵-میلیارد-یورو-سرمایه-گذاری-جدید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,22 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازی-های-گرسنگی-طلوع-آفتاب-در-درو-بهترین-های-افتتاحیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازی-های-گرسنگی-طلوع-آفتاب-در-درو-۱۲۰-میلیون-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آیا-هوش-مصنوعی-می-تواند-فتوا-بدهد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-بار-دیگر-خواستار-بازگشت-جنسن-هوانگ-به-انویدیا-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-تنظیمات-ios-به-شما-کمک-می-کند-تا-استفاده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فضاپیمای-بپی-کلمبو-بالاخره-وارد-مدار-عطارد-شد-پایان-سفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
