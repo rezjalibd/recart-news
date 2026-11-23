@@ -126,6 +126,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مردی-که-با-هلیکوپتر-از-زندان-گریخت-و-برای-نجات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تهدید-موشکی-تهران-هم-زمان-با-تشدید-رویارویی-بر-سر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مهاجری-خطاب-به-پزشکیان-برخی-اعضای-شورای-عالی-فضای-مجازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شوراهای-صنفی-۳۱-دانشگاه-در-برابر-سرکوب-نمایندگان-دانشجویان-سکوت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -671,6 +671,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ظالمانه-بی-پروا-وای-این-چیزی-است-که-سیاستمداران-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/متا-هدف-صفر-خالص-خود-را-پرتاب-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نحوه-اتصال-هدفون-بلوتوث-خود-به-xbox-series-x/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بلاگ-زنده-جمعه-سیاه-و-دوشنبه-سایبری-2026-بهترین-تخفیف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/slidetag-کداک-ترکیبی-از-یک-قاب-عکس-دیجیتال-و-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -771,26 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-انویدیا-خبر-بدی-برای-آنتروپیک-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-شرط-بندی-کوتاه-فروش-علیه-انویدیا-در-مورد-بازگشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یادداشت-را-بخوانید-رئیس-هیئت-مدیره-انویدیا-به-کارمندان-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-قرار-است-هفته-آینده-پس-از-بازگرداندن-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/انگلیس-اسکاتلند-ولز-و-ایرلند-شمالی-میزبان-مشترک-جام-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/داستان-اسباب-بازی-5-فیلم-کهکشان-سوپر-ماریو-در-میان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ateez-با-ساعت-طلایی-قسمت-6-و-رویای-نمایش-نیمه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ونسا-فرلیتو-جان-کارول-لینچ-و-تد-لوین-به-دنزل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سورپرایز-پنج-هارلان-کوبنز-جدید-برای-نتفلیکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/4-ایده-هدیه-فنی-از-insta360-segway-bose-و-oura/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-موسیقی-موج-نو-از-بین-نمی-رود-مستند-جدید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تیلور-سویفت-سوپر-طرفدار-برندا-لی-ستاره-را-با-پلاک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
