@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گمانه-زنی-ها-پیرامون-تلاش-ایران-برای-شکستن-محاصره-دریایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تهران-از-آمادگی-برای-مقابله-با-محاصره-آمریکا-خبر-داد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/همسر-راسل-برند-قوانین-زندان-را-که-پیام-های-او/</loc>
+    <loc>https://recart.ir/news/یافته-نگران-کننده-یک-پژوهش-تازه-آیا-خواب-زیاد-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شوراهای-صنفی-۳۱-دانشگاه-در-برابر-پرونده-سازی-علیه-نمایندگان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زلنسکی-حمله-به-دو-کشتی-روسیه-در-آب-های-لیبی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -392,21 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دموکرات-ها-بزرگترین-اکثریت-در-مجلس-نمایندگان-طی-۳۵-سال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/علیرضا-بیرانوند-افتخار-بزرگی-است-که-نامم-در-کنار-علی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-جمهوری-اسلامی-را-به-ازسرگیری-حملات-پس-از-آغاز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیش-بینی-رشد-۴-۵-درصدی-اقتصاد-اسرائیل-در-میانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -621,6 +621,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ساترا-برخی-تولیدات-نمایش-خانگی-مصرف-دخانیات-و-مشروبات-الکلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آمازون-در-مبارزه-با-قانون-تحویل-پیشنهادی-نیویورک-به-برچسب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مجموعه-بعدی-کداک-یک-قاب-عکس-دیجیتال-کوچک-است-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حزب-لیبرال-ویکتوریا-از-هوش-مصنوعی-برای-نوشتن-ادای-احترام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
