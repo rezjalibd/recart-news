@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-انویدیا-نمی-توانست-جنسن-هوانگ-را-اخراج-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قاضی-به-هکر-جی-تی-ای-۶-پس-از-آزادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جدایی-جمهوری-خواهان-از-ترامپ-به-دلیل-بازگرداندن-جنسن-هوانگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/saturday-night-live-رابرت-دنیرو-و-تیموتی-شالامه-به-عنوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تریلر-جدید-tender-loving-care-آخرین-ساخته-mike-leigh-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برایس-آلاکای-برنده-جزیره-عشق-در-کار-موسیقی-خود-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چاک-لور-ep-zoanne-clack-grey-s-anatomy-رئیس-دنیای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تریلر-اسرارآمیز-تام-کالن-و-جو-لاک-black-church-bay/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -952,31 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/میسی-گری-برای-انتشار-آلبوم-بعدی-در-داخل-یک-میکرودرام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روزالیا-به-ویدیوی-rauw-tiktok-الکساندر-واکنش-نشان-داد-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سوپرگروه-zwan-از-بیلی-کورگان-اولین-آلبوم-خود-را-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تمدید-فصل-پنجم-تد-لسو-در-apple-tv/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ستاره-شرق-عدن-هون-لی-در-مورد-افتخار-بازی-لی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ted-lasso-برای-فصل-5-در-apple-tv-تمدید-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
