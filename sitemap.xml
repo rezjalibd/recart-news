@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-راه-برای-ایمن-سازی-پلی-استیشن-5-برای-پرواز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نحوه-استفاده-از-عینک-هوش-مصنوعی-به-عنوان-تله-پرومتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنسیس-به-دنبال-تولید-هیولای-آفرودی-۱۱۰۰-اسب-بخاری-x/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پروازهای-دلتا-در-داخل-و-خارج-از-آتلانتا-به-دلیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
