@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بیان-صالحیان-پزشک-ساکن-ارومیه-به-یک-سال-زندان-محکوم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اختلاف-نتانیاهو-و-آیزنکوت-بر-سر-فوریت-تهدید-جمهوری-اسلامی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رسانه-های-عراقی-ویزای-منصوریان-برای-سفر-به-بحرین-صادر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بقایی-مجید-موسوی-پاسخ-به-آمریکا-را-در-بسته-بندی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گمانه-زنی-ها-پیرامون-تلاش-ایران-برای-شکستن-محاصره-دریایی/</loc>
+    <loc>https://recart.ir/news/نماینده-مجلس-ایران-پایگاه-های-آمریکا-در-قاره-اروپا-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-افزایش-حملات-جمهوری-اسلامی-را-به-پیروزی-دموکرات-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/عملکرد-بلو-لاگون-ایسلند-پس-از-عرضه-اولیه-اش-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -422,6 +422,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-بولت-اروپا-در-ربات-تاکسی-و-بورس-از-رقبا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مانیتور-بازی-27-اینچی-alienware-qd-oled-قابل-اعتماد-من-فقط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سکه-۱۳-میلیون-تومان-گران-شد-دلار-از-۲۷۲هزار-تومان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/هیئت-مدیره-انویدیا-بار-دیگر-جنسن-هوانگ-را-به-سمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مارول-تمام-ابرقهرمانان-تاریخ-را-در-تریلر-نهایی-avengers-doomsday/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/sound-glow-در-homepods-چیست-و-چگونه-آن-را-روی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-پس-از-سری-کارها-به-عنوان-مدیرعامل-انویدیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لغت-نامه-مک-کواری-عینک-منحرف-را-پیش-از-nudify/</loc>
+    <loc>https://recart.ir/news/بت-موبیل-مشهور-فیلم-بتمن-بازمی-گردد-اثر-تیم-برتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -797,6 +802,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/همه-به-اینجا-می-آیند-تا-شگفت-زده-شوند-جایزه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دان-تولیور-کنسرت-لندن-را-پس-از-تخلیه-ست-منچستر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تریلر-سریال-انیمیشن-کوین-هارت-در-فصل-دوم-لیل-کیو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/frontline-برای-اولین-بار-برای-اولین-سریال-مستند-برنده-جایزه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کالین-فارل-برای-اما-فوگارتی-چه-کسی-برای-من-دنیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -947,36 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کمیته-ملی-دموکراتیک-12-مناظره-اولیه-ریاست-جمهوری-را-برنامه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تایسون-فیوری-در-مستند-نتفلیکس-تشخیص-اسکیزوفرنی-را-فاش-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بن-پتری-ژولیت-گاریپی-کریس-لاک-رومینا-دوگو-برای-بازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرتیسهد-به-کارزار-بدون-موسیقی-برای-نسل-کشی-همراه-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-نهایی-انتقام-جویان-روز-قیامت-دارای-چهار-شگفت-انگیز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تام-میسلبروک-پس-از-شش-سال-از-شرکت-سینفلیکس-شب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/blade-runner-2099-یک-پیچ-و-تاب-مبتکرانه-در-کلاسیک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
