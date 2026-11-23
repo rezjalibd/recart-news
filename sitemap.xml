@@ -346,6 +346,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فرماندار-جدید-می-گوید-که-اگر-انفجار-تصادفی-منفجر-شود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طرح-ارتش-برای-منفجر-کردن-مواد-منفجره-در-آیووا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گفته-می-شود-که-ترامپ-تلاش-هایی-را-برای-بازگرداندن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/شناسایی-۱۵-میلیارد-دلار-تراکنش-مالی-مرتبط-با-ایران-آمریکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -467,6 +467,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-بولت-اروپا-در-ربات-تاکسی-و-بورس-از-رقبا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/supertake-20-میلیون-دلار-جمع-آوری-می-کند-تا-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-جمعه-سیاه-دو-سال-پروتون-vpn-را-فقط-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-1-تریلیون-دلار-برای-انویدیا-ارزش-دارد-هیئت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-جمعه-سیاه-béis-دارای-چمدان-ها-و-چمدان-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/قاضی-به-هکر-جی-تی-ای-۶-پس-از-آزادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -667,6 +667,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/anthropic-claude-ship-را-راه-اندازی-کرد-و-به-عوامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-به-مصونیت-نخبگان-خوش-آمدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-مدیرعامل-انویدیا-بازگشته-است-بعد-چه-اتفاقی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/grand-theft-auto-6-در-واقع-درباره-مرگ-رویای-آمریکایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رهبر-استعدادهای-pwc-به-اشتراک-می-گذارد-که-چگونه-این/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برترین-عکس-های-حیات-وحش-سال-۲۰۲۶-نشنال-جئوگرافیک-معرفی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -821,6 +821,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/12-کاری-که-در-کریسمس-اگر-جشن-نمی-گیرید-انجام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نمایش-های-جادویی-جدید-به-جای-هری-پاتر-ارزش-دیدن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +837,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/skydance-buyouts-impact-cbs-stations-لنگر-محلی-شیکاگو-در-میان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/همه-چیز-در-parke-برای-مدت-محدود-20-تخفیف-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ted-lasso-برای-فصل-5-در-apple-tv-تمدید-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ted-lasso-برای-فصل-5-توسط-apple-tv-تمدید-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بفتا-حامی-جوایز-فیلم-طولانی-مدت-ee-را-از-دست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ray-mckinnon-به-amc-nascar-سریال-درام-thunder-road-پیوست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
