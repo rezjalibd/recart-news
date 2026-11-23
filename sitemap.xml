@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بقائی-سخنگوی-وزارت-خارجه-کاردار-قطر-را-احضار-و-اعتراض/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ایران-۷---۲-لبنان-صعود-مقتدرانه-با-سه-برد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/احضار-و-بازجویی-کوروش-گل-محمدی-در-کامیاران-تلفن-همراه/</loc>
+    <loc>https://recart.ir/news/واکنش-رقیب-نتانیاهو-به-خشونت-شهرک-نشینان-اسرائیلی-در-کرانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مالاگا-لیسبون-مادرید-بهترین-شهرهای-اروپا-برای-مهاجران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ابتکار-متفاوت-رستوران-دار-آلمانی-تنظیم-شیفت-کاری-زنان-بر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تهدید-ترامپ-به-جنگ-دوباره-و-بلندپروازی-های-هسته-ای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -387,26 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برای-کنترل-قند-خون-یک-پیاده-روی-طولانی-بهتر-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-از-احتمال-شروع-جنگ-پس-از-سال-نو-میلادی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدافع-تراکتور-پیش-از-بازی-با-الوصل-۲۰-ساعت-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیش-بینی-رشد-۴-۵-اقتصاد-اسرائیل-در-میانه-جنگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسرائیل-در-آستانه-تبدیل-شدن-به-بیست-وپنجمین-اقتصاد-جهان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
