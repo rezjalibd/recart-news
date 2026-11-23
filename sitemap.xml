@@ -601,7 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-هوش-مصنوعی-می-تواند-فتوا-بدهد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شبی-که-آندرومدا-مرزهای-جهان-را-جابه-جا-کرد-۲/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واقعا-یک-fitbit-جدید-چقدر-باید-دوام-بیاورد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-ربات-نرم-بدون-هیچ-تراشه-ای-با-سرعت-۱۷/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/5-تنظیمات-اپل-واچ-که-می-تواند-به-شما-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
