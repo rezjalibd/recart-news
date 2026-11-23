@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازیکنان-سری-آ-علیه-خشونت-خانگی-علامت-قرمز-روی-صورت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چین-نمایش-۵۰۰۰-پهپاد-در-آسمان-سه-دره-در-جشن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سرایت-جنگ-اوکراین-به-بیخ-گوش-ناتو-شناور-روسیه-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بادبان-های-بادی-ای-متانول-و-توافق-جهانی-متوقف-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -651,6 +651,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-به-عنوان-مدیرعامل-انویدیا-بازگشته-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لغت-نامه-مک-کواری-عینک-منحرف-را-پیش-از-nudify/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-هدایا-برای-والدین-و-نوزادانشان-بطری-شوی-غذاهای-آماده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/حکم-۷۴-ضربه-شلاق-پرستو-احمدی-و-چهار-نفر-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -871,6 +871,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/blade-runner-2099-یک-پیچ-و-تاب-مبتکرانه-در-کلاسیک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فروش-gta-6-هر-عرضه-سرگرمی-در-سال-2026-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -887,6 +892,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تغییر-در-هنگام-تولد-چگونه-دو-مرد-36-سال-زندگی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تریلر-پایانی-انتقام-جویان-روز-قیامت-پسر-کاپیتان-آمریکا-فاش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کریستین-مونگیو-کارگردان-فیلم-آبدره-می-گوید-تصمیم-گیری-درباره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جشنواره-فیلم-روتردام-پپین-کویپر-را-به-عنوان-مدیر-عامل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روتردام-پپین-کویپر-را-به-عنوان-مدیر-عامل-استخدام-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سرانجام-بریتانیا-می-تواند-همه-چیز-را-ببیند-الیزابت-هلمز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کنسرت-دون-تولیور-پس-از-رهاسازی-مواد-موجود-در-هوا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فستیوال-بین-المللی-فیلم-روتردام-پپین-کویپر-مدیر-عامل-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
