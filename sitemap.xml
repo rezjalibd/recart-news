@@ -31,6 +31,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اجرای-حکم-۷۴-ضربه-شلاق-پرستو-احمدی-و-گروه-کنسرت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بزرگداشت-فروهرها-در-تهران-با-وجود-تهدید-حاضران-به-پیگرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حکم-شلاق-پرستو-احمدی-خواننده-و-چهار-عضو-گروهش-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فراخوان-عفو-بین-الملل-برای-مستندسازی-کشتار-معترضان-در-دی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -202,21 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پس-از-انتقال-آرمون-و-نجاران-به-انفرادی-درخواست-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازداشت-خشونت-آمیز-سارا-کاظمی-کلهر-فعال-حقوق-زنان-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پارسا-نجفی-پس-از-۱۷۰روز-بازداشت-از-تماس-و-ملاقات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/صدور-حکم-بیش-از-۱۵سال-زندان-برای-معین-فلاحیان-شهروند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -641,6 +641,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مانیتورهای-قابل-حمل-سه-صفحه-ای-برای-افراد-ضعیف-مناسب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مانیتور-قابل-حمل-با-سه-صفحه-به-معنای-پیکسل-بیشتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رنج-جدید-شماره-سیم-کارت-های-شاتل-موبایل-با-کدهای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دانشمند-ارشد-openai-راهکاری-برای-تعیین-محدودیت-سرعت-توسعه-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
