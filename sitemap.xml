@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-ارتش-اسرائیل-به-نتانیاهو-درباره-حمله-دوباره-به-ایران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لیکود-و-یاشار-بر-سر-تشکیل-دولت-ائتلافی-اسرائیل-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ویروس-تبخال-ممکن-است-عملکرد-سلول-های-ایمنی-مغز-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شنای-پرخطر-یک-بریتانیایی-در-تنگه-هرمز-با-هدف-جلب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حمله-پهپادی-روسیه-به-منطقه-کی-یف-زلنسکی-بار-دیگر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کاپ-۳۱-با-رد-پیش-نویس-از-سوی-اتحادیه-اروپا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-حافظه-پنهان-خود-را-در-google-tv-پاک-کنیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-چاقوی-ارتش-سوئیس-رایگان-برای-macos-می-تواند-جایگزین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گوشی-و-تبلت-برخلاف-تصور-رایج-شاید-برای-مغز-کودکان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مردی-نزدیک-به-نیم-ساعت-زیر-آب-نفس-نکشید-راز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
