@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دروازه-بان-تراکتور-پس-از-بی-هوش-شدن-در-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/توافق-جدید-آمریکا-و-دانمارک-گرینلند-به-ترامپ-واگذار-نشد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چین-نمایش-۵۰۰۰-پهپاد-در-آسمان-سه-دره-در-جشن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارمنستان-از-اجرایی-شدن-پروژۀ-مسیر-ترامپ-خبر-داد-تهران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -671,6 +671,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گیج-پرمدعای-gta-vi-باعث-می-شود-توسعه-دهندگان-مستقل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فدرال-رزروها-آیوان-ها-را-در-تاریکی-رها-کردند-درباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اشتراک-peacock-تا-66-درصد-تخفیف-برای-جمعه-سیاه-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چه-بلایی-سر-کابین-خودروها-آمده-است-چرا-دکمه-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/robotrack-ردیابی-نقطه-ای-برای-دستکاری-رباتیک-در-دنیای-واقعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/انگلیس-اسکاتلند-ولز-و-ایرلند-شمالی-میزبان-مشترک-جام-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,61 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-کنسرت-eternal-sunshine-tour-ariana-grande-به-زودی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/5-بهترین-لحظه-از-پایتخت-کرونا-در-مکزیکو-سیتی-روز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تنظیم-رکورد-ورودی-های-واجد-شرایط-در-انیمیشن-و-ویژگی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کلانتر-کانتری-بهترین-مخاطب-7-روزه-را-از-آن-خود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بدون-ضربه---بدون-شارژ-تریلر-داستان-امیر-لاک-تیراندازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازی-the-body-s-sara-boustany-و-quinn-shephard-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دو-مرد-به-جرم-دو-قتل-در-دومینیکا-به-حبس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/super-bowl-lxi-برای-touch-down-در-سینماهای-imax/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رکورد-تعداد-فیلم-های-بین-المللی-و-انیمیشنی-که-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اسکار-38-فیلم-انیمیشن-104-فیلم-بین-المللی-و-190/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نمایش-super-bowl-2027-و-jay-z-نیمه-وقت-در-سینماهای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -922,61 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/21-دور-شاون-لوی-قرارداد-کلی-فیلم-را-در-سونی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نقد-و-بررسی-راه-بچه-جنگجو-کریس-پرت-تمرکز-زیادی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ساندرا-هولر-با-جایزه-spotlight-در-جوایز-بین-المللی-فیلم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیلبورد-هات-100-شمارش-معکوس-برای-28-نوامبر-2026-اخبار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/choosin-تگزاس-از-الا-لنگلی-در-هفته-بیست-و-نهم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تماشای-زارا-لارسون-در-حال-آموزش-abcهای-سوئدی-در-کلیپ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هیرویوکی-سانادا-ستاره-شوگان-به-فیلم-ناروتو-دستین-دانیل-کرتون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قرارداد-فیلم-21-دور-شاون-لوی-در-اولین-نگاه-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زندگی-مخفی-همسران-مورمون-اورنج-کانتی-در-hulu-برای-20/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/kasi-lemons-در-حال-اقتباس-از-nike-exec-larry-miller/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/d-angelo-belle-and-sebastian-و-بیشتر-این-هفته-pitchfork/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/uta-میزبان-اجلاس-سازندگان-برای-نسل-بعدی-نمایندگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
