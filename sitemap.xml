@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گرینلند-به-ترامپ-واگذار-نشده-آمریکا-دقیقا-چه-امتیازی-گرفته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گام-تازه-در-مسیر-صلح-ترکیه-و-پ-ک-ک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -287,6 +292,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/میراث-سیاسی-ترامپ-در-گرو-حمله-به-ایران-دیپلمات-پیشین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترفند-شکار-سه-هزار-ساله-بومیان-آمریکا-گاومیش-ها-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آغاز-اجرای-رسمی-طرح-مسیر-ترامپ-در-جنوب-ارمنستان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/babylon-on-the-potomac-کلیسای-رادیکال-پیت-هگزت-dc-نخبگان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رهبر-کره-شمالی-پیشنهاد-گفت-وگوی-ترامپ-را-رد-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -661,6 +661,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-اف-بی-آی-بلافاصله-پس-از-مرگ-تسلا-سراغ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-با-انویدیا-کار-کرده-اید-ما-می-خواهیم-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چراغ-چشمک-زن-سبز-روی-کنترل-از-راه-دور-roku/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بت-موبیل-مشهور-فیلم-بتمن-بازمی-گردد-اثر-تیم-برتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سانتوش-دواخار-کارگردان-گوندال-درباره-ایجاد-نامزدی-اسکار-2027-هند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تماشای-تیلور-سویفت-در-حال-سورپرایز-برندا-لی-با-پلاک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کمدین-پیتون-رادی-با-شرکای-سرگرمی-brillstein-امضا-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
