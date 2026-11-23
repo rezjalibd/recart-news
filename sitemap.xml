@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سپاه-از-انفجار-سه-نفتکش-در-تنگه-هرمز-خبر-داد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بلژیک-کارگران-در-اعتراض-به-کاهش-هزینه-های-دولت-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,11 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فراخوان-عفو-بین-الملل-برای-مستندسازی-کشتار-معترضان-در-دی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/توصیه-های-پزشک-امباپه-بی-فایده-بود-سینر-زانوی-خود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -341,6 +341,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-می-توان-برنده-شرط-بندی-بزرگ-در-جنسن-هوانگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بزرگترین-بمب-های-دور-پیروزی-جنسن-هوانگ-ترامپ-در-cnbc/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اوکراین-هشدار-داد-روسیه-هر-5-ساعت-یک-موشک-بالستیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/شناسایی-۱۵-میلیارد-دلار-تراکنش-مالی-مرتبط-با-ایران-آمریکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -467,6 +467,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-بولت-اروپا-در-ربات-تاکسی-و-بورس-از-رقبا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/nintendo-switch-2-قبل-از-جمعه-سیاه-تا-50-دلار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-و-شوهرم-خانه-رویایی-خود-را-خریدیم-ما-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/قاضی-به-هکر-جی-تی-ای-۶-پس-از-آزادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -667,6 +667,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-بازگشت-جنسن-هوانگ-به-عنوان-مدیر-ارشد-اجرایی-ترامپ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایالت-ها-از-اسپیس-ایکس-شکایت-کردند-تا-گروک-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کلود-هوش-مصنوعی-می-تواند-درخواست-های-کشش-را-بررسی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-می-گوید-که-مدیرعامل-بهتری-خواهد-بود-زیرا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-جنسن-هوانگ-دوباره-به-عنوان-مدیرعامل-انویدیا-انتخاب-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
