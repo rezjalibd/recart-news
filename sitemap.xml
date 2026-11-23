@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تحریم-مرکز-مبادله-ارز-و-طلای-ایران-آمریکا-۳۰-فرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سپاه-از-انفجار-سه-نفتکش-در-تنگه-هرمز-خبر-داد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -156,6 +161,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قوانین-دادگاه-تجدید-نظر-عشق-واقعی-مری-جی-بلیج-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تهدید-موشکی-تهران-هم-زمان-با-تشدید-رویارویی-بر-سر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اجرای-حکم-۷۴-ضربه-شلاق-پرستو-احمدی-و-گروه-کنسرت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بزرگداشت-فروهرها-در-تهران-با-وجود-تهدید-حاضران-به-پیگرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حکم-شلاق-پرستو-احمدی-خواننده-و-چهار-عضو-گروهش-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -471,6 +471,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نیو-et5-تورینگ-مدل-۲۰۲۷-رؤیت-شد-رقیب-چینی-خودروهای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-کدهای-تبلیغاتی-chewy-در-نوامبر-2026-تا-30-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/hbo-max-یکی-از-بهترین-معاملات-جمعه-سیاه-را-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/چرا-انویدیا-نمی-توانست-جنسن-هوانگ-را-اخراج-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -672,6 +672,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راهنمای-هدیه-تعطیلات-the-verge-s-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سیتیزن-از-دو-ساعت-لوکس-جدید-رونمایی-کرد-شارژ-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازیکن-gta-6-پس-از-ارسال-عکسی-از-برهنگی-درون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/صفحه-نمایش-fsd-جدید-تسلا-در-حین-رانندگی-یک-ویدیو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هر-تراک-از-grand-theft-auto-vi-the-album-رتبه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آماندا-سیفرید-رابرت-دنیرو-و-تیموتی-چالامه-در-ماه-دسامبر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-پگاه-آهنگرانی-آرشیو-خانواده-اش-را-به-اسکار-امیدبخش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
