@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جرف-الصخر-بازگشت-ارتش-عراق-یا-تداوم-نفوذ-کتائب-حزب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گادی-آیزنکوت-نیازی-به-اقدام-نظامی-فوری-علیه-جمهوری-اسلامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/همسر-راسل-برند-قول-می-دهد-که-پیام-های-زندان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تهران-از-آمادگی-برای-مقابله-با-محاصره-آمریکا-خبر-داد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -801,6 +801,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-اینجا-همه-آلبوم-های-کی-پاپ-که-در-صدر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آلیسون-جانای-همیلتون-به-عنوان-اولین-پروژه-تصاویر-و-دکورهای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چارلی-کاکس-ستاره-دردویل-از-جیمز-باند-درخواست-تست-بازیگری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شصت-سال-در-ساخت-تریلر-عجیب-و-غریب-مردم-اشتباه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کریستین-مونگیو-کارگردان-فیلم-آبدره-می-گوید-تصمیم-گیری-درباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حکم-۷۴-ضربه-شلاق-پرستو-احمدی-و-چهار-نفر-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قرارداد-جوهر-لوس-توکانس-د-تیجوانا-با-wme-برای-نمایندگی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کراو-یاگا-را-برای-فصل-2-با-بازگشت-کری-آن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
