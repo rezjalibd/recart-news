@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یک-کرسی-قرمز-دیگر-آبی-شد-دموکرات-ها-بزرگترین-اکثریت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پژوهش-جدید-تفاوت-های-ژنتیکی-می-تواند-اثربخشی-داروها-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بلندترین-پل-جهان-در-چین-جاده-ای-در-ارتفاع-۶۲۶/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جورج-پسر-در-سفرش-به-اسرائیل-نمی-توانستم-چیزی-نگویم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
