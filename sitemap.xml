@@ -841,6 +841,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آنتوان-فوکوا-کارگردان-مایکل-به-حمله-باتری-توسط-مدیر-بار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/inside-the-macy-s-thanksgiving-rade-at-100-massive-minions/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/sanaa-lathan-و-terence-blanchard-به-عنوان-تهیه-کننده-اجرایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اودیسه-خلیج-بیوه-در-میان-نامزدهای-برتر-جوایز-فیلم-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دنی-بویل-در-جوهر-و-مرداک-صحنه-توالت-trainspotting-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همه-ارجاعات-فیلم-و-تلویزیون-gta-6-از-آرواره-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
