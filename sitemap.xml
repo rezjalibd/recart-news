@@ -126,6 +126,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هکر-بدنام-gta-6-پس-از-اعتراف-به-گناه-آزاد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مردی-که-با-هلیکوپتر-از-زندان-گریخت-و-برای-نجات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عراق-گذرگاه-مرزی-شلمچه-را-تا-اطلاع-ثانوی-بست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مهاجری-خطاب-به-پزشکیان-برخی-اعضای-شورای-عالی-فضای-مجازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شناسایی-۱۵-میلیارد-دلار-تراکنش-مالی-مرتبط-با-ایران-آمریکا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-هندوراس-تا-قلب-نیویورک-۲۵-سال-شکلات-سازی-لوکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پس-از-بازگشت-جنسن-هوانگ-به-عنوان-مدیرعامل-انویدیا-30/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/قاضی-به-هکر-جی-تی-ای-۶-پس-از-آزادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -667,6 +667,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کلود-هوش-مصنوعی-می-تواند-درخواست-های-کشش-را-بررسی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-می-گوید-که-مدیرعامل-بهتری-خواهد-بود-زیرا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-جنسن-هوانگ-دوباره-به-عنوان-مدیرعامل-انویدیا-انتخاب-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-از-nvidia-در-3-دسامبر-به-طور-علنی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پایان-عرضه-سالانه-گلکسی-واچ-سامسونگ-به-تغییر-برنامه-فکر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -766,31 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تحقیقات-کمیسیون-بورس-آمریکا-درباره-حسابداری-انویدیا-زلزله-جدید-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اورگان-و-ویرجینیا-از-اسپیس-ایکس-به-خاطر-دیپ-فیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-حافظه-پنهان-را-در-fire-tv-خود-پاک-کنیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-بازگشته-است-و-سهام-انویدیا-نیز-همینطور/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زنی-پس-از-۳۲-سال-جست-وجو-مادر-گمشده-اش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/انگلیس-اسکاتلند-ولز-و-ایرلند-شمالی-میزبان-مشترک-جام-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/d-angelo-s-estate-آهنگ-پس-از-مرگ-kamikazi-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سریال-درام-seven-sisters-از-fx-رودریگو-سانتورو-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/fcc-برای-رای-دادن-به-طرحی-برای-کاهش-محدودیت-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/clairo-آهنگ-beloved-mf-doom-را-با-ماجرای-el-michels/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هیرویوکی-سانادا-ستاره-شوگان-به-ناروتو-دستین-دانیل-کرتون-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/funko-pop-فروش-بزرگ-جمعه-سیاه-در-کلکسیون-های-kpop/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مگی-جیلنهال-فیلم-کوتاه-تأثیر-گوشتی-را-بازنمایی-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
