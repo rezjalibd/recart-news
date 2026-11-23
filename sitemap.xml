@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کانال-۱۲-اسرائیل-ارتش-هشدار-داد-حمله-به-ایران-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پس-از-انتقال-آرمون-و-نجاران-به-انفرادی-درخواست-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-بازداشت-علی-حسینی-شمار-بازداشت-شدگان-اعتراضات-آبدانان-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-عمو-می-تواند-پس-از-ازدواج-مادر-قیمومت-فرزند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-چاقوی-ارتش-سوئیس-رایگان-برای-macos-می-تواند-جایگزین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-باید-با-هدفون-dac-amp-ترکیبی-یا-پشته-استفاده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/8-برنامه-ویندوز-که-احتمالا-باید-از-رایانه-شخصی-خود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مردی-نزدیک-به-نیم-ساعت-زیر-آب-نفس-نکشید-راز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-مراکز-داده-در-مرکز-واکنش-های-بزرگ-فناوری-قرار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/xbox-قدیمی-خود-را-دور-نیندازید-در-عوض-این-کار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
