@@ -831,6 +831,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/باکس-آفیس-کره-تریلر-اسرارآمیز-white-blast-در-رتبه-اول/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کاور-اولیویا-رودریگو-برگ-های-مرده-و-زمین-کثیف-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازی-های-گرسنگی-جوزف-زادا-را-در-فیلم-برداری-نقش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نوآ-اشنپ-تصویری-از-استماع-طلوع-خورشید-در-درو-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
