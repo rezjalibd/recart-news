@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دو-باغ-رستوران-در-دزفول-به-دلیل-انتشار-ویدئوهای-رقص/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شورش-ابوبکری-هنرمند-و-فعال-مدنی-در-سردشت-بازداشت-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سه-شهروند-بهائی-در-کرمان-بازداشت-و-یک-شهروند-بهائی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عراق-گذرگاه-مرزی-شلمچه-را-تا-اطلاع-ثانوی-بست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -671,6 +671,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جدایی-جمهوری-خواهان-از-ترامپ-به-دلیل-بازگرداندن-جنسن-هوانگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/grand-theft-auto-6-در-واقع-درباره-مرگ-رویای-آمریکایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رهبر-استعدادهای-pwc-به-اشتراک-می-گذارد-که-چگونه-این/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فدرال-رزروها-آیوان-ها-را-در-تاریکی-رها-کردند-درباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اشتراک-peacock-تا-66-درصد-تخفیف-برای-جمعه-سیاه-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ted-lasso-برای-فصل-5-توسط-apple-tv-تمدید-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بفتا-حامی-جوایز-فیلم-طولانی-مدت-ee-را-از-دست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ray-mckinnon-به-amc-nascar-سریال-درام-thunder-road-پیوست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ستاره-شرق-عدن-هون-لی-در-مورد-افتخار-بازی-لی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جان-تورتورو-می-گوید-که-چک-های-دستمزد-تبدیل-سازان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -952,31 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تنظیم-رکورد-ورودی-های-واجد-شرایط-در-انیمیشن-و-ویژگی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کلانتر-کانتری-بهترین-مخاطب-7-روزه-را-از-آن-خود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بدون-ضربه---بدون-شارژ-تریلر-داستان-امیر-لاک-تیراندازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازی-the-body-s-sara-boustany-و-quinn-shephard-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-مرد-به-جرم-دو-قتل-در-دومینیکا-به-حبس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/super-bowl-lxi-برای-touch-down-در-سینماهای-imax/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
