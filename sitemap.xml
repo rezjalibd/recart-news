@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مرخصی-شش-روزه-حمید-رسایی-پایان-یافت-ولی-به-اوین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایراندوست-باشگاه-از-من-قهرمانی-نخواسته-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فاطمه-ورمزیار-پس-از-مراجعه-به-دادسرای-ایلام-بازداشت-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/محمد-شرقی-از-بازداشت-شدگان-اعتراضات-دی-ماه-به-اعدام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افزایش-۲۹-درصدی-آمار-اعدام-ها-در-ایران-سه-زندانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اتحادیه-عرب-حمله-جمهوری-اسلامی-به-بحرین-را-محکوم-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -471,6 +471,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هنگ-کنگ-به-دنبال-کنترل-گسترده-تر-بازار-رمزارزها-فعالیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ipo-آنتروپیک-برای-نخبگان-فناوری-عالی-بود-و-برای-بقیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شتر-خون-آشام-جانور-عجیبی-که-۱۳-میلیون-سال-پیش/</loc>
+    <loc>https://recart.ir/news/آیا-هوش-مصنوعی-می-تواند-تشخیص-سرطان-پستان-را-سریع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رئیس-هوش-مصنوعی-متا-هشدار-داد-نباید-جامعه-را-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آزادی-عمل-در-gta-6-همچنان-غافلگیرمان-می-کند-خودپردازها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-بار-دیگر-خواستار-بازگشت-جنسن-هوانگ-به-انویدیا-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/محسن-نامجو-در-ایران-به-من-اجازه-برگزاری-کنسرت-نمی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -847,6 +847,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/svenja-liebrecht-نماینده-سابق-caa-به-تهیه-کننده-ndf-the/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/sony-pictures-networks-india-و-nfdc-ابتکار-پنج-زبانه-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باکس-آفیس-چین-بازی-های-گرسنگی-طلوع-آفتاب-در-درو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کنسرت-دون-تولیور-در-منچستر-پس-از-پرتاب-گاز-اشک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اینا-گارتن-فاش-می-کند-که-چرا-هرگز-رقصیدن-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
