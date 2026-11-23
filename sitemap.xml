@@ -346,6 +346,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/10-کنترل-پنهان-که-هر-بازیکن-gta-6-باید-بداند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-یک-بازگشت-مخاطره-آمیز-برای-جنسن-هوانگ-طراحی-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-فتوشاپی-از-جنسن-هوانگ-در-حالی-که-سوتین-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-از-شرکت-های-آمریکایی-می-خواهد-که-به-یاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -676,6 +676,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گفته-می-شود-که-ترامپ-برای-بازگرداندن-جنسن-هوانگ-مدیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ladybird-اولین-موتور-مرورگر-جدید-در-سال-های-اخیر-اکنون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تحریم-های-دولت-ترامپ-علیه-مگاسپید-شرکت-سنگاپوری-در-مرکز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/روسیه-فردا-یک-ماموریت-معمول-تامین-iss-را-راه-اندازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اخترشناسان-برای-نخستین-بار-ستاره-ای-غول-پیکر-را-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ماریان-گودل-مدیر-عامل-burning-man-خسته-نیستم-کارم-تمام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/raye-megan-moroney-ejae-و-بیشتر-در-صدمین-رژه-شکرگزاری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیوید-گریوز-می-گوید-روزی-روزگاری-در-هارلم-اقدامی-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آدام-درایور-هیچ-کس-به-ما-پول-نمی-داد-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رابرت-دنیرو-و-تیموتی-شالامه-به-عنوان-مجریان-برنامه-شنبه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حضور-ستارگان-درگیری-در-میان-برف-کریستوفر-برینی-و-میشل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ستایش-کورتنی-لاو-از-قهرمان-ناخوانده-نیروانا-تریسی-ماراندر-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/inside-the-pillsbury-bake-off-classic-دستوری-برای-ترکیب-برندها-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/snl-تیموتی-شالامه-و-رابرت-دنیرو-را-به-عنوان-میزبان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
