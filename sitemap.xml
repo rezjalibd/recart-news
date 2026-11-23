@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-گفت-حملات-جمهوری-اسلامی-پس-از-پیروزی-دموکرات-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پایان-محدودیت-های-تاریخی-جاسوسان-آلمانی-وارد-عصر-عملیات-مخفی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یوونتوس-۴-۰-ونتزیا-چهار-گل-در-پاسخ-به-سوت-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مرکز-آمار-ایران-تورم-نقطه-به-نقطه-تولیدکننده-از-۱۲۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -422,6 +422,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-اینجا-هزینه-starlink-در-سال-2020-در-برابر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارمزد-خرید-طلا-در-میلی-از-۳۰-آبان-تا-۶/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جشنواره-بلک-فرایدی-فراز-آغاز-شد-تخفیف-های-ویژه-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -831,6 +831,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هایلی-استاینفلد-بازگشت-انتقام-جویان-روز-قیامت-در-نقش-کیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مولی-ملدروم-پخش-کننده-موسیقی-استرالیایی-و-مجری-countdown-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فصل-تاریخی-ویرجین-ریور-به-نتفلیکس-می-رسد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سلنا-گومز-در-افشای-جنسیت-کودک-در-بازی-اسپرز-بدون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
