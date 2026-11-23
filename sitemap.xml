@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تهران-از-آمادگی-برای-مقابله-با-محاصره-آمریکا-خبر-داد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بقائی-سخنگوی-وزارت-خارجه-کاردار-قطر-را-احضار-و-اعتراض/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-ایران-رانندگان-در-چند-شهر-دست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازگشت-خاموشی-ها-به-ایران-با-آغاز-فصل-سرما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -621,6 +621,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عرضه-رنج-جدید-سیم-کارت-های-شاتل-موبایل-با-کدهای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سخنگوی-وزارت-آموزش-وپرورش-تا-زمانی-که-شاخص-آلودگی-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیا-می-توانید-با-خیال-راحت-از-شارژر-140-واتی/</loc>
+    <loc>https://recart.ir/news/مدیر-پیشین-استقلال-خوزستان-پیامک-های-غیراخلاقی-مربی-به-بازیکنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ateez-رتبه-چهارم-بیلبورد-200-را-با-ساعت-طلایی-قسمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زمستان-کامرون-در-آخر-هفته-ایندی-پر-جنب-و-جوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
