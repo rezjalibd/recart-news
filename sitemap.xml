@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فاطمه-ورمزیار-پس-از-مراجعه-به-دادسرای-ایلام-بازداشت-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/واکنش-شهروندان-به-مسمومیت-الکلی-ده-ها-نفر-منع-فروش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شروع-توفانی-تیم-ملی-هندبال-در-آسیا-زنان-ایران-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اعتراض-به-افزایش-هزینه-های-زندگی-هزاران-نفر-در-پرتغال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازداشت-چهار-شهروند-کرد-در-دره-شهر-افزایش-شمار-بازداشت/</loc>
+    <loc>https://recart.ir/news/رهبر-کره-شمالی-پیشنهاد-گفت-وگوی-ترامپ-را-رد-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/۳۴۵-پیروزی-در-لالیگا-دیگو-سیمئونه-به-یک-رکورد-دست/</loc>
+    <loc>https://recart.ir/news/عبور-نفت-از-تنگه-هرمز-کندتر-شد-اما-قیمت-نفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مجله-خبری-۲-آذر-۱۴۰۵-۲۳-نوامبر-۲۰۲۶---نیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -457,6 +467,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ipo-آنتروپیک-برای-نخبگان-فناوری-عالی-بود-و-برای-بقیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -586,21 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-حلقه-های-پیاز-را-از-burger-king-dairy-queen/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-به-بیش-از-100-کشور-سفر-کرده-ام-من/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زوجی-در-دهه-۵۰-زندگی-خود-۱-میلیون-دلار-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مردم-هر-سال-کمتر-با-یکدیگر-صحبت-می-کنند-چرا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تخفیف-های-اولیه-جمعه-سیاه-ipad-ارزش-خرید-را-دارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایالت-ها-از-اسپیس-ایکس-به-خاطر-گروک-دیپ-فیکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/درخواست-آقاتهرانی-از-پزشکیان-جلسه-شورای-عالی-فضای-مجازی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-خودرو-با-انرژی-خورشیدی-کار-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/محسن-نامجو-در-ایران-به-من-اجازه-برگزاری-کنسرت-نمی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -847,6 +847,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فرانک-لامرز-درباره-موفقیت-جدید-نتفلیکس-صحبت-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نوآ-کرل-آگوستین-برناسکونی-آلبوم-mírame-así-el-camino-de/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/صداهای-جنسی-پخش-زنده-strictly-come-dancing-را-مختل-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اینا-گارتن-فاش-می-کند-که-چرا-هرگز-رقصیدن-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هایلی-استاینفلد-بازگشت-انتقام-جویان-روز-قیامت-در-نقش-کیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مولی-ملدروم-پخش-کننده-موسیقی-استرالیایی-و-مجری-countdown-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اتیز-امسال-برای-سومین-بار-در-بیلبورد-200-در-جایگاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
