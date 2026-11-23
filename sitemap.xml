@@ -836,6 +836,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/روزالیا-به-ویدیوی-rauw-tiktok-الکساندر-واکنش-نشان-داد-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سوپرگروه-zwan-از-بیلی-کورگان-اولین-آلبوم-خود-را-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/upgraded-2-ایمی-کاررو-ریچل-متیوس-اندرو-شولز-و-سائورس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شنیدن-کاور-clairo-mf-doom-با-ماجرای-el-michels/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
