@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/موج-جدید-مسمومیت-الکلی-در-ایران-دستکم-هشت-نفر-جان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مسمومیت-الکلی-در-۳-استان-۸-قربانی-گرفت-و-شمار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,11 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/طعنه-علم-الهدی-به-پزشکیان-روضه-خوان-خوبی-هستی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گام-تازه-در-مسیر-صلح-ترکیه-و-پ-ک-ک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -321,6 +321,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-پس-از-بازگرداندن-مدیرعامل-انویدیا-میم-عجیب-و-غریب-811992/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/uta-برای-متحد-کردن-مشاغل-در-مقر-نیو-لندن-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ریاض-۱۲-توافقنامه-همکاری-هوانوردی-در-مونترال-امضا-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/امانوئل-مکرون-۳۵۰-میلیون-یورو-کمک-به-صنعت-هوانوردی-فرانسه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -442,6 +442,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-بولت-اروپا-در-ربات-تاکسی-و-بورس-از-رقبا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-که-قبلا-پیدا-کرده-ایم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سمت-تاریک-موج-سواری-برنده-بفتا-در-حال-بررسی-اتهامات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رسوایی-تقلب-با-هوش-مصنوعی-در-کره-جنوبی-وزیر-آموزش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -657,6 +657,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/robotrack-ردیابی-نقطه-ای-برای-دستکاری-رباتیک-در-دنیای-واقعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انویدیا-تنها-شش-روز-پس-از-رد-کردن-احتمال-بازگشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چه-ویژگی-های-مهمی-را-باید-در-دوربین-امنیتی-خانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/داستان-کامل-بازی-جی-تی-ای-۶-gta-vi-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-ایالت-از-اسپیس-ایکس-به-خاطر-دیپ-فیک-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/10-هک-find-hub-که-هر-کاربر-اندرویدی-باید-بداند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بت-موبیل-مشهور-فیلم-بتمن-بازمی-گردد-اثر-تیم-برتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,41 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/استیون-اسپیلبرگ-اقتباسی-از-قلب-در-زمستان-را-به-عنوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هرآنچه-درباره-اقتباس-خدای-جنگ-تلویزیون-آمازون-mgm-و-sony/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اودیسه-با-11-جوایز-منتخب-منتقدان-در-فهرست-های-کوتاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ماجراهای-اشتباه-بیشتر-کلیف-بوث-دنباله-ای-نیست-این-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پتو-حوله-و-پانچوی-رسمی-grateful-dead-برای-جمعه-سیاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/don-toliver-نمایش-02-arena-را-پس-از-تخلیه-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پل-دبلیو-داونز-جن-استاتسکی-و-لوسیا-آنیلو-برای-کسب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -942,41 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جاستین-تیمبرلیک-در-مستند-چهار-قسمتی-درباره-اوج-و-فرودهای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/10-مدرسه-برتر-انیمیشن-هالیوود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تماشای-تیلور-سویفت-در-حال-سورپرایز-برندا-لی-با-راکین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/buzzfeed-بایرون-آلن-کریس-پویدنیس-یکی-از-بنیانگذاران-آژانس-بازاریابی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بنا-به-گزارش-ها-پورتی-هد-موسیقی-را-از-سرویس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-مستند-جاستین-تیمبرلیک-مجموعه-تلویزیونی-اپل-برای-بازگشایی-جنجال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همه-به-اینجا-می-آیند-تا-شگفت-زده-شوند-جایزه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دان-تولیور-کنسرت-لندن-را-پس-از-تخلیه-ست-منچستر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
