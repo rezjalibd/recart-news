@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شروع-توفانی-تیم-ملی-هندبال-در-آسیا-زنان-ایران-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طعنه-علم-الهدی-به-پزشکیان-روضه-خوان-خوبی-هستی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قمار-پرمخاطره-ایران-در-خلیج-فارس-نفتکش-ها-در-مسیر/</loc>
+    <loc>https://recart.ir/news/ریاض-۱۲-توافقنامه-همکاری-هوانوردی-در-مونترال-امضا-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روزنامه-بیلد-حدود-۴۵۰-مدرسه-در-آلمان-ایمیل-های-تهدید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پارک-مجسمه-های-سورئال-در-مراکش-جهان-را-وارونه-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-نام-و-تصویر-نیکلاس-مادورو-در-ونزوئلا-در-حال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دیگر-اجناس-مان-را-با-کالابرگ-نمی-فروشیم-ماه-هاست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -457,6 +457,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/توقف-واردات-موبایل-از-مناطق-آزاد-در-انتظار-تخصیص-ارز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/برخی-از-بازی-های-مورد-علاقه-ما-switch-2-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مردم-هر-سال-کمتر-با-یکدیگر-صحبت-می-کنند-چرا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/meta-muse-اکنون-می-تواند-خرید-جمعه-سیاه-خود-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-خودرو-با-انرژی-خورشیدی-کار-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پروژه-مخفی-سامسونگ-برای-تولید-لپ-تاپ-اندرویدی-لو-رفت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
