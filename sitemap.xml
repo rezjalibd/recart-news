@@ -171,6 +171,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/معترضان-هندی-در-مخالفت-با-سانسور-به-ساختمان-شرکت-متا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چگونه-یارانه-واریز-شده-به-کیف-پول-ایران-را-خرج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/در-بازگشت-خاموشی-ها-شهروندان-از-قطع-چند-ساعته-برق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خاموشی-های-خانگی-و-تهدید-تولید-هم-زمان-با-کمبود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -451,6 +451,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آغاز-پیش-ثبت-نام-فروش-فیدلیتی-الیت-بهمن-موتور-پیش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/الفت-نسب-زیرساخت-های-ناقص-مانع-اتصال-پلتفرم-های-طلا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تاد-بوهلی-تشریح-می-کند-که-چگونه-میز-تجارت-دانیل/</loc>
+    <loc>https://recart.ir/news/هوش-مصنوعی-چگونه-سفر-و-گردشگری-را-دگرگون-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -607,6 +612,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-glm-5-4-از-راه-رسید-پردازش-تصویر-برنامه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اتصال-آنلاین-بیمه-تکمیلی-و-برخورد-با-شرکت-های-متخلف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-خواهان-بازگشت-جنسن-هوانگ-به-انویدیا-است-اسکات-بسنت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیویورک-تایمز-آلیس-هوانگ-در-حین-رابطه-با-مدیرعامل-انویدیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-ایرانی-در-مسیر-تحول-از-توسعه-مدل-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -757,36 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اپل-از-بحران-کمبود-آیفون-دوئو-فاصله-می-گیرد-موعد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترفند-جالب-دوربین-گوشی-که-می-تواند-باتری-کنترل-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدام-نوع-پنل-خورشیدی-برای-خانه-شما-بهتر-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دانشمند-ارشد-openai-در-مورد-چگونگی-محدود-کردن-توسعه-هوش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برندگان-مسابقه-عکاسی-سیاه-وسفید-۲۰۲۶-معرفی-شدند-از-پرش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رمز-عبور-شما-چقدر-امن-است-در-اینجا-نحوه-آزمایش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-برنامه-ها-برای-پیدا-کردن-دوستان-جدید-در-حال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
