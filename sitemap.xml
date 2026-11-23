@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مجموعه-بعدی-کداک-یک-قاب-عکس-دیجیتال-کوچک-است-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حزب-لیبرال-ویکتوریا-از-هوش-مصنوعی-برای-نوشتن-ادای-احترام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ایلان-ماسک-هشدار-داد-که-تاخیر-در-مرکز-داده-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پوچتینو-پس-از-باخت-در-اولین-بازی-با-منچستریونایتد-باید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دنی-بنتون-ستاره-عصر-طلایی-در-ازدواجش-با-دکتر-کرکلند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اینا-گارتن-می-گوید-که-رقصیدن-با-ستاره-ها-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نوآ-اشنپ-می-گوید-که-برای-بازی-در-بازی-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
