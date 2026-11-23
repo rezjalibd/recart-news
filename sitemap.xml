@@ -226,6 +226,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/uta-برای-متحد-کردن-مشاغل-در-مقر-نیو-لندن-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/uta-با-افتتاح-دفتر-مرکزی-جدید-لندن-مشاغل-بریتانیا-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازیکنان-سری-آ-علیه-خشونت-خانگی-علامت-قرمز-روی-صورت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,12 +411,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازگشت-رویایی-آلکاراس-۸۴-روز-توفانی-چهار-جام-و-یک/</loc>
+    <loc>https://recart.ir/news/مانیتور-گیمینگ-۱۱۰۰-هرتزی-سامسونگ-ماه-آینده-با-قیمت-۸۹۹/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گفت-وگوهای-کوپ۳۱-به-دلیل-حذف-سوخت-های-فسیلی-بی/</loc>
+    <loc>https://recart.ir/news/افزایش-قیمت-یک-میلیارد-تومانی-میتسوبیشی-اکلیپس-کراس-و-۸۰۰/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قیمت-بسته-های-adsl-مخابرات-افزایش-یافت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -586,17 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ipo-آنتروپیک-برای-نخبگان-فناوری-عالی-بود-و-برای-بقیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/توقف-واردات-موبایل-از-مناطق-آزاد-در-انتظار-تخصیص-ارز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افزایش-حقوق-کارمندان-در-دستور-کار-مجلس-قرار-دارد/</loc>
+    <loc>https://recart.ir/news/ج-نسن-هوانگ-به-عنوان-رئیس-و-مدیر-انویدیا-برگشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -617,6 +622,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-هدفون-بلوتوث-خود-را-با-رایانه-شخصی-ویندوزی-خود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اپلیکیشن-itell-برای-دور-زدن-رجیستری-با-انتقال-تماس-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-دوباره-مدیرعامل-انویدیا-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نخستین-تصاویر-کوییک-وانت-منتشر-شد-سایپا-وانت-۲۵۰-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پایان-گم-شدن-پست-ها-در-ایکس-دکمه-لغو-رفرش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -761,37 +791,72 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/محمد-مهاجری-خطاب-به-پزشکیان-بعضی-اعضای-شورای-عالی-فضای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استارتاپ-آمریکایی-با-ایجنت-های-هوش-مصنوعی-معماری-cpu-کاملا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نرم-افزار-دبیرخانه-دیجیتالی-چه-امکاناتی-باید-داشته-باشد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ساترا-در-برخی-آثار-نمایش-خانگی-شوخی-های-جنسی-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سری-آنر-۷۰۰-با-نمایشگر-دوم-و-باتری-غول-پیکر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کراداسترایک-زسکیلر-را-در-معامله-امنیت-سایبری-۴۰-میلیارد-یورویی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کورینا-اسمیت-با-یونیورسال-موزیک-لاتین-امضا-می-کند-آنها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-فقط-یک-آهنگ-در-رادیو-نیست-چگونه-موسیقی-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جاستین-تیمبرلیک-شک-های-خود-را-در-تریلر-مستند-افشا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/میزبانان-جدید-the-grand-tour-در-amazon-prime-video-تمدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انتقال-uta-به-مقر-جدید-لندن-با-کرتیس-براون-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/200-آهنگ-برتر-دهه-1990/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سامانتا-مورتون-ستاره-اودیسه-با-کمک-مالی-bfi-تجلیل-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/doc-nyc-برندگان-جوایز-ایالات-متحده-مسابقات-بین-المللی-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دایناسورها-اقیانوس-با-دیوید-آتنبرو-تهیه-کننده-فیلم-های-silverback/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تریلر-مستند-جاستین-تیمبرلیک-او-آن-چیزی-نیست-که-من/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سامانتا-مورتون-بورسیه-bfi-را-دریافت-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/the-grand-tour-برای-فصل-2-با-مجریان-فرانسیس-بورژوا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ریان-جانسون-نسبت-به-هوش-مصنوعی-شیطان-کننده-هشدار-داد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -912,71 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-حفاری-کمدی-باستان-شناسی-امی-پولر-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/grand-theft-auto-vi-the-album-deluxe-23-آهنگ-اصلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جشنواره-فیلم-روتردام-پپین-کویپر-را-به-عنوان-مدیر-عامل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-gta-6-هر-عرضه-سرگرمی-در-سال-2026-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-شطرنج-را-فتح-کرد-اتفاقات-بعدی-باید-ما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روتردام-پپین-کویپر-را-به-عنوان-مدیر-عامل-استخدام-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سرانجام-بریتانیا-می-تواند-همه-چیز-را-ببیند-الیزابت-هلمز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/غلامرضا-نیکخواه-هنرپیشه-سینما-و-تلویزیون-ایران-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کنسرت-دون-تولیور-پس-از-رهاسازی-مواد-موجود-در-هوا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فستیوال-بین-المللی-فیلم-روتردام-پپین-کویپر-مدیر-عامل-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/غلامرضا-نیکخواه-بازیگر-باسابقه-سینما-و-تلویزیون-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احمد-گوهری-به-پرداخت-بیش-از-یک-میلیارد-تومان-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نمایش-دون-تولیور-در-منچستر-پس-از-انتشار-مواد-ناشناخته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وریا-غفوری-سرمربی-شمس-آذر-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
