@@ -606,6 +606,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تبدیل-گوشی-به-مانیتور-دوم-کامپیوتر-قابلیت-جذاب-ویندوز-۱۱/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجموعه-بعدی-کداک-یک-قاب-عکس-دیجیتال-کوچک-است-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایستگاه-شارژ-جدید-جکری-با-پشتیبانی-از-شارژ-خورشیدی-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نماد-ساعت-کوچک-در-بالای-گوشی-سامسونگ-شما-به-چه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
