@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حزب-لیبرال-ویکتوریا-از-هوش-مصنوعی-برای-نوشتن-ادای-احترام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چگونه-حافظه-پنهان-خود-را-در-google-tv-پاک-کنیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایلان-ماسک-هشدار-داد-که-تاخیر-در-مرکز-داده-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوشی-و-تبلت-برخلاف-تصور-رایج-شاید-برای-مغز-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
