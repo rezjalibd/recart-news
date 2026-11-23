@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازداشت-سه-شهروند-بهایی-در-کرمان-و-انتقال-به-مکان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پایان-خوش-تلاش-برای-عبور-از-مرزهای-سینمای-زیرزمینی-ایران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بقائی-سخنگوی-وزارت-خارجه-کاردار-قطر-را-احضار-و-اعتراض/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایران-۷---۲-لبنان-صعود-مقتدرانه-با-سه-برد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,12 +601,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هیئت-مدیره-انویدیا-بار-دیگر-جنسن-هوانگ-را-به-سمت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چگونه-توسعه-صنایع-رباتیک-نظامی-به-ایجاد-فرصت-های-شغلی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-به-عنوان-مدیرعامل-انویدیا-بازگشته-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-برگشت-و-وال-استریت-را-آتش-زد-رشد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -651,7 +666,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-به-عنوان-مدیرعامل-انویدیا-بازگشته-است/</loc>
+    <loc>https://recart.ir/news/جنسن-هوانگ-به-عنوان-مدیرعامل-انویدیا-بازگشته-است-99048c/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,17 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مانیتور-قابل-حمل-با-سه-صفحه-به-معنای-پیکسل-بیشتر/</loc>
+    <loc>https://recart.ir/news/کمیته-ملی-دموکراتیک-12-مناظره-اولیه-ریاست-جمهوری-را-برنامه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نقد-و-بررسی-asus-proart-p16-نگاهی-اجمالی-به-آینده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سوالات-خود-را-ارسال-کنید-آیا-کسی-شما-را-از/</loc>
+    <loc>https://recart.ir/news/تایسون-فیوری-در-مستند-نتفلیکس-تشخیص-اسکیزوفرنی-را-فاش-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نیلی-وکیل-دادگستری-حکم-شلاق-پرستو-احمدی-و-چهار-نفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تایسون-فیوری-در-سند-نتفلیکس-تشخیص-اسکیزوفرنی-را-فاش-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیلی-پورتر-هانا-جان-کامن-هیئت-رنگ-پوست-من-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
