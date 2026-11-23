@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پارو-کردن-برف-برای-قلب-خطرناک-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آمریکا-و-عربستان-سعودی-پهپادی-با-سرعت-دوبرابر-شاهد-ایرانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بزرگترین-بمب-های-ترامپ-از-مصاحبه-تقریبا-یک-ساعته-اش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-تصویری-از-جنسن-هوانگ-در-حالی-که-سوتین-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -676,6 +676,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کارمند-فیگما-شکایت-کرد-و-مدعی-شد-که-شرکت-او/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گفته-می-شود-که-ترامپ-برای-بازگرداندن-جنسن-هوانگ-مدیر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کارمندان-انویدیا-با-بازگشت-جنسن-هوانگ-به-دفتر-مرکزی-شرکت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گرگ-هوانسیان-و-لیندسی-نورمینگتون-نقش-آفرینی-در-فیلم-هیجان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انتقام-جویان-روز-رستاخیز-مارول-برای-بفتا-گلدن-گلوب-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چگونه-پگاه-آهنگرانی-آرشیو-خانواده-اش-را-به-اسکار-امیدبخش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جوایز-410000-دلاری-جشنواره-فیلم-قاهره-به-پروژه-های-فیلم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رابرت-دنیرو-و-تیموتی-شالامه-به-عنوان-مجریان-برنامه-شنبه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
