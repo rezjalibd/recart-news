@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گام-تازه-در-مسیر-صلح-ترکیه-و-پ-ک-ک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مخالفت-کشورهای-اروپایی-با-بازگشت-روسیه-به-ورزش-جهان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هنرمندان-قطر-کانادا-و-مکزیک-چگونه-با-خلاقیت-فرهنگ-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,12 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/روزنامه-بیلد-حدود-۴۵۰-مدرسه-در-آلمان-ایمیل-های-تهدید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یافته-های-تازه-درباره-میراث-ژنتیکی-نئاندرتال-ها-آیا-مغز/</loc>
+    <loc>https://recart.ir/news/امانوئل-مکرون-۳۵۰-میلیون-یورو-کمک-به-صنعت-هوانوردی-فرانسه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اختلال-در-عرضه-نفت-خلیج-فارس-ژاپن-کارگروه-آسیایی-امنیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رسوایی-تقلب-با-هوش-مصنوعی-در-کره-جنوبی-وزیر-آموزش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -657,6 +657,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آمازون-همزمان-با-آماده-شدن-برای-فروش-تراشه-های-trainium/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گروه-های-ایمنی-کودکان-از-آمازون-و-ebay-می-خواهند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/متا-گل-خالص-خود-را-به-بیرون-پرتاب-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مارول-تمام-ابرقهرمانان-تاریخ-را-در-تریلر-نهایی-avengers-doomsday/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/sound-glow-در-homepods-چیست-و-چگونه-آن-را-روی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اگر-قلمرو-انسان-خردمند-در-اوراسیا-گسترش-نمی-یافت-نئاندرتال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بت-موبیل-مشهور-فیلم-بتمن-بازمی-گردد-اثر-تیم-برتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,36 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/travis-scott-slayyyter-offset-anitta-more-power-grand-theft-auto/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سوپریا-گانش-بنیتو-اسکینر-امی-لندکر-و-بردلی-ویتفورد-بازیگران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلمساز-3-30-شلوک-چوداری-و-تهیه-کننده-سونیل-سادارانگانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آهنگ-kamikaze-از-gta-vi-d-angelo-در-حالی-منتشر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جوایز-فیلم-بفتا-پس-از-30-سال-از-دست-دادن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سریال-لایو-اکشن-god-of-war-دبورا-آن-وول-نقش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -947,36 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دان-تولیور-کنسرت-لندن-را-پس-از-تخلیه-ست-منچستر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-سریال-انیمیشن-کوین-هارت-در-فصل-دوم-لیل-کیو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/frontline-برای-اولین-بار-برای-اولین-سریال-مستند-برنده-جایزه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کالین-فارل-برای-اما-فوگارتی-چه-کسی-برای-من-دنیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همه-جوایز-cma-برندگان-جدید-هنرمند-سال-بیش-از-30/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شصت-سال-در-ساخت-تریلر-عجیب-و-غریب-مردم-اشتباه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روکش-نقدی-خشمگین-و-پرخاشگر-نیک-کیو-روز-شما-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
