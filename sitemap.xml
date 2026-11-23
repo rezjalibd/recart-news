@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دو-باغ-رستوران-در-دزفول-به-دلیل-انتشار-ویدیوهای-رقص/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دو-باغ-رستوران-در-دزفول-به-دلیل-انتشار-ویدئوهای-رقص/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وزارت-اطلاعات-بازداشت-۳۳-نفر-خبر-داد-استارلینک-و-اسلحه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سه-شهروند-بهائی-در-کرمان-بازداشت-و-یک-شهروند-بهائی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -471,6 +471,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-لپ-تاپ-های-مک-بوک-ایر-m5-قبل-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قیمت-گذاری-نظارتی-از-داده-های-شخصی-ما-استفاده-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/xteink-x4-pro-با-اندازه-کیف-پول-هدیه-سال-کتابخوان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/قاضی-به-هکر-جی-تی-ای-۶-پس-از-آزادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -667,6 +667,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارمندان-انویدیا-با-بازگشت-جنسن-هوانگ-به-دفتر-مرکزی-شرکت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روسیه-فردا-یک-ماموریت-معمول-تامین-iss-را-راه-اندازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اخترشناسان-برای-نخستین-بار-ستاره-ای-غول-پیکر-را-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-برای-تشویق-به-دفتر-مرکزی-انویدیا-بازگشت-من/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارمند-انویدیا-که-گفته-بود-به-دلیل-اخراج-جنسن-استعفا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گیج-پرمدعای-gta-vi-باعث-می-شود-توسعه-دهندگان-مستقل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -836,6 +836,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سوپرگروه-zwan-از-بیلی-کورگان-اولین-آلبوم-خود-را-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تمدید-فصل-پنجم-تد-لسو-در-apple-tv/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ستاره-شرق-عدن-هون-لی-در-مورد-افتخار-بازی-لی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ted-lasso-برای-فصل-5-در-apple-tv-تمدید-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ted-lasso-برای-فصل-5-توسط-apple-tv-تمدید-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -847,11 +867,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ray-mckinnon-به-amc-nascar-سریال-درام-thunder-road-پیوست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ستاره-شرق-عدن-هون-لی-در-مورد-افتخار-بازی-لی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شنیدن-کاور-clairo-mf-doom-با-ماجرای-el-michels/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-کنسرت-eternal-sunshine-tour-ariana-grande-به-زودی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/5-بهترین-لحظه-از-پایتخت-کرونا-در-مکزیکو-سیتی-روز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تنظیم-رکورد-ورودی-های-واجد-شرایط-در-انیمیشن-و-ویژگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
