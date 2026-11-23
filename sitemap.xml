@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/محسنی-اژه-ای-مشکل-معیشتی-جدی-است-از-حوزه-علمیه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حکم-۷۴-ضربه-شلاق-پرستو-احمدی-و-چهار-همراهش-اجرا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گزارش-آتلانتیک-از-نادانسته-های-جنگ-با-ایران-پنتاگون-چه/</loc>
+    <loc>https://recart.ir/news/کره-جنوبی-و-چین-بر-سر-گسترش-توافق-تجاری-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یک-کرسی-قرمز-دیگر-آبی-شد-دموکرات-ها-بزرگترین-اکثریت/</loc>
+    <loc>https://recart.ir/news/اختلال-در-عرضه-نفت-خلیج-فارس-ژاپن-کارگروه-آسیایی-امنیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گسترش-اختلاف-بر-سر-دستمزد-در-آلمان-اعتصاب-۲۴ساعته-مرسدس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/الفت-نسب-زیرساخت-های-ناقص-مانع-اتصال-پلتفرم-های-طلا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/با-سقوط-سهام-آسیایی-معاملات-آتی-سهام-ایالات-متحده-افزایش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خرید-زدسکیلر-توسط-کروداستریک-در-معامله-امنیت-سایبری-۴۰-میلیارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -647,6 +647,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانلود-مشکل-قضاوت-هوش-مصنوعی-و-تهدید-محصول-حذف-کربن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اپل-به-دنبال-استفاده-از-نور-برای-انتقال-سریع-تر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یک-ارائه-دهنده-برق-برای-متا-از-رگولاتورها-خواست-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قابلیت-محبوب-آیفون-به-گوشی-های-سامسونگ-می-آید-تغییر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خداحافظ-جهان-پایان-برنامه-نویسان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
