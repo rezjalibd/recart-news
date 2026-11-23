@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/توافق-جدید-آمریکا-و-دانمارک-گرینلند-به-ترامپ-واگذار-نشد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اختلاف-اروپا-و-آمریکا-بر-سر-مذاکرات-صلح-اوکراین-فون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/صدای-ما-را-بشنوید-در-مادرید-تأکید-اسپانیا-بر-به/</loc>
+    <loc>https://recart.ir/news/روسیه-برای-محاصره-احتمالی-کالینینگراد-آماده-می-شود-ساخت-دو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/16-زنجیره-که-در-روز-شکرگزاری-باز-هستند---و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/نقش-ترامپ-در-بازگشت-جنسن-هوانگ-به-انویدیا-دموکرات-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -662,6 +662,41 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اشتراک-peacock-تا-66-درصد-تخفیف-برای-جمعه-سیاه-دارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اوبر-اکنون-به-سوارکاران-این-امکان-را-می-دهد-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازنشستگی-در-اوج-نخستین-استارشیپ-بازیابی-شده-دیگر-هرگز-پرواز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هک-هوش-مصنوعی-یا-شکنندگی-چرا-سرویس-های-بزرگ-آنلاین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/honor-600-lite-ترکیبی-متعادل-از-طراحی-دوربین-باتری-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/۲۵-موجود-عجیب-اعماق-اقیانوس-که-شبیه-بیگانگان-فضایی-هستند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تحقیقات-کمیسیون-بورس-آمریکا-درباره-حسابداری-انویدیا-زلزله-جدید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -756,41 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چه-ویژگی-های-مهمی-را-باید-در-دوربین-امنیتی-خانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آمازون-همزمان-با-آماده-شدن-برای-فروش-تراشه-های-trainium/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گروه-های-ایمنی-کودکان-از-آمازون-و-ebay-می-خواهند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/متا-گل-خالص-خود-را-به-بیرون-پرتاب-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سبد-سهام-خود-ترامپ-احتمالا-از-افزایش-انویدیا-سود-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوگل-سرانجام-در-اوایل-سال-آینده-برنامه-nest-را-بازنشسته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جستجوی-google-متناسب-تر-که-منحصرا-متعلق-به-شماست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/انگلیس-اسکاتلند-ولز-و-ایرلند-شمالی-میزبان-مشترک-جام-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هیرویوکی-سانادا-ستاره-شوگان-به-ناروتو-دستین-دانیل-کرتون-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آریانا-گرانده-فیلم-تور-آفتاب-ابدی-را-در-peacock-کنایه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سانتوش-دواخار-کارگردان-گوندال-درباره-ایجاد-نامزدی-اسکار-2027-هند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رقص-چارلی-دی-آملیو-نایل-کاتسی-با-گروه-گابریلا-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
