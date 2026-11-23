@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/طعنه-علم-الهدی-به-پزشکیان-روضه-خوان-خوبی-هستی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تهدیدهای-موشکی-تازه-تهران-با-ادعای-برد-۴۵۰۰-کیلومتری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قمار-پرمخاطره-ایران-در-خلیج-فارس-نفتکش-ها-در-مسیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جزییات-تازه-از-قتل-صدف-حق-بین-متهم-اعتراف-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -621,6 +621,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یک-ارائه-دهنده-برق-برای-متا-از-رگولاتورها-خواست-تا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قابلیت-محبوب-آیفون-به-گوشی-های-سامسونگ-می-آید-تغییر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حلقه-معروف-ارباب-حلقه-ها-واقعی-شد-این-بار-با/</loc>
+    <loc>https://recart.ir/news/محسن-نامجو-در-ایران-به-من-اجازه-برگزاری-کنسرت-نمی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -842,6 +847,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیک-ساوت-گیت-مدیرعامل-passion-دیوید-مولتون-را-کنار-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اتیز-امسال-برای-سومین-بار-در-بیلبورد-200-در-جایگاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طرفداران-leave-with-me-از-lisa-را-به-عنوان-موسیقی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماهرشالا-علی-می-گوید-داشتن-2-اسکار-مهم-نیست-هنگام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
