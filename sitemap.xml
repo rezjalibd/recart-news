@@ -631,6 +631,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-هدایا-برای-والدین-و-نوزادانشان-بطری-شوی-غذاهای-آماده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-عامل-سابق-doge-برنده-یک-قرارداد-فدرال-شد-سپس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-استفاده-از-سنگ-ها-برای-حذف-کربن-می-تواند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-خواهان-بازگشت-جنسن-هوانگ-به-انویدیا-است-اسکات-بسنت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیویورک-تایمز-آلیس-هوانگ-در-حین-رابطه-با-مدیرعامل-انویدیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/محسن-نامجو-در-ایران-به-من-اجازه-برگزاری-کنسرت-نمی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -847,6 +847,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بیلی-پورتر-هانا-جان-کامن-هیئت-رنگ-پوست-من-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اسپانیا-در-بازار-فیلم-waves-مشوق-ها-خدمه-و-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باکس-آفیس-چین-بازی-های-گرسنگی-طلوع-آفتاب-در-درو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
