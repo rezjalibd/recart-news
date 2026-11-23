@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آزادی-عمل-در-gta-6-همچنان-غافلگیرمان-می-کند-خودپردازها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-بار-دیگر-خواستار-بازگشت-جنسن-هوانگ-به-انویدیا-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-برنامه-ها-برای-پیدا-کردن-دوستان-جدید-در-حال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-تنظیمات-ios-به-شما-کمک-می-کند-تا-استفاده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
