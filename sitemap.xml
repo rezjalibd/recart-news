@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چیدمان-خانه-می-تواند-آسیب-های-روانی-دوران-کودکی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آتش-سوزی-شدید-هتل-های-ساحلی-زنگبار-در-تانزانیا-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ملانیا-ترامپ-می-گوید-که-برای-پسرش-بارون-ترامپ-مادر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-فتوشاپی-از-جنسن-هوانگ-در-حالی-که-سوتین-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
