@@ -676,6 +676,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هکر-پشت-درز-اولیه-gta-vi-محکوم-شد---و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/راهنمای-هدیه-تعطیلات-the-verge-s-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اپل-تد-لسو-را-برای-فصل-پنجم-تمدید-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-آنچه-را-که-لازم-است-دارید-katseye-در-تریلر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چارلی-کاکس-daredevil-s-می-خواست-برای-جیمز-باند-تست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیشنهاد-جمعه-سیاه-starz-در-اینجا-نحوه-صرفه-جویی-75/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/lionsgate-lands-spec-tell-me-everything-با-حضور-داکوتا-جانسون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آماندا-سیفرید-رابرت-دنیرو-و-تیموتی-چالامه-در-ماه-دسامبر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
