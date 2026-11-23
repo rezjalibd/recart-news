@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/زمستان-هنوز-نرسیده-خاموشی-ها-آغاز-شد-بحران-برق-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اجرای-حکم-۷۴-ضربه-شلاق-پرستو-احمدی-و-گروه-کنسرت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پس-از-انتقال-آرمون-و-نجاران-به-انفرادی-درخواست-ها/</loc>
+    <loc>https://recart.ir/news/ایمیل-های-تهدید-به-بمب-گذاری-در-مدارس-آلمان-پلیس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مرسدس-و-ب-ام-و-هدف-اعتصاب-۲۴-ساعته-شدند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خبرگزاری-مهر-از-بسته-شدن-مرز-شلمچه-خبر-داد-منبع/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -392,21 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یک-کرسی-قرمز-دیگر-آبی-شد-دموکرات-ها-بزرگترین-اکثریت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پژوهش-جدید-تفاوت-های-ژنتیکی-می-تواند-اثربخشی-داروها-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ناو-جنگی-روسیه-پس-از-حمله-ای-منتسب-به-اوکراین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-گفت-حملات-جمهوری-اسلامی-پس-از-پیروزی-دموکرات-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -641,6 +641,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پایان-پایداری-هزاران-ساله-یخ-های-زمین-از-محدوده-ایمن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مانیتورهای-قابل-حمل-سه-صفحه-ای-برای-افراد-ضعیف-مناسب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رنج-جدید-شماره-سیم-کارت-های-شاتل-موبایل-با-کدهای/</loc>
+    <loc>https://recart.ir/news/غلامرضا-نیکخواه-بازیگر-باسابقه-سینما-و-تلویزیون-درگذشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/احمد-گوهری-به-پرداخت-بیش-از-یک-میلیارد-تومان-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -857,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نمایش-دون-تولیور-در-منچستر-پس-از-انتشار-مواد-ناشناخته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -941,11 +956,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نمایش-دون-تولیور-در-منچستر-پس-از-انتشار-مواد-ناشناخته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ما-خوب-متولد-می-شویم-برنده-بهترین-فیلم-و-فیلمنامه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باکس-آفیس-کره-تریلر-اسرارآمیز-white-blast-در-رتبه-اول/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کاور-اولیویا-رودریگو-برگ-های-مرده-و-زمین-کثیف-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هایلی-استاینفلد-تایید-کرد-که-در-فیلم-avengers-doomsday-حضور/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
