@@ -31,6 +31,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تهدید-موشکی-تهران-هم-زمان-با-تشدید-رویارویی-بر-سر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/موج-تازه-مسمومیت-با-مشروبات-تقلبی-در-ایران-پنج-کشته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پایان-خوش-مرزهای-سینمای-زیرزمینی-ایران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تهدید-به-بمب-گذاری-صدها-مدرسه-در-آلمان-با-پیام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -202,21 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خاموشی-های-برنامه-ریزی-شده-در-ایران-آغاز-شد-هشدار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رضا-امیرخانی-نویسنده-محبوب-علی-خامنه-ای-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رییس-هلال-احمر-۸۵-درصد-مجروحان-پیجرهای-حزب-الله-لبنان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-سال-حبس-بهای-زنی-که-دختران-ایران-را-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-یک-شراب-ساز-در-ماکائو-هم-خانه-اش-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لگو-کارخانه-ای-یک-میلیارد-یورویی-در-پرتغال-می-سازد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قیمت-قطعی-یا-ریسک-پنهان-مقایسه-خرید-۶۰-روزه-فونیکس/</loc>
+    <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-جایگاه-مدیرعامل-انویدیا-۱۱-روز-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -647,6 +652,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/fsd-v15-تسلا-تصاویر-رانندگی-را-به-grand-theft-auto/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-به-عنوان-مدیر-عامل-انویدیا-رئیس-هیئت-مدیره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,17 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دانشمندان-با-فناوری-ساخت-تراشه-از-خاک-مصنوعی-ماه-اکسیژن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ظاهر-گلکسی-s26-اولترا-با-نمایشگر-پشتی-شبیه-شیائومی-گوشی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/meta-muse-می-تواند-خرید-جمعه-سیاه-شما-را-در/</loc>
+    <loc>https://recart.ir/news/پرتیسهد-به-کارزار-بدون-موسیقی-برای-نسل-کشی-همراه-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -896,6 +901,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تریلر-نهایی-انتقام-جویان-روز-قیامت-دارای-چهار-شگفت-انگیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تام-میسلبروک-پس-از-شش-سال-از-شرکت-سینفلیکس-شب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تغییر-در-هنگام-تولد-چگونه-دو-مرد-36-سال-زندگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-blade-runner-2099-هانتر-شافر-با-کمک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نقد-و-بررسی-حفاری-کمدی-باستان-شناسی-امی-پولر-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/grand-theft-auto-vi-the-album-deluxe-23-آهنگ-اصلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جشنواره-فیلم-روتردام-پپین-کویپر-را-به-عنوان-مدیر-عامل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
