@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تهدید-به-بمب-گذاری-صدها-مدرسه-در-آلمان-با-پیام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیزنکوت-ایران-تهدیدی-جدی-برای-اسرائیل-است-اما-فعلا-اقدام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/محسنی-اژه-ای-مشکل-معیشتی-جدی-است-از-حوزه-علمیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/۳۰-مورد-مسمومیت-الکلی-و-یک-کشته-در-فارس-شمار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فرود-اضطراری-پرواز-تهران-کیش-در-شیراز-تشنج-و-حمله/</loc>
+    <loc>https://recart.ir/news/ارمنستان-از-اجرایی-شدن-پروژۀ-مسیر-ترامپ-خبر-داد-تهران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/راهنمای-سفر-دسامبر-۲۰۲۶-بهترین-مقصدهای-اروپا-برای-دیدن-و/</loc>
+    <loc>https://recart.ir/news/لگو-کارخانه-ای-یک-میلیارد-یورویی-در-پرتغال-می-سازد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آغاز-پیش-ثبت-نام-فروش-فیدلیتی-الیت-بهمن-موتور-پیش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خرید-زدسکیلر-توسط-کروداستریک-در-معامله-امنیت-سایبری-۴۰-میلیارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -647,6 +647,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شکایت-اسپیس-ایکس-توسط-اورگان-و-ویرجینیا-به-دلیل-تصاویر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شکست-گوگل-در-کارآمد-کردن-نقشه-های-گوگل-برای-فلسطینی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/غلامرضا-نیکخواه-هنرپیشه-سینما-و-تلویزیون-ایران-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -886,6 +886,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جشنواره-فیلم-روتردام-پپین-کویپر-را-به-عنوان-مدیر-عامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/روتردام-پپین-کویپر-را-به-عنوان-مدیر-عامل-استخدام-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پادشاه-چارلز-سوم-و-ادریس-البا-برای-ساخت-مستند-نتفلیکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-بزرگترین-تعطیلات-آخر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
