@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بخش-فناوری-دوباره-زیر-آتش-معامله-گران-سقوط-وال-استریت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مرکز-آمار-ایران-تورم-نقطه-به-نقطه-تولیدکننده-از-۱۲۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/من-5-سال-را-صرف-بازسازی-خانه-ای-کردم-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فراری-296-چلنج-استراداله-معرفی-شد-سوپراسپرت-۶۶۱-اسب-بخاری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
