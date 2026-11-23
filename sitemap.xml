@@ -211,12 +211,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/معترضان-هندی-در-مخالفت-با-سانسور-به-ساختمان-شرکت-متا/</loc>
+    <loc>https://recart.ir/news/ادعای-جنجالی-سعید-لیلاز-درباره-استخدام-۳۰۰-نفر-با-فشار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-یارانه-واریز-شده-به-کیف-پول-ایران-را-خرج/</loc>
+    <loc>https://recart.ir/news/معترضان-هندی-در-مخالفت-با-سانسور-به-ساختمان-شرکت-متا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -461,6 +461,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازگشت-ایران-خودرو-به-سوددهی-در-تابستان-۱۴۰۵-ثبت-سود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قیمت-قطعی-یا-ریسک-پنهان-مقایسه-خرید-۶۰-روزه-فونیکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-این-دیپ-مرغ-آهسته-پز-بوفالو-را-هر-روز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مردم-هر-سال-کمتر-با-یکدیگر-صحبت-می-کنند-چرا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,36 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خداحافظ-جهان-پایان-برنامه-نویسان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-اولیه-دستگاه-اسپرسو-جمعه-سیاه-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوشی-های-سری-آنر-۷۰۰-با-نمایشگر-پشتی-و-باتری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایلان-ماسک-افزایش-قیمت-حافظه-هزینه-کامپیوتر-هوش-مصنوعی-تسلا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کالبدشکافی-میزبانی-ابری-مدرن-چرا-زیرساخت-های-nvme-و-پورت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوگل-اولین-سیستم-هوش-مصنوعی-برای-حمله-سایبری-کاملا-خودکار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -761,32 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/توصیه-اسکات-بسنت-به-انویدیا-این-بود-که-یک-فرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدیر-عامل-shopify-می-گوید-که-برکناری-جنسن-هوانگ-طرح/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شبی-که-آندرومدا-مرزهای-جهان-را-جابه-جا-کرد-۲/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تکنیک-مبتنی-بر-هوش-مصنوعی-می-تواند-به-مهندسان-کمک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تبدیل-گوشی-به-مانیتور-دوم-کامپیوتر-قابلیت-جذاب-ویندوز-۱۱/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مجموعه-بعدی-کداک-یک-قاب-عکس-دیجیتال-کوچک-است-که/</loc>
+    <loc>https://recart.ir/news/لامین-یامال-دیدار-بارسلونا-مقابل-صباح-را-از-دست-داد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -837,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیوندهایی-که-برنامه-را-پیوند-می-دهد-از-طریق-مشارکت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ماهرشالا-علی-می-گوید-داشتن-2-اسکار-مهم-نیست-هنگام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رابرت-اگرز-می-گوید-که-مشتاق-است-از-ژانر-ترسناک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-فیلم-دیگر-بازی-های-گرسنگی-به-این-زودی-اکران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
