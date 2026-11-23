@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بقایی-مجید-موسوی-پاسخ-به-آمریکا-را-در-بسته-بندی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گمانه-زنی-ها-پیرامون-تلاش-ایران-برای-شکستن-محاصره-دریایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چگونه-یارانه-واریز-شده-به-کیف-پول-ایران-را-خرج/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همسر-راسل-برند-قول-می-دهد-که-پیام-های-زندان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/dogwoof-به-بازی-microdrama-با-tattle-tv-deal-می-رود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/همسر-راسل-برند-می-گوید-که-دیگر-پیام-های-زندان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پادشاه-چارلز-سوم-و-ادریس-البا-برای-ساخت-مستند-نتفلیکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-فیلم-دیگر-بازی-های-گرسنگی-به-این-زودی-اکران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-غریبه-از-برادوی-یک-کیک-در-سراسر-نیویورک-حمل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/nfl-mexico-city-game-halftime-show-2026-در-اینجا-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
