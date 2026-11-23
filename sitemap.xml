@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/وزارت-اطلاعات-بازداشت-۳۳-نفر-خبر-داد-استارلینک-و-اسلحه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سه-شهروند-بهائی-در-کرمان-بازداشت-و-یک-شهروند-بهائی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عراق-گذرگاه-مرزی-شلمچه-را-تا-اطلاع-ثانوی-بست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ثبت-۱۳۸-حادثه-برای-نفتکش-ها-و-کشتی-های-تجاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محمد-مالجو-پژوهشگر-و-اقتصاددان-به-یک-سال-زندان-محکوم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رسانه-نزدیک-به-سپاه-طرح-حرکت-دسته-جمعی-نفتکش-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دونالد-ترامپ-از-انویدیا-خواست-جنسن-هوانگ-مدیرعامل-سابق-دوباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-از-انویدیا-خواست-ینسن-هوانگ-را-دوباره-به-سمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -632,6 +637,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانشمندان-با-فناوری-ساخت-تراشه-از-خاک-مصنوعی-ماه-اکسیژن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ظاهر-گلکسی-s26-اولترا-با-نمایشگر-پشتی-شبیه-شیائومی-گوشی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عرضه-رنج-جدید-سیم-کارت-های-شاتل-موبایل-با-کدهای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سخنگوی-وزارت-آموزش-وپرورش-تا-زمانی-که-شاخص-آلودگی-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خودروهای-بدون-راننده-ویمو-از-کنترل-پلیس-سرپیچی-می-کنند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/داپر-لیام-و-نوئل-بیورک-تجربی-و-بووی-خود-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
