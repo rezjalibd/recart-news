@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تهدیدهای-موشکی-تازه-تهران-با-ادعای-برد-۴۵۰۰-کیلومتری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جمهوری-اسلامی-کاردار-قطر-را-در-اعتراض-به-بیانیه-مشترک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بقایی-مجید-موسوی-پاسخ-به-آمریکا-را-در-بسته-بندی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جزییات-تازه-از-قتل-صدف-حق-بین-متهم-اعتراف-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ادعای-جنجالی-سعید-لیلاز-درباره-استخدام-۳۰۰-نفر-با-فشار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معترضان-هندی-در-مخالفت-با-سانسور-به-ساختمان-شرکت-متا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -621,6 +621,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قابلیت-محبوب-آیفون-به-گوشی-های-سامسونگ-می-آید-تغییر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خداحافظ-جهان-پایان-برنامه-نویسان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/حلقه-معروف-ارباب-حلقه-ها-واقعی-شد-این-بار-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آغاز-نظارت-ویژه-اتاق-اصناف-بر-تخفیف-های-بلک-فرایدی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
