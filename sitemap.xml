@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اندونزی-امدادگران-۲۴-کیسه-حامل-اجساد-را-از-کارخانه-سوخته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/درگذشت-فاطمه-منوچهری-ملی-پوش-پارادوومیدانی-بر-اثر-ایست-قلبی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مقام-های-اوکراینی-می-گویند-حملات-هوایی-روسیه-دستکم-۱۵/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,12 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رشد-۴-۵-اقتصاد-اسرائیل-در-میانه-جنگ-اروپا-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیش-بینی-رشد-۴-۵-درصدی-اقتصاد-اسرائیل-در-میانه-fd187c/</loc>
+    <loc>https://recart.ir/news/دیگر-اجناس-مان-را-با-کالابرگ-نمی-فروشیم-ماه-هاست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نحوه-تماشای-بازی-های-nfl-خارج-از-بازار-از-هر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مردم-هر-سال-کمتر-با-یکدیگر-صحبت-می-کنند-چرا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گله-ای-از-ربات-ها-در-جست-وجوی-حیات-عازم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-دنبال-یک-اتوپیای-خودکار-گشتم-تنها-چیزی-که-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/8-برنامه-ویندوز-که-احتمالا-باید-از-رایانه-شخصی-خود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آدرس-های-ip-عمومی-در-مقابل-خصوصی-چه-تفاوتی-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
