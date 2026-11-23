@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازگشت-رویایی-آلکاراس-۸۴-روز-توفانی-چهار-جام-و-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گفت-وگوهای-کوپ۳۱-به-دلیل-حذف-سوخت-های-فسیلی-بی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کاپ-۳۱-اختلاف-نظر-بر-سر-سوخت-های-فسیلی-مانع/</loc>
+    <loc>https://recart.ir/news/شانزه-لیزه-برای-جشن-های-سال-نو-نورباران-شد-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تاد-بوهلی-تشریح-می-کند-که-چگونه-میز-تجارت-دانیل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-به-یک-مستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
