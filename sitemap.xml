@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چربی-سوزی-و-تنظیم-قند-خون-ورزش-چگونه-سوخت-وساز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گ-وورگ-تامامیان-جوان-ترین-نامزد-برای-ریاست-سازمان-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تحلیل-ها-نشان-می-دهد-که-روسای-مرکز-داده-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مرکز-آمار-ایران-تورم-نقطه-به-نقطه-تولیدکننده-از-۱۲۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -422,6 +422,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-مسکن-طلاق-را-به-تصمیمی-نیمه-تمام-تبدیل-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قیمت-ساعت-هوشمند-امروز-۲-آذر-افت-۲۰-درصدی-گلکسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فراری-296-چلنج-استراداله-معرفی-شد-سوپراسپرت-۶۶۱-اسب-بخاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کنسول-نینتندو-سوییچ-2-برای-جمعه-سیاه-50-دلار-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
