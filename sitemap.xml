@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازداشت-شش-ماهه-یک-زوج-نخبه-در-ارومیه-با-اتهامات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مسمومیت-الکلی-در-هرمزگان-۳-نفر-را-کشت-۱۳-نفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جمهوری-اسلامی-کاردار-قطر-را-در-اعتراض-به-بیانیه-مشترک/</loc>
+    <loc>https://recart.ir/news/هجوم-بی-سابقه-مهاجران-به-جزایر-قناری-رکورد-ماهانه-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فنلاند-سفیر-روسیه-را-احضار-کرد-هلسینکی-اقدامات-مسکو-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اتحادیه-اروپا-بانک-ها-نظامیان-و-ورزشکاران-روسیه-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هشدار-نهادهای-اطلاعاتی-غرب-روسیه-در-تدارک-پرتاب-یک-سلاح/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جانی-دپ-در-اقتباس-تازه-سرود-کریسمس-چرا-داستان-اسکروچ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -386,27 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/انفجار-کشتی-روسیه-در-بندر-بنغازی-لیبی-زلنسکی-با-پهپاد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اندونزی-امدادگران-۲۴-کیسه-حامل-اجساد-را-از-کارخانه-سوخته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درگذشت-فاطمه-منوچهری-ملی-پوش-پارادوومیدانی-بر-اثر-ایست-قلبی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مقام-های-اوکراینی-می-گویند-حملات-هوایی-روسیه-دستکم-۱۵/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/واکنش-رقیب-نتانیاهو-به-خشونت-شهرک-نشینان-اسرائیلی-در-کرانه/</loc>
+    <loc>https://recart.ir/news/فرانسه-امانوئل-ماکرون-۳۵۰-میلیون-یورو-کمک-به-صنعت-هواپیمایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/انویدیا-پس-از-کاهش-ارزش-یک-تریلیون-دلاری-تقریبا-9/</loc>
+    <loc>https://recart.ir/news/رسوایی-تقلب-با-هوش-مصنوعی-در-کره-جنوبی-وزیر-آموزش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اختصاصی-یورونیوز-هکرهای-مورد-حمایت-چین-مظنون-به-دست-داشتن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-بزرگ-ترین-مسئله-تاریخ-ریاضیات-را-حل-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -642,6 +657,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-عنوان-مدیر-عامل-انویدیا-مانند-دژا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-بازیابی-ذهن-پس-از-مرگ-امکان-پذیر-است-پزشکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -766,31 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-هدفون-بلوتوث-خود-را-با-رایانه-شخصی-ویندوزی-خود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اپلیکیشن-itell-برای-دور-زدن-رجیستری-با-انتقال-تماس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-دوباره-مدیرعامل-انویدیا-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نخستین-تصاویر-کوییک-وانت-منتشر-شد-سایپا-وانت-۲۵۰-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پایان-گم-شدن-پست-ها-در-ایکس-دکمه-لغو-رفرش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بت-موبیل-مشهور-فیلم-بتمن-بازمی-گردد-اثر-تیم-برتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ژانویه-جونز-استیون-دورف-و-لیونل-بویس-در-میان-آثار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شرکت-مالکیت-معنوی-تیم-اجرایی-خود-را-به-دنبال-جدایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-فقط-یک-آهنگ-در-رادیو-نیست-چگونه-موسیقی-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جاستین-تیمبرلیک-شک-های-خود-را-در-تریلر-مستند-افشا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/میزبانان-جدید-the-grand-tour-در-amazon-prime-video-تمدید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
