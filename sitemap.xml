@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/sanaa-lathan-و-terence-blanchard-به-عنوان-تهیه-کننده-اجرایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-آنچه-را-که-لازم-است-دارید-katseye-در-تریلر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/همه-ارجاعات-فیلم-و-تلویزیون-gta-6-از-آرواره-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیشنهاد-جمعه-سیاه-starz-در-اینجا-نحوه-صرفه-جویی-75/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
