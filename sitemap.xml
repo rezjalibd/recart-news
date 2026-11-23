@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ویروس-تبخال-ممکن-است-عملکرد-سلول-های-ایمنی-مغز-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/۳۴۵-پیروزی-در-لالیگا-دیگو-سیمئونه-به-یک-رکورد-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاپ-۳۱-با-رد-پیش-نویس-از-سوی-اتحادیه-اروپا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شوک-بزرگ-به-پاری-سن-ژرمن-پارگی-رباط-صلیبی-دزیره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
