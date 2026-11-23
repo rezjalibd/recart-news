@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ایران-۷---۲-لبنان-صعود-مقتدرانه-با-سه-برد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بقائی-ایران-برای-مقابله-با-محاصره-دریایی-آمریکا-از-همه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ابوالفضل-ابوترابی-روزانه-۱۰-نفتکش-را-هدف-می-گیریم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازگشت-خاموشی-ها-به-ایران-با-آغاز-سرما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسنپ-پی-کمپین-بلک-فرایدی-تخفیفم-ن-را-با-تخفیف/</loc>
+    <loc>https://recart.ir/news/وزیر-خارجه-آمریکا-و-نخست-وزیر-قطر-در-واشنگتن-دیدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مارک-مارکز-برای-هشتمین-بار-قهرمان-موتو-جی-پی-شد/</loc>
+    <loc>https://recart.ir/news/۹-ماه-پس-از-آغاز-جنگ-ایران-قیمت-نفت-کاهش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-از-100-میلیون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درخشانتر-از-خورشید-چگونه-بازاریابی-و-روابط-عمومی-lionsgate-تبدیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
