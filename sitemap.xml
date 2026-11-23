@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رضا-امیرخانی-نویسنده-محبوب-علی-خامنه-ای-درگذشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رییس-هلال-احمر-۸۵-درصد-مجروحان-پیجرهای-حزب-الله-لبنان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دو-سال-حبس-بهای-زنی-که-دختران-ایران-را-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قتل-صدف-حق-بین-دادستان-خمام-متهم-به-ارتکاب-قتل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کنایه-روزبه-سینکی-به-پزشکیان-آیا-برای-خوابیدن-با-کاپشن/</loc>
+    <loc>https://recart.ir/news/انفجار-کشتی-روسیه-در-بندر-بنغازی-مقامات-دولت-شرق-لیبی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاوشگر-بپی-کلمبو-پس-از-هشت-سال-وارد-مدار-سیاره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مذاکرات-اقلیمی-کوپ۳۱-پس-از-رد-شدن-پیش-نویس-توافق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/درخواست-آقاتهرانی-از-پزشکیان-جلسه-شورای-عالی-فضای-مجازی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-خودرو-با-انرژی-خورشیدی-کار-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/برندگان-مسابقه-عکاسی-سیاه-وسفید-۲۰۲۶-معرفی-شدند-از-پرش-d9523b/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پوچتینو-پس-از-باخت-در-اولین-بازی-با-منچستریونایتد-باید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خودگرزی-شهرازاد-یک-فولکلور-گوتیک-جنوب-آسیایی-زیبا-و-ژانرآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ما-خوب-متولد-می-شویم-برنده-بهترین-فیلم-و-فیلمنامه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جوایز-جشنواره-فیلم-هوئلوایبرو-آمریکایی-پس-از-النا-آلفردو-کاسترو-لوسیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/plaqueboymax-می-خواهد-هنرمند-مورد-علاقه-بعدی-شما-را-پیدا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
