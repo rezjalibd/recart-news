@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کاتس-ارتش-اسراییل-و-سنتکام-برای-حمله-مشترک-به-ایران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جانشین-فرمانده-قرارگاه-ثارالله-روسیه-و-چین-حتی-حاضر-نیستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شمار-مسمومان-الکلی-در-هرمزگان-به-۵۰-نفر-رسید-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-سخنگوی-دولت-به-ایران-خودرو-فروش-نزدیک-به-۱۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -836,6 +836,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سلاح-مخفی-آلبوم-grand-theft-auto-vi-سازنده-موسیقی-متن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مونتل-ویلیامز-در-مورد-وضعیت-تلویزیون-در-روز-صادقانه-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شیطان-در-مقابل-ناستی-نبرد-یونیورسال-و-برادران-وارنر-بر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کارگردان-clashing-through-the-snow-کارلسون-یانگ-ضربه-های-buc-ee/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/doc-تور-آریانا-گراند-برای-نشان-دادن-روند-پشت-خورشید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیک-کارتر-در-تلاش-برای-رد-ادعای-ملیسا-شومان-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کمپین-یک-و-تنها-botox-cosmetic-onabotulinumtoxina-بیش-از-20/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جان-تورتورو-کری-کون-گیتاریکادلافوئنته-و-پیتر-گمبل-در-میان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
