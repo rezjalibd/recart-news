@@ -126,6 +126,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پرل-جم-از-بی-رحمی-سرد-ice-پس-از-بازداشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازدید-خانم-راشل-از-دادگاه-مهاجرت-نیویورک-برای-حمایت-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ورود-اتوبوس-برقی-به-خط-آزادی-ترمینال-شرق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شمار-مسمومان-الکلی-در-هرمزگان-به-۵۰-نفر-رسید-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -356,6 +356,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چطور-گله-ای-شترمرغ-با-تاکتیک-های-چریکی-ارتش-مجهز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-هدایای-لحظه-آخری-که-در-لحظه-آخر-احساس-نمی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ارتش-آمریکا-قصد-دارد-پنج-تن-ماده-منفجره-فرسوده-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سلطه-مطلق-برقی-ها-در-آلمان-هر-پنج-خودرو-برتر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تور-u2-plot-استادیوم-آمریکای-شمالی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونق-صنعت-اسباب-بازی-تولید-مکعب-روبیک-به-اروپا-بازمی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -447,6 +447,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-kindle-scribe-30-جلوتر-از-جمعه-سیاه-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سه-دلیل-برای-عدم-استفاده-از-اکنون-بخرید-بعدا-بپردازید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سیستم-عامل-کنترل-های-فیزیکی-را-شخصی-سازی-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-هنگام-دریافت-پیام-های-هرزنامه-هرگز-نباید-با-stop/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/11-چیزی-که-جنسن-هوانگ-در-اولین-حضور-خود-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راز-ژنتیکی-کم-خوابی-چگونه-برخی-افراد-شب-ها-فقط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -771,26 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چرا-spaces-دسکتاپ-macbook-شما-مرتبا-خود-را-مرتب-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طراحی-دوربین-آیفون-18e-شبیه-آیپد-پرو-می-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درایو-نمونه-اولیه-پورشه-718-باکستر-این-رودستر-الکتریکی-واقعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/متا-در-حال-آوردن-muse-به-اینستاگرام-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خرسندی-ترامپ-از-میزبانی-آمریکا-در-جام-جهانی-فوتبال-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پست-malone-travis-scott-و-charli-xcx-به-headline-tecate/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سنگین-وزن-هالیوود-دموکرات-ها-را-ترغیب-می-کنند-تا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اندرو-اسکات-در-مورد-بازی-در-السینور-و-احساس-بسیار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خلاقیت-های-هگز-در-گفتن-یک-داستان-جادوگری-مدرن-بازیگران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دستیار-سابق-الیزابت-هلمز-در-مورد-شما-می-توانید-همه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارباب-حلقه-ها-حلقه-های-قدرت-برای-فصل-چهارم-در-20c2dc/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پخش-کننده-موسیقی-tidal-موسیقی-تولید-شده-توسط-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دادگاه-قتل-کارن-رید-او-را-به-شهرت-رساند-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/doc-تور-آریانا-گراند-برای-نشان-دادن-روند-پشت-خورشید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
