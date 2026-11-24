@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نخست-وزیر-عراق-اداره-میدان-های-نفتی-تحت-کنترل-امنیتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شش-روز-بی-خبری-از-سبحان-امری-پس-از-بازداشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بلژیک-کارگران-در-اعتراض-به-کاهش-هزینه-های-دولت-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-باغ-رستوران-در-دزفول-به-دلیل-انتشار-ویدیوهای-رقص/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -706,6 +706,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-جنسن-هوانگ-رسوایی-به-انویدیا-بازگشته-است---ایالت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رأی-هیئت-تجدیدنظر-شورای-رقابت-اپراتورها-ملزم-به-توقف-رویه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -722,11 +727,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هواوی-میت-90-ایر-با-بدنه-ای-باریک-برای-رقابت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-جنسن-هوانگ-در-انویدیا-رسوایی-گرفت---ایالت-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
