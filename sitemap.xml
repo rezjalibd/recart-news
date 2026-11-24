@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-اینترنت-مخابرات-سه-برابر-گران-شد-پاسخ-مخابرات-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ساعت-هوشمند-واچ-ایر-هواوی-با-بدنه-باریک-و-شارژدهی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-ممکن-است-چت-های-سیگنال-خصوصی-شما-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رئیس-سازمان-فناوری-اطلاعات-باید-نقش-فعال-تری-در-راهبری/</loc>
+    <loc>https://recart.ir/news/elev8on-و-مدیر-ثروت-فرانسوی-آناتو-برای-یافتن-سرمایه-گذاری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/برخی-باکتری-های-زبان-ما-شاید-با-سرعت-واکنش-مغز/</loc>
+    <loc>https://recart.ir/news/به-شیرین-کاری-های-روابط-عمومی-اهمیت-ندهید-در-اینجا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جیسون-سیگل-meeting-your-maker-فیلم-کوتاه-درباره-یک-عروسک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بیوگرافی-لیزا-استالکار-مستند-ترس-و-نفرت-در-کاتماندو-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قهرمانی-جهان-شطرنج-رویارویی-نسل-زد-و-ثبت-جوان-ترین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدیران-کهنه-کار-سرگرمی-رسانه-و-برند-به-نیروها-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افشاگری-داور-سابق-لیگ-برتر-از-تماس-مشکوک-عضو-کمیته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
