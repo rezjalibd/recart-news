@@ -31,6 +31,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ابلاغ-زمان-اجرای-حکم-دو-معترض-پرونده-اکباتان-در-آستانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/محکومیت-اجرای-حکم-شلاق-پرستو-احمدی-در-کنسرت-کلهر-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سازمان-ملل-هر-ساعت-۵-زن-در-جهان-توسط-نزدیکانشان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اعتراض-استقلال-رد-شد-دو-جلسه-محرومیت-یاسر-آسانی-قطعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -206,17 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/امنیت-اسرائیل-یا-بقای-سیاسی-چرا-نتانیاهو-به-دنبال-حمله/</loc>
+    <loc>https://recart.ir/news/کمبود-خاک-و-آب-دو-کشور-چگونه-کشاورزی-را-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رضاشاه-در-روایت-عباس-میلانی-اندیشه-تجدد-و-قدرت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تحقیقات-آمریکا-درباره-نقش-بالقوه-ایران-در-حملات-سایبری-به/</loc>
+    <loc>https://recart.ir/news/احزاب-اسرائیل-در-بن-بست-ائتلاف-اختلاف-آیزنکوت-و-نتانیاهو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,12 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فایننشال-تایمز-انتقال-حدود-۶۰-موشک-پاتریوت-به-اوکراین-معطل/</loc>
+    <loc>https://recart.ir/news/فرانسه-سرآشپزها-برای-قهرمانی-جهان-در-مایونز-تخم-مرغ-رقابت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شکست-کوپ۳۱-چرا-برخی-نبود-توافق-را-بهتر-از-یک/</loc>
+    <loc>https://recart.ir/news/سازمان-جهانی-بهداشت-نابرابری-های-فزاینده-سلامت-جان-میلیون-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فرانسه-امانوئل-ماکرون-۳۵۰-میلیون-یورو-کمک-به-صنعت-هواپیمایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسپانیا-حکومت-طالبان-را-هرگز-به-رسمیت-نخواهیم-شناخت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جذب-کربن-از-محورهای-اختلاف-در-کوپ۳۱-تاکتیک-تعویق-یا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -716,6 +716,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آغاز-فعالیت-اپراتور-هوش-مصنوعی-هاشمی-شرکت-های-فناور-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-faa-از-شما-نمی-خواهد-که-airpods-را-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/gta-6-بزرگترین-عرضه-پلی-استیشن-در-تمام-دوران-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/8-بهترین-دستگاه-اسپرسو-برای-خانه-2026-تست-شده-توسط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -911,6 +911,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/jodeci-s-k-ci-پس-از-لغو-آخرین-لحظه-نمایش-کنتاکی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وست-اند-کمدی-درباره-جاسوسان-بهار-امسال-به-برادوی-منتقل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/میشل-راندولف-ستاره-مرد-زمینی-چگونه-عشق-را-در-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/u2-تور-جهانی-استادیوم-جهانی-بزرگترین-نمایش-روی-زمین-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اسکیپا-در-wyfl-آهنگ-های-viral-dancehall-و-ظهور-او/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نتفلیکس-اکران-مارش-جگوارها-را-به-روایت-فرناندا-تورس-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جوی-کروکس-در-صحبت-کردن-و-حضور-در-صحنه-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/hayu-fanfest-toronto-2026-بازیگران-خانه-دارهای-واقعی-لندن-کارن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-اخبار-کانال-4-به-کارکنان-درباره-nda-ها-ایمیل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پروموتور-زمنا-در-شب-سال-نو-سالن-ux-با-ظرفیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
