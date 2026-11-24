@@ -716,6 +716,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یک-فرمان-ترمینال-به-دستگاه-اندرویدی-فراموش-شده-من-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ایده-های-هدیه-برای-دوستان-2026-فناوری-سلامتی-ملزومات-آشپزخانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رأی-هیئت-تجدیدنظر-شورای-رقابت-اپراتورها-ملزم-به-توقف-رویه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کشف-آسیب-پذیری-خطرناک-در-muse-دستیار-متا-با-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
