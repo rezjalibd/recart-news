@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قیمت-دلار-در-بازار-آزاد-ایران-از-۲۸۰-هزار-تومان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-سود-نفتی-تا-نفوذ-ژئوپلیتیک-عمان-چگونه-برنده-خاموش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فروش-جمعه-سیاه-ugg-تا-30-تخفیف-برای-کلاسیک-micro/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مرد-پشت-موفقیت-انویدیا-صعود-و-بازگشت-دراماتیک-جنسن-هوانگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -696,6 +696,41 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یک-حقوقدان-تشکیل-ستاد-ساماندهی-فضای-مجازی-خلاف-شرع-نیست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-پس-از-نجات-جنسن-هوانگ-در-دوره-اول-ریاست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اتصال-نرم-افزار-هلو-به-اسنپ-مارکت-مدیریت-یکپارچه-فروش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-باید-هفته-آینده-در-جلسه-علنی-سنای-آمریکا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گرین-وب-نخستین-موافقت-اصولی-اپراتوری-هوش-مصنوعی-را-دریافت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روبو-بیش-از-۴۰-مدل-هوش-مصنوعی-از-chatgpt-تا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فهرست-کسب-وکار-های-متصل-به-زرپایش-منتشر-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ایجاد-حافظه-ایمنی-در-برابر-سرطان-درمانی-آزمایشی-از-بازگشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -752,41 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گوگل-ترنسلیت-پس-از-۱۱-سال-آیکون-جدید-گرفت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دانشمند-ارشد-اوپن-ای-آی-خواستار-توقف-پیشرفت-مدل-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همکاری-تارا-و-اسنپ-پی-امکان-خرید-اعتباری-از-فروشگاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جهش-چشمگیر-چت-جی-پی-تی-در-درک-تصاویر-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آنتروپیک-از-claude-ship-برای-بررسی-و-تأیید-خودکار-کدهای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/غوغای-دوباره-z-ai-مدل-هوش-مصنوعی-glm-5-4-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-در-میان-تشویق-کارمندان-به-انویدیا-بازگشت-این/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کوپن-و-کدهای-تبلیغاتی-30-vistaprint-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
