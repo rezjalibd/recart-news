@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/انتشار-ویدئوی-لحظه-انتخاب-مجتبی-خامنه-ای-در-مجلس-خبرگان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ماموران-جمهوری-اسلامی-هر-دو-پای-محمد-اولاد-را-حین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,32 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مسمومیت-با-مشروب-تقلبی-در-سه-استان-ده-کشته-بر/</loc>
+    <loc>https://recart.ir/news/نسل-جوان-در-ایتالیا-سنت-چندصدساله-ناقوس-نوازی-را-زنده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/احتمال-اضافه-شدن-سیاره-ای-جدید-به-منظومه-شمسی-درباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نگرانی-ایتالیا-از-حملات-اوکراین-به-کشتی-های-روسیه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وزارت-جنگ-آمریکا-کانادا-را-شریک-دفاعی-غیرقابل-اعتماد-خواند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مخالفت-۷۶-نماینده-پارلمان-اروپا-با-انتقال-مهاجران-به-رواندا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حمله-حوثی-های-یمن-به-برجی-در-منطقه-مالی-ریاض/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -381,32 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آغاز-اجرای-مسیر-ترامپ-در-ارمنستان-آمریکا-با-سهم-۷۴/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آدلا-برای-تور-جهانی-عظیم-2027-تاریخ-تعیین-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-به-بازگرداندن-جنسن-هوانگ-به-انویدیا-کمک-کرد-بازگشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همسر-جاسوس-سابق-روسیه-که-با-ماده-رادیواکتیو-کشته-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اتحادیه-اروپا-پس-از-شکست-نشست-کوپ-۳۱-خواستار-اصلاح/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گذرنامه-حیوانات-خانگی-برای-سفر-بریتانیایی-ها-به-اتحادیه-اروپا/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۳-آذر-۱۴۰۵-۲۴-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -546,6 +551,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گزارش-یافته-ها-نشان-می-دهد-که-تنوع-هشدارکننده-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/hunger-games-sunrise-on-the-reaping-رکورد-دوشنبه-با-نزدیک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اتحادیه-کسب-وکارهای-مجازی-فهرست-۱۸-پلتفرم-طلا-متصل-شده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-گفته-کارشناسان-آداب-معاشرت-7-اشتباهی-که-هرگز-نباید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طراحی-دوربین-آیفون-18e-شبیه-آیپد-پرو-می-شود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-کابل-های-usb-c-خود-را-بیشتر-دوام-بیاوریم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رئیس-پیشین-موساد-به-خنثی-سازی-توطئه-تروریستی-داعش-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آریانا-گرانده-کنسرت-تور-آفتاب-ابدی-و-مستند-پشت-صحنه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارلی-رائه-جپسن-به-لطف-gta-vi-با-288-درصد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گلوریلا-اولین-بازیگری-را-در-فیلم-ترسناک-هیجانی-دئون-تیلور-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/میزبانان-برتر-ms-now-نامه-ای-را-امضا-می-کنند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تا-زمانی-که-همه-دیده-شوند-ساخته-شریل-لی-رالف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شانون-الیزابت-در-فیلم-هیجان-انگیز-روان-شناختی-sweatbox-بازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ilovemakonnen-در-مورد-انتقال-از-ستاره-رپ-پر-سر-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
