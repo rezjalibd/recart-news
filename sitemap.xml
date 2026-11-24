@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/به-دنبال-حملات-اوکراین-در-خلیج-فنلاند-و-آب-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کلمبیا-دست-کم-۲۵-زخمی-در-انفجار-همزمان-با-اوج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -257,6 +262,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنگ-روایت-ها-در-تنگه-هرمز-آیا-ایران-توانسته-مسیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هومو-ارکتوس-در-جنگل-بارانی-در-کنار-دنیسوواها-زندگی-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-حالی-که-اروپا-از-جنگ-خود-درس-می-گیرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,21 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گسست-آشکار-از-سیاست-های-دوران-اوربان-نخست-وزیر-مجارستان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ابرماه-بیور-امشب-طلوع-می-کند-کجا-و-چه-زمانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-راونا-تا-بولتسانو-مقاصد-تازه-ریلی-اروپا-برای-سفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/چهار-کشور-اروپایی-خواستار-تعویق-مالیات-کربن-بر-سوخت-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -427,6 +427,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-عرضه-اولیه-عمومی-سهام-آنتروپیک-تا-بازگشت-هوانگ-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گلدمن-ساکس-می-گوید-یک-الگوی-غیرمعمول-در-بازار-کار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/او-29-سال-داشت-و-5-روز-در-هفته-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چند-وقت-یکبار-باید-از-آمازون-سفارش-دهید-تا-پرایم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -581,32 +601,42 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چین-و-سنگاپور-تامین-مالی-یوان-را-گسترش-دادند-تلاش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنگ-در-خاورمیانه-هزینه-گاز-اروپا-را-۵۲-میلیارد-یورو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شراکت-نتفلیکس-با-bbc-to-برای-آوردن-برنامه-های-پیش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/علی-زیدی-به-وزارت-نفت-دستور-داد-کنترل-میادین-نفتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/عینک-هیز-واژه-سال-۲۰۲۶-شد-نگرانی-از-جاسوسی-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-یک-سرمایه-گذار-کروزو-روی-انرژی-خورشیدی-و-باتری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/pinterest-اکنون-به-والدین-اجازه-می-دهد-محتوای-تولید-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیویورک-تایمز-به-عکاسان-هشدار-می-دهد-که-فتوشاپ-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/anthropic-یک-honeypot-ایجاد-کرد-تا-ماموران-هوش-مصنوعی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-جمینی-بازی-را-برای-سازمان-و-هواداران-گلدن-استیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بلاگ-زنده-جمعه-سیاه-و-دوشنبه-سایبری-2026-بهترین-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -761,32 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/uber-و-lucid-شروع-به-آزمایش-سواری-کاملا-بدون-راننده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/uber-nuro-و-lucid-آزمایش-روباتاکسی-کاملا-بدون-راننده-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-دستیار-هوش-مصنوعی-متا-muse-را-دانلود-کرده-اید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آمازون-می-گوید-که-عوامل-هوش-مصنوعی-هکرها-0-روز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/gta-6-بزرگترین-عرضه-پلی-استیشن-در-تمام-دوران-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/8-بهترین-دستگاه-اسپرسو-برای-خانه-2026-تست-شده-توسط/</loc>
+    <loc>https://recart.ir/news/کارت-قرمز-سرنوشت-ساز-لنی-یورو-در-نخستین-شکست-منچستریونایتد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -802,6 +807,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کیرون-جی-والش-کارگردان-برنده-اسکین-تاون-در-ادینبورگ-ابتدا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگردان-52-آبی-درباره-نحوه-الهام-گرفتن-لیونل-مسی-فندم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-هندی-carretera-austral-شریک-شیلیایی-را-برای-شلیک-شیلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/elev8on-و-مدیر-ثروت-فرانسوی-آناتو-برای-یافتن-سرمایه-گذاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-شیرین-کاری-های-روابط-عمومی-اهمیت-ندهید-در-اینجا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جیسون-سیگل-meeting-your-maker-فیلم-کوتاه-درباره-یک-عروسک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
