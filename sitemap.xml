@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حملات-سایبری-به-ده-ها-کشتی-و-پیام-های-تهدیدآمیز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تهران-بر-جاه-طلبی-های-هسته-ای-پافشاری-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قوانین-دادگاه-تجدید-نظر-عشق-واقعی-مری-جی-بلیج-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تهدید-موشکی-تهران-هم-زمان-با-تشدید-رویارویی-بر-سر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازگشت-هوانگ-به-انویدیا-سهام-را-بالا-برد-و-امید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-انویدیا-نمی-توانست-جنسن-هوانگ-را-اخراج-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارمند-فیگما-شکایت-کرد-و-مدعی-شد-که-شرکت-او/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گفته-می-شود-که-ترامپ-برای-بازگرداندن-جنسن-هوانگ-مدیر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
