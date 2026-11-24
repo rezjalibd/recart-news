@@ -451,6 +451,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مهندس-سعودی-متهم-به-هجمه-openai-قرار-است-با-وثیقه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طرفداران-بازار-در-مورد-کاهش-قیمت-آنتروپیک-به-زیر-قیمت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-kindle-scribe-30-جلوتر-از-جمعه-سیاه-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چند-وقت-یکبار-باید-از-آمازون-سفارش-دهید-تا-پرایم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ثبت-دلیل-برای-تراکنش-های-بانکی-اجباری-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مرگ-و-میر-پشت-سر-هم-بر-اثر-سرخک-واقعیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-به-کارمندان-انویدیا-می-گوید-که-از-زمان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-فکر-می-کنید-جنسن-هوانگ-باید-بازگردانده-می-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پاک-سازی-بزرگ-تایدل-رقیب-معروف-اسپاتیفای-۲۹-میلیون-آهنگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رکوردشکنی-در-سایه-ال-نینو-زمین-بالاترین-ناهنجاری-یک-روزه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-تلفن-جمعه-سیاه-شامل-قیمت-های-بی-سابقه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خرسندی-ترامپ-از-میزبانی-آمریکا-در-جام-جهانی-فوتبال-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/anuel-aa-تاخیر-در-نمایش-بوگوتا-را-به-دلیل-اشتباه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/100-سال-موسیقی-در-رژه-روز-شکرگزاری-میسی-برای-مخاطبان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیک-کارتر-به-دلیل-ادعاهای-تجاوز-جنسی-از-خواننده-رویایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شرکت-حقوقی-ropes-and-grey-در-لس-آنجلس-حضور-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/namaslay-تاریخ-انتشار-استریم-را-روی-پلتفرم-های-دیجیتال-تعیین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -952,31 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-به-صورت-دیجیتالی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سیلوستر-استالونه-آرنولد-شوارتزنگر-را-برای-اسپین-اف-شاه-تالسا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-هفت-دیوانه-بنجامین-نایشتات-با-ستاره-هنوز-اینجام-سلتون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/الا-لنگلی-یک-بسته-شش-گانه-cma-را-برای-کتاب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آکوامارین-از-سری-دیزنی-greenlight-دریافت-می-کند-اما-رابرتز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سری-آکوامارین-گرین-لایت-دیزنی-با-الهام-از-فیلم-پری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
