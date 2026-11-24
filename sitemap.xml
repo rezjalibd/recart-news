@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هواوی-به-دلیل-سرقت-رازهای-تجاری-مجرم-شناخته-شد-اما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ان-بی-سی-نیوز-مقام-های-دولت-ترامپ-درباره-حذف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/در-حالی-که-اروپا-از-جنگ-خود-درس-می-گیرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اعتراض-پوچتینو-به-داوری-لیگ-برتر-لغو-کارت-قرمز-یورو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -452,6 +452,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/20-تا-از-جالب-ترین-جوراب-های-جوراب-ساق-بلند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/علیرغم-اینکه-مسافران-باتجربه-ای-بودیم-اولین-سفر-محلی-ما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بلانچ-سوالات-مربوط-به-انویدیا-را-کم-اهمیت-جلوه-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آنر-با-گوشی-تاشدنی-جدیدش-به-رقابت-با-آیفون-دوئو/</loc>
+    <loc>https://recart.ir/news/رئال-مادرید-۵-۱-آیندهوون-عادت-تیم-مورینیو-به-کامبک-حتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -842,6 +847,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازی-های-گرسنگی-طلوع-خورشید-در-درو-خلق-چهره-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/namaslay-تاریخ-انتشار-استریم-را-روی-پلتفرم-های-دیجیتال-تعیین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نگاه-به-آینده-تقویم-انتشار-آلبوم-های-آینده-در-سال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طوفان-ردیابی-nbc-به-دلیل-رسیدن-به-صدمین-رژه-سالانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
