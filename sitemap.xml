@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آغاز-اجرای-پروژه-مسیر-ترامپ-در-ارمنستان-ایران-صرفا-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فایننشال-تایمز-انتقال-حدود-۶۰-موشک-پاتریوت-به-اوکراین-معطل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شکست-کوپ۳۱-چرا-برخی-نبود-توافق-را-بهتر-از-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جانی-دپ-در-اقتباس-تازه-سرود-کریسمس-چرا-داستان-اسکروچ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آکسفام-حملات-اسرائیل-غزه-را-به-سرزمینی-آلوده-و-غیرقابل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نماینده-مجلس-ایران-پایگاه-های-آمریکا-در-قاره-اروپا-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -691,6 +691,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گوگل-ترنسلیت-پس-از-۱۱-سال-آیکون-جدید-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دانشمند-ارشد-اوپن-ای-آی-خواستار-توقف-پیشرفت-مدل-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کیت-بوش-و-گریس-جونز-از-دولت-استرالیا-می-خواهند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بنی-بناسی-و-فده-لو-گرند-سه-نمایش-استرالیایی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ای-جی-اودودو-از-من-سلبریتی-هستم-از-حمایت-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اوون-پاتریک-جوینر-کایل-کلارک-و-آدری-ترولینگر-در-فیلم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
