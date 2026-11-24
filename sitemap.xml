@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شش-روز-بی-خبری-از-سبحان-امری-پس-از-بازداشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آذرگان-آیین-هزاران-سالۀ-روشن-نگاه-داشتن-آتش-در-دل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دو-باغ-رستوران-در-دزفول-به-دلیل-انتشار-ویدئوهای-رقص/</loc>
+    <loc>https://recart.ir/news/مهدی-محمودیان-فعال-سیاسی-از-تفتیش-تلفن-همراه-شهروندان-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/توافق-جدید-آمریکا-و-دانمارک-گرینلند-به-ترامپ-واگذار-نشد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/سقوط-دوباره-ارزش-ریال-دلار-۲۸۳-هزار-و-سکه-۲۶۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -541,6 +541,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قلاده-سگ-gps-با-قیمت-کمتر-بهترین-انتخاب-های-آزمایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قیمت-روز-پرفروش-ترین-گوشی-های-بازار-ایران-3-آذر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چه-چیزی-اختلاف-نرخ-گریدها-در-قیمت-دوده-صنعتی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فراخوان-۱-۶-میلیون-خودرو-تویوتا-و-هوندا-کابوس-ایربگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/افشای-پایگاه-داده-3-5-میلیارد-نام-کاربری-رمز-عبور/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -577,26 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رتبه-بندی-فرودگاه-های-ایالات-متحده-با-طولانی-ترین-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-23-ساله-هستم-و-مردم-برای-اسکن-وسایلشان-ساعتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-یک-مربی-سابق-بقا-نیروی-هوایی-هستم-مردم-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دام-خطرناک-معاملات-رمزارزی-چگونه-ممکن-است-بدون-اطلاع-پول/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درآمد-دولت-از-واردات-خودرو-سه-برابر-شد-رکوردشکنی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -706,6 +706,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رأی-هیئت-تجدیدنظر-شورای-رقابت-اپراتورها-ملزم-به-توقف-رویه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کشف-آسیب-پذیری-خطرناک-در-muse-دستیار-متا-با-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اجرای-مدل-های-هوش-مصنوعی-بدون-خرید-کارت-گرافیک-چگونه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هواوی-میت-90-ایر-با-بدنه-ای-باریک-برای-رقابت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-جنسن-هوانگ-در-انویدیا-رسوایی-گرفت---ایالت-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -767,26 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خرید-دستگاه-تصفیه-آب-صنعتی-ظرفیت-مناسب-را-چگونه-انتخاب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوشی-تاشو-هواوی-میت-x8-با-نمایشگر-۸-۲-اینچی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماهیت-گجت-هوش-مصنوعی-ناتینگ-مشخص-شد-ایرباد-با-کیس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اپل-برای-مک-بوک-نئو-برنامه-تازه-ای-دارد-ارتقاء/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گپ-جی-پی-تی-به-gapgpt-ir-منتقل-شد-حساب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -867,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اولین-فهرست-کوتاه-کتاب-های-کودکان-شامل-آرتمیس-فاول-نویسنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/به-گفته-یک-متخصص-بهترین-مکمل-های-منیزیم-و-آنچه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-اکنون-در-حال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
