@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مورینیو-بازیکنی-اگر-به-فشردگی-مسابقات-اعتراض-دارد-می-تواند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تحریم-مرکز-مبادله-ارز-و-طلای-ایران-آمریکا-۳۰-فرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/زمستان-هنوز-نرسیده-خاموشی-ها-آغاز-شد-بحران-برق-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اجرای-حکم-۷۴-ضربه-شلاق-پرستو-احمدی-و-گروه-کنسرت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
