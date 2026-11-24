@@ -431,6 +431,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/با-توجه-به-اینکه-کاخ-سفید-به-دنبال-سرعت-بخشیدن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-عرضه-اولیه-عمومی-سهام-آنتروپیک-تا-بازگشت-هوانگ-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یک-نرخ-بهره-سه-تورم-متفاوت-چرا-گرانی-در-کشورهای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/عینک-هیز-واژه-سال-۲۰۲۶-شد-نگرانی-از-جاسوسی-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوشی-جدید-موتورولا-با-باتری-۷-۰۰۰-میلی-آمپرساعتی-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رقیب-جدید-جیمیل-از-راه-رسید-ایمیل-بدون-تبلیغات-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/کارت-قرمز-سرنوشت-ساز-لنی-یورو-در-نخستین-شکست-منچستریونایتد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -807,6 +807,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رایلی-گرین-big-guns-را-برای-اعلام-روز-دالی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اولیسس-کمپبل-یکی-از-نویسندگان-tremembé-در-حالی-که-استودیو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ملاقات-با-والدین-بررسی-2000-thr/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/star-s-revenge-روی-یک-راک-اند-رول-رادیکال-جویرید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ری-کوئینتو-خواننده-مورد-تایید-پزو-پلوما-است-که-گیلینر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نظارت-بزرگسالان-برای-ورود-به-اسکار-سوئد-معاملات-بیشتری-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-هندی-carretera-austral-شریک-شیلیایی-را-برای-شلیک-شیلی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
