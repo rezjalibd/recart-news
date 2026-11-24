@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رضاشاه-در-روایت-عباس-میلانی-اندیشه-تجدد-و-قدرت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تحقیقات-آمریکا-درباره-نقش-بالقوه-ایران-در-حملات-سایبری-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وال-استریت-ژورنال-احتمال-دخالت-ایران-در-حملات-سایبری-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اجرای-طرح-شناسه-دار-کردن-کارت-سوخت-در-تهران-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هکر-جوان-بازی-gta-6-به-۷-سال-زندان-محکوم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هکر-بدنام-gta-6-پس-از-اعتراف-به-گناه-آزاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
