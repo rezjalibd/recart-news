@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ان-بی-سی-نیوز-مقام-های-دولت-ترامپ-درباره-حذف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/انفجار-خودروی-بمب-گذاری-شده-در-کلمبیا-دست-کم-۲۴/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نشست-اقلیمی-cop31-شکست-خورد-آینده-مقابله-با-گرمایش-زمین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نشست-اقلیمی-cop31-شکست-خورد-آینده-نبرد-با-گرمایش-زمین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -836,6 +836,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/الا-لنگلی-با-نام-choosin-texas-با-50-هفته-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پست-malone-travis-scott-و-charli-xcx-به-headline-tecate/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/حلقه-های-قدرت-به-طور-رسمی-برای-فصل-4-تمدید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دستیار-سابق-الیزابت-هلمز-در-مورد-شما-می-توانید-همه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
