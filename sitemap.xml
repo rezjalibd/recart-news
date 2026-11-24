@@ -451,6 +451,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رکورد-جدید-برای-تاکسی-های-خودران-ایلان-ماسک-بیش-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سهام-anthropic-به-زیر-قیمت-ipo-سقوط-می-کند-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نیروی-دریایی-ایالات-متحده-در-حال-آموزش-تیم-های-پزشکی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اکنون-فایرفاکس-می-تواند-انتخاب-کند-که-کدام-سایت-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/faa-پس-از-اینکه-کابل-هواپیمای-بدون-سرنشین-تحویل-آمازون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آمازون-کشف-می-کند-که-فالکون-9-و-آریان-6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/از-دور-زدن-رجیستری-تا-نگرانی-های-امنیتی-آیا-نرم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اجتناب-از-موانع-microduck-گردش-کار-sim2real-با-آزمایشگاه-آیزاک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وزارت-بازرگانی-ایالات-متحده-megaspeed-را-به-لیست-سیاه-تجارت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خرسندی-ترامپ-از-میزبانی-آمریکا-در-جام-جهانی-فوتبال-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ستاره-نیکس-جلن-برانسون-از-تیلور-سویفت-دفاع-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-امسال-ماریا-کری-all-i-want-for-christmas-is/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-به-صورت-دیجیتالی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -956,27 +971,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-به-صورت-دیجیتالی/</loc>
+    <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-به-صورت-دیجیتالی-759e40/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/grand-theft-auto-vi-the-album-4-آهنگ-دیگر-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/cardi-b-برای-افتخار-جهانی-خود-در-billboard-canada-women/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کنستانس-وو-مکالی-کالکین-کن-لیونگ-و-اتان-انج-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایسا-رائه-دوستی-مرد-خلبان-کمدی-hbo-بازیگران-رافائل-کاستیو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
