@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/وقتی-رقصیدن-اقدام-علیه-امنیت-می-شود-نقدهای-قاضی-بازنشسته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مای-ساتو-خواستار-توقف-حکم-اعدام-میلاد-آرمون-و-نوید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/درگیری-خونین-تیم-های-فرد-البرز-و-پارس-جنوبی-جم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,16 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حاجی-دلیگانی-نماینده-مجلس-حاضرم-برای-شکستن-محاصره-دریایی-آمریکا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تفتیش-گوشی-شهروندان-در-ایستگاه-دولت-متروی-تهران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ان-بی-سی-نیوز-مقام-های-دولت-ترامپ-درباره-حذف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -361,6 +361,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-سازمان-های-اطلاعاتی-غربی-روسیه-احتمالا-به-زودی-سلاح/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چطور-گله-ای-شترمرغ-با-تاکتیک-های-چریکی-ارتش-مجهز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نشست-اقلیمی-cop31-شکست-خورد-آینده-مقابله-با-گرمایش-زمین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونق-صنعت-اسباب-بازی-تولید-مکعب-روبیک-به-اروپا-بازمی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -447,6 +447,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-پیشنهادهای-بازی-جمعه-سیاه-اولیه-2026-در-لپ-تاپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/او-29-سال-داشت-و-5-روز-در-هفته-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-مورد-فرضیه-ریمان-چه-می-گذرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/tidal-ممنوعیت-موسیقی-تولید-شده-توسط-هوش-مصنوعی-را-اعلام/</loc>
+    <loc>https://recart.ir/news/النصر-۲-۱-السد-پیروزی-با-گل-شماره-۹۸۷-رونالدو-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -832,6 +837,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تریلر-bunker-پنه-لوپه-کروز-و-خاویر-باردم-درگیر-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/استیون-هک-بازیگر-اصلی-گربه-ها-و-بازیگر-پرمشغله-روی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نمایشنامه-برنده-پولیتزر-هدف-سرانجام-به-لس-آنجلس-آمد-اما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برای-من-مردان-ایکس-من-جیمز-ماردن-می-گوید-مهم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -952,31 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چگونه-نتفلیکس-و-nfl-امیدوارند-سنت-جدید-شب-شکرگزاری-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کوین-کلاین-دوباره-با-مریل-استریپ-در-سریال-اصلاحات-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-لگو-تا-برتز-این-برندهای-اسباب-بازی-برتر-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کوین-کلاین-به-مریل-استریپ-در-اصلاحات-نتفلیکس-پیوست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ستاره-نیکس-جلن-برانسون-از-تیلور-سویفت-دفاع-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-امسال-ماریا-کری-all-i-want-for-christmas-is/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
