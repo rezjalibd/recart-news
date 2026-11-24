@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/وال-استریت-ژورنال-آمریکا-نقش-احتمالی-ایران-در-حملات-سایبری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-تخت-جمشید-تا-چغازنبیل-تبدیل-میراث-باستانی-ایران-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تهدید-به-بمب-گذاری-صدها-مدرسه-در-آلمان-با-پیام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیزنکوت-ایران-تهدیدی-جدی-برای-اسرائیل-است-اما-فعلا-اقدام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
