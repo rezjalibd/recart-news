@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کیهان-کلهر-خطاب-به-هنرمندان-شلاق-خورده-نامتان-در-تاریخ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مسمومیت-با-مشروب-تقلبی-در-سه-استان-ده-کشته-بر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/احضار-علی-طاهری-کیا-دانشجوی-دانشگاه-تهران-برای-اجرای-حکم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هکر-بازی-جی-تی-ای-۶-به-هفت-سال-زندان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سی-ان-ان-جمهوری-خواهان-سنا-به-دنبال-توافقی-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آمریکا-۲۹-فرد-و-نهاد-مرتبط-با-جمهوری-اسلامی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -521,6 +521,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دام-خطرناک-معاملات-رمزارزی-چگونه-ممکن-است-بدون-اطلاع-پول/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/درآمد-دولت-از-واردات-خودرو-سه-برابر-شد-رکوردشکنی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تجارت-به-لیست-سیاه-megaspeed-مشتری-nvidia-در-مرکز-رسوایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-تلویزیون-جمعه-سیاه-شامل-3000-دلار-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -701,6 +701,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دوربین-و-نمایشگر-گلکسی-a38-ضعیف-تر-از-گلکسی-a37/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کارمند-openai-که-به-طور-مخفیانه-جلساتی-را-که-گفته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شاسی-بلند-لوکس-byd-با-قدرت-۱۱۹۴-اسب-بخار-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تمرین-فوتبال-با-هدست-واقعیت-مجازی-نوآوری-استارت-آپ-نروژی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جوایز-جشنواره-فیلم-گیخون-اولین-فیلم-مهمان-مدز-منگل-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برندگان-بین-المللی-امی-2026-معرفی-شدند-کارم-برنده-بهترین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آنتوان-فوکوا-متهم-به-اشاره-به-تفنگ-دستی-استفاده-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
