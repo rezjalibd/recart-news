@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تداوم-سیاست-جمعیتی-پدر-مجتبی-خامنه-ای-خواستار-فرزندآوری-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مرضیه-جعفری-من-را-تخریب-کنید-نه-دخترانم-نباید-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شوهر-ناپدید-شده-و-برای-ثبت-طلاق-نمی-آید-چه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اختلاف-نتانیاهو-و-آیزنکوت-بر-سر-فوریت-تهدید-جمهوری-اسلامی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رسانه-های-عراقی-ویزای-منصوریان-برای-سفر-به-بحرین-صادر/</loc>
+    <loc>https://recart.ir/news/تهدید-ترامپ-به-حمله-دوباره-به-ایران-پس-از-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کریدور-ترامپ-در-مرز-ایران-وارد-فاز-اجرایی-شد-پاشینیان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ژیزل-پلیکو-قربانی-تجاوزهای-گروهی-در-فرانسه-از-ناشری-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مرد-پشت-موفقیت-انویدیا-صعود-و-بازگشت-دراماتیک-جنسن-هوانگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-انویدیا-پس-از-۱۱-روز-جنجال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -687,6 +692,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شاسی-بلند-لوکس-byd-با-قدرت-۱۱۹۴-اسب-بخار-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اپل-تایید-کرد-که-تد-لسو-برای-فصل-پنجم-بازخواهد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-nomad-goods-در-نوامبر-2026-25-تخفیف-دریافت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هیلا-کلاین-تصمیم-فوق-العاده-دردناک-را-برای-ترک-پادکست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/oura-ring-5-درمان-با-نور-قرمز-و-مراقبت-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-های-تعاملی-the-run-kaiju-princess-back-from-the/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
