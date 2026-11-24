@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/روزنامه-نگاران-جعلی-کارزار-نفوذ-ایران-با-استفاده-از-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اعتصاب-غذا-در-۶۷-زندان-در-سه-شنبه-های-نه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تهران-بر-جاه-طلبی-های-هسته-ای-پافشاری-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وال-استریت-ژورنال-آمریکا-نقش-احتمالی-ایران-در-حملات-سایبری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -716,6 +716,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رقیب-جدید-جیمیل-از-راه-رسید-ایمیل-بدون-تبلیغات-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/uber-و-lucid-شروع-به-آزمایش-سواری-کاملا-بدون-راننده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-معاملات-ایرپادهای-جمعه-سیاه-اولیه-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/gta-6-بهشت-یک-پرنده-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
