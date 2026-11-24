@@ -821,6 +821,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پس-از-کشتی-نوبت-به-وزنه-برداری-رسید-هوش-مصنوعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/12-کاری-که-در-کریسمس-اگر-جشن-نمی-گیرید-انجام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باب-سگر-و-کریس-کمپبل-نوازنده-باس-گروه-silver-bullet/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جشنواره-la-skins-بیستمین-سالگرد-تجلیل-از-هنرمندان-بومی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
