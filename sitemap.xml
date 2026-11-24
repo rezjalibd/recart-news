@@ -206,17 +206,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اجرای-طرح-شناسه-دار-کردن-کارت-سوخت-در-تهران-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هکر-جوان-بازی-gta-6-به-۷-سال-زندان-محکوم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هکر-بدنام-gta-6-پس-از-اعتراف-به-گناه-آزاد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مردی-که-با-هلیکوپتر-از-زندان-گریخت-و-برای-نجات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -691,6 +691,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دانشمند-ارشد-اوپن-ای-آی-خواستار-توقف-پیشرفت-مدل-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/همکاری-تارا-و-اسنپ-پی-امکان-خرید-اعتباری-از-فروشگاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/متا-muse-را-در-بریتانیا-راه-اندازی-کرد---عامل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/عذرخواهی-خواننده-anthem-برای-flub-o-canada-در-بازی-leafs-islanders/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آدام-درایور-شرور-مردان-ایکس-مستر-شوم-خود-را-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اوون-پاتریک-جوینر-کایل-کلارک-و-آدری-ترولینگر-در-فیلم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/only-murders-in-the-building-احتمالا-برای-فصل-7-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باب-سگر-و-کریس-کمپبل-نوازنده-باس-گروه-silver-bullet/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
