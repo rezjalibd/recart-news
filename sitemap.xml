@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جانشین-فرمانده-قرارگاه-ثارالله-روسیه-و-چین-حتی-حاضر-نیستند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/محسن-رضایی-جمهوری-اسلامی-مصمم-به-شکستن-محاصره-دریایی-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بیش-از-دو-ماه-بلاتکلیفی-ارکان-شریفی-دانش-آموز-عرب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گارد-ساحلی-یمن-یک-قایق-حامل-محموله-بزرگ-مواد-مخدر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-کارخانه-چینی-تا-رسوایی-انویدیا-ظهور-آلیس-هوانگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هواپیمای-بدون-سرنشین-آمازون-پس-از-تحویل-شامپو-در-گاراژ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بزرگترین-محدودیت-های-chatgpt/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بررسی-سیستم-رشد-مو-لیزری-irestore-elite-مورد-تایید-شوهر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنر-با-گوشی-تاشدنی-جدیدش-به-رقابت-با-آیفون-دوئو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آزمایش-شگفت-انگیز-دانشمندان-پیام-متنی-با-نیروی-گرانش-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -766,31 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/tidal-اولین-پلتفرم-استریمینگ-است-که-موسیقی-هوش-مصنوعی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/متا-دستیار-هوش-مصنوعی-muse-خود-را-مستقیما-به-dm/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیویورک-تایمز-به-عکاسان-هشدار-داد-فتوشاپ-را-آپدیت-نکنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-سوگ-میناب-تا-عکاسی-با-آیفون-تایم-۱۰۰-عکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/tidal-میلیون-ها-آهنگ-تولید-شده-توسط-هوش-مصنوعی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خرسندی-ترامپ-از-میزبانی-آمریکا-در-جام-جهانی-فوتبال-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/imax-vet-کریگ-دهمل-به-عنوان-رئیس-روابط-استودیو-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-بیل-ماهر-و-بایرون-آلن-در-جشن-بنیاد-کالج/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فرانسیس-لارنس-برای-یک-فیلم-بازی-های-گرسنگی-ثبت-نام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-نتفلیکس-و-nfl-امیدوارند-سنت-جدید-شب-شکرگزاری-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کوین-کلاین-دوباره-با-مریل-استریپ-در-سریال-اصلاحات-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -952,31 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارگردانان-shaun-the-sheep-the-beast-of-mossy-bottom-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نویسنده-tursday-murder-club-می-گوید-که-بازیگری-همسرش-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جی-ویلر-فاش-می-کند-که-چگونه-در-حال-ساختن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تماشای-brianna-cameron-و-connor-closs-با-یک-قاتل-i/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/u2-ateez-ella-langley-و-موارد-دیگر-نکات-برجسته-نمودارهای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نوح-کاهان-را-با-orbiter-گسترده-تماشاگران-را-مجذوب-خود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
