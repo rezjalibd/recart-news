@@ -451,6 +451,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/معاملات-disney-plus-و-hulu-black-friday-تا-62-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-چمدان-جمعه-سیاه-2026-شامل-50-تخفیف-away/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-فنی-از-sam-s-club-فروش-اولیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/با-توجه-به-اینکه-کاخ-سفید-به-دنبال-سرعت-بخشیدن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-عرضه-اولیه-عمومی-سهام-آنتروپیک-تا-بازگشت-هوانگ-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/maple-5-3-میلیون-دلار-برای-ساخت-محصولات-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنسن-هوانگ-از-کارمندان-انویدیا-عذرخواهی-کرد-و-گفت-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرتاب-آمازون-با-رقیب-اسپیس-ایکس-پس-از-شکست-ula/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
