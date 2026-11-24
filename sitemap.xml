@@ -371,6 +371,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-از-بازگشت-جنسن-هوانگ-به-عنوان-مدیرعامل-انویدیا-دفاع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/10-کنترل-پنهان-که-هر-بازیکن-gta-6-باید-بداند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاخ-سفید-ترامپ-در-جریان-تصمیم-انویدیا-برای-بازگرداندن-جنسن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گزارش-ها-روسیه-ممکن-است-در-ماه-آینده-سلاح-هسته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/درام-جنایی-مراتی-هوردا-آن-تاپ-سبز-تنگ-مردانگی-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برنده-جام-طلای-شانگهای-ریدهام-جانوه-تماشای-مرگ-دهکده-گوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/oura-ring-5-درمان-با-نور-قرمز-و-مراقبت-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چارلی-کاکس-daredevil-s-می-خواست-برای-جیمز-باند-تست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هر-تراک-از-grand-theft-auto-vi-the-album-رتبه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گرگ-هوانسیان-و-لیندسی-نورمینگتون-نقش-آفرینی-در-فیلم-هیجان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
