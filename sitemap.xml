@@ -196,6 +196,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خانم-راشل-از-کودکانی-که-در-دادگاه-مهاجرت-با-اخراج/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قوانین-دادگاه-تجدید-نظر-عشق-واقعی-مری-جی-بلیج-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تهدید-به-بمب-گذاری-صدها-مدرسه-در-آلمان-با-پیام/</loc>
+    <loc>https://recart.ir/news/جنگنده-های-روسیه-وارد-منطقه-شناسایی-پدافند-هوایی-کره-جنوبی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بزرگترین-بمب-های-دور-پیروزی-جنسن-هوانگ-ترامپ-در-cnbc/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کاخ-سفید-ترامپ-در-جریان-تصمیم-انویدیا-برای-بازگرداندن-جنسن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -676,6 +676,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/میکروفونی-کروی-که-صدا-را-هم-زمان-از-تمام-جهت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دادستان-ها-می-گویند-مهندس-openai-مخفیانه-ده-ها-جلسه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/anthropic-claude-ship-را-راه-اندازی-کرد-و-به-عوامل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وودی-هارلسون-دو-بار-پیشنهاد-هیمیچ-را-رد-کرد-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آیا-آنچه-را-که-لازم-است-دارید-katseye-در-تریلر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چارلی-کاکس-daredevil-s-می-خواست-برای-جیمز-باند-تست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
