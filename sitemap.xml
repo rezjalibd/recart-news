@@ -541,6 +541,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/افشای-پایگاه-داده-3-5-میلیارد-نام-کاربری-رمز-عبور/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/۱۳-گیگ-اینترنت-هدیه-بگیرید-و-برنده-۱۰-میلیارد-تومان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گروه-مالی-دانایان-از-پلتفرم-مدیریت-ثروت-دانایان-۲۴-رونمایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/درآمد-دولت-از-واردات-خودرو-سه-برابر-شد-رکوردشکنی-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چهار-مسیر-برای-مدیریت-بهتر-دارایی-دیجیتال-شما-در-نوبیتکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کمبود-۳۰-تا-۴۰-درصدی-روغن-موتور-و-لاستیک-چالش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
