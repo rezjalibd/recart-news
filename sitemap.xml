@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اعتراض-استقلال-رد-شد-دو-جلسه-محرومیت-یاسر-آسانی-قطعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هفته-صد-و-چهل-وهشتم-کارزار-سه-شنبه-های-نه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تحقیقات-آمریکا-درباره-نقش-بالقوه-ایران-در-حملات-سایبری-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وال-استریت-ژورنال-احتمال-دخالت-ایران-در-حملات-سایبری-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -911,6 +911,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دیو-گرول-می-گوید-foo-fighters-قصد-دارند-پس-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/snl-با-canal-nbcuniversal-unveiling-cast-و-manu-payet-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جشنواره-فیلم-استرالیایی-هند-پس-از-توقف-کووید-19-بازمی-گردد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیوگرافی-لیزا-استالکار-مستند-ترس-و-نفرت-در-کاتماندو-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
