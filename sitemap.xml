@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/درگیری-خونین-تیم-های-فرد-البرز-و-پارس-جنوبی-جم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/درگیری-خونین-تیم-های-فرد-و-پارس-جنوبی-در-رختکن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تفتیش-گوشی-شهروندان-در-ایستگاه-دولت-متروی-تهران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تلگراف-محاصره-آمریکا-اقتصاد-ایران-را-به-شدت-تحت-فشار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/طبق-گزارش-ها-جنسن-هوانگ-به-کارکنان-انویدیا-می-گوید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تقریبا-نیمی-از-مهندسان-و-رهبران-مورد-بررسی-می-گویند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-نزدیک-شدن-تعداد-مبتلایان-به-سرخک-به-6000-نفر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-کلاد-حالا-کدهای-برنامه-نویسان-را-بررسی-اصلاح/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-اولیه-۲۰۲۶-در-گوشی-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زمان-برای-بحث-برانگیزترین-قانون-جاسوسی-آمریکا-رو-به-اتمام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -766,31 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-از-زمان-بازگشت-خود-از-کارمندان-انویدیا-عذرخواهی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گارمین-به-دنبال-شارژ-خورشیدی-ساعت-های-مچی-از-طریق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/tidal-موسیقی-کاملا-تولید-شده-توسط-هوش-مصنوعی-را-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مردی-که-پول-مسئله-اش-نبود-از-بنیان-گذاران-آمریکایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خرید-decart-از-آمازون-شرط-بندی-برای-استفاده-از-نرم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خرسندی-ترامپ-از-میزبانی-آمریکا-در-جام-جهانی-فوتبال-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نگاه-به-آینده-تقویم-انتشار-آلبوم-های-آینده-در-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سری-آکوامارین-گرین-لایت-دیزنی-با-الهام-از-فیلم-پری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مجموعه-تلویزیونی-آکوامارین-با-نور-سبز-در-دیزنی-کانال-دیزنی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
