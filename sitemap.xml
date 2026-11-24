@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آذرگان-آیین-هزاران-سالۀ-روشن-نگاه-داشتن-آتش-در-دل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-دادخواست-تهران-تا-اقدامات-کشورهای-عربی-جدال-بر-سر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دو-باغ-رستوران-در-دزفول-به-دلیل-انتشار-ویدئوهای-رقص/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شورش-ابوبکری-هنرمند-و-فعال-مدنی-در-سردشت-بازداشت-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -541,6 +541,46 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گروه-مالی-دانایان-از-پلتفرم-مدیریت-ثروت-دانایان-۲۴-رونمایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اسکوئیش-ها-از-داغ-ترین-هدایای-این-فصل-تعطیلات-هستند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زمان-رفتن-است-مورگان-استنلی-4-منطقه-از-بازار-سهام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مدیر-عامل-اوبر-می-گوید-این-یکی-از-بزرگترین-اشتباهات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وقتی-ستاره-ای-به-تو-اجازه-می-دهند-این-کار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رتبه-بندی-فرودگاه-های-ایالات-متحده-با-طولانی-ترین-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-23-ساله-هستم-و-مردم-برای-اسکن-وسایلشان-ساعتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-یک-مربی-سابق-بقا-نیروی-هوایی-هستم-مردم-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دام-خطرناک-معاملات-رمزارزی-چگونه-ممکن-است-بدون-اطلاع-پول/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -557,46 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کمبود-۳۰-تا-۴۰-درصدی-روغن-موتور-و-لاستیک-چالش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محمدحسین-صدرایی-مدیرعامل-فرابورس-شد-پایان-چهار-سال-مدیریت-محمدعلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بانک-مرکزی-تغییر-نرخ-سود-سپرده-ها-فعلا-در-دستور/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارزش-بازار-انویدیا-نزدیک-به-یک-تریلیون-دلار-افزایش-یافت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-pura-20-دلار-تخفیف-در-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کوپن-خواب-لیلا-تا-600-دلار-در-نوامبر-2026-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کوپن-شرکت-تشک-تا-700-دلار-پس-انداز-کنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-کوپن-hp-و-معاملات-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تام-بردی-می-گوید-فردی-متوهم-ساده-لوح-و-خوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -706,6 +706,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-جنسن-هوانگ-در-انویدیا-رسوایی-گرفت---ایالت-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لحظه-بسیار-بزرگ-برای-شکست-انویدیا-رویکرد-جدید-تهاجمی-واشنگتن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اگر-هوش-مصنوعی-اجتناب-ناپذیر-است-چگونه-همه-اینها-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اگر-می-خواهید-از-روز-شکرگزاری-خود-لذت-ببرید-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گپ-جی-پی-تی-به-gapgpt-ir-منتقل-شد-حساب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وعده-ثبت-احوال-برای-تحویل-کارت-های-ملی-معوق-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-حقوقدان-تشکیل-ستاد-ساماندهی-فضای-مجازی-خلاف-شرع-نیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-پس-از-نجات-جنسن-هوانگ-در-دوره-اول-ریاست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -867,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جشنواره-فیلم-استرالیایی-هند-پس-از-توقف-کووید-19-بازمی-گردد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-اکنون-در-حال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/منتخب-بازار-فیلم-waves-برلیناله-alum-sreemoyee-singh-fireflowers-about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
