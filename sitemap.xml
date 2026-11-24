@@ -141,6 +141,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/طبق-قوانین-هیئت-منصفه-ایالات-متحده-هواوی-متهم-به-توطئه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/blanche-s-doj-در-مورد-تحقیقات-جنسن-هوانگ-nvidia-شهروند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اعتصاب-غذا-در-۶۷-زندان-در-سه-شنبه-های-نه/</loc>
+    <loc>https://recart.ir/news/تداوم-ناکامی-های-منچسترسیتی-تنها-یک-پیروزی-در-هفت-بازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دولت-آمریکا-بی-سروصدا-سه-سند-تاریخی-درباره-پاگنده-موجود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هومو-ارکتوس-در-جنگل-بارانی-در-کنار-دنیسوواها-زندگی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نیمی-از-ناوگان-سالخورده-مریخ-ناسا-به-دلیل-مشکلات-فنی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قطع-ابر-تاریخی-مایکروسافت-یک-مه-جنگ-مهندسی-را-آشکار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/راز-ژنتیکی-کم-خوابی-چگونه-برخی-افراد-شب-ها-فقط/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-41-سال-است-که-با-همسرش-لوری-ازدواج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
