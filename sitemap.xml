@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تحقیقات-گاردین-نشان-می-دهد-دست-کم-۴۶۰-هزار-مرگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-دوش-آب-سرد-تا-مقاومت-بیشتر-در-برابر-بیماری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فرماندار-جدید-می-گوید-که-اگر-انفجار-تصادفی-منفجر-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طرح-ارتش-برای-منفجر-کردن-مواد-منفجره-در-آیووا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -676,6 +676,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-در-حال-بلعیدن-منابع-اقتصادی-آمریکا-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/در-حالی-که-بازدهی-انویدیا-جنسن-هوانگ-تجارت-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گفته-می-شود-که-ترامپ-برای-بازگرداندن-جنسن-هوانگ-مدیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ladybird-اولین-موتور-مرورگر-جدید-در-سال-های-اخیر-اکنون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
