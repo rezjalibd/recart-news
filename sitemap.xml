@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فرمانده-سپاه-جنگ-های-آینده-ممکن-است-به-خارج-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تشدید-اختلاف-بغداد-و-اقلیم-کردستان-عراق-دولت-فدرال-خواستار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تاکید-قطر-بر-ادامه-میانجی-گری-و-اختلاف-نظر-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شمار-مسمومان-الکلی-در-هرمزگان-به-۲۸-نفر-رسید-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فراخوان-دوباره-آمریکا-برای-دریافت-اطلاعات-درباره-شبکه-مالی-سپاه/</loc>
+    <loc>https://recart.ir/news/بازداشت-دو-مرد-به-ظن-سرقت-از-اقامتگاه-شاهزاده-ویلیام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پهپادهای-دریایی-اوکراین-کشتی-جنگی-روسیه-را-در-عملیات-بنغازی/</loc>
+    <loc>https://recart.ir/news/چرا-شرکت-داروسازی-فرانسوی-سانوفی-۴۱-میلیارد-دلار-برای-خرید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بلک-فرایدی-با-اوانو-۶-قسطه-خرید-کنید-۱۳-گیگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/tidal-میلیون-ها-آهنگ-تولید-شده-توسط-هوش-مصنوعی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/24-بهترین-پیشنهاد-جمعه-سیاه-آمازون-برای-دریافت-هم-اکنون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-دور-زدن-رجیستری-تا-نگرانی-های-امنیتی-آیا-نرم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هشدار-مدیر-هوش-مصنوعی-متا-نباید-با-واگذاری-کنترل-جامعه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایده-عجیب-گوگل-ساخت-کانال-تلویزیونی-با-ai-که-شما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مبین-نت-در-میان-برترین-اپراتورهای-پیامک-انبوه-از-منظر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رئیس-پیشین-موساد-به-خنثی-سازی-توطئه-تروریستی-داعش-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آریانا-گرانده-دوبازی-طاووس-را-با-فیلم-کنسرت-eternal-sunshine/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جاش-آلن-در-معجزه-بوفالو-و-چه-معجزه-ای-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آریانا-گرانده-تیم-طاووس-در-تور-آفتاب-ابدی-مستند-فیلم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-مایک-فلانگان-فقط-نتوانست-کری-وایت-را-بکشد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نقد-و-بررسی-grand-theft-auto-vi-a-bloody-boundary-shifting/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دنی-برستین-و-کارولین-پورتو-در-میان-بازیگرانی-که-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/saturday-night-live-به-فرانسه-می-رود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
