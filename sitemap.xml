@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قیمت-دلار-در-بازار-آزاد-ایران-از-۲۸۲-هزار-تومان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فرودگاه-کپنهاگ-برای-پذیرش-سالانه-۵۵-میلیون-مسافر-توسعه-بزرگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-تلویزیون-جمعه-سیاه-شامل-3000-دلار-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-پیشنهادات-سرخ-کن-بادی-بلک-فرایدی-شامل-تا-54/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
