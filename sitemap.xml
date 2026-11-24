@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رویترز-آمریکا-طرح-آموزش-مین-زدایی-به-نیروهای-ارتش-سوریه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تحقیقات-گاردین-نشان-می-دهد-دست-کم-۴۶۰-هزار-مرگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-یک-بازگشت-مخاطره-آمیز-برای-جنسن-هوانگ-طراحی-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فرماندار-جدید-می-گوید-که-اگر-انفجار-تصادفی-منفجر-شود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/به-گفته-یک-متخصص-بهترین-مکمل-های-منیزیم-و-آنچه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شما-می-توانید-همه-چیز-را-ببینید-اکنون-در-حال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/منتخب-بازار-فیلم-waves-برلیناله-alum-sreemoyee-singh-fireflowers-about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/براندون-کیسی-عضو-jagged-edge-توسط-زنی-که-ادعای-تجاوز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بلا-باجاریا-تایم-را-در-نتفلیکس-فصل-سرگرم-کننده-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بلا-باجاریا-به-تجربه-خود-در-نتفلیکس-می-پردازد-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
