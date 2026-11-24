@@ -851,6 +851,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خرس-سیاه-تریلر-جستجوگر-با-بازی-کوپر-تاملینسون-از-وسواس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شکایت-از-دیزنی-به-دلیل-استفاده-از-موسیقی-بدون-مجوز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تریلر-bunker-پنه-لوپه-کروز-و-خاویر-باردم-درگیر-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استیون-هک-بازیگر-اصلی-گربه-ها-و-بازیگر-پرمشغله-روی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
