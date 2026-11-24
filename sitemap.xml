@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سومین-روز-اعتصاب-کامیون-داران-گسترش-اعتصاب-رانندگان-به-۱۵/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حاجی-دلیگانی-نماینده-مجلس-حاضرم-برای-شکستن-محاصره-دریایی-آمریکا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تفتیش-گوشی-شهروندان-در-ایستگاه-دولت-متروی-تهران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/از-تخت-جمشید-تا-چغازنبیل-تبدیل-میراث-باستانی-ایران-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احتمال-حمله-سایبری-به-۵۰-کشتی-حامل-نفت-و-مواد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جرد-کوشنر-درباره-جمهوری-اسلامی-دقیقا-چه-فکر-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فشار-آمریکا-بر-شبکه-مالی-ایران-دلار-از-۲۸۳-هزار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چگونه-بازگشت-جنسن-هوانگ-به-انویدیا-جهان-را-چندین-میلیارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -581,22 +586,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-ستاره-هالیوودی-کریپتو-را-گرفت-اکنون-او-یک-هدف/</loc>
+    <loc>https://recart.ir/news/کلیات-طرح-افزایش-حداقل-دستمزد-کارگران-متناسب-با-تورم-تصویب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تفاوت-قیمت-پرچم-تشریفات-با-پرچم-های-فضای-باز-چیست/</loc>
+    <loc>https://recart.ir/news/یک-پزشک-پزشکی-ورزشی-استنفورد-که-دوندگان-اولتراماراتن-را-معالجه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قیمت-کرکره-برقی-چرا-دو-دهانه-مشابه-هزینه-متفاوتی-دارند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-اقساطی-جک-j4-و-kmc-ایگل-آغاز-شد-تحویل/</loc>
+    <loc>https://recart.ir/news/سهام-آنتروپیک-در-معاملات-پیش-از-بازار-به-زیر-قیمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -716,6 +716,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-دستیار-هوش-مصنوعی-متا-muse-را-دانلود-کرده-اید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آمازون-می-گوید-که-عوامل-هوش-مصنوعی-هکرها-0-روز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-مک-بوک-جمعه-سیاه-اولیه-2026/</loc>
+    <loc>https://recart.ir/news/عروسک-سوزی-در-قندهار-طالبان-اسباب-بازی-های-کودکان-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -891,6 +896,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جوایز-فیلم-مستقل-بریتانیا-ساختمان-ها-را-می-بینم-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ساختمان-ها-را-می-بینم-که-مانند-رعد-و-برق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نتفلیکس-اکران-مارش-جگوارها-را-به-روایت-فرناندا-تورس-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هیلا-کلاین-تصمیم-فوق-العاده-دردناک-را-برای-ترک-پادکست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیلی-ری-سایرس-در-مراسم-عروسی-مایلی-من-مغرورترین-پدر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سریال-sky-new-zealand-i-will-find-you-the-search/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بنی-بناسی-و-فده-لو-گرند-سه-نمایش-استرالیایی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
