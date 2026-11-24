@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تاکید-رضایی-بر-عزم-ایران-برای-شکستن-محاصره-دریایی-آمریکا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شیر-های-گیاهی-ید-و-کلسیم-کافی-ندارند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هفته-صد-و-چهل-وهشتم-کارزار-سه-شنبه-های-نه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/میراث-فرهنگی-یا-سپر-نظامی-واکنش-به-احداث-پایگاه-کنار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-نشان-می-دهد-که-انویدیا-برای-پلیس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/باتری-موجود-در-fitbit-edge-شما-قابل-تعویض-است-اما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-کلاد-حالا-کدهای-برنامه-نویسان-را-بررسی-اصلاح/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونالدو-ممکن-است-به-دلیل-تمسخر-کمک-داور-حداقل-چهار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هرآنچه-تاکنون-درباره-فیلم-بچه-های-خون-و-استخوان-جینا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تولیدکنندگان-برادوی-و-اتحادیه-stagehands-با-اجتناب-از-اعتصاب-تعطیلات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/cher-s-victory-in-royalties-war-under-fire-در-حالی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
