@@ -471,6 +471,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مهندس-فیگما-در-یک-دادخواست-می-گوید-فرهنگ-بازخورد-مستقیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نیو-et5-تورینگ-مدل-۲۰۲۷-رؤیت-شد-رقیب-چینی-خودروهای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-هدایا-برای-هر-آدم-فنی-در-زندگی-شما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/چرا-انویدیا-نمی-توانست-جنسن-هوانگ-را-اخراج-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -672,6 +672,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جایگزین-گوگل-kagi-یک-سرویس-ایمیل-راه-اندازی-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فدرال-رزرو-می-گوید-مهندس-سعودی-از-برنامه-کدگذاری-vibe/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رسوایی-جنسن-هوانگ-چگونه-آشکار-شد-از-رابطه-با-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/airtag-های-قدیمی-تر-و-متوقف-شده-شما-همچنان-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فاش-های-جدید-نشان-می-دهد-که-آیفون-18-ای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-جمعه-سیاه-زمان-مناسبی-برای-شروع-عضویت-در-باشگاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بلا-باجاریا-در-نتفلیکس-تایم-را-فصل-سرگرم-کننده-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/snl-رابرت-دنیرو-تیموتی-شالامه-و-این-دو-حس-رقص-پاپ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اودیسه-خلیج-بیوه-در-میان-نامزدهای-برتر-جوایز-فیلم-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
