@@ -36,6 +36,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بینندگان-نتفلیکس-در-شوک-از-جنایت-واقعی-باور-نمی-کنم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کریس-کریستی-خطاب-به-جمهوری-خواهان-من-نمی-خواهم-ناله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,17 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تداوم-سیاست-جمعیتی-پدر-مجتبی-خامنه-ای-خواستار-فرزندآوری-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/نشست-اقلیمی-cop31-شکست-خورد-آینده-نبرد-با-گرمایش-زمین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/سلطه-مطلق-برقی-ها-در-آلمان-هر-پنج-خودرو-برتر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تور-2027-wilco-expand-با-تاریخ-های-ایالات-متحده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,17 +411,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/احتمال-حمله-یک-جانبه-اسرائیل-به-ایران-واشنگتن-از-تهران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/از-جرف-الصخر-تا-مرزهای-اقلیم-کردستان-بغداد-کنترل-نفت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دو-ساعت-هوشمند-مقرون-به-صرفه-که-هدایایی-عالی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فروش-اقساطی-جک-j4-و-kmc-ایگل-آغاز-شد-تحویل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/چگونه-ترامپ-و-سیلیکون-ولی-انویدیا-را-مجبور-کردند-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -657,6 +657,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هولو-بالاخره-می-رود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جزر-و-مد-موسیقی-تولید-شده-توسط-هوش-مصنوعی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/gta-6-بهشت-یک-پرنده-است/</loc>
+    <loc>https://recart.ir/news/اجرای-حکم-شلاق-پرستو-احمدی-و-عوامل-کنسرت-کاروانسرا-خشم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سریال-محبوبی-که-به-طور-ناگهانی-از-نتفلیکس-ناپدید-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-جدید-کریسمس-در-نتفلیکس-با-سس-بریجرتون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیوید-فینچر-می-گوید-که-حلقه-های-قدرت-را-رد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جوی-کروکس-در-صحبت-کردن-و-حضور-در-صحنه-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/hayu-fanfest-toronto-2026-بازیگران-خانه-دارهای-واقعی-لندن-کارن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-اخبار-کانال-4-به-کارکنان-درباره-nda-ها-ایمیل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پروموتور-زمنا-در-شب-سال-نو-سالن-ux-با-ظرفیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سه-خرید-در-دستور-کار-بودجه-۵۰-میلیون-پوندی-پوچتینو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
