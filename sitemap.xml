@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نشست-اقلیمی-cop31-شکست-خورد-آینده-مقابله-با-گرمایش-زمین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نشست-اقلیمی-cop31-شکست-خورد-آینده-نبرد-با-گرمایش-زمین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,17 +411,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آتش-سوزی-مرگبار-کارخانه-در-اندونزی-جست-وجو-برای-کارگران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/از-جرف-الصخر-تا-مرزهای-اقلیم-کردستان-بغداد-کنترل-نفت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/می-توانید-hulu-و-disney-plus-را-با-حداقل-5/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-خانم-جاستوس-کلی-که-می-تواند-دهمین-آمریکایی-برنده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سهام-anthropic-به-زیر-قیمت-ipo-سقوط-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیروی-دریایی-ایالات-متحده-در-حال-آموزش-تیم-های-پزشکی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/10-ایالت-برتر-قرار-است-بیشترین-مسکن-را-برای-جمعیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -442,6 +467,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نیروی-دریایی-ایالات-متحده-در-حال-احیای-دستورات-تعمیر-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/hunger-games-sunrise-on-the-reaping-رکورد-دوشنبه-با-نزدیک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -571,32 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سهام-آنتروپیک-در-معاملات-پیش-از-بازار-به-زیر-قیمت/</loc>
+    <loc>https://recart.ir/news/افزایش-ریسک-برای-شبکه-های-سازمانی-با-نوسازی-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/5-بهترین-ژنراتور-قابل-حمل-که-برای-قطع-برق-کمپینگ/</loc>
+    <loc>https://recart.ir/news/آیکون-قدیمی-و-معروف-یوتیوب-برمی-گردد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-بازگشت-جنسن-هوانگ-به-انویدیا-جهان-را-چندین-میلیارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ادامه-رکوردشکنی-نرخ-ارز-در-ایران-دلار-به-۲۸۵-هزار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-ستاره-هالیوودی-کریپتو-را-گرفت-اکنون-او-یک-هدف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تفاوت-قیمت-پرچم-تشریفات-با-پرچم-های-فضای-باز-چیست/</loc>
+    <loc>https://recart.ir/news/معامله-جمعه-سیاه-اپل-تی-وی-بیش-از-50-درصد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,22 +791,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هواوی-میت-x8-با-نمایشگر-۸-۲-اینچی-و-طراحی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باریک-ترین-ساعت-هوشمند-هواوی-از-راه-رسید-واچ-ایر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کوین-اولری-گفت-جنسن-هوانگ-شانس-بازگشت-به-او-صفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اجرای-حکم-شلاق-پرستو-احمدی-و-عوامل-کنسرت-کاروانسرا-خشم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تقریبا-دوشنبه-دومین-پخش-آلترناتیو-شماره-1-را-با-نه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-مایک-فلانگان-فقط-نتوانست-کری-وایت-را-بکشد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نقد-و-بررسی-grand-theft-auto-vi-a-bloody-boundary-shifting/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ساختمان-ها-مانند-رعد-و-برق-سقوط-می-کنند-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عروسک-سوزی-در-قندهار-طالبان-اسباب-بازی-های-کودکان-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جوایز-فیلم-مستقل-بریتانیا-ساختمان-ها-را-می-بینم-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ساختمان-ها-را-می-بینم-که-مانند-رعد-و-برق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وحشت-از-آخرالزمان-چرا-میلیاردرها-نیوزیلند-را-برای-پایان-جهان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
