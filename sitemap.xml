@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تلاش-قطر-برای-احیای-دیپلماسی-میان-ایران-و-آمریکا-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پشت-پرده-جنگ-غزه-در-مستند-نازا-فیلمسازان-اسرائیلی-چگونه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گزارش-ها-روسیه-ممکن-است-در-ماه-آینده-سلاح-هسته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روسیه-ممکن-است-بسیار-زودتر-از-آنچه-ما-فکر-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/درست-نیست-آنتوان-فوکوا-ادعای-حمله-مسلحانه-مدیر-بار-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ای-جی-اودودو-از-من-سلبریتی-هستم-از-حمایت-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اوون-پاتریک-جوینر-کایل-کلارک-و-آدری-ترولینگر-در-فیلم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/only-murders-in-the-building-احتمالا-برای-فصل-7-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ماریان-گودل-مدیر-عامل-burning-man-خسته-نیستم-کارم-تمام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/raye-megan-moroney-ejae-و-بیشتر-در-صدمین-رژه-شکرگزاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دیوید-گریوز-می-گوید-روزی-روزگاری-در-هارلم-اقدامی-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آدام-درایور-هیچ-کس-به-ما-پول-نمی-داد-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
