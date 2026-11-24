@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-تخت-جمشید-تا-چغازنبیل-تبدیل-میراث-باستانی-ایران-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/احتمال-حمله-سایبری-به-۵۰-کشتی-حامل-نفت-و-مواد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جرد-کوشنر-درباره-جمهوری-اسلامی-دقیقا-چه-فکر-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آیزنکوت-ایران-تهدیدی-جدی-برای-اسرائیل-است-اما-فعلا-اقدام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-ارومیه-تا-آمریکا-کوروش-ترابی-جوان-ایرانی-که-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محسنی-اژه-ای-مشکل-معیشتی-جدی-است-از-حوزه-علمیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -676,6 +676,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دادستان-ها-می-گویند-مهندس-openai-مخفیانه-ده-ها-جلسه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-ترامپ-دوباره-جنسن-هوانگ-را-در-انویدیا-مسئول-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انویدیا-از-دومین-آمدن-جنسن-هوانگ-در-حالی-که-کاخ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سه-دستور-dism-که-باید-برای-تعمیر-تصاویر-سیستم-ویندوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-داخل-انویدیا-همه-بازگشت-جنسن-هوانگ-را-جشن-نمی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مداخله-فوق-العاده-انویدیا-ترامپ-نگرانی-های-امنیت-ملی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -762,31 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/anthropic-claude-ship-را-راه-اندازی-کرد-و-به-عوامل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-به-مصونیت-نخبگان-خوش-آمدید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-مدیرعامل-انویدیا-بازگشته-است-بعد-چه-اتفاقی-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/megaspeed-شرکتی-که-در-مرکز-رسوایی-جنسن-هوانگ-قرار-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایلان-ماسک-و-دیگران-از-بازگرداندن-جنسن-هوانگ-در-انویدیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دولت-ترامپ-megaspeed-شرکت-سنگاپوری-را-در-مرکز-رسوایی-nvidia/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
