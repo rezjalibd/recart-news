@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تهران-بر-جاه-طلبی-های-هسته-ای-پافشاری-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وال-استریت-ژورنال-آمریکا-نقش-احتمالی-ایران-در-حملات-سایبری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تهدید-موشکی-تهران-هم-زمان-با-تشدید-رویارویی-بر-سر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/موج-تازه-مسمومیت-با-مشروبات-تقلبی-در-ایران-پنج-کشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
