@@ -196,6 +196,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دیوید-زاسلاو-لحظه-ناخوشایند-را-قبل-از-پایان-ادغام-skydance/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خانم-راشل-از-کودکانی-که-در-دادگاه-مهاجرت-با-اخراج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/موج-تازه-مسمومیت-با-مشروبات-تقلبی-در-ایران-پنج-کشته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پایان-خوش-مرزهای-سینمای-زیرزمینی-ایران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آنتوان-فوکوا-متهم-به-اشاره-به-تفنگ-دستی-استفاده-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وودی-هارلسون-دو-بار-پیشنهاد-هیمیچ-را-رد-کرد-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/sanaa-lathan-و-terence-blanchard-به-عنوان-تهیه-کننده-اجرایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-آنچه-را-که-لازم-است-دارید-katseye-در-تریلر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
