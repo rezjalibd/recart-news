@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سازمان-ملل-۴۷-هزار-زن-و-دختر-در-سال-۲۰۲۵/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آغاز-اجرای-پروژه-مسیر-ترامپ-در-ارمنستان-ایران-صرفا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جانی-دپ-در-اقتباس-تازه-سرود-کریسمس-چرا-داستان-اسکروچ/</loc>
+    <loc>https://recart.ir/news/۱۱۵-روز-و-۳۹-پرواز-با-جت-شخصی-پشت-پرده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -482,6 +487,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-بولت-اروپا-در-ربات-تاکسی-و-بورس-از-رقبا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/محمدحسین-صدرایی-مدیرعامل-فرابورس-شد-پایان-چهار-سال-مدیریت-محمدعلی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/118-بهترین-فروش-جمعه-سیاه-و-معاملات-برای-خرید-قبل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معامله-جمعه-سیاه-طاووس-تا-66-در-یک-سال-پخش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-انویدیا-پس-از-۱۱-روز-جنجال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -691,6 +691,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مرورگر-مستقل-ladybird-با-موتور-کاملا-جدید-سرانجام-برای-آزمایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چیستارا-هوش-مصنوعی-حقوقی-ایرانی-که-هر-پاسخ-را-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نمایندگان-کنگره-آمریکا-تصمیم-انویدیا-برای-بازگرداندن-جنسن-هوانگ-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مهندس-عربستانی-openai-به-ضبط-مخفیانه-بیش-از-۱۶۰-ساعت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-هرمان-میلر-40-تخفیف-در-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کوپن-های-dermstore-25-تخفیف-برای-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-تخفیف-bartesian-35-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سریال-sky-new-zealand-i-will-find-you-the-search/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/درست-نیست-آنتوان-فوکوا-ادعای-حمله-مسلحانه-مدیر-بار-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ای-جی-اودودو-از-من-سلبریتی-هستم-از-حمایت-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
