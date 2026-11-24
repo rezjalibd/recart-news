@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عصبانیت-نیمار-پس-از-شکست-سانتوس-موهایم-صورتی-یا-سبز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-راونا-تا-بولزانو-مقاصد-نوظهور-ریلی-اروپا-برای-سفرهای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اختلاف-اروپا-و-آمریکا-بر-سر-مذاکرات-صلح-اوکراین-فون/</loc>
+    <loc>https://recart.ir/news/سقوط-دوباره-ارزش-ریال-دلار-۲۸۳-هزار-و-سکه-۲۶۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مهندس-فیگما-در-یک-دادخواست-می-گوید-فرهنگ-بازخورد-مستقیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-انویدیا-واکنش-ها-و-میم-هایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -706,6 +706,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اگر-می-خواهید-از-روز-شکرگزاری-خود-لذت-ببرید-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوگل-می-خواهد-شما-را-به-ستاره-همه-فیلم-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خانه-سازی-در-ماه-بدون-مصالح-زمینی-دانشمندان-رگولیت-قمری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اتصال-نرم-افزار-هلو-به-اسنپ-مارکت-مدیریت-یکپارچه-فروش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-باید-هفته-آینده-در-جلسه-علنی-سنای-آمریکا/</loc>
+    <loc>https://recart.ir/news/کیهان-کلهر-به-پرستو-احمدی-و-همکارانش-سرتان-را-بالا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -862,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بیوگرافی-لیزا-استالکار-مستند-ترس-و-نفرت-در-کاتماندو-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/منتخب-بازار-فیلم-waves-برلیناله-alum-sreemoyee-singh-fireflowers-about/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آنیا-تیلور-جوی-لال-شد-در-ارباب-حلقه-ها-شکار-گلوم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جاش-سیلورمن-رئیس-بخش-محصولات-و-انتشارات-اسکای-دنس-تیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
