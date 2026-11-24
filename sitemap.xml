@@ -676,6 +676,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-به-باشگاه-کوچک-بنیانگذاران-برکنار-شده-می-پیوندد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/glm-5-4-z-ai-قصد-دارد-با-اجرای-دوبار-28/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/با-بازگشت-جنسن-هوانگ-به-عنوان-مدیر-ارشد-اجرایی-ترامپ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-جدید-بازی-های-گرسنگی-در-راه-است-مدیر-فیلم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زوسیا-مامت-رئیس-دیوانه-متیو-واینر-را-به-عنوان-وحشتناک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چاک-لور-ep-zoanne-clack-grey-s-anatomy-رئیس-دنیای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-اسرارآمیز-تام-کالن-و-جو-لاک-black-church-bay/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/skydance-buyouts-impact-cbs-stations-لنگر-محلی-شیکاگو-در-میان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
