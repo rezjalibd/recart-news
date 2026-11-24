@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/واکنش-شهروندان-به-شکسته-شدن-پای-دانش-آموز-در-دورود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کیهان-کلهر-خطاب-به-هنرمندان-شلاق-خورده-نامتان-در-تاریخ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/روایت-تازه-از-مرگ-سوگند-پدرش-می-گفت-یک-روز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هکر-بازی-جی-تی-ای-۶-به-هفت-سال-زندان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -701,6 +701,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/لیست-آرزوها-2026-27-هدیه-برای-بینندگان-کاوشگران-و-پذیرندگان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حلقه-سخت-افزاری-هوش-مصنوعی-که-آینده-انویدیا-را-تهدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دوربین-و-نمایشگر-گلکسی-a38-ضعیف-تر-از-گلکسی-a37/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فهرست-کسب-وکار-های-متصل-به-زرپایش-منتشر-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایجاد-حافظه-ایمنی-در-برابر-سرطان-درمانی-آزمایشی-از-بازگشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/honor-x7e-با-باتری-۷۵۰۰-میلی-آمپرساعتی-معرفی-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
