@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شیر-های-گیاهی-ید-و-کلسیم-کافی-ندارند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اجرای-حکم-اعدام-نوید-نجاران-و-میلاد-آرمون-متوقف-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/میراث-فرهنگی-یا-سپر-نظامی-واکنش-به-احداث-پایگاه-کنار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرونده-قتل-نوجوان-۱۷-ساله-فرانسوی-پلیس-شلیک-کننده-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -456,6 +456,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بخش-آنلاین-gta-6-احتمالا-از-فورتنایت-هم-بزرگ-تر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/معامله-جمعه-سیاه-crunchyroll-بیش-از-50-در-پخش-انیمه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فکر-می-کردم-رفتن-به-یک-شهر-کوچکتر-زندگی-اجتماعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بلانچ-سوالات-مربوط-به-انویدیا-را-کم-اهمیت-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-ترمینال-آلبو-است-نه---اما-جهان-در-هرج/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-ارتش-ایالات-متحده-نزدیک-به-10000-پوند-مواد-منفجره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/استرالیا-لایحه-ایمنی-را-تصویب-می-کند-که-می-تواند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -771,22 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/زمان-برای-بحث-برانگیزترین-قانون-جاسوسی-آمریکا-رو-به-اتمام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گیمرهای-ناامید-سعی-می-کنند-gta-6-را-به-رایانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سیستم-عامل-کنترل-های-فیزیکی-را-شخصی-سازی-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-هنگام-دریافت-پیام-های-هرزنامه-هرگز-نباید-با-stop/</loc>
+    <loc>https://recart.ir/news/رونالدو-ممکن-است-به-دلیل-تمسخر-کمک-داور-حداقل-چهار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -847,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پاتریک-استوارت-در-آخرین-روز-فیلمبرداری-انتقام-جویان-روز-قیامت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دان-با-بازسازی-یک-آلبوم-کلاسیک-دد-به-بابی-ویر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-هودی-مورد-علاقه-بعدی-تا-چکمه-های-مورد-علاقه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جیمز-گری-کارگردان-ببر-کاغذی-از-رقابت-های-جشنواره-احمقانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
