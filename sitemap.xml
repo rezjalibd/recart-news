@@ -841,6 +841,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بیلی-ری-سایرس-تصاویری-از-عروسی-مایلی-را-به-اشتراک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هیلا-کلاین-به-دنبال-ماجرای-اتان-کلاین-از-پادکست-h3/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گیریش-جوهر-از-استودیو-زی-در-بازار-فیلم-waves-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-جدید-بازی-های-گرسنگی-در-راه-است-مدیر-فیلم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زوسیا-مامت-رئیس-دیوانه-متیو-واینر-را-به-عنوان-وحشتناک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رابرت-گلاسپر-در-مورد-وضعیت-r-b-کندریک-لامار-to/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
