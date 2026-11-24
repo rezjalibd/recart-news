@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اتحادیه-کامیون-داران-از-ادامه-اعتصاب-خبر-داد-رییس-سازمان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مورینیو-بازیکنی-اگر-به-فشردگی-مسابقات-اعتراض-دارد-می-تواند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عدم-صدور-ویزای-بحرین-برای-منصوریان-الزورا-خواستار-تغییر-مکان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زمستان-هنوز-نرسیده-خاموشی-ها-آغاز-شد-بحران-برق-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نمایش-نیمه-وقت-سوپر-باول-۲۰۲۷-جی-زی-به-سینماهای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/استیوی-واندر-به-تئوری-های-توطئه-درباره-نابینایی-خود-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-هیت-قطعه-vanity-fair-در-تیلور-سویفت-واقعا-روزنامه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بلا-باجاریا-در-نتفلیکس-تایم-را-فصل-سرگرم-کننده-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/حتی-سینا-میلر-هم-از-پایان-جنگ-غافلگیر-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/داکوتا-جانسون-بازیگر-و-تهیه-کننده-درام-رابطه-ای-tell/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شکایت-مری-جی-بلیج-عشق-واقعی-توسط-دادگاه-تجدیدنظر-رد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/snl-رابرت-دنیرو-تیموتی-شالامه-و-این-دو-حس-رقص-پاپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
