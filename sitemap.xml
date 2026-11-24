@@ -451,6 +451,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-سال-ها-به-جای-رشد-شغلی-از-مادر-پیرم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/عکس-های-ناامیدکننده-نشان-می-دهند-که-بازدید-از-کولوسئوم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/crocها-تا-60-تخفیف-برای-جمعه-سیاه-دارند-از-جمله/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-عینک-هوشمند-شیک-متا-اوکلی-برای-جمعه-سیاه-۱۲۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -586,21 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دیجی-کالا-در-بلک-فرایدی-سکه-طلا-را-زیر-نرخ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-ساعت-هوشمند-مقرون-به-صرفه-که-هدایایی-عالی-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تعرفه-های-جدید-adsl-مخابرات-زیر-ذره-بین-مقایسه-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-آبجوها-می-توانند-آبجو-را-از-رازک-آلوده-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنتروپیک-می-گوید-رهبرانی-که-هوش-مصنوعی-را-تحت-فشار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-nintendo-switch-2-2026-باندل-بازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-سعی-کردم-دنیای-تعاملی-خودم-را-در-google-genie/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خرسندی-ترامپ-از-میزبانی-آمریکا-در-جام-جهانی-فوتبال-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -816,12 +816,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دیوید-فینچر-به-دلیل-استفاده-مشکوک-از-هوش-مصنوعی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کجا-می-توان-پخش-های-مستقیم-لیگ-قهرمانان-را-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هیپ-هاپ-آپ-و-کامر-ارول-هولدن-ترک-خیابان-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مورد-اعتمادترین-نام-جو-روگان-در-رسانه-برای-دوستان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ارباب-حلقه-ها-حلقه-های-قدرت-برای-فصل-چهارم-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -836,7 +856,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ارباب-حلقه-ها-حلقه-های-قدرت-برای-فصل-چهارم-در/</loc>
+    <loc>https://recart.ir/news/ارباب-حلقه-ها-حلقه-های-قدرت-برای-فصل-چهارم-در-20c2dc/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اولیویا-رودریگو-با-اولین-پخش-زنده-miss-this-christmas-درد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جان-هامبورگ-فیلمساز-فاکر-در-قانون-درباره-زمان-بندی-کمدی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نقد-و-بررسی-hexed-هایلی-استاینفلد-و-رشیدا-جونز-فانتزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جشنواره-چهار-روزه-فیلم-rom-com-در-سانتا-باربارا-راه-اندازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/hulu-disney-apple-tv-hbo-max-و-پخش-کننده-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
