@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پشت-پرده-جنگ-غزه-در-مستند-نازا-فیلمسازان-اسرائیلی-چگونه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پارو-کردن-برف-برای-قلب-خطرناک-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/روسیه-ممکن-است-بسیار-زودتر-از-آنچه-ما-فکر-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بزرگترین-بمب-های-ترامپ-از-مصاحبه-تقریبا-یک-ساعته-اش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
