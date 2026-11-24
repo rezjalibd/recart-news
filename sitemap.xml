@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پاسخ-شهروندان-به-فراخوان-فرزندآوری-مجتبی-خامنه-ای-گردن-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/انتشار-ویدئوی-لحظه-انتخاب-مجتبی-خامنه-ای-در-مجلس-خبرگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-شهروندان-به-شکسته-شدن-پای-دانش-آموز-در-دورود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کیهان-کلهر-خطاب-به-هنرمندان-شلاق-خورده-نامتان-در-تاریخ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -441,6 +441,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/استارت-آپ-کامیون-های-الکتریکی-harbinger-از-بانک-palmer-luckey/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سرآشپزها-و-توسعه-دهندگان-دستور-العمل-بهترین-و-بدترین-غذاها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -551,6 +556,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/metro-samsung-galaxy-a37-را-به-صورت-رایگان-با-طرح/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گزارش-یافته-ها-نشان-می-دهد-که-تنوع-هشدارکننده-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/از-درخواست-۲-میلیارد-تومان-برای-تحویل-پیکر-تا-فشار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/p3c-پنج-نازل-bambu-کاملا-آن-چاپگر-سه-بعدی-نیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خرید-decart-از-آمازون-شرط-بندی-برای-استفاده-از-نرم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/dreame-و-eufy-نزدیک-به-60-درصد-تخفیف-برای-ربات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/tidal-از-ماه-آینده-ممنوعیت-موسیقی-تولید-شده-توسط-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-spaces-دسکتاپ-macbook-شما-مرتبا-خود-را-مرتب-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -771,26 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/anthropic-یک-honeypot-ایجاد-کرد-تا-ماموران-هوش-مصنوعی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-جمینی-بازی-را-برای-سازمان-و-هواداران-گلدن-استیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بلاگ-زنده-جمعه-سیاه-و-دوشنبه-سایبری-2026-بهترین-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خرید-decart-از-آمازون-شرط-بندی-برای-استفاده-از-نرم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رئیس-پیشین-موساد-به-خنثی-سازی-توطئه-تروریستی-داعش-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/cardi-b-برای-افتخار-جهانی-خود-در-billboard-canada-women/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کنستانس-وو-مکالی-کالکین-کن-لیونگ-و-اتان-انج-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایسا-رائه-دوستی-مرد-خلبان-کمدی-hbo-بازیگران-رافائل-کاستیو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ده-آهنگی-که-20-سال-پس-از-مرگ-والنتین-الیزالد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سابرینا-اس-گوردون-بازیگر-دانیل-بروکس-برای-تهیه-کنندگی-اجرایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-le-sserafim-نوع-جدیدی-از-نترسی-را-باز-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/میزبانان-برتر-ms-now-نامه-ای-را-امضا-می-کنند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
