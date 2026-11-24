@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آریانا-گرانده-از-پروژه-تور-آفتاب-ابدی-در-طاووس-خبر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-کت-و-شلوار-تا-پایه-این-قطعات-تا-79/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تریلر-جدید-tender-loving-care-آخرین-ساخته-mike-leigh-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برایس-آلاکای-برنده-جزیره-عشق-در-کار-موسیقی-خود-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
