@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مسافر-نمی-آید-صنعت-گردشگری-ایران-در-رکود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قیمت-دلار-در-بازار-آزاد-ایران-از-۲۸۲-هزار-تومان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تجارت-به-لیست-سیاه-megaspeed-مشتری-nvidia-در-مرکز-رسوایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دبیرکل-سازمان-ملل-کشورها-را-به-ایجاد-سازوکارهای-ایمنی-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -701,6 +701,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-معروف-ترین-مسئله-ریاضی-را-حل-کرد-اکنون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لیست-آرزوها-2026-27-هدیه-برای-بینندگان-کاوشگران-و-پذیرندگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فهرست-کسب-وکار-های-متصل-به-زرپایش-منتشر-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تمرین-فوتبال-با-هدست-واقعیت-مجازی-نوآوری-استارت-آپ-نروژی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-اکشن-و-هیجان-انگیز-فرانسوی-نتفلیکس-نیروی-نخبگان-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/careme-و-división-palermo-جوایز-برتر-جوایز-بین-المللی-امی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برندگان-بین-المللی-امی-2026-معرفی-شدند-کارم-برنده-بهترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
