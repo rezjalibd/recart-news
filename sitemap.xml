@@ -236,6 +236,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تور-u2-plot-استادیوم-آمریکای-شمالی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تور-2027-wilco-expand-با-تاریخ-های-ایالات-متحده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/only-murders-in-the-building-با-بازی-استیو-مارتین-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کوله-پشتی-اتریشی-چیست-و-چرا-دوباره-به-بحث-حقوق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,12 +791,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اصرار-به-اجرای-سریع-حکم-واکنش-ها-به-شلاق-خوردن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اجرای-حکم-شلاق-پرستو-احمدی-و-عوامل-کنسرت-کاروانسرا-خشم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تریلر-هیجان-انگیز-قتل-جان-بنت-رمزی-نتفلیکس-در-کانون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کمدی-درباره-جاسوسان-بهار-امسال-در-برادوی-اکران-می-شود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-جمعه-سیاه-cuyana-تا-70-تخفیف-آنلاین-کاهش-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آردمن-در-حال-دریافت-مستند-پنجاهمین-سالگرد-کرکینگ-کار-گرومیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -952,31 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/u2-تور-استادیوم-بزرگترین-نمایش-روی-زمین-خود-را-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/travesty-ساشا-ولور-اولین-نمایش-خارج-از-برادوی-اختصاصی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دیو-گرول-می-گوید-foo-fighters-قصد-دارند-پس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رویترز-بازگشت-هوانگ-پیش-از-پایان-تحقیقات-استقلال-هیات-مدیره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/snl-با-canal-nbcuniversal-unveiling-cast-و-manu-payet-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/واکنش-خانه-موسیقی-به-اجرای-حکم-شلاق-پرستو-احمدی-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
