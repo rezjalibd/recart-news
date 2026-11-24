@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مرکز-آمار-تورم-تولیدکننده-از-۱۲۰-درصد-گذشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شناسایی-۱۵-میلیارد-دلار-تراکنش-مالی-مرتبط-با-ایران-آمریکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-معاملات-پخش-جریانی-جمعه-سیاه-youtube-tv-paramount-peacock/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قضاوت-جنسن-زیر-سوال-است-تحلیلگران-وال-استریت-در-مورد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/برندگان-بین-المللی-امی-2026-معرفی-شدند-کارم-برنده-بهترین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آنتوان-فوکوا-متهم-به-اشاره-به-تفنگ-دستی-استفاده-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/inside-the-macy-s-thanksgiving-rade-at-100-massive-minions/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/sanaa-lathan-و-terence-blanchard-به-عنوان-تهیه-کننده-اجرایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
