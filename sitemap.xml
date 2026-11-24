@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شوهر-ناپدید-شده-و-برای-ثبت-طلاق-نمی-آید-چه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وضعیت-بحرانی-بند-چهار-زندان-شیبان-اهواز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جرف-الصخر-بازگشت-ارتش-عراق-یا-تداوم-نفوذ-کتائب-حزب/</loc>
+    <loc>https://recart.ir/news/بحران-یمن-حوثی-ها-دریای-سرخ-و-منافع-اقتصاد-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ژیزل-پلیکو-قربانی-تجاوزهای-گروهی-در-فرانسه-از-ناشری-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هجوم-بی-سابقه-مهاجران-به-جزایر-قناری-رکورد-ماهانه-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
