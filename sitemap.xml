@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بمب-نقل-وانتقالاتی-در-راه-مادرید-هالند-با-بند-فسخ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تغییر-کیفیت-آرد-نانوایی-ها-پس-از-سهمیه-بندی-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/وحشیانه-ترین-لباس-های-ملی-از-مسابقه-miss-universe-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مرد-پشت-موفقیت-انویدیا-صعود-و-بازگشت-دراماتیک-جنسن-هوانگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -696,6 +696,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گپ-جی-پی-تی-به-gapgpt-ir-منتقل-شد-حساب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وعده-ثبت-احوال-برای-تحویل-کارت-های-ملی-معوق-تا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یک-حقوقدان-تشکیل-ستاد-ساماندهی-فضای-مجازی-خلاف-شرع-نیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-به-محل-کارش-برگشت-این-بار-مدیرعامل-بهتری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوگل-ترنسلیت-پس-از-۱۱-سال-آیکون-جدید-گرفت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیروزی-پرسپولیس-و-گل-گهر-شکست-استقلال-در-هفته-نهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنر-در-مجیک-9-پرو-مکس-با-سازنده-دوربین-سینما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/درام-جنایی-مراتی-هوردا-آن-تاپ-سبز-تنگ-مردانگی-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برنده-جام-طلای-شانگهای-ریدهام-جانوه-تماشای-مرگ-دهکده-گوان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
