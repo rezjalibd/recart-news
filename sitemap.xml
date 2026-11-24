@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تعداد-قربانیان-مسمومیت-الکلی-در-سه-استان-به-۱۴-نفر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قتل-هلیا-فتاحی-در-سنندج-پدر-و-مادرش-بازداشت-شدند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازداشت-شش-ماهه-یک-زوج-نخبه-در-ارومیه-با-اتهامات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مسمومیت-الکلی-در-هرمزگان-۳-نفر-را-کشت-۱۳-نفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -846,6 +846,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/موبلند-گرگ-سالکین-بازیگر-فورسایتس-را-برای-فصل-3-اضافه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هیلا-کلاین-تصمیم-فوق-العاده-دردناک-را-برای-ترک-پادکست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برنده-جام-طلای-شانگهای-ریدهام-جانوه-تماشای-مرگ-دهکده-گوان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/oura-ring-5-درمان-با-نور-قرمز-و-مراقبت-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
