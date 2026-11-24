@@ -571,6 +571,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/همه-رستوران-های-زنجیره-ای-و-فست-فود-که-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-جمعه-سیاه-silk-snow-دارای-تشک-تا-300-دلار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قلاده-سگ-gps-با-قیمت-کمتر-بهترین-انتخاب-های-آزمایش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فراخوان-۱-۶-میلیون-خودرو-تویوتا-و-هوندا-کابوس-ایربگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افشای-پایگاه-داده-3-5-میلیارد-نام-کاربری-رمز-عبور/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/۱۳-گیگ-اینترنت-هدیه-بگیرید-و-برنده-۱۰-میلیارد-تومان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -716,6 +716,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کوین-اولری-گفت-جنسن-هوانگ-شانس-بازگشت-به-او-صفر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-معاملات-ایرپادهای-جمعه-سیاه-اولیه-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/لحظه-بسیار-بزرگ-برای-شکست-انویدیا-رویکرد-جدید-تهاجمی-واشنگتن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اگر-هوش-مصنوعی-اجتناب-ناپذیر-است-چگونه-همه-اینها-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -877,6 +877,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پروموتور-زمنا-در-شب-سال-نو-سالن-ux-با-ظرفیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بیلی-ری-سایرس-تصاویری-از-عروسی-مایلی-را-به-اشتراک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هیلا-کلاین-به-دنبال-ماجرای-اتان-کلاین-از-پادکست-h3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
