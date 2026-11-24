@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-دادخواست-تهران-تا-اقدامات-کشورهای-عربی-جدال-بر-سر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نتانیاهو-کوچک-نمایی-تهدید-جمهوری-اسلامی-با-انگیزه-های-سیاسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آمریکا-هشت-فرد-و-۲۲-شرکت-مرتبط-با-شبکه-بانکداری/</loc>
+    <loc>https://recart.ir/news/از-راونا-تا-بولزانو-مقاصد-نوظهور-ریلی-اروپا-برای-سفرهای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-جادوی-شمن-ها-تا-سوغات-گردشگران-هنرمندان-گرینلند-چگونه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,12 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تنگه-هرمز-از-نگاه-شناگر-بریتانیایی-خطرهایی-که-زیر-آب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گرینلند-به-ترامپ-واگذار-نشده-واشنگتن-دقیقا-چه-امتیازهایی-گرفته/</loc>
+    <loc>https://recart.ir/news/مسکن-مهاجرت-و-دوقطبی-شدن-جامعه-مهم-ترین-دغدغه-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نیو-et5-تورینگ-مدل-۲۰۲۷-رؤیت-شد-رقیب-چینی-خودروهای/</loc>
+    <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-انویدیا-واکنش-ها-و-میم-هایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گرین-وب-نخستین-موافقت-اصولی-اپراتوری-هوش-مصنوعی-را-دریافت/</loc>
+    <loc>https://recart.ir/news/قهرمانی-جهان-شطرنج-رویارویی-نسل-زد-و-ثبت-جوان-ترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -857,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مدیران-کهنه-کار-سرگرمی-رسانه-و-برند-به-نیروها-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جاش-سیلورمن-رئیس-بخش-محصولات-و-انتشارات-اسکای-دنس-تیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/با-خاموش-شدن-چراغ-ها-در-حین-بازی-bengals-commanders-پخش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/caréme-و-división-palermo-جوایز-برتر-جوایز-بین-المللی-امی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
