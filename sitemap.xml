@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-پرونده-ترور-ناموفق-سیامک-تدین-طهماسبی-چه-می-دانیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/امنیت-اسرائیل-یا-بقای-سیاسی-چرا-نتانیاهو-به-دنبال-حمله/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رضاشاه-در-روایت-عباس-میلانی-اندیشه-تجدد-و-قدرت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازداشت-سه-شهروند-بهایی-در-کرمان-و-انتقال-به-مکان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پایان-خوش-تلاش-برای-عبور-از-مرزهای-سینمای-زیرزمینی-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اجرای-طرح-شناسه-دار-کردن-کارت-سوخت-در-تهران-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -691,6 +691,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مهندس-عربستانی-openai-به-ضبط-مخفیانه-بیش-از-۱۶۰-ساعت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وزارت-ارتباطات-اولین-موافقت-اصولی-خدمات-هوش-مصنوعی-را-صادر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-به-محل-کارش-برگشت-این-بار-مدیرعامل-بهتری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گوگل-ترنسلیت-پس-از-۱۱-سال-آیکون-جدید-گرفت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کدهای-تخفیف-bartesian-35-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کد-تخفیف-الو-20-تخفیف-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-jabra-30-تخفیف-برای-هدفون-هدست-و-موارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-بنفش-و-تخفیف-تا-30-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
