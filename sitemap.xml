@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/غیبت-قطعی-در-اوپن-استرالیا-عمل-جراحی-زانوی-سینر-موفقیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رئیس-پیشین-پلیس-اندونزی-به-اتهام-خیانت-به-کشور-بازداشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -346,6 +351,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ارتش-آمریکا-قصد-دارد-پنج-تن-ماده-منفجره-فرسوده-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/10-نمایش-مانند-جلیقه-زرد-که-باید-در-ادامه-تماشا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تور-2027-wilco-expand-با-تاریخ-های-ایالات-متحده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کمبود-خاک-و-آب-دو-کشور-چگونه-کشاورزی-را-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احزاب-اسرائیل-در-بن-بست-ائتلاف-اختلاف-آیزنکوت-و-نتانیاهو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-از-کارمندان-انویدیا-عذرخواهی-کرد-و-گفت-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پرتاب-آمازون-با-رقیب-اسپیس-ایکس-پس-از-شکست-ula/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/استریم-ابری-gta-6-برای-ps5-و-playstation-portal-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اوبر-و-نورو-آزمایش-بدون-راننده-رباتاکسی-lucid-را-قبل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-سال-2027-دیگر-هیچ-اشتراک-صندلی-گرمکن-برای-خودروها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خرسندی-ترامپ-از-میزبانی-آمریکا-در-جام-جهانی-فوتبال-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -816,6 +816,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اگر-عاشق-کوپرتینو-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دیوید-فینچر-به-دلیل-استفاده-مشکوک-از-هوش-مصنوعی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +832,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سیلوستر-استالونه-آرنولد-شوارتزنگر-را-برای-اسپین-اف-شاه-تالسا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-هفت-دیوانه-بنجامین-نایشتات-با-ستاره-هنوز-اینجام-سلتون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایسا-رائه-دوستی-مرد-خلبان-کمدی-hbo-بازیگران-رافائل-کاستیو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آریانا-گرانده-کنسرت-تور-آفتاب-ابدی-و-مستند-پشت-صحنه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارلی-رائه-جپسن-به-لطف-gta-vi-با-288-درصد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گلوریلا-اولین-بازیگری-را-در-فیلم-ترسناک-هیجانی-دئون-تیلور-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
