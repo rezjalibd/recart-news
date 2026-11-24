@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/وضعیت-بحرانی-بند-چهار-زندان-شیبان-اهواز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیام-مکتوب-مجتبی-خامنه-ای-هر-ایرانی-غیور-باید-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-پرونده-ترور-ناموفق-سیامک-تدین-طهماسبی-چه-می-دانیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گادی-آیزنکوت-نیازی-به-اقدام-نظامی-فوری-علیه-جمهوری-اسلامی/</loc>
+    <loc>https://recart.ir/news/اختصاصی-یورونیوز-پیمان-مهاجرتی-اتحادیه-اروپا-در-سال-نخست-بیش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازداشت-سه-شهروند-بهایی-در-کرمان-و-انتقال-به-مکان/</loc>
+    <loc>https://recart.ir/news/اکوادور-سیلاب-شدید-در-جزایر-گالاپاگوس-همزمان-با-نگرانی-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,12 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اتحادیه-اروپا-بانک-ها-نظامیان-و-ورزشکاران-روسیه-را-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-نهادهای-اطلاعاتی-غرب-روسیه-در-تدارک-پرتاب-یک-سلاح/</loc>
+    <loc>https://recart.ir/news/از-سود-نفتی-تا-نفوذ-ژئوپلیتیک-عمان-چگونه-برنده-خاموش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/معاملات-چمدان-جمعه-سیاه-2026-در-away-travelpro-béis-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-انویدیا-پس-از-۱۱-روز-جنجال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -687,6 +687,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انویدیا-جنس-ن-هوانگ-را-۱۱-روز-پس-از-استعفایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اینترنت-چینی-بازگشت-پیروزمندانه-جنسن-هوانگ-به-قدرت-در-انویدیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کدهای-کوپن-chegg-نوامبر-2026-صرفه-جویی-در-مطالعه-کتاب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جواد-نکونام-افرادی-در-فدراسیون-فوتبال-از-شرایط-بدی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بیلی-ری-سایرس-در-مراسم-عروسی-مایلی-من-مغرورترین-پدر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-های-تعاملی-the-run-kaiju-princess-back-from-the/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درست-نیست-آنتوان-فوکوا-ادعای-حمله-مسلحانه-مدیر-بار-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
