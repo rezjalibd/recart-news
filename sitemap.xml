@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تفتیش-گوشی-شهروندان-در-ایستگاه-دولت-متروی-تهران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تلگراف-محاصره-آمریکا-اقتصاد-ایران-را-به-شدت-تحت-فشار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ویدیوی-تازه-نشان-می-دهد-جلسه-انتخاب-مجتبی-خامنه-ای/</loc>
+    <loc>https://recart.ir/news/همسر-جاسوس-سابق-روسیه-که-با-ماده-رادیواکتیو-کشته-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اتحادیه-اروپا-پس-از-شکست-نشست-کوپ-۳۱-خواستار-اصلاح/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گذرنامه-حیوانات-خانگی-برای-سفر-بریتانیایی-ها-به-اتحادیه-اروپا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فرانسه-ذخایر-راهبردی-فلزات-نادر-و-مواد-معدنی-حیاتی-ایجاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -391,22 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پشت-پرده-جنگ-غزه-در-مستند-نازا-فیلمسازان-اسرائیلی-چگونه/</loc>
+    <loc>https://recart.ir/news/چگونه-بازگشت-جنسن-هوانگ-به-انویدیا-جهان-را-چندین-میلیارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پارو-کردن-برف-برای-قلب-خطرناک-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آمریکا-و-عربستان-سعودی-پهپادی-با-سرعت-دوبرابر-شاهد-ایرانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چیدمان-خانه-می-تواند-آسیب-های-روانی-دوران-کودکی-را/</loc>
+    <loc>https://recart.ir/news/ادامه-رکوردشکنی-نرخ-ارز-در-ایران-دلار-به-۲۸۵-هزار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/همه-رستوران-های-زنجیره-ای-و-فست-فود-که-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-جمعه-سیاه-silk-snow-دارای-تشک-تا-300-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جذب-کربن-از-محورهای-اختلاف-در-کوپ۳۱-تاکتیک-تعویق-یا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -716,6 +716,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آمازون-می-گوید-که-عوامل-هوش-مصنوعی-هکرها-0-روز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/gta-6-بزرگترین-عرضه-پلی-استیشن-در-تمام-دوران-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/8-بهترین-دستگاه-اسپرسو-برای-خانه-2026-تست-شده-توسط/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/grand-theft-auto-6-بزرگترین-عرضه-پلی-استیشن-در-تمام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,17 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مراکز-داده-نیروگاه-های-گاز-طبیعی-خود-را-دریافت-می/</loc>
+    <loc>https://recart.ir/news/وحشت-از-آخرالزمان-چرا-میلیاردرها-نیوزیلند-را-برای-پایان-جهان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رئیس-سازمان-فناوری-اطلاعات-باید-نقش-فعال-تری-در-راهبری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برخی-باکتری-های-زبان-ما-شاید-با-سرعت-واکنش-مغز/</loc>
+    <loc>https://recart.ir/news/از-بوژوله-تا-خورشید-نیمه-شب-هفت-مسابقه-هیجان-انگیز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -881,6 +891,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نتفلیکس-اکران-مارش-جگوارها-را-به-روایت-فرناندا-تورس-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جوی-کروکس-در-صحبت-کردن-و-حضور-در-صحنه-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بنی-بناسی-و-فده-لو-گرند-سه-نمایش-استرالیایی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عذرخواهی-خواننده-anthem-برای-flub-o-canada-در-بازی-leafs-islanders/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آدام-درایور-شرور-مردان-ایکس-مستر-شوم-خود-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عشق-در-پشت-میله-های-گمشده-یک-زندان-باز-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
