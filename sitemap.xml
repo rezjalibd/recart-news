@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ماموران-جمهوری-اسلامی-هر-دو-پای-محمد-اولاد-را-حین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فرمانده-سپاه-جنگ-های-آینده-ممکن-است-به-خارج-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,11 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/احضار-علی-طاهری-کیا-دانشجوی-دانشگاه-تهران-برای-اجرای-حکم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بازداشت-دو-مرد-به-ظن-سرقت-از-اقامتگاه-شاهزاده-ویلیام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -272,6 +272,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنگ-روایت-ها-در-تنگه-هرمز-آیا-ایران-توانسته-مسیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پرزیدنت-ترامپ-به-بازگرداندن-جنسن-هوانگ-مدیرعامل-انویدیا-کمک-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فرانسه-ذخایر-راهبردی-فلزات-نادر-و-مواد-معدنی-حیاتی-ایجاد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/چرا-شرکت-داروسازی-فرانسوی-سانوفی-۴۱-میلیارد-دلار-برای-خرید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -432,6 +432,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سرآشپزها-و-توسعه-دهندگان-دستور-العمل-بهترین-و-بدترین-غذاها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/علیرغم-اینکه-مسافران-باتجربه-ای-بودیم-اولین-سفر-محلی-ما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چه-زمانی-شروع-به-پختن-هر-غذا-برای-شام-شکرگزاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اعضای-prime-for-young-adults-فقط-امروز-می-توانند-20/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/درایو-نمونه-اولیه-پورشه-718-باکستر-این-رودستر-الکتریکی-واقعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/متا-در-حال-آوردن-muse-به-اینستاگرام-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/android-auto-بی-سیم-مشکل-تخلیه-باتری-گوشی-دارد-اما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/tidal-اولین-پلتفرم-استریمینگ-است-که-موسیقی-هوش-مصنوعی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -767,26 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چگونه-کابل-های-usb-c-خود-را-بیشتر-دوام-بیاوریم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افزایش-ریسک-برای-شبکه-های-سازمانی-با-نوسازی-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیکون-قدیمی-و-معروف-یوتیوب-برمی-گردد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معامله-جمعه-سیاه-اپل-تی-وی-بیش-از-50-درصد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تغذیه-پنجره-جدید-wyze-پرندگان-را-از-دوربین-داخل-خانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
