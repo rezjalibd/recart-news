@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تغییر-کیفیت-آرد-نانوایی-ها-پس-از-سهمیه-بندی-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قیمت-دلار-در-بازار-آزاد-ایران-از-۲۸۰-هزار-تومان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وحشیانه-ترین-لباس-های-ملی-از-مسابقه-miss-universe-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-اولیه-جمعه-سیاه-skinceuticals-20-درصد-تخفیف-برای-بسته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
