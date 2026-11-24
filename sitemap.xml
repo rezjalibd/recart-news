@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/علی-زیدی-به-وزارت-نفت-دستور-داد-کنترل-میادین-نفتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فشار-آمریکا-بر-شبکه-مالی-ایران-دلار-از-۲۸۳-هزار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سهام-آنتروپیک-در-معاملات-پیش-از-بازار-به-زیر-قیمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جذب-کربن-از-محورهای-اختلاف-در-کوپ۳۱-تاکتیک-تعویق-یا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -716,6 +716,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/uber-nuro-و-lucid-آزمایش-روباتاکسی-کاملا-بدون-راننده-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-دستیار-هوش-مصنوعی-متا-muse-را-دانلود-کرده-اید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خبری-از-نوآوری-نیست-مشخصات-گوشی-باریک-هواوی-میت-۹۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اکنون-یک-glp-1-به-شکل-شکلاتی-وجود-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -896,6 +896,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بی-بی-سی-cbeebies-hub-را-در-نتفلیکس-راه-اندازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ساختمان-ها-مانند-رعد-و-برق-سقوط-می-کنند-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جوایز-فیلم-مستقل-بریتانیا-ساختمان-ها-را-می-بینم-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/fin-vs-history-ستاره-های-پادکست-ویدیویی-در-مجموعه-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/موبلند-گرگ-سالکین-بازیگر-فورسایتس-را-برای-فصل-3-اضافه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هیلا-کلاین-تصمیم-فوق-العاده-دردناک-را-برای-ترک-پادکست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
