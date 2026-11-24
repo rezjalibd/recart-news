@@ -221,6 +221,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ماتروشکا-کارزار-روسی-اطلاعات-نادرست-علیه-انتخابات-اسپانیا-چیست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برای-احمد-الشرع-چای-بردم-روایت-زن-ایزدی-از-دیدار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-نشان-عالی-آزادی-آمریکا-را-به-رودی-جولیانی-وکیل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دومین-حمله-به-بلندترین-برج-ریاض-در-کمتر-از-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نسل-جوان-در-ایتالیا-سنت-چندصدساله-ناقوس-نوازی-را-زنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -306,6 +326,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/10-نمایش-مانند-جلیقه-زرد-که-باید-در-ادامه-تماشا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پرزیدنت-ترامپ-به-بازگرداندن-جنسن-هوانگ-مدیرعامل-انویدیا-کمک-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -386,27 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کشته-شدن-۲۶-نفر-در-حمله-به-خودروها-در-یمن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/راز-ثروت-آنتونی-گائودی-پس-از-صد-سال-فاش-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خاطرات-شخصی-رهبر-پیشین-کاتولیک-ها-پاپ-فرانسیس-مدعی-شده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اوکراین-خواستار-تحریم-صنعت-هسته-ای-روسیه-و-توقف-صادرات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-امنیت-داخلی-حماس-در-حمله-هوایی-اسرائیل-به-غزه/</loc>
+    <loc>https://recart.ir/news/خاطرات-پاپ-فرانسیس-سه-مواجهه-با-شیطان-و-مشاهده-دروازه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کمدی-تاریک-سقط-جنین-استخوان-بینی-با-پایان-یافتن-بازار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/tidal-موسیقی-کاملا-تولید-شده-توسط-هوش-مصنوعی-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مردی-که-پول-مسئله-اش-نبود-از-بنیان-گذاران-آمریکایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/pinterest-اکنون-به-والدین-اجازه-می-دهد-محتوای-تولید-شده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیویورک-تایمز-به-عکاسان-هشدار-می-دهد-که-فتوشاپ-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رئیس-پیشین-موساد-به-خنثی-سازی-توطئه-تروریستی-داعش-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/grand-theft-auto-vi-the-album-4-آهنگ-دیگر-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/در-اینجا-نحوه-تماشای-آنلاین-espn-به-صورت-رایگان-آمده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ده-آهنگی-که-20-سال-پس-از-مرگ-والنتین-الیزالد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
