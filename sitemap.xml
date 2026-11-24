@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ان-بی-سی-دولت-ترامپ-در-حال-بررسی-هدف-قرار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تداوم-ناکامی-های-منچسترسیتی-تنها-یک-پیروزی-در-هفت-بازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دولت-آمریکا-بی-سروصدا-سه-سند-تاریخی-درباره-پاگنده-موجود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اعتراض-پوچتینو-به-داوری-لیگ-برتر-لغو-کارت-قرمز-یورو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -452,6 +452,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معامله-جمعه-سیاه-crunchyroll-بیش-از-50-در-پخش-انیمه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بعد-از-طلاق-شروع-کردم-به-قرارهای-انفرادی-به-رستوران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فکر-می-کردم-رفتن-به-یک-شهر-کوچکتر-زندگی-اجتماعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوروی-فناوری-می-گوید-سهام-انویدیا-دارای-سایه-هایی-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سونی-می-گوید-بازیکنان-gta-6-تقریبا-78000-سال-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -851,6 +851,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آدام-درایور-نقش-مستر-شوم-را-در-ریبوت-مارول-کنایه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پخش-زنده-شب-شکرگزاری-aew-dynamite-collision-کجا-می-توان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جیمز-گری-کارگردان-ببر-کاغذی-از-رقابت-های-جشنواره-احمقانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-امین-جوزف-انسانیت-را-برای-سانی-لیستون-در-بزرگترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
