@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بیش-از-دو-ماه-بلاتکلیفی-ارکان-شریفی-دانش-آموز-عرب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گارد-ساحلی-یمن-یک-قایق-حامل-محموله-بزرگ-مواد-مخدر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تحریم-مرکز-مبادله-ارز-و-طلای-ایران-آمریکا-۳۰-فرد/</loc>
+    <loc>https://recart.ir/news/فرانسه-ذخایر-راهبردی-عناصر-نادر-خاکی-و-مواد-معدنی-حیاتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنجال-در-مجلس-فرانسه-آیا-ممنوعیت-اجاره-خانه-های-پرمصرف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,12 +411,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آتش-سوزی-شدید-هتل-های-ساحلی-زنگبار-در-تانزانیا-را/</loc>
+    <loc>https://recart.ir/news/قدرت-در-فضا-دست-کیست-۴۵-کشور-در-رم-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/توصیه-های-پزشک-امباپه-بی-فایده-بود-سینر-زانوی-خود/</loc>
+    <loc>https://recart.ir/news/واکنش-بازار-ارز-ایران-به-تحریم-های-تازه-آمریکا-دلار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/افزایش-بهای-ارز-در-ایران-ادامه-دارد-دلار-رکورد-جدید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -586,17 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گروه-مالی-دانایان-از-پلتفرم-مدیریت-ثروت-دانایان-۲۴-رونمایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسکوئیش-ها-از-داغ-ترین-هدایای-این-فصل-تعطیلات-هستند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زمان-رفتن-است-مورگان-استنلی-4-منطقه-از-بازار-سهام/</loc>
+    <loc>https://recart.ir/news/جذب-کربن-از-محورهای-اختلاف-در-کوپ۳۱-تاکتیک-تعویق-یا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -711,6 +716,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-ایرپادهای-جمعه-سیاه-اولیه-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/gta-6-بهشت-یک-پرنده-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خبری-از-نوآوری-نیست-مشخصات-گوشی-باریک-هواوی-میت-۹۰/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اکنون-یک-glp-1-به-شکل-شکلاتی-وجود-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -771,22 +791,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اگر-می-خواهید-از-روز-شکرگزاری-خود-لذت-ببرید-هوش/</loc>
+    <loc>https://recart.ir/news/سه-خرید-در-دستور-کار-بودجه-۵۰-میلیون-پوندی-پوچتینو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گوگل-می-خواهد-شما-را-به-ستاره-همه-فیلم-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خانه-سازی-در-ماه-بدون-مصالح-زمینی-دانشمندان-رگولیت-قمری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-معروف-ترین-مسئله-ریاضی-را-حل-کرد-اکنون/</loc>
+    <loc>https://recart.ir/news/واکنش-های-اعتراضی-به-اجرای-حکم-شلاق-پرستو-احمدی-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -867,6 +877,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اگر-عاشق-دیپلمات-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/درام-لباس-پرشور-از-اسپانیا-در-نتفلیکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هیلا-کلاین-به-دنبال-ماجرای-اتان-کلاین-از-پادکست-h3/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گیریش-جوهر-از-استودیو-زی-در-بازار-فیلم-waves-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/a-r-رحمان-موسیقی-کلاسیک-هندوستانی-خود-را-برای-درام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-گفته-یک-متخصص-بهترین-مکمل-های-منیزیم-و-آنچه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
