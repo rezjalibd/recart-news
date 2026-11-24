@@ -266,6 +266,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دولت-آمریکا-بی-سروصدا-سه-سند-تاریخی-درباره-پاگنده-موجود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هومو-ارکتوس-در-جنگل-بارانی-در-کنار-دنیسوواها-زندگی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنجال-در-مجلس-فرانسه-آیا-ممنوعیت-اجاره-خانه-های-پرمصرف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/چهار-کشور-اروپایی-خواستار-تعویق-مالیات-کربن-بر-سوخت-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -427,6 +427,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/محققان-3-6-میلیارد-نام-کاربری-رمز-عبور-و-سند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,57 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شش-ماه-نرخ-رشد-منفی-اقتصاد-ایران-نفت-و-شبکه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/عینک-هیز-واژه-سال-۲۰۲۶-شد-نگرانی-از-جاسوسی-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ممدانی-با-بازگشت-جنسن-هوانگ-به-انویدیا-اقتصاد-هوش-مصنوعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اشتباه-اصلاح-شد-پایان-قدم-زدن-کوتاه-جنسن-هوانگ-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارکنان-انویدیا-نظر-شما-درباره-بازگشت-جنسن-هوانگ-به-عنوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیپ-فیک-های-jensen-huang-یکی-از-روش-های-جدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیویورک-می-گوید-دیگر-اشتراکی-برای-ویژگی-های-داخل-خودرو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-این-ابزار-داخلی-ویندوز-برای-یافتن-مشکلات-پایداری-رایانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وزارت-بازرگانی-megaspeed-را-به-لیست-سیاه-تجارت-اضافه-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نگرانی-کارمندان-اوپن-ای-آی-و-آنتروپیک-شاید-دیگر-نتوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تماشا-کنید-مرحله-آخر-بازی-gta-vi-و-سرنوشت-نهایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -741,52 +786,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جزر-و-مد-موسیقی-تولید-شده-توسط-هوش-مصنوعی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آغاز-فعالیت-اپراتور-هوش-مصنوعی-هاشمی-شرکت-های-فناور-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-faa-از-شما-نمی-خواهد-که-airpods-را-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-در-حالی-به-انویدیا-بازمی-گردد-که-دره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوگل-قابلیت-ساخت-ویدیوهای-۱۵-ثانیه-ای-و-امتداد-صحنه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/واجیک-چیست-آشنایی-با-دستیارهای-هوش-مصنوعی-برای-کسب-وکارها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارمند-متهم-به-جاسوسی-در-openai-احتمالا-اسرار-تجاری-شرکت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طبق-گزارش-ها-هوانگ-به-بیش-از-دو-رابطه-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-تلویزیون-هوشمند-شما-دائما-اتصال-wi-fi-خود-را-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دانلود-رونق-نیروی-گاز-هوش-مصنوعی-و-بررسی-واقعیت-آگاهی/</loc>
+    <loc>https://recart.ir/news/tidal-اولین-سرویس-استریم-است-که-موسیقی-هوش-مصنوعی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -807,6 +807,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جان-کیلیک-به-اسکار-هوپفول-رابرت-ریچاردسون-شیطان-سفید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیوید-فینچر-می-گوید-دی-سی-ناکارآمد-است-و-نمایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کنسرت-فیلم-و-ساخت-مستند-تور-آفتاب-ابدی-آریانا-گرانده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دیوید-فینچر-می-گوید-که-حلقه-های-قدرت-را-رد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قتل-جان-بنت-رمزی-ملیسا-مک-کارتی-و-کلایو-اوون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کانال-youtube-true-crime-dr-insanity-پادکست-را-با-audioboom-راه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/star-s-revenge-روی-یک-راک-اند-رول-رادیکال-جویرید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
