@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-دوش-آب-سرد-تا-مقاومت-بیشتر-در-برابر-بیماری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گاردین-بیش-از-۴۶۰-هزار-روس-در-جنگ-اوکراین-کشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/طرح-ارتش-برای-منفجر-کردن-مواد-منفجره-در-آیووا-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-می-توان-برنده-شرط-بندی-بزرگ-در-جنسن-هوانگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جاش-سیلورمن-رئیس-بخش-محصولات-و-انتشارات-اسکای-دنس-تیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/با-خاموش-شدن-چراغ-ها-در-حین-بازی-bengals-commanders-پخش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/استیوی-واندر-به-تئوری-های-توطئه-درباره-نابینایی-خود-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-هیت-قطعه-vanity-fair-در-تیلور-سویفت-واقعا-روزنامه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
