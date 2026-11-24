@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کشمکش-بر-سر-آینده-جنگ-ایران-از-فشار-نتانیاهو-تا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازداشت-یک-معلم-در-پی-شکستگی-پای-دانش-آموزی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تهدید-ترامپ-به-حمله-دوباره-به-ایران-پس-از-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هنرمندان-قطر-کانادا-و-مکزیک-چگونه-با-خلاقیت-فرهنگ-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دادگاه-هلند-فروش-شاسی-بلند-چینی-بی-وای-دی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کریدور-ترامپ-در-مرز-ایران-وارد-فاز-اجرایی-شد-پاشینیان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -696,6 +696,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ایجاد-حافظه-ایمنی-در-برابر-سرطان-درمانی-آزمایشی-از-بازگشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/honor-x7e-با-باتری-۷۵۰۰-میلی-آمپرساعتی-معرفی-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوپن-و-کدهای-تبلیغاتی-30-vistaprint-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کد-تخفیف-skullcandy-30-تخفیف-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
