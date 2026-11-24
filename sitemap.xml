@@ -616,6 +616,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حتی-بهترین-عوامل-هوش-مصنوعی-با-زندگی-روزمره-دست-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/والمارت-با-متا-همکاری-می-کند-تا-معاملات-جمعه-سیاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پروژه-کامپایل-مجدد-رایانه-شخصی-gta-vi-توسط-take-two-بسته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/maple-5-3-میلیون-دلار-برای-ساخت-محصولات-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/faa-پس-از-اینکه-کابل-هواپیمای-بدون-سرنشین-تحویل-آمازون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آمازون-کشف-می-کند-که-فالکون-9-و-آریان-6/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-از-کارمندان-انویدیا-عذرخواهی-کرد-و-گفت-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مدیرعامل-استقلال-با-مربی-خارجی-مذاکره-نکرده-ایم-قرارداد-بختیاری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تولیدکنندگان-برادوی-و-اتحادیه-stagehands-با-اجتناب-از-اعتصاب-تعطیلات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سنگین-وزن-هالیوود-دموکرات-ها-را-ترغیب-می-کنند-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اندرو-اسکات-در-مورد-بازی-در-السینور-و-احساس-بسیار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
