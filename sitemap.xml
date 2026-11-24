@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نتانیاهو-کوچک-نمایی-تهدید-جمهوری-اسلامی-با-انگیزه-های-سیاسی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/واکنش-شهروندان-به-شکسته-شدن-پای-دانش-آموز-در-دورود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آمریکا-هشت-فرد-و-۲۲-شرکت-مرتبط-با-شبکه-بانکداری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روایت-تازه-از-مرگ-سوگند-پدرش-می-گفت-یک-روز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ادامه-رکوردشکنی-نرخ-ارز-در-ایران-دلار-از-۲۸۳-هزار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مسافر-نمی-آید-صنعت-گردشگری-ایران-در-رکود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-کدهای-تبلیغاتی-chewy-در-نوامبر-2026-تا-30-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دبیرکل-سازمان-ملل-کشورها-را-به-ایجاد-سازوکارهای-ایمنی-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -701,6 +701,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خانه-سازی-در-ماه-بدون-مصالح-زمینی-دانشمندان-رگولیت-قمری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-معروف-ترین-مسئله-ریاضی-را-حل-کرد-اکنون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/روبو-بیش-از-۴۰-مدل-هوش-مصنوعی-از-chatgpt-تا/</loc>
+    <loc>https://recart.ir/news/افشاگری-داور-سابق-لیگ-برتر-از-تماس-مشکوک-عضو-کمیته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/caréme-و-división-palermo-جوایز-برتر-جوایز-بین-المللی-امی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/careme-و-división-palermo-جوایز-برتر-جوایز-بین-المللی-امی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
