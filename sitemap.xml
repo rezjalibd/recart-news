@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/میراث-فرهنگی-یا-سپر-نظامی-واکنش-به-احداث-پایگاه-کنار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پرونده-قتل-نوجوان-۱۷-ساله-فرانسوی-پلیس-شلیک-کننده-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/روزنامه-نگاران-جعلی-کارزار-نفوذ-ایران-با-استفاده-از-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,47 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حملات-سایبری-به-ده-ها-کشتی-و-پیام-های-تهدیدآمیز/</loc>
+    <loc>https://recart.ir/news/اتحادیه-اروپا-و-جدال-تلخ-بودجه-کمک-به-اوکراین-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تهران-بر-جاه-طلبی-های-هسته-ای-پافشاری-می-کند/</loc>
+    <loc>https://recart.ir/news/تصاویر-مبهم-از-یک-حیوان-شبیه-شیر-باعث-جست-وجوی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هشدار-پزشکان-درباره-خطر-آفت-کش-ها-برای-باروری-هم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کشته-شدن-۲۶-نفر-در-حمله-به-خودروها-در-یمن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راز-ثروت-آنتونی-گائودی-پس-از-صد-سال-فاش-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خاطرات-شخصی-رهبر-پیشین-کاتولیک-ها-پاپ-فرانسیس-مدعی-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اوکراین-خواستار-تحریم-صنعت-هسته-ای-روسیه-و-توقف-صادرات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رئیس-امنیت-داخلی-حماس-در-حمله-هوایی-اسرائیل-به-غزه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آغاز-اجرای-مسیر-ترامپ-در-ارمنستان-آمریکا-با-سهم-۷۴/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -366,47 +411,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/برنامه-های-وفاداری-مهم-هتل-ها-در-اروپا-که-باید/</loc>
+    <loc>https://recart.ir/news/شش-ماه-نرخ-رشد-منفی-اقتصاد-ایران-نفت-و-شبکه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پهپاد-رهگیر-ساخت-آلمان-و-اوکراین-پهپاد-جت-روسیه-را/</loc>
+    <loc>https://recart.ir/news/یک-نرخ-بهره-سه-تورم-متفاوت-چرا-گرانی-در-کشورهای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پژوهش-تازه-نشانه-های-خطر-سکته-قلبی-و-مغزی-دهه/</loc>
+    <loc>https://recart.ir/news/چین-و-سنگاپور-تامین-مالی-یوان-را-گسترش-دادند-تلاش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رویترز-آمریکا-طرح-آموزش-مین-زدایی-به-نیروهای-ارتش-سوریه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تحقیقات-گاردین-نشان-می-دهد-دست-کم-۴۶۰-هزار-مرگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-دوش-آب-سرد-تا-مقاومت-بیشتر-در-برابر-بیماری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گاردین-بیش-از-۴۶۰-هزار-روس-در-جنگ-اوکراین-کشته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنگنده-های-روسیه-وارد-منطقه-شناسایی-پدافند-هوایی-کره-جنوبی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تلاش-قطر-برای-احیای-دیپلماسی-میان-ایران-و-آمریکا-سپاه/</loc>
+    <loc>https://recart.ir/news/جنگ-در-خاورمیانه-هزینه-گاز-اروپا-را-۵۲-میلیارد-یورو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -581,26 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازگشت-بتمن-خودروی-نمادین-بات-موبیل-تیم-برتون-به-حراج/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدیرعامل-بولت-اروپا-در-ربات-تاکسی-و-بورس-از-رقبا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کلیات-طرح-افزایش-حداقل-دستمزد-کارگران-متناسب-با-تورم-تصویب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-پزشک-پزشکی-ورزشی-استنفورد-که-دوندگان-اولتراماراتن-را-معالجه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جذب-کربن-از-محورهای-اختلاف-در-کوپ۳۱-تاکتیک-تعویق-یا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -716,6 +716,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/طبق-گزارش-ها-هوانگ-به-بیش-از-دو-رابطه-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-تلویزیون-هوشمند-شما-دائما-اتصال-wi-fi-خود-را-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانلود-رونق-نیروی-گاز-هوش-مصنوعی-و-بررسی-واقعیت-آگاهی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رقیب-جدید-جیمیل-از-راه-رسید-ایمیل-بدون-تبلیغات-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هواوی-میت-x8-با-نمایشگر-۸-۲-اینچی-و-طراحی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باریک-ترین-ساعت-هوشمند-هواوی-از-راه-رسید-واچ-ایر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کوین-اولری-گفت-جنسن-هوانگ-شانس-بازگشت-به-او-صفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-ایرپادهای-جمعه-سیاه-اولیه-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
