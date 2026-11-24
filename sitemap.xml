@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قتل-هلیا-فتاحی-در-سنندج-پدر-و-مادرش-بازداشت-شدند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سخنگوی-دولت-از-پزشکیان-انتقاد-می-کنند-چون-نهج-البلاغه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تداوم-سیاست-جمعیتی-پدر-مجتبی-خامنه-ای-خواستار-فرزندآوری-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مسمومیت-الکلی-در-هرمزگان-۳-نفر-را-کشت-۱۳-نفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتانیاهو-در-مخالفت-با-آیزنکوت-تهدید-جمهوری-اسلامی-فوری-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیان-صالحیان-پزشک-ساکن-ارومیه-به-یک-سال-زندان-محکوم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -696,6 +696,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/honor-x7e-با-باتری-۷۵۰۰-میلی-آمپرساعتی-معرفی-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شاسی-بلند-لوکس-byd-با-قدرت-۱۱۹۴-اسب-بخار-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کد-تخفیف-skullcandy-30-تخفیف-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اپل-سریال-تد-لاسو-را-تمدید-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
