@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دیدار-محرمانه-ماموران-اطلاعاتی-ژاپن-و-کره-شمالی-در-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اختصاصی-یورونیوز-پیمان-مهاجرتی-اتحادیه-اروپا-در-سال-نخست-بیش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هجوم-بی-سابقه-مهاجران-به-جزایر-قناری-رکورد-ماهانه-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فنلاند-سفیر-روسیه-را-احضار-کرد-هلسینکی-اقدامات-مسکو-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -691,6 +691,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/راهنمای-استفاده-از-هوش-مصنوعی-در-پژوهش-ابلاغ-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اینترنت-چینی-بازگشت-پیروزمندانه-جنسن-هوانگ-به-قدرت-در-انویدیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کدهای-تبلیغاتی-nomad-goods-در-نوامبر-2026-25-تخفیف-دریافت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-کوپن-هوکا-30-تخفیف-در-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
