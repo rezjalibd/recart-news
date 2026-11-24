@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هفته-صد-و-چهل-وهشتم-کارزار-سه-شنبه-های-نه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/میراث-فرهنگی-یا-سپر-نظامی-واکنش-به-احداث-پایگاه-کنار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وال-استریت-ژورنال-احتمال-دخالت-ایران-در-حملات-سایبری-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جوانان-ایرانی-با-شاید-لازمتان-شد-به-استقبال-اعتراضات-احتمالی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -716,6 +716,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-در-حالی-به-انویدیا-بازمی-گردد-که-دره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوگل-قابلیت-ساخت-ویدیوهای-۱۵-ثانیه-ای-و-امتداد-صحنه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/واجیک-چیست-آشنایی-با-دستیارهای-هوش-مصنوعی-برای-کسب-وکارها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارمند-متهم-به-جاسوسی-در-openai-احتمالا-اسرار-تجاری-شرکت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طبق-گزارش-ها-هوانگ-به-بیش-از-دو-رابطه-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -771,22 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/باتری-بزرگ-در-دل-بدنه-ای-بسیار-باریک-هواوی-میت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-فرمان-ترمینال-به-دستگاه-اندرویدی-فراموش-شده-من-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایده-های-هدیه-برای-دوستان-2026-فناوری-سلامتی-ملزومات-آشپزخانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هواوی-میت-x8-با-نمایشگر-۸-۲-اینچی-و-طراحی/</loc>
+    <loc>https://recart.ir/news/رویترز-بازگشت-هوانگ-پیش-از-پایان-تحقیقات-استقلال-هیات-مدیره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -906,6 +911,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/snl-با-canal-nbcuniversal-unveiling-cast-و-manu-payet-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بی-بی-سی-cbeebies-hub-را-در-نتفلیکس-راه-اندازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بیوگرافی-لیزا-استالکار-مستند-ترس-و-نفرت-در-کاتماندو-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدیران-کهنه-کار-سرگرمی-رسانه-و-برند-به-نیروها-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-اکشن-و-هیجان-انگیز-فرانسوی-نتفلیکس-نیروی-نخبگان-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
