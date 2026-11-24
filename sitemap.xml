@@ -841,6 +841,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/oura-ring-5-درمان-با-نور-قرمز-و-مراقبت-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-های-تعاملی-the-run-kaiju-princess-back-from-the/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/درست-نیست-آنتوان-فوکوا-ادعای-حمله-مسلحانه-مدیر-بار-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گرگ-هوانسیان-و-لیندسی-نورمینگتون-نقش-آفرینی-در-فیلم-هیجان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتقام-جویان-روز-رستاخیز-مارول-برای-بفتا-گلدن-گلوب-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماریان-گودل-مدیر-عامل-burning-man-خسته-نیستم-کارم-تمام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
