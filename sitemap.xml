@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چهار-برادر-ابوالقاسم-بابایی-از-جان-باختگان-اعتراضات-دی-ماه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازداشت-یک-نوجوان-۱۵ساله-و-دو-شهروند-دیگر-در-آبدانان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تعداد-قربانیان-مسمومیت-الکلی-در-سه-استان-به-۱۴-نفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قتل-هلیا-فتاحی-در-سنندج-پدر-و-مادرش-بازداشت-شدند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -421,6 +421,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سه-دلیل-برای-عدم-استفاده-از-اکنون-بخرید-بعدا-بپردازید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/می-توانید-hulu-و-disney-plus-را-با-حداقل-5/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کلیات-طرح-افزایش-حداقل-دستمزد-کارگران-متناسب-با-تورم-تصویب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-پزشک-پزشکی-ورزشی-استنفورد-که-دوندگان-اولتراماراتن-را-معالجه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -801,6 +801,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/u2-تاریخ-های-آمریکای-شمالی-را-برای-بزرگترین-نمایش-جهان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راو-آلخاندرو-با-بازی-rockstar-رویای-کودکی-خود-را-برآورده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/u2-در-تور-ورزشگاه-2027-آمریکای-شمالی-را-متوقف-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تقریبا-دوشنبه-دومین-پخش-آلترناتیو-شماره-1-را-با-نه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-خانه-موسیقی-به-اجرای-حکم-شلاق-پرستو-احمدی-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محمد-تقوی-استقلال-بهترین-نمایش-را-داشت-تراکتور-پس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بی-بی-سی-cbeebies-hub-را-در-نتفلیکس-راه-اندازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ساختمان-ها-مانند-رعد-و-برق-سقوط-می-کنند-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
