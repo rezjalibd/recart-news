@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نه-جنگ-نه-صلح-آیا-وضعیت-کنونی-ایران-در-جهان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تعداد-قربانیان-مسمومیت-الکلی-در-سه-استان-به-۱۴-نفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازداشت-شش-ماهه-یک-زوج-نخبه-در-ارومیه-با-اتهامات/</loc>
+    <loc>https://recart.ir/news/احتمال-حمله-یک-جانبه-اسرائیل-به-ایران-واشنگتن-از-تهران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/صدراعظم-آلمان-رد-پیشنهاد-عضویت-اوکراین-در-ناتو-در-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آمریکا-ملانیا-ترامپ-از-درخت-کریسمس-۲۰۲۶-کاخ-سفید-استقبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,17 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گام-تازه-در-مسیر-صلح-ترکیه-و-پ-ک-ک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مخالفت-کشورهای-اروپایی-با-بازگشت-روسیه-به-ورزش-جهان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هنرمندان-قطر-کانادا-و-مکزیک-چگونه-با-خلاقیت-فرهنگ-ها/</loc>
+    <loc>https://recart.ir/news/فرودگاه-کپنهاگ-برای-پذیرش-سالانه-۵۵-میلیون-مسافر-توسعه-بزرگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-جمعه-سیاه-دو-سال-پروتون-vpn-را-فقط-با/</loc>
+    <loc>https://recart.ir/news/دبیرکل-سازمان-ملل-کشورها-را-به-ایجاد-سازوکارهای-ایمنی-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -696,6 +701,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اپل-برای-مک-بوک-نئو-برنامه-تازه-ای-دارد-ارتقاء/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گپ-جی-پی-تی-به-gapgpt-ir-منتقل-شد-حساب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مهندس-عربستانی-openai-به-ضبط-مخفیانه-بیش-از-۱۶۰-ساعت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وزارت-ارتباطات-اولین-موافقت-اصولی-خدمات-هوش-مصنوعی-را-صادر/</loc>
+    <loc>https://recart.ir/news/تمرین-فوتبال-با-هدست-واقعیت-مجازی-نوآوری-استارت-آپ-نروژی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وودی-هارلسون-دو-بار-پیشنهاد-هیمیچ-را-رد-کرد-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درام-جنایی-مراتی-هوردا-آن-تاپ-سبز-تنگ-مردانگی-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
