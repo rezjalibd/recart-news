@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-می-خواهید-در-این-کریسمس-برای-کودک-خود-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مهندس-سابق-تسلا-می-گوید-هوش-مصنوعی-شغل-های-جعلی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رکورد-تاریخی-در-پزشکی-زنی-با-کلیه-خوک-یک-سال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آغازهای-ناتمام-۲۰-هزار-شیشه-شیر-خالی-در-گرامیداشت-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -822,6 +822,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانشگاه-رایس-می-گوید-دریک-بدون-اجازه-صحنه-های-ویدیویی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انتشار-بهاره-ستوان-بد-توکیو-تاکاشی-میکه-از-مجموعه-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/blackstar-s-luminary-gala-برای-نسخه-چهارم-بازمی-گردد-ماهرشالا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رایحه-جدید-dude-wipes-dingle-bells-شادی-تعطیلات-و-پشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-اکران-ماجراهای-اشتباه-بعدی-کلیف-غرفه-تنها-در-200/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -952,31 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-فیلم-کوتاه-که-درام-و-ناراحتی-را-به-عنوان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/hold-onto-me-اولین-فیلم-میرسینی-آریستیدو-قدرت-اتصال-مجدد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پادکست-جدید-hallmark-با-مجموعه-مصاحبه-با-میزبانی-ملیسا-پیترمن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ری-امی-مجری-سریال-مسابقه-موسیقی-چه-کسی-در-گروه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایک-پلانت-برنامه-نویس-فیلم-کوتاه-جشنواره-فیلم-ساندنس-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتفلیکس-نقطه-جدیدی-را-به-کارگردانی-پیتر-برگ-با-الهام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
