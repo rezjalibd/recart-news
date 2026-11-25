@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-تازه-واشنگتن-به-شهروندان-آمریکایی-برای-خروج-فوری-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/محبوب-ترین-شهرهای-اروپایی-برای-تعطیلات-کریسمس-بر-اساس-روند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هشدار-پناه-گرفتن-به-ساکنان-جزیره-ای-در-کره-جنوبی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجله-خبری-۴-آذر-۱۴۰۵-۲۵-نوامبر-۲۰۲۶---بامدادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -462,6 +462,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کامپیوترهای-اقتصادی-احتمالا-به-۸-گیگابایت-رم-برمی-گردند-هشدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/طرفداران-بازار-در-مورد-کاهش-قیمت-آنتروپیک-به-زیر-قیمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-واقعا-یک-آشفتگی-بود-خودی-های-متا-نگران-فشار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کدهای-تبلیغاتی-noom-50-تخفیف-بهترین-تخفیف-ها-برای-نوامبر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/والمارت-با-متا-همکاری-می-کند-تا-معاملات-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پروژه-کامپایل-مجدد-رایانه-شخصی-gta-vi-توسط-take-two-بسته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/maple-5-3-میلیون-دلار-برای-ساخت-محصولات-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
