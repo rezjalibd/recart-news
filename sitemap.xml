@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/لاجوردی-نماینده-مجلس-تعریف-ما-از-خشونت-علیه-زنان-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قتل-دختر-نوجوان-در-پارک-ساحلی-میاندوآب-به-دست-نامزدش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شیر-های-گیاهی-ید-و-کلسیم-کافی-ندارند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اجرای-حکم-اعدام-نوید-نجاران-و-میلاد-آرمون-متوقف-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -621,6 +621,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مانیفست-پاریس-ما-نحوه-برخورد-با-ثروت-شدید-در-عصر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جامعه-جنایت-واقعی-الهام-بخش-حملات-خشونت-آمیز-از-طریق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-قاب-ها-و-لوازم-جانبی-آیفون-duo-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-واقعا-یک-آشفتگی-بود-خودی-های-متا-نگران-فشار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-noom-50-تخفیف-بهترین-تخفیف-ها-برای-نوامبر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اونجرز-روز-حساب-تریلر-نهایی-رکورد-زد-و-دومین-پرتماشاگرترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -881,6 +881,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اسکات-ادکینز-در-مورد-بازگشت-تیم-diablo-برای-عدالت-بی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دامیان-لوئیس-فیلم-کوتاه-اودسا-را-به-عنوان-تهیه-کننده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/داستان-عاشقانه-هیمالیا-وینود-کاپری-پایر-پس-از-انتشار-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پلیس-می-گوید-مواد-ناشناخته-که-در-نمایشگاه-تخلیه-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-hershey-در-یک-فیلم-بیوگرافی-شیرین-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قهرمان-فصل-35-تاج-های-رقص-با-ستاره-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آماندا-سیفرید-فاش-می-کند-که-برای-دسترسی-به-اسکریپت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگردان-انتقام-جویان-سخنرانی-بسیار-احساسی-پاتریک-استوارت-را-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
