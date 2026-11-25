@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آقاسی-تاریخ-جدیدی-برای-اجرای-احکام-اعدام-پرونده-اکباتان-اعلام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خواسته-های-جمهوری-اسلامی-و-آمریکا-از-یکدیگر-چیست-چرا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جزئیات-تازه-از-جلسه-انتخاب-مجتبی-خامنه-ای-روایت-خبرگان/</loc>
+    <loc>https://recart.ir/news/محمد-ذیشان-علی-نخستین-فضانورد-پاکستانی-وارد-ایستگاه-فضایی-چین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ماتروشکا-کارزار-روسی-اطلاعات-نادرست-علیه-انتخابات-اسپانیا-چیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/درگیری-معلمان-با-پلیس-در-اعتصاب-سراسری-علیه-کاهش-بودجه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -472,6 +472,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/التکس-و-بانک-دی-تفاهم-نامه-همکاری-امضا-کردند-معرفی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/20-تا-از-جالب-ترین-جوراب-های-جوراب-ساق-بلند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-ردیاب-تناسب-اندام-بدون-صفحه-whoop-را-به-مدت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -876,6 +876,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پادکست-ویدیویی-ست-دوتایی-برایان-گلوکشتاین-و-لیندا-ریوز-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جان-تراولتا-از-تماشاگرانش-در-مراسم-جایزه-یک-عمر-دستاورد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنا-اوشکویتز-می-گوید-ادای-احترام-کوری-مونتیث-گلی-کار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خلاصه-داستان-پایانی-dancing-with-the-stars-چه-کسی-جایزه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
