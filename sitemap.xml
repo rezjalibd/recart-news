@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حمایت-گوگوش-از-پرستو-احمدی-حکم-شلاق-زخمی-بر-پیکر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-طرح-کشتن-رهبران-ایران-تا-بازتاب-شلاق-پرستو-احمدی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پابند-الکترونیکی-برای-گراناز-موسوی-۱۵سال-پیگرد-قضایی-برای-تهران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پاسخ-شهروندان-به-فراخوان-فرزندآوری-مجتبی-خامنه-ای-گردن-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتشار-ویدئوی-لحظه-انتخاب-مجتبی-خامنه-ای-در-مجلس-خبرگان/</loc>
+    <loc>https://recart.ir/news/ترامپ-هدف-اسرائیل-برای-تغییر-حکومت-در-ایران-احتمالا-شدنی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -241,7 +246,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-هدف-اسرائیل-برای-تغییر-حکومت-در-ایران-احتمالا-شدنی/</loc>
+    <loc>https://recart.ir/news/ترامپ-هدف-اسرائیل-برای-تغییر-حکومت-در-ایران-احتمالا-شدنی-88e47b/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وزارت-جنگ-آمریکا-کانادا-را-شریک-دفاعی-غیرقابل-اعتماد-خواند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مخالفت-۷۶-نماینده-پارلمان-اروپا-با-انتقال-مهاجران-به-رواندا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
