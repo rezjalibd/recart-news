@@ -31,6 +31,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مروا-نبیلی-از-زنان-پیشگام-سینمای-ایران-در-۸۵-سالگی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لیبرمن-هیچ-توجیهی-برای-حمله-فوری-اسرائیل-به-ایران-وجود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پرونده-سنگین-قضایی-برای-نایب-قهرمان-پارالمپیک-لی-فرایر-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/افزایش-قربانیان-مسمومیت-با-الکل-تقلبی-۲۰جان-باخته-۸۰-دیالیزی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -206,17 +221,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پرونده-جنجالی-قهرمانی-جام-ملت-های-آفریقا-۲۰۲۵-مراکش-به/</loc>
+    <loc>https://recart.ir/news/بیش-از-نیم-قرن-انتظار-جست-وجو-برای-یافتن-۹۱۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بی-خبری-از-سرنوشت-مجید-سعیدی-درخواست-بین-المللی-برای/</loc>
+    <loc>https://recart.ir/news/جنیفر-بارتو-از-پورتوریکو-نخستین-زن-متاهل-شد-که-عنوان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/محکومیت-هوآوی-در-آمریکا-به-دلیل-نقض-تحریم-های-ایران/</loc>
+    <loc>https://recart.ir/news/اروپا-به-سلامت-دیجیتال-روی-آورده-است-بیماران-واقعا-سودی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کره-شمالی-دستور-تعطیلی-دفتر-دیپلماتیک-سوئیس-را-صادر-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سازمان-ملل-درباره-افزایش-خطر-نسل-کشی-و-جنایت-علیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -386,27 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/خودرو-بی-وای-دی-قصد-دارد-در-فرانسه-تولید-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اروپایی-ها-به-سوی-پمپ-های-حرارتی-می-روند-نصب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-هدف-اسرائیل-برای-تغییر-حکومت-در-ایران-احتمالا-شدنی-88e47b/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سازمان-حقوق-بشری-هه-نگاو-دختر-۱۶-ساله-در-میاندوآب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-تازه-واشنگتن-به-شهروندان-آمریکایی-برای-خروج-فوری-از/</loc>
+    <loc>https://recart.ir/news/اتحادیه-اروپا-برنامه-سرمایه-گذاری-۵۰-میلیارد-یورویی-در-صنعت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -506,6 +511,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کالیان-کریشنامورتی-مدیرعامل-فلیپ-کارت-هفته-آینده-در-بحبوحه-عدم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بررسی-acer-predator-atlas-8-عملکرد-قوی-با-قیمت-کمی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/متا-یک-برنده-غافلگیرکننده-در-تعطیلات-فروشگاه-tiktok-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -586,17 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جان-فلتون-مدیر-مالی-aws-تفکر-پشت-سر-راهبرد-۲۲۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-حال-دریافت-نامزدها-برای-فهرست-ستارگان-نوظهور-بازاریابی-برند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/التکس-و-بانک-دی-تفاهم-نامه-همکاری-امضا-کردند-معرفی/</loc>
+    <loc>https://recart.ir/news/قطار-شما-تأخیر-دارد-در-چک-می-توانید-از-قطار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-با-خانواده-خود-در-مورد-a-i-صحبت-کنیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جودی-دنچ-نظرش-درباره-رابرت-پتینسون-به-عنوان-جیمز-باند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -886,6 +886,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هالیوود-در-کتاب-تصویری-طنز-ما-فیلم-می-سازیم-برشته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کریستینا-بوگیچ-ستاره-بدن-فقط-می-خواست-از-آنیا-مراقبت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پلیس-می-گوید-مواد-ناشناخته-که-در-نمایشگاه-تخلیه-شده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سریال-جنایی-تحسین-شده-با-دنباله-ای-در-نتفلیکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
