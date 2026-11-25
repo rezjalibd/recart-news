@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شبکه-ای-مستقر-در-ایران-با-هوش-مصنوعی-و-خبرنگاران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جزییات-تازه-از-سرکوب-و-کشتار-دی-ماه-در-ممسنی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازدید-خانم-راشل-از-دادگاه-مهاجرت-نیویورک-برای-حمایت-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیوه-سانی-بونو-در-حماسه-سلطنتی-cher-به-دادگاه-استیناف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کارگردان-انتقام-جویان-سخنرانی-بسیار-احساسی-پاتریک-استوارت-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنا-اوشکویتز-ستاره-glee-می-گوید-ادای-احترام-کوری-مونتیث/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/og-anunoby-skechers-sneakers-nyc-blue-را-با-الهام-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/dolly-parton-estate-تیم-خلاقی-را-نشان-می-دهد-که-029058/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جیمز-مارسدن-از-مردان-ایکس-در-فیلم-انتقام-جویان-روز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-آخرین-سفارش-کارگر-محبوب-درایو-سیگل-ویلیامز-می-گوید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
