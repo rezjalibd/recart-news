@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نقد-و-بررسی-hershey-در-یک-فیلم-بیوگرافی-شیرین-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قهرمان-فصل-35-تاج-های-رقص-با-ستاره-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آزمایشگاه-فیلم-اندونزی-و-فرانسه-از-شش-پروژه-رونمایی-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیش-بینی-گلدن-گلوب-170-فیلم-و-475-بازیگر-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
