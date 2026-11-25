@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/به-علت-رانندگی-خطرناک-رحیم-استرلینگ-به-۱۲-ماه-زندان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/احضار-دوباره-کوکب-بداغی-به-هیات-تخلفات-اداری-آموزش-وپرورش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ادعای-سپاه-در-باره-انفجار-دو-نفتکش-دیگر-در-تنگه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-سفارت-مجازی-آمریکا-درباره-تهدیدهای-جمهوری-اسلامی-شهروندان-آمریکایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دلار-۲۹۰-هزار-تومانی-به-پیش-بینی-بسنت-نزدیک-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بحران-در-صنایع-اروپا-گزارش-مک-کینزی-از-خطر-نابودی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -501,6 +506,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/متا-یک-برنده-غافلگیرکننده-در-تعطیلات-فروشگاه-tiktok-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اگر-پرواز-روز-شکرگزاری-شما-به-دلیل-آب-و-هوا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فروش-۸-هزار-میلیارد-تومانی-دیجی-کالا-در-نخستین-روز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -586,21 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/خودرو-برقی-را-پارک-کنید-و-پول-در-بیاورید-طرح/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مانیرو-چیست-چگونه-به-مانیرو-اعتماد-کنیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تا-۳۰۰-میلیون-تومان-اعتبار-خرید-بزرگ-ترین-حراج-سال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پیانیست-رباتیک-جسور-تئوترونیکو-با-۵۳-انگشت-رقیب-نوازندگان-انسان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -622,6 +622,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-کسب-و-کار-خانوادگی-هوانگ-با-2-فرزند-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اتصال-نرم-افزار-هلو-به-اسنپ-مارکت-مدیریت-یکپارچه-فروش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مصوبه-مجلس-برای-ثبت-فعالیت-با-کارگزاران-خارجی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
