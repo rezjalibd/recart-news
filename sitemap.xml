@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/لندکروزر-کوچک-تویوتا-با-ظاهری-خشن-تر-برای-آفرود-آماده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-واقعا-یک-آشفتگی-بود-خودی-های-متا-نگران-فشار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/حتی-بهترین-عوامل-هوش-مصنوعی-با-زندگی-روزمره-دست-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/والمارت-با-متا-همکاری-می-کند-تا-معاملات-جمعه-سیاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
