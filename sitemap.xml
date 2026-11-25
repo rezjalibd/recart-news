@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-می-توان-تمام-طلب-را-از-ورثه-متوفی-مطالبه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پدر-پرستو-احمدی-شلاق-نماد-ظلم-به-هنر-و-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مای-ساتو-خواستار-توقف-حکم-اعدام-میلاد-آرمون-و-نوید/</loc>
+    <loc>https://recart.ir/news/احتمال-حمله-تازه-آمریکا-به-ایران-اختلاف-در-دولت-ترامپ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرخش-دیپلماتیک-بوداپست-در-پساکرانه-قدرت-اوربان-مجار-و-زلنسکی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اروپ-تودی-رئیس-جمهور-مونته-نگرو-طرح-عضویت-کشورش-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,21 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ان-بی-سی-نیوز-مقام-های-دولت-ترامپ-درباره-حذف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انفجار-خودروی-بمب-گذاری-شده-در-کلمبیا-دست-کم-۲۴/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/غیبت-قطعی-در-اوپن-استرالیا-عمل-جراحی-زانوی-سینر-موفقیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/درگیری-معلمان-با-پلیس-در-اعتصاب-سراسری-علیه-کاهش-بودجه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -472,6 +472,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سهام-مورد-علاقه-صندوق-های-تامینی-امسال-به-آنها-آسیب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنچه-که-دونالد-ترامپ-جف-بزوس-جی-زی-و-دیگر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جان-فلتون-مدیر-مالی-aws-تفکر-پشت-سر-راهبرد-۲۲۰/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-حال-دریافت-نامزدها-برای-فهرست-ستارگان-نوظهور-بازاریابی-برند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -581,26 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/131-بهترین-فروش-و-معاملات-جمعه-سیاه-که-اکنون-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-وسواس-زیادی-به-owala-all-day-crossbody-که-متناسب-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-ساندبارهای-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/20-تا-از-جالب-ترین-جوراب-های-جوراب-ساق-بلند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/یک-سامانه-غیرمحرمانه-سازمان-سیا-در-حمله-سایبری-هک-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طرح-جایگزینی-۵۰-هزار-موتورسیکلت-فعال-در-پلتفرم-های-اینترنتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مراقب-حساب-اسنپ-پی-خود-باشید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تب-جاسوسی-در-دره-سیلیکون-آیا-شما-یک-عسل-هستید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,17 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کوپن-های-nordvpn-75-تخفیف-3-ماه-رایگان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کد-تبلیغاتی-آدیداس-60-تخفیف-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پس-از-گزارش-نفوذ-به-cia-یک-نهاد-حساس-مالی/</loc>
+    <loc>https://recart.ir/news/اونجرز-روز-حساب-تریلر-نهایی-رکورد-زد-و-دومین-پرتماشاگرترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -872,6 +877,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سول-کیونگ-گو-در-مورد-فیلم-عشق-ممکن-یک-صحنه-سبک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برنامه-فوتبال-هفته-شکرگزاری-nfl-نحوه-تماشا-و-پخش-زنده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ستاره-امپراطور-ازدواج-مجدد-شین-مینا-در-مورد-بازی-سلطنتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/6-آهنگ-جدید-پاپ-تعطیلات-از-هیلاری-داف-اولیویا-رودریگو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
