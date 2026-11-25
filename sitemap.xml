@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اروپای-امروز-رئیس-جمهور-مونته-نگرو-برنامه-پیوستن-کشورش-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-شبکه-های-اجتماعی-عنصر-غافلگیری-و-حیرت-زندگی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/محمد-ذیشان-علی-نخستین-فضانورد-پاکستانی-وارد-ایستگاه-فضایی-چین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عملیات-ماتریوشکا-چیست-و-روسیه-چگونه-با-اخبار-جعلی-انتخابات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نارضایتی-۸۸-درصد-آلمانی-ها-از-عملکرد-صدراعظم-محبوبیت-فریدریش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ان-بی-سی-دولت-ترامپ-هدف-قرار-دادن-سران-جمهوری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یک-سامانه-غیرمحرمانه-سازمان-سیا-در-حمله-سایبری-هک-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-این-تنظیمات-برنامه-سرعت-وای-فای-starlink-خود-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عامل-جدید-هوش-مصنوعی-gemini-به-طور-شگفت-انگیزی-مفید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
