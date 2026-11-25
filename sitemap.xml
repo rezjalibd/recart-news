@@ -31,6 +31,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کشته-شدن-دست-کم-۲۸۱-کودک-در-سرکوب-اعتراضات-دی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وزیر-دفاع-اسرائیل-ایران-در-حال-ساخت-سلاح-شیمیایی-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-کودکان-ایرانی-از-تحصیل-بازمی-مانند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مسمومیت-با-الکل-پای-محصولات-بسته-بندی-شده-فروشگاهی-هم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -206,17 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تاکید-قطر-بر-ادامه-میانجی-گری-و-اختلاف-نظر-در/</loc>
+    <loc>https://recart.ir/news/پایان-گروگان-گیری-یک-روزه-در-کلمبیا-تمام-گروگان-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سنگال-با-حکم-دادگاه-داوری-ورزش-قهرمانی-جام-ملت-های/</loc>
+    <loc>https://recart.ir/news/خودرو-بی-وای-دی-قصد-دارد-در-فرانسه-تولید-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قطر-در-واکنش-به-اعتراض-ایران-هیچ-حمله-ای-به/</loc>
+    <loc>https://recart.ir/news/اروپایی-ها-به-سوی-پمپ-های-حرارتی-می-روند-نصب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,17 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازداشت-دو-مرد-به-ظن-سرقت-از-اقامتگاه-شاهزاده-ویلیام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جدال-بر-سر-ژئوپلیتیک-قفقاز-چرا-تهران-ساخت-مسیر-ترامپ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-دنبال-حملات-اوکراین-در-خلیج-فنلاند-و-آب-های/</loc>
+    <loc>https://recart.ir/news/اقتصاد-اسپانیا-در-حال-شکوفایی-است-چرا-دستمزد-واقعی-هنوز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-فنی-از-sam-s-club-فروش-اولیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-پیشنهادهای-بازی-جمعه-سیاه-اولیه-2026-در-لپ-تاپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
