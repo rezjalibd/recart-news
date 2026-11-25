@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عراقچی-اسراییل-با-طرح-موضوع-سلاح-شیمیایی-به-دنبال-فریب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-محدودیت-موشکی-علی-خامنه-ای-تا-سیاست-بدون-محدودیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آیا-می-توان-تمام-طلب-را-از-ورثه-متوفی-مطالبه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پدر-پرستو-احمدی-شلاق-نماد-ظلم-به-هنر-و-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -566,6 +566,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/افتتاحیه-avengers-doomsday-270-میلیون-دلار-بالاترین-عکسی-است-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/باکس-آفیس-hunger-games-sunrise-on-the-reaping-در-روز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,12 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چرا-به-سیاستمداران-اجازه-داد-و-ستد-سهام-را-می/</loc>
+    <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <loc>https://recart.ir/news/چگونه-مراکز-داده-باعث-رونق-گاز-طبیعی-ایالات-متحده-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-پایه-گردن-تلفن-مغناطیسی-راه-حل-فیلمبرداری-آسانی-بود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -647,11 +657,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایربادی-که-صدا-هم-ضبط-می-کند-این-ناتینگ-ایر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-پایه-گردن-تلفن-مغناطیسی-راه-حل-فیلمبرداری-آسانی-بود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هر-آنچه-که-باید-درباره-فروش-جمعه-سیاه-2026-قبل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آغازهای-ناتمام-۲۰-هزار-شیشه-شیر-خالی-در-گرامیداشت-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -806,12 +806,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تصاویر-عجیب-فیلم-جدید-فینچر-و-برد-پیت-تماشاگران-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/10-بهترین-فیلم-و-برنامه-تلویزیونی-برای-پخش-جریانی-آخر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/داخل-اقامتگاه-msg-هری-استایلز-و-چرا-طرفداران-کنسرت-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آریانا-گرانده-می-گوید-واکنش-دیوانه-کننده-به-موزیک-ویدیوی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوردون-رمزی-میزبان-top-gear-خواهد-بود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تهیه-کننده-بازی-های-گرسنگی-اعتراف-کرد-که-ملک-جی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/50-سال-پیش-امروز-نیل-یانگ-ساعت-1-بامداد-بازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایلی-سایرس-جایزه-میراث-قهرمانان-سی-ان-ان-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تقویم-ظهور-نهایی-برای-جت-ستترها-خلاقیت-هنرمند-لیلا-گوهر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/the-chicks-willie-colón-به-شکایت-موسیقی-هوش-مصنوعی-علیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
