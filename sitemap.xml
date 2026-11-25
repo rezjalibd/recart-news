@@ -841,6 +841,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/breaking-baz-فلوریان-زلر-نویسنده-و-کارگردان-bunker-ما-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/باب-سگر-عزادار-کریس-کمپبل-نوازنده-گروه-بیس-گلوله-نقره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-بلک-فرایدی-béis-تا-50-درصد-تخفیف-برای-کیف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ignite-از-jo1-در-صدر-100-فیلم-داغ-ژاپن-قرار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تاریخ-پخش-فصل-سوم-سریال-the-pitt/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برادفورد-کاکس-تشخیص-اوتیسم-را-فاش-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کاردی-بی-و-افست-می-بینند-که-دادخواست-عمارت-بورلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ناگهان-فیلم-نادری-است-که-ممکن-است-زندگی-شما-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
