@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-انجمن-صنفی-معلمان-کردستان-درباره-خشونت-علیه-زنان-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/توقیف-پنج-رسانه-در-ایلام-پس-از-انتشار-مطالبی-درباره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چرا-کودکان-ایرانی-از-تحصیل-بازمی-مانند/</loc>
+    <loc>https://recart.ir/news/رد-پای-حزب-الله-کشف-بیش-از-یک-تن-مواد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بزرگ-ترین-کارخانه-ماهواره-اروپا-در-شارلروآ-بلژیک-افتتاح-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معترضان-در-برابر-پارلمان-اروپا-علیه-لایحه-آفت-کش-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -631,12 +631,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دانلود-هوش-مصنوعی-رکوردهای-باز-را-باتلاق-می-کند-و/</loc>
+    <loc>https://recart.ir/news/بلک-فرایدی-تکنولایف-ادامه-دارد-تخفیف-تا-۹۹-درصد-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بلک-فرایدی-تکنولایف-ادامه-دارد-تخفیف-تا-۹۹-درصد-و/</loc>
+    <loc>https://recart.ir/news/دانلود-هوش-مصنوعی-رکوردهای-باز-را-باتلاق-می-کند-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -886,6 +886,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جشنواره-فرهنگ-اسنس-پس-از-سه-دهه-از-نیواورلئان-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لوکا-گوادانینو-برای-نظرات-بحث-برانگیز-طراحی-لباس-عذرخواهی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/حمایت-مارک-کازینز-از-درام-پناهجویان-با-صحنه-قرقیزستان-مرثیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسکات-ادکینز-در-مورد-بازگشت-تیم-diablo-برای-عدالت-بی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
