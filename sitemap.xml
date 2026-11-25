@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/افت-کیفیت-آموزش-در-ایران-تدریس-شتاب-زده-در-کلاس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عراقچی-اسراییل-با-طرح-موضوع-سلاح-شیمیایی-به-دنبال-فریب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قتل-دختر-نوجوان-در-پارک-ساحلی-میاندوآب-به-دست-نامزدش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دومین-پیروزی-هندبالیست-های-زن-ایران-در-مسابقات-قهرمانی-آسیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -451,6 +451,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-پیشنهادهای-فنی-از-فروش-جمعه-سیاه-2026-walmart/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مایکل-بری-سرمایه-گذار-big-short-بار-بعدی-را-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,12 +601,32 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/sunrise-on-the-reaping-16-میلیون-دلار-سه-شنبه-رکوردی/</loc>
+    <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <loc>https://recart.ir/news/ag-های-ایالتی-با-طرح-character-ai-برای-حراج-چت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وزارت-دادگستری-مدیر-سابق-سایبری-را-به-کلاهبرداری-از-قربانیان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آلفای-جدید-ladybird-نشان-می-دهد-که-زندگی-فراتر-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-جنگل-های-آمازون-سوسری-ها-در-تاریکی-شب-کار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آخرین-ساعت-اپل-برای-جمعه-سیاه-تا-100-دلار-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -766,31 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-گوشی-های-اقتصادی-سامسونگ-در-بلک-فرایدی-۲۰۲۶-معرفی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-گروه-هک-آشنای-ایرانی-راهی-جدید-برای-ایجاد-هرج/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-تلویزیون-65-اینچی-oled-سامسونگ-تقریبا-60-تخفیف-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/todoist-تأیید-می-کند-که-6-از-جزئیات-مشتریان-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پنج-ژنراتور-خورشیدی-در-جمعه-سیاه-برای-تخفیف-های-عمیق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آغازهای-ناتمام-۲۰-هزار-شیشه-شیر-خالی-در-گرامیداشت-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تغییرات-جوایز-acm-2027-شامل-معیارهای-جدید-برای-دسته-بندی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کریس-ایوانز-در-مورد-جلسات-مخفیانه-درباره-بازگشت-انتقام-جویان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پلیس-می-گوید-ماده-ناشناخته-در-کنسرت-دان-تولیور-ممکن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/wawa-جامعه-اتصال-و-hoagies-را-به-نشویل-می-آورد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/gta-6-حداقل-9-پایان-متمایز-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سلما-هایک-پینو-و-ساول-کانلو-آلوارز-برنده-نخل-طلای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-خانه-عروسکی-آمریکایی-فیلم-های-آسمان-تاریک-در-تاریخ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
