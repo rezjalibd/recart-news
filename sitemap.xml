@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازداشت-هومن-دارابی-و-حمیدرضا-ساداتی-توسط-نیروهای-امنیتی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گزارش-موسسه-آمریکایی-از-ساخت-سریع-تاسیسات-زیرزمینی-جدید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/احضار-دوباره-کوکب-بداغی-به-هیات-تخلفات-اداری-آموزش-وپرورش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قطع-تماس-و-ملاقات-زندانیان-پادشاهی-خواه-اوین-پس-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -451,6 +451,41 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-برای-اولین-بار-در-تاریخ-خود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-لباس-خواب-جمعه-سیاه-شامل-50-درصد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/39-هدیه-جالب-و-مفید-فیل-سفید-زیر-50-دلار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایلان-ماسک-و-اسپیس-ایکس-هر-کدام-از-حساب-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-کوپن-ها-و-کدهای-تبلیغاتی-rei-که-در-نوامبر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-شش-بسته-هشدار-دود-و-مونوکسید-کربن-برای-جمعه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/عرضه-ps5-برای-جمعه-سیاه-کم-است-اما-شما-هنوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/the-home-depot-ابزارهای-برقی-بی-سیم-میلواکی-دی-والت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -562,41 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/fcc-مجوز-استقرار-1-میلیون-ماهواره-به-spacex-را-صادر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تلسکوپ-اقلیدس-رکورد-زد-کشف-قدیمی-ترین-اختروش-جهان-مربوط/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/fairphone-6-plus-در-حال-حاضر-ماژولار-قابل-تعمیر-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-برای-اولین-بار-به-miss-universe-رفتم-و-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیتر-تیل-یک-عمارت-تاریخی-بل-ایر-را-در-حراجی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-وام-گیرندگان-وام-دانشجویی-اطلاع-داده-می-شود-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیپد-مینی-جدید-اپل-یک-ارتقاء-بزرگ-است-اما-قیمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-alienware-aurora-1900-دلاری-یکی-از-بهترین-معاملات-رایانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -846,6 +846,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سریال-نمرات-پایانی-فصل-35-dancing-with-the-stars-بهترین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-دلیل-آب-و-هوا-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اندی-تیلور-گیتاریست-دوران-دوران-در-65-سالگی-درگذشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تونی-رومو-پس-از-جدایی-از-cbs-sports-به-عنوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کتاب-جدید-راکی-پنجاهمین-سالگرد-خود-را-با-نقاشی-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -901,7 +921,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-دلیل-آب-و-هوا-به/</loc>
+    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-دلیل-آب-و-هوا-به-39de7d/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آریانا-گرانده-می-گوید-ادراک-دیوانه-کننده-از-موزیک-ویدیوی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پخش-زنده-تیمبرولوز-در-مقابل-تاندر-نحوه-تماشای-آنلاین-بازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/gta-vi-ممکن-است-کارلی-رائه-جپسن-را-به-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آماندا-سایفرید-راز-نقش-الیزابت-هلمز-در-شما-می-توانید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-صنعتگران-backrooms-با-استفاده-از-30000-فوت-مربع-مجموعه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
