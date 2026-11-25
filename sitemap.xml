@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اقلیم-کردستان-عراق-تصمیم-های-نفتی-و-مرزی-بغداد-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-آزار-جنسی-در-کودکی-تا-خشونت-خانگی-روایت-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دادگاهی-در-نیویورک-شرکت-هواوی-را-به-دلیل-نقض-تحریم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رضا-امیرخانی-شیفته-خمینی-که-خواستار-محدود-شدن-دوره-رهبری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
