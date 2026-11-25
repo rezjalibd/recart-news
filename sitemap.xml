@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اسرائیل-می-تواند-بدون-چراغ-سبز-ترامپ-به-ایران-حمله/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بورگاس-و-اوئسکا-پیرینه-ئوس-در-میان-نوآورانه-ترین-فرودگاه-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ان-بی-سی-دولت-ترامپ-در-حال-بررسی-هدف-قرار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تداوم-ناکامی-های-منچسترسیتی-تنها-یک-پیروزی-در-هفت-بازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
