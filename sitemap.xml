@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خواسته-های-جمهوری-اسلامی-و-آمریکا-از-یکدیگر-چیست-چرا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شلاق-پرستو-احمدی-محکومیت-جهانی-و-سکوت-برخی-کنشگر-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حمایت-گوگوش-از-پرستو-احمدی-حکم-شلاق-زخمی-بر-پیکر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,32 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هشدار-درباره-اجرای-قریب-الوقوع-حکم-اعدام-دو-متهم-پرونده/</loc>
+    <loc>https://recart.ir/news/با-افزایش-۲۶-سقف-قیمت-انرژی-قبوض-خانوارهای-بریتانیا-۷۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اختلافات-میان-دولت-فدرال-عراق-و-اقلیم-کردستان-بر-سر/</loc>
+    <loc>https://recart.ir/news/۱۳-رستوران-در-فهرست-لا-لیست-۲۰۲۷-در-صدر-قرار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تصاویر-خیره-کننده-ابرماه-بیور-بهترین-نماها-از-درخشش-دیشب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بزرگ-ترین-کارخانه-ماهواره-اروپا-در-شارلروآ-بلژیک-افتتاح-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معترضان-در-برابر-پارلمان-اروپا-علیه-لایحه-آفت-کش-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راماکش-پارک-مجسمه-ای-در-مراکش-که-خاطرات-کودکی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -381,32 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-نشان-عالی-آزادی-آمریکا-را-به-رودی-جولیانی-وکیل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دومین-حمله-به-بلندترین-برج-ریاض-در-کمتر-از-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نسل-جوان-در-ایتالیا-سنت-چندصدساله-ناقوس-نوازی-را-زنده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احتمال-اضافه-شدن-سیاره-ای-جدید-به-منظومه-شمسی-درباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نگرانی-ایتالیا-از-حملات-اوکراین-به-کشتی-های-روسیه-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وزارت-جنگ-آمریکا-کانادا-را-شریک-دفاعی-غیرقابل-اعتماد-خواند/</loc>
+    <loc>https://recart.ir/news/درگیری-معلمان-با-پلیس-در-اعتصاب-سراسری-علیه-کاهش-بودجه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/من-ردیاب-تناسب-اندام-بدون-صفحه-whoop-را-به-مدت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-جمعه-سیاه-reformation-با-25-تخفیف-برای-همه-چیز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
