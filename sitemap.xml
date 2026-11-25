@@ -391,6 +391,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رندی-رینبو-موج-آبی-میان-ترم-را-کالبدشکافی-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زمان-چرخش-برای-خدمه-بریتانیا-به-دنبال-کمپین-اتحادیه-بهبود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آمریکا-تعرفه-های-گمرکی-تازه-ای-علیه-چین-اتحادیه-اروپا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طرح-مورد-حمایت-اتحادیه-اروپا-هزینه-های-بازسازی-را-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -447,6 +447,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاپیتان-کشتی-غرق-شده-کوستا-کونکوردیا-پس-از-۹-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/fcc-مجوز-استقرار-1-میلیون-ماهواره-به-spacex-را-صادر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تلسکوپ-اقلیدس-رکورد-زد-کشف-قدیمی-ترین-اختروش-جهان-مربوط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,22 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/۲-میلیارد-رکورد-اطلاعات-حساس-از-حساب-های-کاربری-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اگر-سیستم-ساندبار-جدیدی-می-خواهید-این-فروش-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رونمایی-ix3-جدید-شاسی-بلند-برقی-بی-ام-و-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نیویورک-اسباب-بازی-های-هوش-مصنوعی-از-جمله-اسباب-بازی/</loc>
+    <loc>https://recart.ir/news/داور-بازی-گل-گهر-در-لیگ-قهرمانان-آسیا-به-دلیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -822,6 +827,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لیلی-جیمز-بازیگر-و-تهیه-کننده-اقتباس-the-hunting-party/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ستوان-بد-توکیو-از-نئون-تاکاشی-میکه-در-سال-2027/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/dropout-s-very-important-people-تاریخ-انتشار-فصل-4-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/veruschka-سوپرمدلی-که-در-blow-up-casino-royale-ظاهر-شد-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -952,31 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تغییرات-جوایز-acm-2027-شامل-معیارهای-جدید-برای-هنرمند-جدید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طبق-گزارش-ها-شرکت-rock-the-country-fest-peachtree-entertainment/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوردون-رمزی-مجری-احیا-شده-top-gear-برای-بی-بی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نسخه-blu-ray-معیار-kpop-demon-hunters-برای-جمعه-سیاه-50/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-خواهر-دیگر-بنت-به-عنوان-یک-ضربه-سرخورده-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/10-فیلم-کوتاه-که-درام-و-ناراحتی-را-به-عنوان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
