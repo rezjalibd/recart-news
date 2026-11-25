@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ائتلاف-به-رهبری-عربستان-سعودی-بندر-الحدیده-یمن-را-هدف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-تعرفه-های-جدیدی-بر-واردات-از-۱۴-شریک-تجاری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آمریکا-طرح-تعرفه-های-جدید-برای-بزرگترین-شرکای-تجاریش-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,12 +411,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بورگاس-و-اوئسکا-پیرینه-ئوس-در-میان-نوآورانه-ترین-فرودگاه-های/</loc>
+    <loc>https://recart.ir/news/اگر-سیستم-ساندبار-جدیدی-می-خواهید-این-فروش-جمعه-سیاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/احتمال-حمله-تازه-آمریکا-به-ایران-اختلاف-در-دولت-ترامپ/</loc>
+    <loc>https://recart.ir/news/این-تلویزیون-های-oled-جدید-سامسونگ-تا-800-دلار-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-زمان-عالی-برای-خرید-کیندل-است-با-این-مدل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -586,17 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سارکوزی-به-اتهام-پرداخت-پول-به-یک-شاهد-برای-پس/</loc>
+    <loc>https://recart.ir/news/یک-گروه-هک-آشنای-ایرانی-راهی-جدید-برای-ایجاد-هرج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/درخواست-مجلس-برای-بازنگری-در-فرمول-قیمت-گذاری-خودرو-شورای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احتمال-فروش-محصولات-ایران-خودرو-زیر-قیمت-بازار-از-طریق/</loc>
+    <loc>https://recart.ir/news/این-تلویزیون-65-اینچی-oled-سامسونگ-تقریبا-60-تخفیف-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیش-بینی-تلاطم-هواپیما-بسیار-سخت-است-اما-شاید-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شاهکار-پلکانی-هند-بهترین-ساختمان-جهان-در-سال-۲۰۲۶-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیشرفت-هوش-مصنوعی-یاهو-پیوندهای-بیشتر-جستجوی-بیشتر-دلایل-بیشتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
