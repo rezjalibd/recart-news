@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پدر-پرستو-احمدی-شلاق-نماد-ظلم-به-هنر-و-زنان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-روز-جهانی-منع-خشونت-علیه-زنان-خبر-قتل-دختر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پدر-پرستو-احمدی-شلاق-دخترش-را-نماد-ستم-به-هنر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مای-ساتو-خواستار-توقف-حکم-اعدام-میلاد-آرمون-و-نوید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درگیری-خونین-تیم-های-فرد-البرز-و-پارس-جنوبی-جم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درگیری-خونین-تیم-های-فرد-و-پارس-جنوبی-در-رختکن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -621,6 +621,51 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-با-خانواده-خود-در-مورد-a-i-صحبت-کنیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نحوه-استفاده-از-برنامه-های-خود-با-ضربه-های-کمتر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وب-ممکن-است-در-حال-مرگ-باشد-آیا-net-art/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حمله-شوک-و-هیبت-هوش-مصنوعی-به-ریاضیات-مانند-غرور/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نحوه-تماشای-هر-بازی-nfl-شکرگزاری-2026-در-جریان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-درمان-با-نور-قرمز-برای-رشد-و-ترمیم-مو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-سیستم-های-ثبت-باز-آمریکا-را-تحت-فشار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طرح-جدید-مجلس-برای-نظارت-بر-محتوای-صوت-و-تصویر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راز-ساخت-پل-هایی-با-عمر-طولانی-تر-شاید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اتصال-نرم-افزار-هلو-به-اسنپ-مارکت-مدیریت-یکپارچه-فروش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -746,51 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چه-وحشت-واقعی-یا-خیالی-شما-را-در-ساعت-4/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/sonnenfeld-از-yale-nvidia-یک-مضر-برای-قدرت-صنعتی-ایالات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مشکل-کرش-کردن-بازی-gta-6-در-کنسول-ps5-همچنان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/tidal-با-برنامه-ای-برای-حذف-بیش-از-27-میلیون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-هوش-مصنوعی-پرسیدم-که-آیا-استفاده-از-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دفتر-جرایم-مالی-آمریکا-حادثه-امنیت-سایبری-را-فاش-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-ویژگی-مفید-اپل-واچ-به-طور-یکپارچه-با-apple/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برای-گرفتن-وقت-لازم-نیست-به-اپل-واچ-خود-نگاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-نشان-می-دهد-که-انویدیا-برای-پلیس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/کابوس-سقوط-در-اولدترافورد-منچستریونایتد-در-مسیر-تاتنهام-فصل-گذشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -872,6 +872,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگردان-به-بازار-فیلم-waves-گفت-هانومان-آنش-از-افت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/6-آهنگ-جدید-پاپ-تعطیلات-از-هیلاری-داف-اولیویا-رودریگو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رقصیدن-با-ستاره-ها-همه-35-برنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
