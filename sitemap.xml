@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پاتریک-استوارت-در-آخرین-روز-فیلمبرداری-انتقام-جویان-روز-قیامت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کانر-وود-فینالیست-dancing-with-the-stars-قبلا-برنده-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -966,17 +971,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پاتریک-استوارت-در-آخرین-روز-فیلمبرداری-انتقام-جویان-روز-قیامت/</loc>
+    <loc>https://recart.ir/news/پاتریک-استوارت-در-آخرین-روز-فیلمبرداری-انتقام-جویان-روز-قیامت-3de355/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/آدام-درایور-نقش-مستر-شوم-را-در-ریبوت-مارول-کنایه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پخش-زنده-شب-شکرگزاری-aew-dynamite-collision-کجا-می-توان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
