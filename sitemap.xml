@@ -81,6 +81,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/top-gear-sets-2028-return-با-گوردون-رمزی-به-عنوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دادگاه-عالی-عراق-استقرار-نیروهای-فدرال-در-مرزهای-اقلیم-کردستان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیا-می-توان-تمام-طلب-را-از-ورثه-متوفی-مطالبه/</loc>
+    <loc>https://recart.ir/news/پارلمان-اروپا-طالبان-برده-داری-آپارتاید-جنسیتی-و-ازدواج-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/صنعت-بریتانیا-برای-تأثیر-مشوق-مالیاتی-فیلم-و-تلویزیون-فدرال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رکورد-ورود-روزانه-مهاجران-به-جزایر-قناری-اسپانیا-شکسته-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -606,6 +606,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آخرین-به-روزرسانی-x-برای-سازندگان-بر-ویدیوی-عمودی-تمرکز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترنس-تائو-خواستار-انتقال-به-ریاضی-2-0-در-پی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/etsy-شرایط-هوش-مصنوعی-را-پس-از-واکنش-فروشنده-روشن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/متشکرم-جنسن-هوانگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طبق-گزارش-ها-آمازون-در-حال-مذاکره-برای-پایان-دادن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آغازهای-ناتمام-۲۰-هزار-شیشه-شیر-خالی-در-گرامیداشت-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تراویس-کلسه-صدمین-بازی-را-در-استادیوم-اروهد-با-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لیلی-جیمز-در-یونیورسال-بازیگر-و-تهیه-کننده-اقتباس-hunting/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تاریخ-اکران-فصل-سوم-سریال-the-pitt-در-hbo-max/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تریلر-خانه-عروسکی-آمریکایی-فیلم-های-آسمان-تاریک-در-تاریخ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همه-17-فیلم-کوئنتین-تارانتینو-از-بدترین-تا-بهترین-رتبه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سلما-هایک-پینو-و-ساول-کانلو-آلوارز-برنده-نخل-طلای-0c8f0f/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سفر-به-شفق-های-شمالی-ifc-آخرین-های-مایکل-وینترباتم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
