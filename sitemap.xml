@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-محدودیت-موشکی-علی-خامنه-ای-تا-سیاست-بدون-محدودیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/توقف-حکم-اعدام-میلاد-آرمون-و-نوید-نجاران-قوه-قضائیه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دو-جلسه-محرومیت-برای-فرمین-لوپز-به-دلیل-استفاده-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هویت-و-پوشش-کردی-مصادیق-اتهام-مراد-محمدی-فعال-فرهنگی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیش-از-۱۰ماه-بازداشت-و-بلاتکلیفی-نوید-ذره-بین-شهروند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آقاسی-تاریخ-جدیدی-برای-اجرای-احکام-اعدام-پرونده-اکباتان-اعلام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قیمت-بسته-های-اینترنت-ثابت-مخابرات-تا-چهار-برابر-افزایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بسنت-ایران-دیگر-حتی-یک-قطره-نفت-روی-دریا-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اسکات-بسنت-رژیم-ایران-یک-کشتی-در-حال-غرق-شدن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کتابخوان-جیبی-x4-classic-xteink-برای-جمعه-سیاه-فقط-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-ساعت-هوشمند-تا-۱۰-میلیون-ساعت-هوشمند-تا-10/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رونمایی-کاریزما-از-خدمات-مالی-جدید-وقتی-دارایی-سرمایه-گذاری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -811,6 +811,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مگان-تی-استالیون-رئیس-بزرگ-kshop-نتفلیکس-در-کمپین-جدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هوراسیو-پالنسیا-دستاوردهای-نمودار-بیلبورد-تاریخی-را-جشن-می-گیرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ویل-اسمیت-همبازی-سابق-شاهزاده-تازه-را-با-فیلم-سینمایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سوفیا-کارسون-تیلور-جان-اسمیت-و-چارلی-هال-هیئت-nfl/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مراسم-خاکسپاری-غلامرضا-نیکخواه-بازیگر-سینما-تئاتر-و-تلویزیون-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پس-از-اظهارات-جنجالی-رومنیگه-بیانیه-رسمی-بایرن-مونیخ-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازخوانی-موزیکال-هیپ-هاپ-اسلم-فرانک-از-داستان-آن-فرانک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/saint-pierre-سریال-پلیس-کانادایی-با-رتبه-بالا-است-که-نشان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
