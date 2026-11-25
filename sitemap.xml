@@ -546,6 +546,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-در-یکی-از-دهکده-های-سوئیس-ماندم-تا-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازنشانی-برند-stanley-1913-ما-باید-به-همان-چیزی-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترس-جدید-باز-شد-یک-هواپیمای-بدون-سرنشین-تحویلی-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کتابخوان-جیبی-x4-classic-xteink-برای-جمعه-سیاه-فقط-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -586,21 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اگر-پرواز-روز-شکرگزاری-شما-به-دلیل-آب-و-هوا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-۸-هزار-میلیارد-تومانی-دیجی-کالا-در-نخستین-روز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قیمت-روز-پرفروش-ترین-گوشی-های-بازار-ایران-4-آذر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/قطار-شما-تأخیر-دارد-در-چک-می-توانید-از-قطار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -627,6 +627,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طبق-گزارش-ها-آمازون-در-حال-مذاکره-برای-پایان-دادن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پیشرفت-هوش-مصنوعی-یاهو-پیوندهای-بیشتر-جستجوی-بیشتر-دلایل-بیشتر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مراسم-خاکسپاری-غلامرضا-نیکخواه-بازیگر-سینما-تئاتر-و-تلویزیون-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -871,6 +871,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عذرخواهی-فیلم-نت-پس-از-حذف-قسمت-هفتم-سریال-یل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-برای-ترسوها-نیست-نمایشگر-blade-runner-2099-در-مورد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -897,6 +902,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اتحادیه-بازیگران-بریتانیا-اوایل-سال-آینده-مذاکرات-را-با-پخش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آوا-دوورنی-جایزه-نخستین-پیشگام-زن-حلقه-منتقدان-لندن-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-کوتاه-ترسناک-هوش-مصنوعی-sikkal-برنده-wif-india-x/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-یک-سلبریتی-هستم-مرا-از-اینجا-بیرون-کن-جنجال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایک-نیول-به-یاد-می-آورد-که-در-کلمبیا-هنگام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نوح-کاهان-سال-حماسی-را-با-آلبوم-live-from-the/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
