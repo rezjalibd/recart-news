@@ -451,6 +451,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فروش-جمعه-سیاه-tempur-pedic-2026-تا-800-دلار-تخفیف-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/10-مورد-از-بهترین-کدهای-تقلب-gta-6-و-نحوه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,17 +601,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مایکل-بری-سرمایه-گذار-big-short-بار-بعدی-را-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/fcc-طرح-spacex-را-برای-قرار-دادن-مراکز-داده-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سیاره-نهم-تنها-نیست-کشف-شواهد-تازه-از-دنیای-مرموزی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/s-p-global-هشدار-داد-که-رتبه-اعتباری-nvidia-ممکن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آخرین-به-روزرسانی-x-برای-سازندگان-بر-ویدیوی-عمودی-تمرکز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترنس-تائو-خواستار-انتقال-به-ریاضی-2-0-در-پی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/etsy-شرایط-هوش-مصنوعی-را-پس-از-واکنش-فروشنده-روشن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/وعده-مدیرعامل-استقلال-ستاره-سوم-در-راه-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,36 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ویل-فرل-فیلم-کمدی-شاهین-را-پس-از-یک-فصل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-دلیل-آب-و-هوا-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آرون-راجرز-توسط-پیتسبورگ-استیلرز-nfl-پس-از-مصاحبه-espn/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برد-پیت-و-آنجلینا-جولی-از-حماسه-حقوقی-چند-ساله/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تیم-جهان-گوگو-در-مورد-تنوع-سینمای-برزیل-و-فیلم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگردان-فوکر-شوهر-در-مورد-بازیگری-آریانا-گرانده-چرا-باربارا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -947,36 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترسناک-سولالا-رونق-نسل-یوتیوب-عربستان-را-تقویت-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شمارش-معکوس-10-آهنگ-داغ-لاتین-بیلبورد-برای-28-نوامبر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لوک-برایان-و-لوک-کامبز-از-تأثیرات-مدرسه-قدیمی-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/doc-جدید-نشان-می-دهد-که-چگونه-false-braggadocio-اندرو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگردان-پیتر-برگ-از-مستند-اکران-نشده-ریحانا-تسلیم-نمی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-فیلم-run-away-with-me-از-carly-rae-jepsen/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تاریخ-پخش-فصل-سوم-سریال-the-pitt/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
