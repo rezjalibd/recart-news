@@ -616,6 +616,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پس-از-گزارش-نفوذ-به-cia-یک-نهاد-حساس-مالی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تولد-نخستین-خودرو-جهان-و-غول-اتمی-دریاها-۴-آذر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چه-وحشت-واقعی-یا-خیالی-شما-را-در-ساعت-4/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هشدار-کارکنان-شرکت-های-هوش-مصنوعی-مدل-های-جدید-آن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-چگونه-دوباره-مدیرعامل-انویدیا-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پسته-به-خواب-بهتر-کمک-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +862,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قهرمان-فصل-35-تاج-های-رقص-با-ستاره-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آماندا-سیفرید-فاش-می-کند-که-برای-دسترسی-به-اسکریپت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیش-بینی-گلدن-گلوب-170-فیلم-و-475-بازیگر-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-گفته-رانندگان-مک-لارن-لاندو-نوریس-و-اسکار-پیاستری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مارول-در-حال-برنامه-ریزی-برای-ادای-احترام-به-پاتریک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
