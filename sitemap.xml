@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قتل-دختر-نوجوان-در-پارک-ساحلی-میاندوآب-به-دست-نامزدش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دومین-پیروزی-هندبالیست-های-زن-ایران-در-مسابقات-قهرمانی-آسیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-می-توان-تمام-طلب-را-از-ورثه-متوفی-مطالبه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اسرائیل-بار-دیگر-درباره-توسعه-سلاح-شیمیایی-در-جمهوری-اسلامی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وقتی-رقصیدن-اقدام-علیه-امنیت-می-شود-نقدهای-قاضی-بازنشسته/</loc>
+    <loc>https://recart.ir/news/بورگاس-و-اوئسکا-پیرینه-ئوس-در-میان-نوآورانه-ترین-فرودگاه-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هواوی-به-دلیل-سرقت-رازهای-تجاری-مجرم-شناخته-شد-اما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/درگیری-معلمان-با-پلیس-در-اعتصاب-سراسری-علیه-کاهش-بودجه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -472,6 +472,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/درخواست-مجلس-برای-بازنگری-در-فرمول-قیمت-گذاری-خودرو-شورای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/احتمال-فروش-محصولات-ایران-خودرو-زیر-قیمت-بازار-از-طریق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-پیشنهادهای-فناوری-اولیه-از-فروش-جمعه-سیاه-2026-آمازون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تشک-برای-کمردرد-در-سال-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/یک-سامانه-غیرمحرمانه-سازمان-سیا-در-حمله-سایبری-هک-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-قاب-ها-و-لوازم-جانبی-آیفون-duo-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پلتفرم-موسیقی-تایدال-پخش-آهنگ-های-تولیدشده-با-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/متا-دستیار-هوش-مصنوعی-muse-را-به-بخش-دایرکت-اینستاگرام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تبلت-تاشویی-که-یک-نمایشگر-اضافی-در-بخش-پشتی-دارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اونجرز-روز-حساب-تریلر-نهایی-رکورد-زد-و-دومین-پرتماشاگرترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -881,6 +881,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پلیس-می-گوید-مواد-ناشناخته-که-در-نمایشگاه-تخلیه-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سریال-جنایی-تحسین-شده-با-دنباله-ای-در-نتفلیکس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اریکا-بادو-ما-را-به-یک-سفر-کیهانی-برای-اجرای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارگردان-انتقام-جویان-سخنرانی-بسیار-احساسی-پاتریک-استوارت-را-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/توماس-مارکل-به-اتهام-داشتن-مواد-سوء-استفاده-جنسی-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-غول-واقعی-صنعت-موسیقی-شاه-چارلز-یان-مولی-ملدروم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
