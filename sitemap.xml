@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کوریره-دلاسرا-کشتی-ایرانی-حامل-تجهیزات-الکترونیکی-در-لیبی-هدف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/افت-کیفیت-آموزش-در-ایران-تدریس-شتاب-زده-در-کلاس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قتل-دختر-نوجوان-در-پارک-ساحلی-میاندوآب-به-دست-نامزدش/</loc>
+    <loc>https://recart.ir/news/احتمال-ا-عمال-تعرفه-های-تازه-از-سوی-آمریکا-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اسرائیل-دارای-۹۰-بمب-هسته-ای-و-ظرفیت-تولید-۲۵۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ایندرا-برنامه-رهبری-دفاع-و-فضا-در-اروپا-با-فروش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -447,6 +447,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاپیتان-کشتی-غرق-شده-کوستا-کونکوردیا-پس-از-۹-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-alienware-aurora-1900-دلاری-یکی-از-بهترین-معاملات-رایانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/روزنامه-نگاران-بی-بی-سی-به-اقدام-اعتصابی-بر-سر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تنهاترین-مهمانی-پپتید-در-نیویورک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ساعت-های-گلکسی-واچ-۸-با-آپدیت-جدید-سامسونگ-هوشمندتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آل-استیت-پیش-از-عید-شکرگزاری-دچار-اختلال-چند-روزه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/30-بهترین-پیشنهاد-جمعه-سیاه-اولیه-انتخاب-های-نهایی-ما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آغازهای-ناتمام-۲۰-هزار-شیشه-شیر-خالی-در-گرامیداشت-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تماشای-جاستین-تیمبرلیک-و-جیمی-فالون-در-حال-انجام-چا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ماه-استیون-ویلسون-جونیور-به-لطف-u2-بزرگتر-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/veruschka-سوپرمدل-مسحور-کننده-دهه-1960-و-1970-در-87/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگردان-گرگ-و-میش-تقریبا-از-رختخواب-افتاد-به-دلیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گاهی-اوقات-فقط-باید-فکر-کنید-چه-چیزی-باعث-خندیدن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جیسون-کندی-و-کاروچه-تران-سری-دیجیتال-سلبریتی-the-pop/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مگان-تی-استالیون-رئیس-بزرگ-kshop-نتفلیکس-در-کمپین-جدید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوراسیو-پالنسیا-دستاوردهای-نمودار-بیلبورد-تاریخی-را-جشن-می-گیرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ویل-اسمیت-همبازی-سابق-شاهزاده-تازه-را-با-فیلم-سینمایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
