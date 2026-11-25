@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پدر-پرستو-احمدی-شلاق-دخترش-را-نماد-ستم-به-هنر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هویت-و-پوشش-کردی-مصادیق-اتهام-مراد-محمدی-فعال-فرهنگی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بیش-از-۱۰ماه-بازداشت-و-بلاتکلیفی-نوید-ذره-بین-شهروند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/درگیری-خونین-تیم-های-فرد-و-پارس-جنوبی-در-رختکن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کاتس-ارتش-اسراییل-و-سنتکام-برای-حمله-مشترک-به-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جانشین-فرمانده-قرارگاه-ثارالله-روسیه-و-چین-حتی-حاضر-نیستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
