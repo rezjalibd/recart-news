@@ -196,6 +196,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هواوی-به-نقض-تحریم-های-آمریکا-علیه-ایران-و-سرقت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طبق-قوانین-هیئت-منصفه-ایالات-متحده-هواوی-متهم-به-توطئه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پرل-جم-از-بی-رحمی-سرد-ice-پس-از-بازداشت/</loc>
+    <loc>https://recart.ir/news/بله-ای-روشن-صریح-و-مشتاقانه-مرز-میان-معاشقه-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اسلواکی-به-دنبال-لغو-رای-گیری-پستی-شهروندان-خارج-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اعتراض-پوچتینو-به-داوری-لیگ-برتر-لغو-کارت-قرمز-یورو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -452,6 +452,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/متیو-مک-کانهی-می-گوید-یکی-از-بزرگ-ترین-نقاط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سهام-anthropic-به-زیر-قیمت-ipo-سقوط-می-کند-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چه-وحشت-واقعی-یا-خیالی-شما-را-در-ساعت-4/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنسن-هوانگ-چگونه-دوباره-مدیرعامل-انویدیا-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-مورد-فرضیه-ریمان-چه-می-گذرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
