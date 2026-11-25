@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کارگردان-انتقام-جویان-سخنرانی-بسیار-احساسی-پاتریک-استوارت-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/توماس-مارکل-به-اتهام-داشتن-مواد-سوء-استفاده-جنسی-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -921,7 +926,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کارگردان-انتقام-جویان-سخنرانی-بسیار-احساسی-پاتریک-استوارت-را-در/</loc>
+    <loc>https://recart.ir/news/کارگردان-انتقام-جویان-سخنرانی-بسیار-احساسی-پاتریک-استوارت-را-در-617199/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مارول-در-حال-برنامه-ریزی-برای-ادای-احترام-به-پاتریک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پاتریک-استوارت-در-آخرین-روز-فیلمبرداری-انتقام-جویان-روز-قیامت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
