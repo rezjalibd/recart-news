@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازداشت-محمود-فرخی-سعدآبادی-درویش-گنابادی-و-زندانی-سیاسی-سابق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پارلمان-اسرائیل-نخستین-گام-را-برای-محدود-کردن-دوره-نخست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/از-آزار-جنسی-در-کودکی-تا-خشونت-خانگی-روایت-زنان/</loc>
+    <loc>https://recart.ir/news/مهدی-رحمتی-پس-از-حذف-گل-گهر-از-آسیا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کشف-چوب-۴۳۰۰-ساله-در-آرارات-معمای-کشتی-نوح-دوباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روسیه-شاید-ماهواره-مجهز-به-سلاح-هسته-ای-به-فضا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/داریو-آمودی-از-anthropic-اتهامات-تسلیم-شدن-کنترل-انسان-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/epa-سرب-هوابرد-صفر-را-پس-از-انفجار-کنترل-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نمای-ضرب-ماتریسی-چیست-داستان-۵۷-سال-تلاش-برای-رسیدن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-چربی-بدن-بیشتر-در-باسن-و-ران-ها-جمع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عملکرد-درخشان-call-of-duty-ادامه-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -771,26 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ایلان-ماسک-یک-دور-پیروزی-با-جنسن-هوانگ-در-nvidia/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هکرها-لینک-های-آلوده-کارت-دعوت-عروسی-و-عکس-یادگاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قابلیت-حذف-شده-ویندوز-سرانجام-برمی-گردد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ورزشی-ساده-می-تواند-زندگی-مبتلایان-به-آرتروز-زانو-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/داور-بازی-گل-گهر-در-لیگ-قهرمانان-آسیا-به-دلیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پادکست-doc-talk-چشمان-بن-پرادفوت-از-غنا-و-نانا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/avengers-doomsday-eyes-با-افتتاحیه-270-میلیون-دلاری-به-عنوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترسناک-سولالا-رونق-نسل-یوتیوب-عربستان-را-تقویت-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رایحه-جدید-dude-wipes-dingle-bells-شادی-تعطیلات-و-پشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/با-اکران-ماجراهای-اشتباه-بعدی-کلیف-غرفه-تنها-در-200/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جین-فوندا-رابرت-دنیرو-و-چهره-های-دیگر-نامه-ای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لیلی-جیمز-در-یونیورسال-نقش-آفرینی-و-تهیه-کنندگی-پارتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
