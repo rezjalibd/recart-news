@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/درگیری-در-لیگ-برتر-والیبال-پلیس-اعضای-تیم-پاس-گرگان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وعده-مدیرعامل-استقلال-ستاره-سوم-در-راه-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +842,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیش-نمایش-indie-thanksgiving-cliff-booth-و-all-of-a/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-دلیل-آب-و-هوای-بد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-با-فرود-طوفان-در-شمال-شرقی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ستاره-زیری-استیون-یونیورس-به-عنوان-ترانس-ظاهر-می-شود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -952,31 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اسکات-کان-فکر-کرد-که-یک-متن-شوخی-دریافت-کرده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لوسی-ویوز-سوفیا-مونروی-اوکان-موی-بابادیلا-و-هنرمندان-لاتین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/nfl-در-مورد-آینده-بازی-شب-شکرگزاری-نتفلیکس-و-شروع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/veruschka-dies-سوپرمدل-آلمانی-دهه-های-1960-و-1970-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/10-نمایش-به-یاد-ماندنی-نیمه-وقت-شکرگزاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جف-گلدبلوم-در-حالی-که-در-حال-انعکاس-درباره-کارنامه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
