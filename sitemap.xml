@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قوه-قضاییه-حکم-اعدام-میلاد-آرمون-و-نوید-نجاران-دو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کشته-شدن-دست-کم-۲۸۱-کودک-در-سرکوب-اعتراضات-دی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فرمانده-سپاه-جنگ-های-آینده-ممکن-است-به-خارج-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تشدید-اختلاف-بغداد-و-اقلیم-کردستان-عراق-دولت-فدرال-خواستار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ناتینگ-با-گجت-جدیدش-می-خواهد-هوش-مصنوعی-را-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/chipotle-از-هوش-مصنوعی-برای-پیش-بینی-تقاضای-گواکامول-استفاده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بلانچ-سوالات-مربوط-به-انویدیا-را-کم-اهمیت-جلوه-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-در-جلسه-همگانی-از-کاخ-سفید-تشکر-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
