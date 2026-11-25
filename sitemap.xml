@@ -221,6 +221,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اصابت-پرتابه-حوثی-ها-به-بندر-جازان-عربستان-ائتلاف-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اروپا-می-تواند-کمبود-مزمن-دارو-و-اختلال-زنجیره-تأمین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مهاجر-اخراج-شده-از-آمریکا-پس-از-۲۰-ماه-نبرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-می-دانستید-که-در-لندن-بابانوئل-ها-هم-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کرگر-تماشای-گل-بلینگام-از-دیدن-او-با-لباس-زیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پارلمان-اروپا-طالبان-برده-داری-آپارتاید-جنسیتی-و-ازدواج-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -382,31 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اسرائیل-دارای-۹۰-بمب-هسته-ای-و-ظرفیت-تولید-۲۵۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرتاب-موفق-شنژو-۲۴-نخستین-فضانورد-خارجی-وارد-ایستگاه-فضایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تیر-چینی-به-قلب-خودروسازان-فرانسوی-بی-وای-دی-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کرایووا-ریگا-صوفیه-برترین-بازارهای-کریسمس-اروپا-در-۲۰۲۷-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سفر-خلیفه-حفتر-به-ترکیه-در-آستانه-نخستین-سفر-اردوغان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/صنعت-بریتانیا-برای-تأثیر-مشوق-مالیاتی-فیلم-و-تلویزیون-فدرال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -581,6 +581,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پیش-فروش-انتقام-جویان-روز-قیامت-در-ایالات-متحده-اکنون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/افتتاحیه-avengers-doomsday-270-میلیون-دلار-بالاترین-عکسی-است-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/با-این-معامله-جمعه-سیاه-peacock-2-99-دلار-در/</loc>
+    <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -607,6 +612,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ag-های-ایالتی-با-طرح-character-ai-برای-حراج-چت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/fcc-طرح-spacex-را-برای-قرار-دادن-بیش-از-1/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اولین-آلفای-قابل-دانلود-مرورگر-لیدی-برد-به-طرز-شگفت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آدام-موسری-استفاده-اینستاگرام-از-میکروفون-گوشی-برای-نمایش-تبلیغات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بلک-فرایدی-از-کجا-خرید-کنیم-نکاتی-که-قبل-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نخستین-تجربه-رانندگی-با-پورشه-۷۱۸-باکستر-برقی-موتور-شش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آغازهای-ناتمام-۲۰-هزار-شیشه-شیر-خالی-در-گرامیداشت-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-riot-games-league-of-legends-را-به-یک-امپراتوری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-you-can-see-everything-ساخته-ناتان-فیلدر-و-لنس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ویل-اسمیت-همبازی-سابق-شاهزاده-تازه-را-با-فیلم-سینمایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سوفیا-کارسون-تیلور-جان-اسمیت-و-چارلی-هال-هیئت-nfl/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/wawa-جامعه-اتصال-و-hoagies-را-به-نشویل-می-آورد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
