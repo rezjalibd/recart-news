@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گزارش-رسانه-لبنانی-سپاه-پاسداران-تأسیساتش-را-در-حومه-جنوبی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پایان-گروگان-گیری-یک-روزه-در-کلمبیا-تمام-گروگان-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حمله-حوثی-های-یمن-به-برجی-در-منطقه-مالی-ریاض/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اقتصاد-اسپانیا-در-حال-شکوفایی-است-چرا-دستمزد-واقعی-هنوز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -467,6 +467,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مانیرو-چیست-چگونه-به-مانیرو-اعتماد-کنیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تا-۳۰۰-میلیون-تومان-اعتبار-خرید-بزرگ-ترین-حراج-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-چمدان-جمعه-سیاه-2026-شامل-50-تخفیف-away/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-فنی-از-sam-s-club-فروش-اولیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایمیل-سازمانی-بگیریم-یا-با-جیمیل-کار-راه-بیندازیم-راهنمای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنتروپیک-و-openai-مدعی-حل-یک-معمای-ریاضی-مهم-۴۷/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سونی-تأیید-کرد-gta-6-بزرگ-ترین-عرضه-تاریخ-پلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گپ-جی-پی-تی-به-gapgpt-ir-منتقل-شد-حساب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قابلیت-جدید-claude-برای-ساخت-آسان-اپلیکیشن-های-دسکتاپ-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -766,27 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قطع-ابر-تاریخی-مایکروسافت-یک-مه-جنگ-مهندسی-را-آشکار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-هنوز-فکر-می-کند-که-طرح-جانشینی-سلسله/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوآوی-به-سرقت-اسرار-تجاری-مجرم-شناخته-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/16-بهترین-تخفیف-هدفون-جمعه-سیاه-2026-تا-57-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بلانچ-سوالات-مربوط-به-انویدیا-را-کم-اهمیت-جلوه-می/</loc>
+    <loc>https://recart.ir/news/کابوس-سقوط-در-اولدترافورد-منچستریونایتد-در-مسیر-تاتنهام-فصل-گذشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنا-اوشکویتز-ستاره-glee-می-گوید-ادای-احترام-کوری-مونتیث/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/og-anunoby-skechers-sneakers-nyc-blue-را-با-الهام-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
