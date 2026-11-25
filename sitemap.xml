@@ -381,6 +381,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گزارش-ها-حاکی-از-آن-است-که-ترامپ-می-گوید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هشدار-سازمان-های-اطلاعاتی-غربی-روسیه-احتمالا-به-زودی-سلاح/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-نمایش-مانند-جلیقه-زرد-که-باید-در-ادامه-تماشا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرزیدنت-ترامپ-به-بازگرداندن-جنسن-هوانگ-مدیرعامل-انویدیا-کمک-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/برای-گرفتن-وقت-لازم-نیست-به-اپل-واچ-خود-نگاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-نشان-می-دهد-که-انویدیا-برای-پلیس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/با-نزدیک-شدن-تعداد-مبتلایان-به-سرخک-به-6000-نفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونالدو-ممکن-است-به-دلیل-تمسخر-کمک-داور-حداقل-چهار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازگرداندن-نمودار-در-سال-1956-مارتی-رابینز-خواننده-بلوز-3/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-breville-تا-balenciaga-macy-s-در-حال-حاضر-تا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رندی-نیومن-جایزه-یک-عمر-دستاورد-انجمن-آهنگسازان-و-ترانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آلفونسو-ریبیرو-در-سواری-وحشی-از-dwts-فصل-35-اتحاد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آثار-کامل-فردریک-وایزمن-افسانه-فیلمسازی-مستند-توسط-janus-films/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کریس-ایوانز-سال-ها-پس-از-انتقام-جویان-پایان-بازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تولیدکنندگان-برادوی-و-اتحادیه-stagehands-با-اجتناب-از-اعتصاب-تعطیلات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
