@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کرایووا-ریگا-صوفیه-برترین-بازارهای-کریسمس-اروپا-در-۲۰۲۷-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سفر-خلیفه-حفتر-به-ترکیه-در-آستانه-نخستین-سفر-اردوغان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رکورد-ورود-روزانه-مهاجران-به-جزایر-قناری-اسپانیا-شکسته-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,12 +411,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-هدف-اسرائیل-برای-تغییر-حکومت-در-ایران-احتمالا-شدنی/</loc>
+    <loc>https://recart.ir/news/درآمد-گردشگری-یونان-به-۲۲-میلیارد-یورو-نزدیک-شد-رشد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گزارش-رسانه-لبنانی-سپاه-پاسداران-تأسیساتش-را-در-حومه-جنوبی/</loc>
+    <loc>https://recart.ir/news/پارلمان-اروپا-تهدید-کرد-بودجه-هفت-ساله-اتحادیه-را-رد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهای-دلار-در-ایران-از-۲۹۰-هزار-تومان-عبور-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -586,21 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ما-به-تازگی-یک-میلیون-jensen-huang-ایجاد-کردیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درخواست-مجلس-برای-بازنگری-در-فرمول-قیمت-گذاری-خودرو-شورای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احتمال-فروش-محصولات-ایران-خودرو-زیر-قیمت-بازار-از-طریق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/قطار-شما-تأخیر-دارد-در-چک-می-توانید-از-قطار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -627,6 +627,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دوربین-امنیتی-جدید-تاپو-دارای-صفحه-نمایش-لمسی-برای-تماس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/طرح-جایگزینی-۵۰-هزار-موتورسیکلت-فعال-در-پلتفرم-های-اینترنتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تب-جاسوسی-در-دره-سیلیکون-آیا-شما-یک-عسل-هستید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
