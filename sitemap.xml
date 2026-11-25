@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پرونده-جنجالی-قهرمانی-جام-ملت-های-آفریقا-۲۰۲۵-مراکش-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بی-خبری-از-سرنوشت-مجید-سعیدی-درخواست-بین-المللی-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چهار-برادر-ابوالقاسم-بابایی-از-جان-باختگان-اعتراضات-دی-ماه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازداشت-یک-نوجوان-۱۵ساله-و-دو-شهروند-دیگر-در-آبدانان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/chipotle-از-هوش-مصنوعی-برای-پیش-بینی-تقاضای-گواکامول-استفاده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سازمان-cia-و-چند-نهاد-اطلاعاتی-و-مالی-آمریکا-هدف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لندکروزر-کوچک-تویوتا-با-ظاهری-خشن-تر-برای-آفرود-آماده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنسن-هوانگ-در-جلسه-همگانی-از-کاخ-سفید-تشکر-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شیائومی-از-دستگاهی-رونمایی-کرد-که-زمان-بازکردن-پنجره-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حتی-بهترین-عوامل-هوش-مصنوعی-با-زندگی-روزمره-دست-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
