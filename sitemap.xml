@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شهر-بوی-خون-می-داد-روایت-یک-شاهد-عینی-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دولت-عراق-مبارزه-با-قاچاق-نفت-از-این-کشور-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حمایت-گوگوش-از-پرستو-احمدی-حکم-شلاق-زخمی-بر-پیکر/</loc>
+    <loc>https://recart.ir/news/نماینده-فرانسه-در-پارلمان-اروپا-اجرای-حکم-شلاق-پرستو-احمدی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پیروزی-تاریخی-نگهداری-دام-های-پرورشی-در-قفس-در-اتحادیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/من-8-نوع-مختلف-از-بیسکویت-های-فروشگاهی-را-امتحان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -482,6 +482,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-زمان-عالی-برای-خرید-کیندل-است-با-این-مدل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کواچلا-از-والمارت-به-دلیل-فروش-ناک-آف-در-فروشگاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اگر-پرواز-روز-شکرگزاری-شما-به-دلیل-آب-و-هوا/</loc>
+    <loc>https://recart.ir/news/نیویورک-اسباب-بازی-های-هوش-مصنوعی-از-جمله-اسباب-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رکورد-تاریخی-در-پزشکی-زنی-با-کلیه-خوک-یک-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,22 +791,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-ممکن-است-به-زودی-معنای-فیزیکدان-نظری-بودن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مرکز-ملی-فضای-مجازی-به-دنبال-تقویت-دفاع-سایبری-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/سه-اثر-از-سه-کارگردان-ایرانی-در-فهرست-واجدان-شرایط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/50-سال-پیش-امروز-نیل-یانگ-ساعت-1-بامداد-بازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-کوتاه-ترسناک-هوش-مصنوعی-sikkal-برنده-wif-india-x/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-یک-سلبریتی-هستم-مرا-از-اینجا-بیرون-کن-جنجال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
