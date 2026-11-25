@@ -221,6 +221,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عراقچی-در-واکنش-به-اتهام-اسرائیل-درباره-سلاح-شیمیایی-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قوانین-جدید-دارو-در-اتحادیه-اروپا-به-تصویب-پارلمان-اروپا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارلس-پوجدمون-اعلام-کرد-۱۲-دسامبر-بدون-درخواست-عفو-یا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رکورد-ورود-مهاجران-به-جزایر-قناری-اسپانیا-نجات-۲۱۰۰-نفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -392,21 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اروپا-به-سلامت-دیجیتال-روی-آورده-است-بیماران-واقعا-سودی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کره-شمالی-دستور-تعطیلی-دفتر-دیپلماتیک-سوئیس-را-صادر-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سازمان-ملل-درباره-افزایش-خطر-نسل-کشی-و-جنایت-علیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کشته-شدن-دو-افسر-لیبیایی-در-پی-حمله-اوکراین-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -606,6 +606,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/واتس-اپ-اکنون-به-شما-امکان-می-دهد-پیام-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/واتس-اپ-بالاخره-پیام-های-برنامه-ریزی-شده-را-ارائه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ادعای-نگران-کننده-تلویزیون-های-هایسنس-اطلاعات-محتوای-در-حال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیدان-یکی-از-هزاران-دانشجویی-است-که-مجبور-به-دفاع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-جمعه-سیاه-sam-s-club-شامل-تخفیف-هایی-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آغازهای-ناتمام-۲۰-هزار-شیشه-شیر-خالی-در-گرامیداشت-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,56 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تغییرات-جوایز-acm-2027-شامل-معیارهای-جدید-برای-هنرمند-جدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طبق-گزارش-ها-شرکت-rock-the-country-fest-peachtree-entertainment/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوردون-رمزی-مجری-احیا-شده-top-gear-برای-بی-بی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نسخه-blu-ray-معیار-kpop-demon-hunters-برای-جمعه-سیاه-50/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-خواهر-دیگر-بنت-به-عنوان-یک-ضربه-سرخورده-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/10-فیلم-کوتاه-که-درام-و-ناراحتی-را-به-عنوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/hold-onto-me-اولین-فیلم-میرسینی-آریستیدو-قدرت-اتصال-مجدد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پادکست-جدید-hallmark-با-مجموعه-مصاحبه-با-میزبانی-ملیسا-پیترمن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ری-امی-مجری-سریال-مسابقه-موسیقی-چه-کسی-در-گروه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایک-پلانت-برنامه-نویس-فیلم-کوتاه-جشنواره-فیلم-ساندنس-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -927,56 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/the-chicks-willie-colón-به-شکایت-موسیقی-هوش-مصنوعی-علیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محکومیت-تجاوز-به-نام-تجاری-راسل-شاهد-افزایش-گزارش-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جن-کوزمیک-از-جشنواره-رسانه-جهانی-banff-پس-از-9/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-خانه-عروسکی-آمریکایی-فیلم-های-ستاره-های-تاریک-مجموعه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کناره-گیری-جن-کوزمیک-از-جشنواره-رسانه-جهانی-بنف-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتفلیکس-به-عنوان-کابل-جدید-از-دوست-به-دشمن-دوباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جن-کوزمیک-از-جشنواره-رسانه-جهانی-بنف-به-عنوان-مدیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مذاکره-بن-افلک-با-یک-اردک-در-حالی-که-سهام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/میندی-کالینگ-با-جایزه-حقوقی-هالیوود-ریپورتر-در-نمایشگاه-زنان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/موسسه-فیلم-و-رسانه-گاتهام-برندگان-2026-نمایشگاه-فیلم-کوتاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دنی-مک-براید-در-یک-تبلیغ-کالشی-دیگر-در-نقش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
