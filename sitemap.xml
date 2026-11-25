@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/متیو-کاپر-مدیر-اجرایی-انتشارات-موسیقی-اواخر-با-جایزه-سالانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کارگردان-انتقام-جویان-سخنرانی-بسیار-احساسی-پاتریک-استوارت-را-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هر-چیزی-جز-ارواح-از-کری-بارکر-با-hdr-ممتاز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/dolly-parton-estate-تیم-خلاقی-را-نشان-می-دهد-که-029058/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
