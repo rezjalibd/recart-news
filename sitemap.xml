@@ -451,6 +451,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مردی-در-دنور-به-سمت-وسایل-نقلیه-waymo-تخم-مرغ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-برای-اولین-بار-در-تاریخ-خود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-این-تخفیف-های-پخش-جریانی-جمعه-سیاه-2026-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/fcc-مجوز-استقرار-1-میلیون-ماهواره-به-spacex-را-صادر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هانسی-فلیک-ناراضی-از-گل-خوردن-های-بارسلونا-در-این/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/درگیری-در-لیگ-برتر-والیبال-پلیس-اعضای-تیم-پاس-گرگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +847,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-استثنا-تا-هنجار-رونق-لاتین-که-los40-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ریحانا-فیلم-بی-تی-اس-دوست-داشتنی-را-با-3/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اندی-تیلور-درگذشت-duran-duran-گیتاریست-65-ساله-بود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رتبه-بندی-تلویزیون-رقصیدن-با-ستاره-ها-یک-فینال-بزرگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شاهین-با-بازی-ویل-فرل-پس-از-یک-فصل-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -947,36 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/breaking-baz-فلوریان-زلر-نویسنده-و-کارگردان-bunker-ما-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باب-سگر-عزادار-کریس-کمپبل-نوازنده-گروه-بیس-گلوله-نقره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-بلک-فرایدی-béis-تا-50-درصد-تخفیف-برای-کیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ignite-از-jo1-در-صدر-100-فیلم-داغ-ژاپن-قرار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتشار-خلاصه-باور-و-gl-music-form-jv-gram-parsons/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-اینجا-نحوه-یافتن-عمارت-ریک-راس-در-grand-theft/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آریانا-گرانده-می-گوید-ادراک-دیوانه-کننده-از-موزیک-ویدیوی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
