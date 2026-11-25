@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-بودجه-جنگ-با-ایران-تا-پایان-ژانویه-۲۰۲۷-تامین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شمار-مسمومان-الکلی-در-نیشابور-به-۲۱۸-نفر-رسید-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/غیبت-قطعی-در-اوپن-استرالیا-عمل-جراحی-زانوی-سینر-موفقیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-پیشین-پلیس-اندونزی-به-اتهام-خیانت-به-کشور-بازداشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -621,6 +621,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/6-بهترین-دستگاه-لاته-برای-نوشیدنی-اسپرسو-اتوماتیک-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چگونه-با-خانواده-خود-در-مورد-a-i-صحبت-کنیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پس-از-گزارش-نفوذ-به-cia-یک-نهاد-حساس-مالی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تولد-نخستین-خودرو-جهان-و-غول-اتمی-دریاها-۴-آذر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
