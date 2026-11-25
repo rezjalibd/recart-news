@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کامیون-داران-در-۱۵-شهر-ایران-برای-سومین-روز-متوالی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دادگاهی-در-نیویورک-شرکت-هواوی-را-به-دلیل-نقض-تحریم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بینندگان-نتفلیکس-در-شوک-از-جنایت-واقعی-باور-نمی-کنم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کریس-کریستی-خطاب-به-جمهوری-خواهان-من-نمی-خواهم-ناله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کانر-وود-فینالیست-dancing-with-the-stars-قبلا-برنده-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/۲۰-فیلم-برتر-جلوه-های-ویژه-اسکار-معرفی-شدند-دیزنی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هر-چیزی-جز-ارواح-کاری-بارکر-با-hdr-ممتاز-توسط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پخش-زنده-شب-شکرگزاری-aew-dynamite-collision-کجا-می-توان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/the-body-86-درصد-مخاطب-را-برای-پیشروی-در-رتبه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آلبوم-ریمیکس-ninajirachi-drops-i-love-my-computer/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
