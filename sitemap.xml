@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/احضار-دوباره-کوکب-بداغی-به-هیات-تخلفات-اداری-آموزش-وپرورش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قطع-تماس-و-ملاقات-زندانیان-پادشاهی-خواه-اوین-پس-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هشدار-فعالان-محیط-زیست-درباره-خطر-ورود-فاضلاب-کشف-رود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/احتمال-آغاز-جنگ-در-گفت-وگو-با-نمایندگان-مجلس-ایران/</loc>
+    <loc>https://recart.ir/news/کشته-شدن-دو-افسر-لیبیایی-در-پی-حمله-اوکراین-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شبکه-ای-مستقر-در-ایران-با-هوش-مصنوعی-و-خبرنگاران/</loc>
+    <loc>https://recart.ir/news/پس-از-نقض-حریم-هوایی-لهستان-از-سوی-روسیه-جمهوری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,12 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/محبوب-ترین-شهرهای-اروپایی-برای-تعطیلات-کریسمس-بر-اساس-روند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معاون-درمان-وزارت-بهداشت-از-۱۰-آبان-تا-سوم-آذر/</loc>
+    <loc>https://recart.ir/news/بحران-در-صنایع-اروپا-گزارش-مک-کینزی-از-خطر-نابودی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جلسه-مجوزدهی-به-صرافی-های-رمزارزی-بی-نتیجه-تمام-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پیانیست-رباتیک-جسور-تئوترونیکو-با-۵۳-انگشت-رقیب-نوازندگان-انسان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -622,6 +622,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-ممکن-است-به-زودی-معنای-فیزیکدان-نظری-بودن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مرکز-ملی-فضای-مجازی-به-دنبال-تقویت-دفاع-سایبری-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازی-gta-6-روی-ایکس-باکس-سری-ایکس-بهتر-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مایکروسافت-پس-از-قطعی-۲۴-ساعته-اخیر-سرویس-های-خود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/با-وجود-مخالفت-بخش-خصوصی-وزیر-ارتباطات-بار-دیگر-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بنچمارک-جدید-گوگل-برای-ارزیابی-مهارت-هوش-مصنوعی-در-پاسخ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جودی-دنچ-نظرش-درباره-رابرت-پتینسون-به-عنوان-جیمز-باند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -886,6 +886,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بل-و-سباستین-با-matador-records-قرارداد-جهانی-کاتالوگ-امضا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ویژگی-هندی-مولد-هوش-مصنوعی-maharaja-in-denims-با-الهام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تجربه-دفتر-مرکزی-اپل-بیتلز-برای-سال-2027-تنظیم-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پادکست-ویدیویی-ست-دوتایی-برایان-گلوکشتاین-و-لیندا-ریوز-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جان-تراولتا-از-تماشاگرانش-در-مراسم-جایزه-یک-عمر-دستاورد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/wacom-و-india-s-iict-ink-pact-در-iffi-goa/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
