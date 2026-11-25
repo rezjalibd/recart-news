@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مسمومیت-با-الکل-پای-محصولات-بسته-بندی-شده-فروشگاهی-هم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پرونده-جنجالی-قهرمانی-جام-ملت-های-آفریقا-۲۰۲۵-مراکش-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چهار-برادر-ابوالقاسم-بابایی-از-جان-باختگان-اعتراضات-دی-ماه/</loc>
+    <loc>https://recart.ir/news/ترامپ-هدف-اسرائیل-برای-تغییر-حکومت-در-ایران-احتمالا-شدنی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/به-دنبال-حملات-اوکراین-در-خلیج-فنلاند-و-آب-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کلمبیا-دست-کم-۲۵-زخمی-در-انفجار-همزمان-با-اوج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-تمجید-مورینیو-تا-مقایسه-با-زیدان-جادوی-بلینگام-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پسته-به-خواب-بهتر-کمک-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/به-روزرسانی-سلامت-2-chainz-پس-از-سقوط-سایبرتراک-نشان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/dancing-with-the-stars-the-next-pro-برای-فصل-2/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/rei-ami-kpop-demon-hunters-میزبان-برنامه-who-s-in/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آزمایشگاه-فیلم-اندونزی-و-فرانسه-از-شش-پروژه-رونمایی-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
