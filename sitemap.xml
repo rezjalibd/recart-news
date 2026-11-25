@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/موسسه-مطالعات-جنگ-ایران-در-حال-توسعه-موشک-های-بالستیک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مشروب-تقلبی-۲۰-قربانی-گرفت-۲۷-مسموم-زیر-۱۸-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اقلیم-کردستان-عراق-تصمیم-های-نفتی-و-مرزی-بغداد-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کامیون-داران-در-۱۵-شهر-ایران-برای-سومین-روز-متوالی/</loc>
+    <loc>https://recart.ir/news/نبرد-غول-های-تهاجمی-در-پارک-دو-پرنس-آزمون-بزرگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دادگاهی-در-نیویورک-شرکت-هواوی-را-به-دلیل-نقض-تحریم/</loc>
+    <loc>https://recart.ir/news/هانا-نویمان-نماینده-پارلمان-اروپا-آواز-خواندن-جرم-نیست-شکنجه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گذرگاه-ترامپ-آغاز-اجرای-پروژه-حمل-ونقل-و-انتقال-انرژی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عطارد-سیاره-ای-که-نباید-وجود-داشته-باشد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دلار-۲۸۸-هزار-تومان-وعده-های-بانک-مرکزی-مانع-سقوط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -487,6 +487,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-۸-هزار-میلیارد-تومانی-دیجی-کالا-در-نخستین-روز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قیمت-روز-پرفروش-ترین-گوشی-های-بازار-ایران-4-آذر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/منطق-پنهان-بلک-فرایدی-در-اقتصاد-تورمی-ایران-فراتر-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-میلیون-و-۳۱۰-هزار-سفارش-با-فروش-۸-هزار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -581,26 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سهام-آنتروپیک-به-زیر-قیمت-عرضه-اولیه-سقوط-کرد-زنگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تکلیف-زمان-واریز-سود-سهام-عدالت-روشن-شد-تسویه-حساب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دوشیزه-پورتوریکو-برنده-miss-universe-2026-شد-و-اولین-مادری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/متیو-مک-کانهی-می-گوید-یکی-از-بزرگ-ترین-نقاط/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/یک-سامانه-غیرمحرمانه-سازمان-سیا-در-حمله-سایبری-هک-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/36-بهترین-هدیه-برای-پدران-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لپ-تاپ-هواوی-matebook-fold-s-با-نمایشگر-تاشو-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آنتروپیک-و-openai-مدعی-حل-یک-معمای-ریاضی-مهم-۴۷/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سونی-تأیید-کرد-gta-6-بزرگ-ترین-عرضه-تاریخ-پلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اونجرز-روز-حساب-تریلر-نهایی-رکورد-زد-و-دومین-پرتماشاگرترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -881,6 +881,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/sxsw-با-مشارکت-جشنواره-uth-متمرکز-بر-جوانان-به-مصر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برنامه-زبان-رامایانا-cinedubs-پس-از-دستیابی-به-بیش-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فیلمسازان-زن-از-قرقیزستان-رومانی-و-مکزیک-در-iffi-گوا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ستاره-مینوتور-آیریس-لبدوا-با-گروه-استعدادهای-مستقل-امضا-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/داستان-درونی-منطقه-شراب-دره-ناپا-کالیفرنیا-در-مستند-ویژه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آماندا-سیفریلد-اعتراف-کرد-که-درباره-مستند-الیزابت-هلمز-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
