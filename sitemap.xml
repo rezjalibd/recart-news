@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آمریکا-طرح-تعرفه-های-جدید-برای-بزرگترین-شرکای-تجاریش-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فرانسه-از-حمله-اوکراین-به-کشتی-های-روسی-در-لیبی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/احتمال-حمله-تازه-آمریکا-به-ایران-اختلاف-در-دولت-ترامپ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرخش-دیپلماتیک-بوداپست-در-پساکرانه-قدرت-اوربان-مجار-و-زلنسکی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/todoist-تأیید-می-کند-که-6-از-جزئیات-مشتریان-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پنج-ژنراتور-خورشیدی-در-جمعه-سیاه-برای-تخفیف-های-عمیق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طبق-گزارش-ها-آمازون-در-حال-مذاکره-برای-پایان-دادن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پس-از-دریافت-2000-درخواست-برای-یک-شغل-یک-استخدام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایکروسافت-پس-از-قطعی-عظیم-outlook-کد-قرمز-را-اعلام/</loc>
+    <loc>https://recart.ir/news/saint-pierre-سریال-پلیس-کانادایی-با-رتبه-بالا-است-که-ثابت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سریال-جنایی-تحسین-شده-با-دنباله-ای-در-نتفلیکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اریکا-بادو-ما-را-به-یک-سفر-کیهانی-برای-اجرای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
