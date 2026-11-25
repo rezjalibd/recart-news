@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/همزمان-با-کشتار-دی-ماه-قطع-اینترنت-و-جنگ-۴۰/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رسانه-ایتالیایی-از-هدف-قرار-گرفتن-کشتی-ایرانی-حامل-تجهیزات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-گرانی-درمان-برخی-بیماران-در-ایران-به-پرداخت-قسطی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دانشجویان-متحد-روایت-پزشکیان-از-برخورد-با-معترضان-را-تحریف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فضاپیمای-اروپایی-پس-از-آزمایش-انحراف-سیارک-صحنه-آشفته-ای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/s-p-کاهش-اعتبار-انویدیا-را-به-دلیل-خطرات-حاکمیتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تنهاترین-مهمانی-پپتید-در-نیویورک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دست-کم-۳۱-کشته-در-آتش-سوزی-گسترده-ناشی-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -857,6 +857,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/carnaval-de-luz-از-u2-در-رتبه-1-در-3/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/همه-آهنگ-های-hexed-دیزنی-ملکه-دوآ-لیپا-و-موارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اندی-تیلور-گیتاریست-دوران-دوران-در-65-سالگی-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تونی-رومو-پس-از-جدایی-از-cbs-sports-به-عنوان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کتاب-جدید-راکی-پنجاهمین-سالگرد-خود-را-با-نقاشی-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
