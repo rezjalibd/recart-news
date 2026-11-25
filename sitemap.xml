@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/روسیه-با-موشک-های-بالستیک-به-کی-یف-حمله-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مصرف-الکل-چگونه-خطر-سکته-مغزی-را-افزایش-می-دهد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اتحادیه-اروپا-صندوق-فناوری-۵۰-میلیارد-یورویی-برای-رقابت-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نخستین-فضانورد-پاکستان-با-ورود-به-ایستگاه-فضایی-چین-تاریخ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ما-این-10-گجت-را-بررسی-کردیم-و-اکنون-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-انویدیا-اختلاف-بزرگ-غول-های-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اعتراض-۱۵-هزار-نفر-به-افزایش-قیمت-بسته-های-اینترنت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/احتمال-فروش-اجباری-منچسترسیتی-به-دستور-نهاد-ناظر-بر-فوتبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگردان-گرگ-و-میش-فاش-می-کند-که-رابرت-پتینسون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رتبه-بندی-تلویزیون-رقصیدن-با-ستاره-ها-یک-فینال-بزرگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شاهین-با-بازی-ویل-فرل-پس-از-یک-فصل-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
