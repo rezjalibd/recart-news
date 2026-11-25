@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-بودجه-جنگ-ایران-تا-نیمه-بهمن-ماه-تامین-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چهار-خوراکی-که-برخلاف-تصور-رایج-برای-بدن-بسیار-مفیدند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هشدار-سازمان-های-اطلاعاتی-غربی-روسیه-احتمالا-به-زودی-سلاح/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چطور-گله-ای-شترمرغ-با-تاکتیک-های-چریکی-ارتش-مجهز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
