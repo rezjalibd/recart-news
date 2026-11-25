@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پزشکیان-درباره-تصاویر-خاموشی-دفتر-کارش-برای-رسیدن-به-قله/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/برخی-محموله-های-دارویی-از-آغاز-جنگ-هنوز-به-ایران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اجرای-حکم-اعدام-میلاد-آرمون-و-نوید-نجاران-در-پی/</loc>
+    <loc>https://recart.ir/news/پیروزی-تاریخی-نگهداری-دام-های-پرورشی-در-قفس-در-اتحادیه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انتشارنامه-هایی-از-رئیس-پیشین-پلیس-ایتالیا-پیش-از-خودکشی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-کاهش-کمک-ها-۴۴۶-هزار-نفر-از-داروهای-پیشگیری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اروپای-امروز-رئیس-جمهور-مونته-نگرو-برنامه-پیوستن-به-اتحادیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -391,22 +411,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-بودجه-جنگ-ایران-تا-نیمه-بهمن-ماه-تامین-شده/</loc>
+    <loc>https://recart.ir/news/دلار-۲۸۸-هزار-تومان-وعده-های-بانک-مرکزی-مانع-سقوط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چهار-خوراکی-که-برخلاف-تصور-رایج-برای-بدن-بسیار-مفیدند/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۴-آذر-۱۴۰۵-۲۵-نوامبر-۲۰۲۶---نیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مورینیو-رختکن-مثل-لاس-وگاس-است-هر-اتفاقی-آنجا-بیفتد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ان-بی-سی-دولت-ترامپ-در-حال-بررسی-هدف-قرار/</loc>
+    <loc>https://recart.ir/news/سارکوزی-به-اتهام-پرداخت-پول-به-یک-شاهد-برای-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -582,21 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/من-با-دوقلوهای-9-ماهه-ام-70-مایلی-دورتر-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بخش-آنلاین-gta-6-احتمالا-از-فورتنایت-هم-بزرگ-تر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معامله-جمعه-سیاه-crunchyroll-بیش-از-50-در-پخش-انیمه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بعد-از-طلاق-شروع-کردم-به-قرارهای-انفرادی-به-رستوران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -881,6 +881,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کول-اسپروس-می-گوید-که-تا-فصل-چهارم-پول-قابل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حمایت-مارک-کازینز-از-درام-پناهجویان-با-صحنه-قرقیزستان-مرثیه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اسکات-ادکینز-در-مورد-بازگشت-تیم-diablo-برای-عدالت-بی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/noomi-rapace-شرکت-تولیدی-boom-films-را-راه-اندازی-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-روزرسانی-سلامت-2-chainz-پس-از-سقوط-سایبرتراک-نشان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نقد-و-بررسی-hershey-در-یک-فیلم-بیوگرافی-شیرین-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
