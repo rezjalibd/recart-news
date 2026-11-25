@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مهدی-محمودیان-روزنامه-نگار-و-فعال-حقوق-بشر-بازداشت-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هرانا-از-ثبت-دست-کم-۱۰۴-مورد-زن-کشی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تداوم-زن-کشی-در-ایران-در-سایه-جنگ-و-کاستی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,16 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/برخی-محموله-های-دارویی-از-آغاز-جنگ-هنوز-به-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مقام-شهرداری-تهران-تفتیش-گوشی-مسافران-مترو-را-به-ضرورت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اعتصاب-اعلام-نشده-کارکنان-یورواستار-قطارهای-پاریس-لندن-را-متوقف-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -386,6 +386,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کشف-چوب-۴۳۰۰-ساله-در-آرارات-معمای-کشتی-نوح-دوباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/روسیه-شاید-ماهواره-مجهز-به-سلاح-هسته-ای-به-فضا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فرانسه-از-حمله-اوکراین-به-کشتی-های-روسی-در-لیبی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آمریکا-تعرفه-های-گمرکی-تازه-ای-علیه-چین-اتحادیه-اروپا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -447,6 +447,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاپیتان-کشتی-غرق-شده-کوستا-کونکوردیا-پس-از-۹-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-هدفون-جمعه-سیاه-2026-تا-160-دلار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-این-تخفیف-های-پخش-جریانی-جمعه-سیاه-2026-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سخنرانان-مهمانی-هاستینگ-را-به-سطح-بعدی-می-برند-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/راهنمای-the-verge-برای-هدایای-تعطیلات-مقرون-به-صرفه-زیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/gta-6-در-یوتوب-هم-رکوردشکنی-کرد-بیش-از-۳/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -831,6 +831,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بوون-یانگ-مارک-روفالو-و-ظهور-یهودستیزی-در-هالیوود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تاریخ-اکران-فیلم-ستوان-بد-توکیو-تاکاشی-میکه-در-مارس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لیلی-جیمز-بازیگر-و-تهیه-کننده-اقتباس-the-hunting-party/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آریانا-گرانده-می-گوید-واکنش-دیوانه-کننده-به-موزیک-ویدیوی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوردون-رمزی-میزبان-top-gear-خواهد-بود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تغییرات-جوایز-acm-2027-شامل-معیارهای-جدید-برای-هنرمند-جدید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
