@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پارلمان-اسرائیل-نخستین-گام-را-برای-محدود-کردن-دوره-نخست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اسکات-بسنت-رژیم-ایران-مانند-یک-کشتی-در-حال-غرق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مهدی-محمودیان-روزنامه-نگار-و-فعال-حقوق-بشر-بازداشت-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پزشکیان-درباره-تصاویر-خاموشی-دفتر-کارش-برای-رسیدن-به-قله/</loc>
+    <loc>https://recart.ir/news/پارک-مجسمه-آسمان-های-پرث-پیوند-هنر-معاصر-با-طبیعت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پنج-عدد-تکان-دهنده-درباره-موج-مهاجرت-ایرانیان-ترکیه-از/</loc>
+    <loc>https://recart.ir/news/یونان-راهپیمایی-۱۴-هزار-نفر-در-آتن-علیه-افزایش-هزینه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/روسیه-شاید-ماهواره-مجهز-به-سلاح-هسته-ای-به-فضا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رندی-رینبو-موج-آبی-میان-ترم-را-کالبدشکافی-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زمان-چرخش-برای-خدمه-بریتانیا-به-دنبال-کمپین-اتحادیه-بهبود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جایی-که-دانشمندان-روی-عوامل-هوش-مصنوعی-خط-می-کشند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/1password-گفت-هکرها-به-سیستم-های-داخلی-آن-نفوذ-کرده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/انفجار-آزید-سرب-ابرها-را-بر-فراز-آیووا-می-فرستد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/داور-بازی-گل-گهر-در-لیگ-قهرمانان-آسیا-به-دلیل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-پیوستن-hello-kitty-به-رژه-شکرگزاری-مدیران-sanrio-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آریانا-گرانده-می-گوید-واکنش-موزیک-ویدیوی-گلبرگ-مانند-آینه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیوید-فینچر-استفاده-از-هوش-مصنوعی-را-در-غرفه-کلیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جان-لنون-در-عکس-های-1968-بیتلز-که-قبلا-دیده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایکل-اوری-میزبان-هفتاد-و-نهمین-دوره-جوایز-انجمن-نویسندگان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/داخل-اقامتگاه-msg-هری-استایلز-و-چرا-طرفداران-کنسرت-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آریانا-گرانده-می-گوید-واکنش-دیوانه-کننده-به-موزیک-ویدیوی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
