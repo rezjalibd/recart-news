@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-بودجه-جنگ-با-ایران-تا-پایان-ژانویه-تامین-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کانادا-برنامه-حمایت-ترکیبی-از-پناهندگان-را-متوقف-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-گفته-است-که-عفو-جنسن-هوانگ-یک-گزینه-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گزارش-ها-حاکی-از-آن-است-که-ترامپ-می-گوید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رقصیدن-با-ستاره-ها-همه-35-برنده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/متیو-کاپر-مدیر-اجرایی-انتشارات-موسیقی-اواخر-با-جایزه-جدید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فینال-فصل-سی-و-پنجم-dancing-with-the-stars-چه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رقصیدن-با-ستاره-ها-فصل-35-زوج-ها-آخرین-رقص/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
