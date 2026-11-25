@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ادعای-سپاه-در-باره-انفجار-دو-نفتکش-دیگر-در-تنگه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هشدار-سفارت-مجازی-آمریکا-درباره-تهدیدهای-جمهوری-اسلامی-شهروندان-آمریکایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -201,22 +206,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هواوی-در-پرونده-نقض-تحریم-های-ایران-و-سرقت-اسرار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هواوی-به-نقض-تحریم-های-آمریکا-علیه-ایران-و-سرقت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/طبق-قوانین-هیئت-منصفه-ایالات-متحده-هواوی-متهم-به-توطئه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/blanche-s-doj-در-مورد-تحقیقات-جنسن-هوانگ-nvidia-شهروند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کالشی-تصمیم-دشوار-را-برای-توقف-تجارت-یوتا-پس-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -466,6 +466,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سهام-آنتروپیک-به-زیر-قیمت-عرضه-اولیه-سقوط-کرد-زنگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تکلیف-زمان-واریز-سود-سهام-عدالت-روشن-شد-تسویه-حساب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-kindle-scribe-30-جلوتر-از-جمعه-سیاه-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/متا-دستیار-هوش-مصنوعی-muse-را-به-بخش-دایرکت-اینستاگرام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/maple-5-3-میلیون-دلار-برای-ساخت-محصولات-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/راهنمای-هدیه-تعطیلات-2026-the-verge-برای-مادران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
