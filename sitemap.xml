@@ -626,6 +626,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ورزش-یا-تغذیه-سالم-کدام-یک-تأثیر-بیشتری-بر-طول/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سارقان-بدون-کارت-بانکی-و-رمز-دستگاه-های-خودپرداز-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایکروسافت-پس-از-قطعی-گسترده-اوت-لوک-وضعیت-هشدار-قرمز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/واتس-اپ-در-حال-تست-استیکرها-با-صدا-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-سیستم-های-ثبت-باز-آمریکا-را-تحت-فشار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طرح-جدید-مجلس-برای-نظارت-بر-محتوای-صوت-و-تصویر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/راز-ساخت-پل-هایی-با-عمر-طولانی-تر-شاید-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جودی-دنچ-نظرش-درباره-رابرت-پتینسون-به-عنوان-جیمز-باند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -886,6 +886,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-یک-سلبریتی-هستم-مرا-از-اینجا-بیرون-کن-جنجال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایک-نیول-به-یاد-می-آورد-که-در-کلمبیا-هنگام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نوح-کاهان-سال-حماسی-را-با-آلبوم-live-from-the/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سول-کیونگ-گو-در-مورد-فیلم-عشق-ممکن-یک-صحنه-سبک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگردان-به-بازار-فیلم-waves-گفت-هانومان-آنش-از-افت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تراویس-بارکر-می-گوید-که-فیل-کالینز-به-آنها-پیشنهاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
