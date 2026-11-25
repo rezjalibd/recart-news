@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چهار-خوراکی-که-برخلاف-تصور-رایج-برای-بدن-بسیار-مفیدند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مورینیو-رختکن-مثل-لاس-وگاس-است-هر-اتفاقی-آنجا-بیفتد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-هدایای-لحظه-آخری-که-در-لحظه-آخر-احساس-نمی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارتش-آمریکا-قصد-دارد-پنج-تن-ماده-منفجره-فرسوده-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-تنظیم-تلویزیون-roku-را-تغییر-دهید-تا-فیلم-هایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اگر-عاشق-کوپرتینو-بودید-یک-فیلم-وجود-دارد-که-باید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -857,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فینال-فصل-سی-و-پنجم-dancing-with-the-stars-چه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شکایت-از-دیزنی-به-دلیل-استفاده-از-موسیقی-بدون-مجوز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-محصولات-k-beauty-مورد-علاقه-ستارگان-کی-پاپ-تا-43/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خشم-مروارید-جام-در-برابر-دستگیری-های-بی-وجدان-یخ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
