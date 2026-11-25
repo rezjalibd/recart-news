@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-آزار-جنسی-در-کودکی-تا-خشونت-خانگی-روایت-زنان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پزشکیان-درباره-تصاویر-خاموشی-دفتر-کارش-برای-رسیدن-به-قله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/وکیل-میلاد-آرمون-از-توقف-اجرای-حکم-اعدام-او-خبر/</loc>
+    <loc>https://recart.ir/news/از-تاکسی-تا-قطار-در-کدام-کشورهای-اروپا-می-توان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لحظه-تاج-گذاری-ملکه-زیبایی-نماینده-پورتوریکو-برنده-رقابت-دختر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آمار-رسمی-روسیه-از-نزدیک-به-۵۰۰-هزار-کشته-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,21 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-بودجه-جنگ-با-ایران-تا-پایان-ژانویه-تامین-شده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-بودجه-جنگ-با-ایران-تا-پایان-ژانویه-تامین-شده-86ace1/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کانادا-برنامه-حمایت-ترکیبی-از-پناهندگان-را-متوقف-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دلار-۲۸۸-هزار-تومان-وعده-های-بانک-مرکزی-مانع-سقوط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -487,6 +487,36 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/gta-6-یا-یک-اشتراک-anthropic-شما-می-توانید-هر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-شروع-به-کدنویسی-برای-پدرم-کردم-و-ساعتی-1/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رفتن-به-خانه-برای-روز-شکرگزاری-با-دل-و-روده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بخش-مرکزی-جشن-شکرگزاری-گران-تر-می-شود-ممکن-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برش-نمرده-است-مجبور-می-شود-بزرگ-شود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ما-به-تازگی-یک-میلیون-jensen-huang-ایجاد-کردیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -571,36 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دوشیزه-پورتوریکو-برنده-جایزه-miss-universe-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بنیان-گذار-دیپ-سیک-حالا-از-مدیران-اوپن-ای-آی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آنچه-در-مورد-هواپیمای-خصوصی-سسنا-که-در-می-سی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مقایسه-طرح-ها-و-معاملات-اینترنتی-بهینه-کدام-یک-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طرح-ها-بسته-ها-و-قیمت-های-تلویزیون-کابلی-بهینه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-با-دوقلوهای-9-ماهه-ام-70-مایلی-دورتر-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/یک-سامانه-غیرمحرمانه-سازمان-سیا-در-حمله-سایبری-هک-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تلویزیون-هایی-که-ما-آزمایش-کرده-ایم-2026-سامسونگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیش-بینی-تلاطم-هواپیما-بسیار-سخت-است-اما-شاید-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شاهکار-پلکانی-هند-بهترین-ساختمان-جهان-در-سال-۲۰۲۶-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیشرفت-هوش-مصنوعی-یاهو-پیوندهای-بیشتر-جستجوی-بیشتر-دلایل-بیشتر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پس-از-دریافت-2000-درخواست-برای-یک-شغل-یک-استخدام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -766,31 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گپ-جی-پی-تی-به-gapgpt-ir-منتقل-شد-حساب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قابلیت-جدید-claude-برای-ساخت-آسان-اپلیکیشن-های-دسکتاپ-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ناتینگ-با-گجت-جدیدش-می-خواهد-هوش-مصنوعی-را-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/chipotle-از-هوش-مصنوعی-برای-پیش-بینی-تقاضای-گواکامول-استفاده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سازمان-cia-و-چند-نهاد-اطلاعاتی-و-مالی-آمریکا-هدف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اونجرز-روز-حساب-تریلر-نهایی-رکورد-زد-و-دومین-پرتماشاگرترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -877,6 +877,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلمسازان-زن-از-قرقیزستان-رومانی-و-مکزیک-در-iffi-گوا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آماندا-سیفریلد-اعتراف-کرد-که-درباره-مستند-الیزابت-هلمز-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/noomi-rapace-شرکت-تولیدی-boom-films-را-راه-اندازی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
