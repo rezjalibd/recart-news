@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/افزایش-قربانیان-مسمومیت-با-الکل-تقلبی-۲۰جان-باخته-۸۰-دیالیزی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/با-گرانی-درمان-برخی-بیماران-در-ایران-به-پرداخت-قسطی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/محکومیت-هوآوی-در-آمریکا-به-دلیل-نقض-تحریم-های-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-اندیشکده-آمریکایی-تهران-در-حال-توسعه-گونه-های-تازه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -626,6 +626,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سؤالاتی-که-جنسن-هوانگ-و-انویدیا-در-مورد-megaspeed-هنوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دموکرات-ها-باید-در-مورد-مقررات-هوش-مصنوعی-متحد-شوند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-کدگذاری-vibe-منبع-باز-را-برای-synths-عادی-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پاوربانک-جدید-بیسوس-آیفون-را-بی-سیم-شارژ-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/همزمان-با-حمله-هکرها-به-سامانه-های-مالی-آمریکا-مسئول/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ورزش-یا-تغذیه-سالم-کدام-یک-تأثیر-بیشتری-بر-طول/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -766,31 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نحوه-استفاده-از-برنامه-های-خود-با-ضربه-های-کمتر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وب-ممکن-است-در-حال-مرگ-باشد-آیا-net-art/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حمله-شوک-و-هیبت-هوش-مصنوعی-به-ریاضیات-مانند-غرور/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نحوه-تماشای-هر-بازی-nfl-شکرگزاری-2026-در-جریان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-درمان-با-نور-قرمز-برای-رشد-و-ترمیم-مو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جودی-دنچ-نظرش-درباره-رابرت-پتینسون-به-عنوان-جیمز-باند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -886,6 +886,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کریستینا-بوگیچ-ستاره-بدن-فقط-می-خواست-از-آنیا-مراقبت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-کوتاه-ترسناک-هوش-مصنوعی-sikkal-برنده-wif-india-x/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-یک-سلبریتی-هستم-مرا-از-اینجا-بیرون-کن-جنجال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سریال-جنایی-تحسین-شده-با-دنباله-ای-در-نتفلیکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اریکا-بادو-ما-را-به-یک-سفر-کیهانی-برای-اجرای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سول-کیونگ-گو-در-مورد-فیلم-عشق-ممکن-یک-صحنه-سبک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
