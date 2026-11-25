@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/با-گرانی-درمان-برخی-بیماران-در-ایران-به-پرداخت-قسطی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانشجویان-متحد-روایت-پزشکیان-از-برخورد-با-معترضان-را-تحریف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/به-علت-رانندگی-خطرناک-رحیم-استرلینگ-به-۱۲-ماه-زندان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دو-اندیشکده-آمریکایی-تهران-در-حال-توسعه-گونه-های-تازه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بحران-فزاینده-حق-حیات-کودکان-در-ایران-دست-کم-۲۸۱/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ادعای-سپاه-در-باره-انفجار-دو-نفتکش-دیگر-در-تنگه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -626,6 +626,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/واتس-اپ-در-حال-تست-استیکرها-با-صدا-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/در-کسب-و-کار-خانوادگی-هوانگ-با-2-فرزند-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اتصال-نرم-افزار-هلو-به-اسنپ-مارکت-مدیریت-یکپارچه-فروش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جودی-دنچ-نظرش-درباره-رابرت-پتینسون-به-عنوان-جیمز-باند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -886,6 +886,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نوح-کاهان-سال-حماسی-را-با-آلبوم-live-from-the/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تهیه-کننده-maharaja-ویجی-ستوپاتی-رویکرد-بازسازی-هالیوود-را-تأیید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بل-و-سباستین-با-matador-records-قرارداد-جهانی-کاتالوگ-امضا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تراویس-بارکر-می-گوید-که-فیل-کالینز-به-آنها-پیشنهاد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آشوتوش-گواریکر-می-خواهد-iffi-گوا-اولین-جشنواره-فیلمسازان-باشد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پادکست-ویدیویی-ست-دوتایی-برایان-گلوکشتاین-و-لیندا-ریوز-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
