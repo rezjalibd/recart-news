@@ -866,6 +866,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یک-غول-واقعی-صنعت-موسیقی-شاه-چارلز-یان-مولی-ملدروم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برنامه-فوتبال-هفته-شکرگزاری-nfl-نحوه-تماشا-و-پخش-زنده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ستاره-امپراطور-ازدواج-مجدد-شین-مینا-در-مورد-بازی-سلطنتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کانر-وود-فینالیست-dancing-with-the-stars-قبلا-برنده-شده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/۲۰-فیلم-برتر-جلوه-های-ویژه-اسکار-معرفی-شدند-دیزنی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هر-چیزی-جز-ارواح-کاری-بارکر-با-hdr-ممتاز-توسط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
