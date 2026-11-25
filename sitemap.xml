@@ -221,6 +221,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پاکستان-تیم-های-امداد-به-دنبال-بازماندگان-زیر-آوار-ساختمان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تنبل-ها-نمی-توانند-بین-درختان-بپرند-داوطلبان-برایشان-پل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ماجراهای-پراگ-از-قلعه-های-قرون-وسطایی-تا-شیشه-گری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عراقچی-در-واکنش-به-اتهام-اسرائیل-درباره-سلاح-شیمیایی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -321,6 +336,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/روسیه-شاید-ماهواره-مجهز-به-سلاح-هسته-ای-به-فضا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زمان-چرخش-برای-خدمه-بریتانیا-به-دنبال-کمپین-اتحادیه-بهبود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -391,22 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یکی-از-متحدان-ناتو-که-برای-مقابله-با-تهدید-هواپیماهای/</loc>
+    <loc>https://recart.ir/news/ایندرا-برنامه-رهبری-دفاع-و-فضا-در-اروپا-با-فروش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بیش-از-نیم-قرن-انتظار-جست-وجو-برای-یافتن-۹۱۷/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنیفر-بارتو-از-پورتوریکو-نخستین-زن-متاهل-شد-که-عنوان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اروپا-به-سلامت-دیجیتال-روی-آورده-است-بیماران-واقعا-سودی/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۴-آذر-۱۴۰۵-۲۵-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کواچلا-از-والمارت-به-دلیل-فروش-ناک-آف-در-فروشگاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تنها-بازیکن-بزرگ-نتفلیکس-که-به-سازمان-مستقل-شکایات-قلدری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/etsy-شرایط-هوش-مصنوعی-را-پس-از-واکنش-فروشنده-روشن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سوئد-چگونه-گرمای-دیتاسنترها-را-به-خانه-های-مردم-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گزارش-شده-است-که-آمازون-و-متا-در-حال-مذاکره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-پیشرفت-مهم-گلکسی-s27-اولترا-فقط-در-برخی-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آغازهای-ناتمام-۲۰-هزار-شیشه-شیر-خالی-در-گرامیداشت-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جان-لنون-در-عکس-های-1968-بیتلز-که-قبلا-دیده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایکل-اوری-میزبان-هفتاد-و-نهمین-دوره-جوایز-انجمن-نویسندگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سفر-به-شفق-های-شمالی-ifc-آخرین-های-مایکل-وینترباتم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارلسون-یانگ-کارگردان-فیلم-clashing-through-the-snow-در-حال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تهیه-کننده-بازی-های-گرسنگی-اعتراف-کرد-که-ملک-جی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
