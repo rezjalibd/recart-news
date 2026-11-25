@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بیش-از-۱۰ماه-بازداشت-و-بلاتکلیفی-نوید-ذره-بین-شهروند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آقاسی-تاریخ-جدیدی-برای-اجرای-احکام-اعدام-پرونده-اکباتان-اعلام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/محسن-رضایی-جمهوری-اسلامی-مصمم-به-شکستن-محاصره-دریایی-است/</loc>
+    <loc>https://recart.ir/news/شمار-مسمومان-الکلی-در-نیشابور-به-۲۱۸-نفر-رسید-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رئیس-پیشین-پلیس-اندونزی-به-اتهام-خیانت-به-کشور-بازداشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عملیات-ماتریوشکا-چیست-و-روسیه-چگونه-با-اخبار-جعلی-انتخابات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -621,6 +621,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اتصال-نرم-افزار-هلو-به-اسنپ-مارکت-مدیریت-یکپارچه-فروش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مصوبه-مجلس-برای-ثبت-فعالیت-با-کارگزاران-خارجی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایکروسافت-پس-از-قطعی-۲۴-ساعته-اخیر-سرویس-های-خود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-وجود-مخالفت-بخش-خصوصی-وزیر-ارتباطات-بار-دیگر-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بنچمارک-جدید-گوگل-برای-ارزیابی-مهارت-هوش-مصنوعی-در-پاسخ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دونالد-ترامپ-برای-خرید-سهام-انویدیا-توسط-دولت-آمریکا-هنوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قیمت-لپ-تاپ-امروز-۴-آذر-محصول-گیمینگ-لنوو-ارزان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -761,36 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/باتری-موجود-در-fitbit-edge-شما-قابل-تعویض-است-اما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بلانچ-سوالات-مربوط-به-انویدیا-را-کم-اهمیت-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-ترمینال-آلبو-است-نه---اما-جهان-در-هرج/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-ارتش-ایالات-متحده-نزدیک-به-10000-پوند-مواد-منفجره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استرالیا-لایحه-ایمنی-را-تصویب-می-کند-که-می-تواند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/با-این-تنظیمات-برنامه-سرعت-وای-فای-starlink-خود-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/کابوس-سقوط-در-اولدترافورد-منچستریونایتد-در-مسیر-تاتنهام-فصل-گذشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -872,6 +872,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تراویس-بارکر-می-گوید-که-فیل-کالینز-به-آنها-پیشنهاد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آشوتوش-گواریکر-می-خواهد-iffi-گوا-اولین-جشنواره-فیلمسازان-باشد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رقصیدن-با-ستاره-ها-همه-35-برنده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/متیو-کاپر-مدیر-اجرایی-انتشارات-موسیقی-اواخر-با-جایزه-جدید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنا-اوشکویتز-می-گوید-ادای-احترام-کوری-مونتیث-گلی-کار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
