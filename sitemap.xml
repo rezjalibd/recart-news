@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گزارش-موسسه-آمریکایی-از-ساخت-سریع-تاسیسات-زیرزمینی-جدید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گزارش-موسسه-علوم-و-امنیت-بین-المللی-از-ساخت-سریع/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قطع-تماس-و-ملاقات-زندانیان-پادشاهی-خواه-اوین-پس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-فعالان-محیط-زیست-درباره-خطر-ورود-فاضلاب-کشف-رود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -451,6 +451,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/10-مورد-از-بهترین-کدهای-تقلب-gta-6-و-نحوه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اینها-بهترین-موارد-رایگان-موجود-در-فروشگاه-در-جمعه-سیاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/1password-پس-از-اینکه-یک-هکر-به-اطلاعات-مشتری-دسترسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,22 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بیل-آکمن-به-سقوط-ثروت-کارل-ایکان-اشاره-کرد-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همه-می-گفتند-سفر-با-بچه-های-کوچک-هدر-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیام-های-برنامه-ریزی-شده-جدید-واتس-اپ-به-شما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سوئد-چگونه-گرمای-دیتاسنترها-را-به-خانه-های-مردم-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/وعده-مدیرعامل-استقلال-ستاره-سوم-در-راه-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ignite-از-jo1-در-صدر-100-فیلم-داغ-ژاپن-قرار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انتشار-خلاصه-باور-و-gl-music-form-jv-gram-parsons/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-اینجا-نحوه-یافتن-عمارت-ریک-راس-در-grand-theft/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آریانا-گرانده-می-گوید-ادراک-دیوانه-کننده-از-موزیک-ویدیوی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ناگهان-فیلم-نادری-است-که-ممکن-است-زندگی-شما-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رایان-رینولدز-با-کلی-بوش-نواک-روزنامه-نگار-قدرت-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتقام-جویان-روز-رستاخیز-فصل-پایانی-monopoly-go-را-راه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برندی-کارلیل-به-دلیل-بازداشت-های-وحشتناک-در-سیاتل-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سریال-جدید-نتفلیکس-درباره-قتل-تکان-دهنده-دختر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
