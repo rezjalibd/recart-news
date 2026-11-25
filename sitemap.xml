@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رسانه-های-لبنان-فشار-آمریکا-و-عربستان-پشت-لحن-تندتر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اعتصاب-اعلام-نشده-کارکنان-یورواستار-قطارهای-پاریس-لندن-را-متوقف-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/زمان-چرخش-برای-خدمه-بریتانیا-به-دنبال-کمپین-اتحادیه-بهبود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فرانسه-از-حمله-اوکراین-به-کشتی-های-روسی-در-لیبی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/1password-گفت-هکرها-به-سیستم-های-داخلی-آن-نفوذ-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/backblaze-توضیح-می-دهد-که-چرا-اطلاعات-مشتری-را-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انفجار-سرب-آیووا-رخ-داد-اکنون-کار-واقعی-شروع-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اعتراض-۱۵-هزار-نفر-به-افزایش-قیمت-بسته-های-اینترنت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رونمایی-ix3-جدید-شاسی-بلند-برقی-بی-ام-و-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -767,26 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انفجار-آزید-سرب-ابرها-را-بر-فراز-آیووا-می-فرستد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ساخت-مراکز-داده-هوش-مصنوعی-سخت-تر-می-شود-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اولین-سهام-آنتروپیک-می-تواند-به-استارت-آپ-های-فناوری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدیرعامل-انویدیا-می-گوید-ترامپ-نقشی-در-بازگشت-او-نداشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارتش-تن-ها-آزید-سرب-را-منفجر-می-کند-زیرا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
