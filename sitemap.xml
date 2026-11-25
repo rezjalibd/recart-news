@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گذرگاه-ترامپ-آغاز-اجرای-پروژه-حمل-ونقل-و-انتقال-انرژی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عطارد-سیاره-ای-که-نباید-وجود-داشته-باشد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/افشای-اسناد-محرمانه-روسیه-دست-کم-۴۹۰-هزار-سرباز-روس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنگ-روایت-ها-در-تنگه-هرمز-آیا-ایران-توانسته-مسیر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ستاره-امپراطور-ازدواج-مجدد-شین-مینا-در-مورد-بازی-سلطنتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/6-آهنگ-جدید-پاپ-تعطیلات-از-هیلاری-داف-اولیویا-رودریگو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هر-چیزی-جز-ارواح-کاری-بارکر-با-hdr-ممتاز-توسط/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/hunger-games-sunrise-on-the-reaping-برای-تسلط-بر-باکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
