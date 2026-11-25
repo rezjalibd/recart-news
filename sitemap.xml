@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/به-گفته-رانندگان-مک-لارن-لاندو-نوریس-و-اسکار-پیاستری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مارول-در-حال-برنامه-ریزی-برای-ادای-احترام-به-پاتریک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گلدن-گلوب-مرد-عنکبوتی-روز-کاملا-جدید-کمدی-می-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پاتریک-استوارت-در-آخرین-روز-فیلمبرداری-انتقام-جویان-روز-قیامت-3de355/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
