@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اجرای-حکم-اعدام-میلاد-آرمون-و-نوید-نجاران-در-پی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تاکید-رضایی-بر-عزم-ایران-برای-شکستن-محاصره-دریایی-آمریکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اعتراض-استقلال-رد-شد-دو-جلسه-محرومیت-یاسر-آسانی-قطعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هفته-صد-و-چهل-وهشتم-کارزار-سه-شنبه-های-نه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-ویژگی-مفید-اپل-واچ-به-طور-یکپارچه-با-apple/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/sonnenfeld-از-yale-nvidia-یک-مضر-برای-قدرت-صنعتی-ایالات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/طبق-گزارش-ها-جنسن-هوانگ-به-کارکنان-انویدیا-می-گوید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رونالدو-ممکن-است-به-دلیل-تمسخر-کمک-داور-حداقل-چهار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,36 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/dolly-parton-estate-تیم-خلاقی-را-نشان-می-دهد-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جایزه-بزرگ-لاس-وگاس-f1-2026-مشاهیر-مهمانی-های-آخر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هر-چیزی-جز-ارواح-از-کری-بارکر-با-hdr-ممتاز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/dolly-parton-estate-تیم-خلاقی-را-نشان-می-دهد-که-029058/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جیمز-مارسدن-از-مردان-ایکس-در-فیلم-انتقام-جویان-روز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-آخرین-سفارش-کارگر-محبوب-درایو-سیگل-ویلیامز-می-گوید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -947,36 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آخرین-ضبط-دالی-پارتون-در-بازی-u2-torn-نقاط-عطف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خلاصه-جوایز-mama-2026-ive-enhypen-cortis-و-بیشتر-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/nbc-نظارت-بر-طوفان-که-می-تواند-بالن-های-رژه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازی-های-گرسنگی-طلوع-خورشید-در-درو-خلق-چهره-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/iatse-به-توافقی-آزمایشی-برای-stagehands-برادوی-رسید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استیون-هک-بازیگر-داستان-ترسناک-آمریکایی-و-بازیگر-اصلی-گربه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/miss-universe-2026-در-اینجا-جایی-است-که-می-توان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
