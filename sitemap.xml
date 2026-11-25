@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مروا-نبیلی-فیلمساز-ایرانی-که-در-سکوت-کار-کرد-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازداشت-هومن-دارابی-و-حمیدرضا-ساداتی-توسط-نیروهای-امنیتی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/به-علت-رانندگی-خطرناک-رحیم-استرلینگ-به-۱۲-ماه-زندان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/احضار-دوباره-کوکب-بداغی-به-هیات-تخلفات-اداری-آموزش-وپرورش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اسپورتینگ-۲-۲-منچستریونایتد-اولین-امتیاز-یونایتد-با-پوچتینو-در-لیگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هانسی-فلیک-ناراضی-از-گل-خوردن-های-بارسلونا-در-این/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -847,6 +852,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کمدی-گلف-ویل-فرل-به-نام-شاهین-پس-از-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اندی-تیلور-گیتاریست-دوران-دوران-در-۶۵-سالگی-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -931,11 +946,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اندی-تیلور-گیتاریست-دوران-دوران-در-۶۵-سالگی-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پیش-نمایش-indie-thanksgiving-cliff-booth-و-all-of-a/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تونی-رومو-بعد-از-cbs-با-betting-app-betr-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-دلیل-طوفان-به-شنبه-موکول/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ویل-فرل-فیلم-کمدی-شاهین-را-پس-از-یک-فصل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
