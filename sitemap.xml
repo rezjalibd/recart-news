@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عضو-کمیسیون-فرهنگی-مجلس-عقد-چهار-تا-پنج-ساله-راهکاری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/با-افزایش-۲۶-سقف-قیمت-انرژی-قبوض-خانوارهای-بریتانیا-۷۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ماتروشکا-کارزار-روسی-اطلاعات-نادرست-علیه-انتخابات-اسپانیا-چیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برای-احمد-الشرع-چای-بردم-روایت-زن-ایزدی-از-دیدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قیمت-لپ-تاپ-امروز-۴-آذر-محصول-گیمینگ-لنوو-ارزان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ایمیل-سازمانی-بگیریم-یا-با-جیمیل-کار-راه-بیندازیم-راهنمای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نیمی-از-ناوگان-سالخورده-مریخ-ناسا-به-دلیل-مشکلات-فنی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/کابوس-سقوط-در-اولدترافورد-منچستریونایتد-در-مسیر-تاتنهام-فصل-گذشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -872,6 +872,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جان-تراولتا-از-تماشاگرانش-در-مراسم-جایزه-یک-عمر-دستاورد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/wacom-و-india-s-iict-ink-pact-در-iffi-goa/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خلاصه-داستان-پایانی-dancing-with-the-stars-چه-کسی-جایزه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برنده-فصل-35-تاج-های-رقص-با-ستاره-ها-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/متیو-کاپر-مدیر-اجرایی-انتشارات-موسیقی-اواخر-با-جایزه-سالانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
