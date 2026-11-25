@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دادگاهی-در-نیویورک-شرکت-هواوی-را-به-دلیل-نقض-تحریم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رضا-امیرخانی-شیفته-خمینی-که-خواستار-محدود-شدن-دوره-رهبری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,11 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ابلاغ-زمان-اجرای-حکم-دو-معترض-پرونده-اکباتان-در-آستانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/چهار-خوراکی-که-برخلاف-تصور-رایج-برای-بدن-بسیار-مفیدند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -386,6 +386,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-می-گوید-احتمالا-دیر-نیست-که-ایالات-متحده-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-گفته-است-که-عفو-جنسن-هوانگ-یک-گزینه-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چطور-گله-ای-شترمرغ-با-تاکتیک-های-چریکی-ارتش-مجهز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-هدایای-لحظه-آخری-که-در-لحظه-آخر-احساس-نمی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -452,6 +452,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مقایسه-طرح-ها-و-معاملات-اینترنتی-بهینه-کدام-یک-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/crocها-تا-60-تخفیف-برای-جمعه-سیاه-دارند-از-جمله/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-عینک-هوشمند-شیک-متا-اوکلی-برای-جمعه-سیاه-۱۲۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
