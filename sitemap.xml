@@ -221,7 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عطارد-سیاره-ای-که-نباید-وجود-داشته-باشد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-بودجه-جنگ-با-ایران-تا-پایان-ژانویه-تامین-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترامپ-بودجه-جنگ-با-ایران-تا-پایان-ژانویه-تامین-شده-86ace1/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-می-گوید-احتمالا-دیر-نیست-که-ایالات-متحده-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-گفته-است-که-عفو-جنسن-هوانگ-یک-گزینه-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اعتراض-پوچتینو-به-داوری-لیگ-برتر-لغو-کارت-قرمز-یورو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -452,6 +452,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بنیان-گذار-دیپ-سیک-حالا-از-مدیران-اوپن-ای-آی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنچه-در-مورد-هواپیمای-خصوصی-سسنا-که-در-می-سی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/من-سال-ها-به-جای-رشد-شغلی-از-مادر-پیرم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عکس-های-ناامیدکننده-نشان-می-دهند-که-بازدید-از-کولوسئوم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/crocها-تا-60-تخفیف-برای-جمعه-سیاه-دارند-از-جمله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/6-آهنگ-جدید-پاپ-تعطیلات-از-هیلاری-داف-اولیویا-رودریگو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رقصیدن-با-ستاره-ها-همه-35-برنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/hunger-games-sunrise-on-the-reaping-برای-تسلط-بر-باکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فینال-فصل-سی-و-پنجم-dancing-with-the-stars-چه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
