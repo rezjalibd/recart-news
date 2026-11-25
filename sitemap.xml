@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/همزمان-با-کشتار-دی-ماه-قطع-اینترنت-و-جنگ-ساخت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/همزمان-با-کشتار-دی-ماه-قطع-اینترنت-و-جنگ-۴۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/با-گرانی-درمان-برخی-بیماران-در-ایران-به-پرداخت-قسطی/</loc>
+    <loc>https://recart.ir/news/مصرف-الکل-چگونه-خطر-سکته-مغزی-را-افزایش-می-دهد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/احساس-تنهایی-در-زندگی-مشترک-ناموفق-خطر-ابتلا-به-زوال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پایان-نگرانی-ها-در-تراکتور-حسین-زاده-برای-ادامه-فصل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ائتلاف-به-رهبری-عربستان-سعودی-بندر-الحدیده-یمن-را-هدف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ایندرا-برنامه-رهبری-دفاع-و-فضا-در-اروپا-با-فروش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -447,6 +447,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاپیتان-کشتی-غرق-شده-کوستا-کونکوردیا-پس-از-۹-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-کدهای-کوپن-athleta-که-در-نوامبر-2026-آزمایش-کرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-کوپن-ها-و-کدهای-تبلیغاتی-glassesusa-در-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,22 +601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/15-غذای-شکرگزاری-که-نیازی-به-فر-ندارند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-ساعت-هوشمند-جدید-coros-expedition-focused-را-امتحان-کردم-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سرورهای-mcp-اکنون-می-توانند-مهارت-های-عامل-هوش-مصنوعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیام-جنسن-هوانگ-به-انویدیا-ما-به-برنامه-b-نیاز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیا-می-خواهید-در-این-کریسمس-برای-کودک-خود-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مهندس-سابق-تسلا-می-گوید-هوش-مصنوعی-شغل-های-جعلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دست-کم-۳۱-کشته-در-آتش-سوزی-گسترده-ناشی-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -857,6 +857,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایکل-گیلز-درامر-اصلی-کینگ-کریمسون-در-سن-۸۴-سالگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-دلیل-آب-و-هوا-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اندی-تیلور-گیتاریست-دوران-دوران-در-65-سالگی-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
