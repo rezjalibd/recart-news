@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/واژگونی-و-آتش-سوزی-یک-خودرو-حامل-فرآورده-های-نفتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مهدی-محمودیان-روزنامه-نگار-و-فعال-حقوق-بشر-به-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آمریکا-طرح-تعرفه-های-جدید-برای-بزرگترین-شرکای-تجاریش-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ایندرا-برنامه-رهبری-دفاع-و-فضا-در-اروپا-با-فروش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -447,6 +447,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاپیتان-کشتی-غرق-شده-کوستا-کونکوردیا-پس-از-۹-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/the-home-depot-ابزارهای-برقی-بی-سیم-میلواکی-دی-والت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-پیشنهادهای-فنی-از-فروش-جمعه-سیاه-2026-walmart/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جایگزین-جستجوی-گوگل-kagi-رقیب-جیمیل-را-راه-اندازی-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انجمن-سلطنتی-عکاسی-بریتانیا-برندگان-مسابقه-سال-۲۰۲۶-خود-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/در-جنگل-های-آمازون-سوسری-ها-در-تاریکی-شب-کار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آخرین-ساعت-اپل-برای-جمعه-سیاه-تا-100-دلار-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/وعده-مدیرعامل-استقلال-ستاره-سوم-در-راه-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/داستان-تیلور-سویفت-uggs-باعث-ایجاد-میم-های-خنده-دار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اوبا-باتلر-با-سری-hbo-کلاهبرداری-برای-فردای-بهتر-زبانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تونی-رومو-بعد-از-cbs-با-betting-app-betr-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-دلیل-طوفان-به-شنبه-موکول/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جف-گلدبلوم-در-حالی-که-در-حال-انعکاس-درباره-کارنامه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مرسدس-برایس-مورگان-کارگردان-می-گوید-awkwafina-واقعا-برای-آن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پادکست-doc-talk-چشمان-بن-پرادفوت-از-غنا-و-نانا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/avengers-doomsday-eyes-با-افتتاحیه-270-میلیون-دلاری-به-عنوان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترسناک-سولالا-رونق-نسل-یوتیوب-عربستان-را-تقویت-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
