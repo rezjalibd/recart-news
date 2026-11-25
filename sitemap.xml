@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-فعالان-محیط-زیست-درباره-خطر-ورود-فاضلاب-کشف-رود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/موسسه-مطالعات-جنگ-ایران-در-حال-توسعه-موشک-های-بالستیک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جزییات-تازه-از-سرکوب-و-کشتار-دی-ماه-در-ممسنی/</loc>
+    <loc>https://recart.ir/news/اختصاصی-یورونیوز-رهبران-جدید-صربستان-برای-تعیین-تکلیف-روابط-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/توقیف-محموله-۳-تنی-مت-آمفتامین-در-اقیانوس-آرام-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,12 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بله-ای-روشن-صریح-و-مشتاقانه-مرز-میان-معاشقه-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مطالعه-ای-نشان-می-دهد-سطح-ویتامین-دی-در-تابستان/</loc>
+    <loc>https://recart.ir/news/در-صنعت-بحران-زده-اروپا-حدود-۳-۷-میلیون-شغل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کامپیوترهای-اقتصادی-احتمالا-به-۸-گیگابایت-رم-برمی-گردند-هشدار/</loc>
+    <loc>https://recart.ir/news/پیانیست-رباتیک-جسور-تئوترونیکو-با-۵۳-انگشت-رقیب-نوازندگان-انسان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -617,6 +622,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-می-تواند-محاسبات-را-انجام-دهد-فیزیکدانان-نظری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-سربازان-اسباب-بازی-طناب-زنی-به-طور-تصادفی-fyp/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,17 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دونالد-ترامپ-برای-خرید-سهام-انویدیا-توسط-دولت-آمریکا-هنوز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قیمت-لپ-تاپ-امروز-۴-آذر-محصول-گیمینگ-لنوو-ارزان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایمیل-سازمانی-بگیریم-یا-با-جیمیل-کار-راه-بیندازیم-راهنمای/</loc>
+    <loc>https://recart.ir/news/جودی-دنچ-نظرش-درباره-رابرت-پتینسون-به-عنوان-جیمز-باند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -881,6 +886,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تجربه-دفتر-مرکزی-اپل-بیتلز-برای-سال-2027-تنظیم-شده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/sxsw-با-مشارکت-جشنواره-uth-متمرکز-بر-جوانان-به-مصر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/wacom-و-india-s-iict-ink-pact-در-iffi-goa/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/patricia-bright-signs-ارائه-دهنده-و-سازنده-youtube-با-استعداد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ستاره-مینوتور-آیریس-لبدوا-با-گروه-استعدادهای-مستقل-امضا-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
