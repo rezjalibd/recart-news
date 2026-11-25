@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/وکیل-میلاد-آرمون-از-توقف-اجرای-حکم-اعدام-او-خبر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اجرای-حکم-اعدام-میلاد-آرمون-و-نوید-نجاران-در-پی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سازمان-ملل-هر-ساعت-۵-زن-در-جهان-توسط-نزدیکانشان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اعتراض-استقلال-رد-شد-دو-جلسه-محرومیت-یاسر-آسانی-قطعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-هوش-مصنوعی-پرسیدم-که-آیا-استفاده-از-هوش-مصنوعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دفتر-جرایم-مالی-آمریکا-حادثه-امنیت-سایبری-را-فاش-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-ویژگی-مفید-اپل-واچ-به-طور-یکپارچه-با-apple/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-به-کارمندان-انویدیا-می-گوید-که-از-زمان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-فکر-می-کنید-جنسن-هوانگ-باید-بازگردانده-می-شد/</loc>
+    <loc>https://recart.ir/news/پسته-به-خواب-بهتر-کمک-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -852,6 +857,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رقصیدن-با-ستاره-ها-فصل-35-زوج-ها-آخرین-رقص/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلیپ-روزنبرگ-طراح-تولید-برنده-اسکار-برای-all-that-jazz/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خشم-مروارید-جام-در-برابر-دستگیری-های-بی-وجدان-یخ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نیناجیراچی-با-همه-دوستانش-در-آلبوم-ریمیکس-سورپرایز-جشن-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فصل-35-فینال-dancing-with-the-stars-را-به-صورت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آخرین-ضبط-دالی-پارتون-در-بازی-u2-torn-نقاط-عطف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
