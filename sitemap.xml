@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رضا-امیرخانی-شیفته-خمینی-که-خواستار-محدود-شدن-دوره-رهبری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وکیل-میلاد-آرمون-از-توقف-اجرای-حکم-اعدام-او-خبر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ابلاغ-زمان-اجرای-حکم-دو-معترض-پرونده-اکباتان-در-آستانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محکومیت-اجرای-حکم-شلاق-پرستو-احمدی-در-کنسرت-کلهر-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هر-چیزی-جز-ارواح-کاری-بارکر-با-hdr-ممتاز-توسط/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/hunger-games-sunrise-on-the-reaping-برای-تسلط-بر-باکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آلبوم-ریمیکس-ninajirachi-drops-i-love-my-computer/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خرس-سیاه-تریلر-جستجوگر-با-بازی-کوپر-تاملینسون-از-وسواس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
