@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/sonnenfeld-از-yale-nvidia-یک-مضر-برای-قدرت-صنعتی-ایالات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مشکل-کرش-کردن-بازی-gta-6-در-کنسول-ps5-همچنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,11 +642,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-ویژگی-مفید-اپل-واچ-به-طور-یکپارچه-با-apple/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/sonnenfeld-از-yale-nvidia-یک-مضر-برای-قدرت-صنعتی-ایالات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/rei-ami-kpop-demon-hunters-میزبان-برنامه-who-s-in/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آزمایشگاه-فیلم-اندونزی-و-فرانسه-از-شش-پروژه-رونمایی-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پیش-بینی-گلدن-گلوب-170-فیلم-و-475-بازیگر-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رندی-نیومن-جایزه-یک-عمر-دستاورد-انجمن-آهنگسازان-و-ترانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هرآنچه-تاکنون-درباره-فیلم-بچه-های-خون-و-استخوان-جینا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-فیلم-جوآنا-ناتاسگارا-رقیب-اسکار-شاگرد-سوپر-فن-قبیله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
