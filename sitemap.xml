@@ -846,6 +846,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کتاب-جدید-راکی-پنجاهمین-سالگرد-خود-را-با-نقاشی-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اندی-تیلور-گیتاریست-دوران-دوران-در-۶۵-سالگی-درگذشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پیش-نمایش-indie-thanksgiving-cliff-booth-و-all-of-a/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چگونه-صنعتگران-backrooms-با-استفاده-از-30000-فوت-مربع-مجموعه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/boucheron-درهای-فروشگاه-south-coast-plaza-را-باز-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسکات-کان-فکر-کرد-که-یک-متن-شوخی-دریافت-کرده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
