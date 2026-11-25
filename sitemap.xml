@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/توقیف-پنج-رسانه-در-ایلام-پس-از-انتشار-مطالبی-درباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مروا-نبیلی-از-زنان-پیشگام-سینمای-ایران-در-۸۵-سالگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مسمومیت-با-الکل-پای-محصولات-بسته-بندی-شده-فروشگاهی-هم/</loc>
+    <loc>https://recart.ir/news/رکورد-ورود-روزانه-مهاجران-به-جزایر-قناری-اسپانیا-شکسته-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پایان-گروگان-گیری-یک-روزه-در-کلمبیا-تمام-گروگان-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اتحادیه-اروپا-برنامه-سرمایه-گذاری-۵۰-میلیارد-یورویی-در-صنعت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -511,6 +511,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کارت-گردشگری-رونمایی-شد-تعیین-سقف-۵-هزار-یورویی-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/9-چیزی-که-باید-در-مورد-سوپر-ال-نینوی-تاریخی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کالیان-کریشنامورتی-مدیرعامل-فلیپ-کارت-هفته-آینده-در-بحبوحه-عدم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سهام-مورد-علاقه-صندوق-های-تامینی-امسال-به-آنها-آسیب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آنچه-که-دونالد-ترامپ-جف-بزوس-جی-زی-و-دیگر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/قطار-شما-تأخیر-دارد-در-چک-می-توانید-از-قطار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -627,6 +627,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دستور-العمل-جدید-reddit-برای-رشد-تبلیغات-جستجو-خرید-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/6-بهترین-دستگاه-لاته-برای-نوشیدنی-اسپرسو-اتوماتیک-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جودی-دنچ-نظرش-درباره-رابرت-پتینسون-به-عنوان-جیمز-باند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -886,6 +886,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/erykah-badu-breezy-را-انجام-می-دهد-به-التون-جان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هالیوود-در-کتاب-تصویری-طنز-ما-فیلم-می-سازیم-برشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/داستان-عاشقانه-هیمالیا-وینود-کاپری-پایر-پس-از-انتشار-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پلیس-می-گوید-مواد-ناشناخته-که-در-نمایشگاه-تخلیه-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
