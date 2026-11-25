@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/برخی-محموله-های-دارویی-از-آغاز-جنگ-هنوز-به-ایران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مقام-شهرداری-تهران-تفتیش-گوشی-مسافران-مترو-را-به-ضرورت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لاجوردی-نماینده-مجلس-تعریف-ما-از-خشونت-علیه-زنان-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اجرای-حکم-اعدام-میلاد-آرمون-و-نوید-نجاران-در-پی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تاکید-رضایی-بر-عزم-ایران-برای-شکستن-محاصره-دریایی-آمریکا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شیر-های-گیاهی-ید-و-کلسیم-کافی-ندارند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -621,6 +621,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مایکروسافت-پس-از-قطعی-عظیم-outlook-کد-قرمز-را-اعلام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مانیفست-پاریس-ما-نحوه-برخورد-با-ثروت-شدید-در-عصر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سازمان-cia-و-چند-نهاد-اطلاعاتی-و-مالی-آمریکا-هدف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لندکروزر-کوچک-تویوتا-با-ظاهری-خشن-تر-برای-آفرود-آماده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
