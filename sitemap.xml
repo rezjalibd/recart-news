@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خشونت-علیه-زنان-در-سایه-قانون-جرم-انگاری-روابط-انکار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازداشت-محمود-فرخی-سعدآبادی-درویش-گنابادی-و-زندانی-سیاسی-سابق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/محل-نگهداری-۱۰-هزار-دستگاه-از-محصولات-ایران-خودرو-پلمب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اقلیم-کردستان-عراق-تصمیم-های-نفتی-و-مرزی-بغداد-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -451,6 +451,41 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/1password-پس-از-اینکه-یک-هکر-به-اطلاعات-مشتری-دسترسی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ببینید-چگونه-ثروت-جنسن-هوانگ-با-ثروتمندترین-آمریکایی-های-تاریخ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تجارت-هوش-مصنوعی-چند-روز-پس-از-بازگشت-جنسن-هوانگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تخفیف-های-m-m-lafleur-black-friday-در-مورد-لباس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جدیدترین-هدفون-های-beats-برای-جمعه-سیاه-به-رکورد-پایین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-تلویزیون-های-مینی-ال-ای-دی-هایسنس-با-صفحه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-مانیتورهای-بازی-ال-جی-سامسونگ-و-ایسوس-برای-جمعه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تسلا-سایبرتراک-لغو-شده-سریع-ترین-پرفروش-ترین-کامیون-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -566,47 +601,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/همه-این-پروژکتورهای-سحابی-بزرگ-تا-700-دلار-برای-جمعه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-در-دوچرخه-های-پلوتون-آج/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-هدفون-beats-solo-4-در-طول-فروش-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-اسپیکر-قابل-حمل-jbl-هدیه-سال-لایف-هکر-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-هدفون-bose-quietcomfort-45-تخفیف-برای-جمعه-سیاه-دارند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روترهای-مسافرتی-وای-فای-عمومی-را-به-شبکه-خصوصی-خود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-تلویزیون-های-شگفت-انگیز-hisense-با-50-تخفیف-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/openai-می-گوید-که-کاربران-سنگین-chatgpt-ممکن-است-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ag-های-ایالتی-در-تلاش-هستند-تا-character-ai-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آژانس-فضایی-اروپا-دریافت-که-ماموریت-دارت-ناسا-دهانه-ای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راک-استار-حتی-به-صداپیشه-gta-6-هم-نگفته-بود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-مورخ-می-گوید-هوش-مصنوعی-معمای-200-ساله-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -766,31 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-مراکز-داده-باعث-رونق-گاز-طبیعی-ایالات-متحده-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-پایه-گردن-تلفن-مغناطیسی-راه-حل-فیلمبرداری-آسانی-بود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/واتس-اپ-اکنون-به-شما-امکان-می-دهد-پیام-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/واتس-اپ-بالاخره-پیام-های-برنامه-ریزی-شده-را-ارائه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ادعای-نگران-کننده-تلویزیون-های-هایسنس-اطلاعات-محتوای-در-حال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/صباح-۱-۴-بارسلونا-پیروزی-پرگل-شاگردان-فلیک-در-باکو-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/boucheron-درهای-فروشگاه-south-coast-plaza-را-باز-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اسکات-کان-فکر-کرد-که-یک-متن-شوخی-دریافت-کرده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بوون-یانگ-مارک-روفالو-و-ظهور-یهودستیزی-در-هالیوود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تاریخ-اکران-فیلم-ستوان-بد-توکیو-تاکاشی-میکه-در-مارس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لیلی-جیمز-بازیگر-و-تهیه-کننده-اقتباس-the-hunting-party/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
