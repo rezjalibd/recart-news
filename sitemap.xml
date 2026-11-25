@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-می-توانید-gta-6-را-از-روی-هارد-اکسترنال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حق-ثبت-اختراع-گوگل-برای-فیدهای-ویدیویی-سفارشی-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/fcc-طرح-spacex-را-برای-قرار-دادن-بیش-از-1/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/هانسی-فلیک-ناراضی-از-گل-خوردن-های-بارسلونا-در-این/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -847,6 +847,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اندی-تیلور-گیتاریست-سابق-دوران-دوران-در-65-سالگی-درگذشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بوقلمون-های-خود-را-نگه-دارید-صدمین-رژه-روز-شکرگزاری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جرد-پادالکی-با-ستاره-های-نگهبان-سرانجام-از-تمام-آن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ویل-فرل-فیلم-کمدی-شاهین-را-پس-از-یک-فصل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-دلیل-آب-و-هوا-به-39de7d/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آرون-راجرز-توسط-پیتسبورگ-استیلرز-nfl-پس-از-مصاحبه-espn/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برد-پیت-و-آنجلینا-جولی-از-حماسه-حقوقی-چند-ساله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
