@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مورینیو-رختکن-مثل-لاس-وگاس-است-هر-اتفاقی-آنجا-بیفتد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ان-بی-سی-دولت-ترامپ-در-حال-بررسی-هدف-قرار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/خلبان-پاکستانی-نخستین-فضانورد-خارجی-ایستگاه-فضایی-چین-می-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اعتراض-پوچتینو-به-داوری-لیگ-برتر-لغو-کارت-قرمز-یورو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -452,6 +452,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کوآزاری-که-۶۳۰-میلیون-سال-پس-از-مهبانگ-شکل-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طرح-ها-بسته-ها-و-قیمت-های-تلویزیون-کابلی-بهینه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-با-دوقلوهای-9-ماهه-ام-70-مایلی-دورتر-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-عینک-هوشمند-شیک-متا-اوکلی-برای-جمعه-سیاه-۱۲۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-ناظر-فدرال-می-گوید-انتقال-میلیون-ها-حساب-وام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیشنهاد-اول-جمعه-سیاه-youtube-tv-آخرین-فرصت-برای-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
