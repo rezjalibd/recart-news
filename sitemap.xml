@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/احتمال-آغاز-جنگ-در-گفت-وگو-با-نمایندگان-مجلس-ایران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شبکه-ای-مستقر-در-ایران-با-هوش-مصنوعی-و-خبرنگاران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازدید-خانم-راشل-از-دادگاه-مهاجرت-نیویورک-برای-حمایت-از/</loc>
+    <loc>https://recart.ir/news/مطالعه-ای-نشان-می-دهد-سطح-ویتامین-دی-در-تابستان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اسلواکی-به-دنبال-لغو-رای-گیری-پستی-شهروندان-خارج-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افشای-اسناد-محرمانه-روسیه-دست-کم-۴۹۰-هزار-سرباز-روس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/توماس-مارکل-به-اتهام-داشتن-مواد-سوء-استفاده-جنسی-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یک-غول-واقعی-صنعت-موسیقی-شاه-چارلز-یان-مولی-ملدروم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پاتریک-استوارت-در-آخرین-روز-فیلمبرداری-انتقام-جویان-روز-قیامت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کانر-وود-فینالیست-dancing-with-the-stars-قبلا-برنده-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
