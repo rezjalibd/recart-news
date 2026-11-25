@@ -621,12 +621,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/طرح-جایگزینی-۵۰-هزار-موتورسیکلت-فعال-در-پلتفرم-های-اینترنتی/</loc>
+    <loc>https://recart.ir/news/خرید-کوچک-هدایای-مورد-علاقه-ما-از-مشاغل-مستقل-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/مراقب-حساب-اسنپ-پی-خود-باشید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طرح-جایگزینی-۵۰-هزار-موتورسیکلت-فعال-در-پلتفرم-های-اینترنتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رالی-هوش-مصنوعی-که-با-بازگشت-جنسن-هوانگ-جرقه-زده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اونجرز-روز-حساب-تریلر-نهایی-رکورد-زد-و-دومین-پرتماشاگرترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -877,6 +877,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-ستاره-بازی-های-گرسنگی-از-کم-ترین-تا-موفق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اریکا-بادو-ما-را-به-یک-سفر-کیهانی-برای-اجرای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یک-غول-واقعی-صنعت-موسیقی-شاه-چارلز-یان-مولی-ملدروم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برنامه-فوتبال-هفته-شکرگزاری-nfl-نحوه-تماشا-و-پخش-زنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
