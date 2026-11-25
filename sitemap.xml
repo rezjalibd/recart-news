@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گزارش-موسسه-علوم-و-امنیت-بین-المللی-از-ساخت-سریع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شاهزاده-رضا-پهلوی-جنایت-شلاق-زدن-پرستو-احمدی-تنها-نوک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -131,6 +136,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/rosamund-pike-در-مورد-بازی-در-spiky-stage-drama-inter/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/top-gear-sets-2028-return-با-گوردون-رمزی-به-عنوان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/موسسه-مطالعات-جنگ-ایران-در-حال-توسعه-موشک-های-بالستیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مشروب-تقلبی-۲۰-قربانی-گرفت-۲۷-مسموم-زیر-۱۸-سال/</loc>
+    <loc>https://recart.ir/news/مهدی-محمودیان-روزنامه-نگار-و-فعال-حقوق-بشر-به-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آمریکا-طرح-تعرفه-های-جدید-برای-بزرگترین-شرکای-تجاریش-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کشف-چوب-۴۳۰۰-ساله-در-آرارات-معمای-کشتی-نوح-دوباره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/وعده-مدیرعامل-استقلال-ستاره-سوم-در-راه-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/صباح-۱-۴-بارسلونا-پیروزی-پرگل-شاگردان-فلیک-در-باکو-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +837,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پخش-زنده-تیمبرولوز-در-مقابل-تاندر-نحوه-تماشای-آنلاین-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/gta-vi-ممکن-است-کارلی-رائه-جپسن-را-به-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سریال-جدید-نتفلیکس-درباره-قتل-تکان-دهنده-دختر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/a-e-با-مشارکت-snips-انحصاری-میکرودرام-ها-را-دو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/با-پیوستن-hello-kitty-به-رژه-شکرگزاری-مدیران-sanrio-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آریانا-گرانده-می-گوید-واکنش-موزیک-ویدیوی-گلبرگ-مانند-آینه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
