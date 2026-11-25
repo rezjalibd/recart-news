@@ -5,8 +5,16 @@
     <link>https://recart.ir/</link>
     <description>پوشش لحظه‌ای و جامع اخبار فناوری، اقتصاد، ایران و بین‌الملل</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:13:20 +0000</lastBuildDate>
     <atom:link href="https://recart.ir/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>تداوم زن‌کشی در ایران در سایه جنگ و کاستی‌های قانونی</title>
+      <link>https://recart.ir/news/تداوم-زن-کشی-در-ایران-در-سایه-جنگ-و-کاستی/</link>
+      <guid>https://recart.ir/news/تداوم-زن-کشی-در-ایران-در-سایه-جنگ-و-کاستی/</guid>
+      <description>در آستانه روز جهانی مبارزه با خشونت علیه زنان در ۲۵ نوامبر، انتشار گزارش‌های تازه از قتل زنان و دختران در ایران بار دیگر توجه‌ها را به سابقه این کشور در زمینه زن‌کشی، خشونت خانگی و حمایت‌های قانونی از قربانیان جلب کرده است. یک هفته پیش از این، جمهوری اسلامی ایران از شرک...</description>
+      <category>ایران</category>
+      <source url="https://www.bbc.com/persian/articles/c65y1kvz2ezeo?at_medium=RSS&amp;at_campaign=rss">BBC Persian</source>
+    </item>
     <item>
       <title>کوریره دلاسرا: کشتی ایرانی حامل تجهیزات الکترونیکی در لیبی هدف قرار گرفت</title>
       <link>https://recart.ir/news/کوریره-دلاسرا-کشتی-ایرانی-حامل-تجهیزات-الکترونیکی-در-لیبی-هدف/</link>
@@ -304,28 +312,20 @@
       <source url="https://www.iranintl.com/202611258874">Iran International</source>
     </item>
     <item>
-      <title>لاجوردی، نماینده مجلس: تعریف ما از خشونت علیه زنان با نگاه غربی‌ها متفاوت است</title>
-      <link>https://recart.ir/news/لاجوردی-نماینده-مجلس-تعریف-ما-از-خشونت-علیه-زنان-با/</link>
-      <guid>https://recart.ir/news/لاجوردی-نماینده-مجلس-تعریف-ما-از-خشونت-علیه-زنان-با/</guid>
-      <description>زهره لاجوردی، نماینده تهران در مجلس، درباره معطلی ۱۴ساله لایحه حمایت از زنان، گفت: «درباره به‌کارگیری واژه خشونت در عنوان لایحه حفظ کرامت و حمایت از زنان و خانواده در برابر خشونت، دلایل و مستندات روشنی داشتیم. تعریفی که ما از خشونت داریم، با نگاه غرب کاملا متفاوت است.»</description>
-      <category>ایران</category>
-      <source url="https://www.iranintl.com/202611255718">Iran International</source>
+      <title>اعتصاب اعلام‌نشده کارکنان یورواستار، قطارهای پاریس-لندن را متوقف کرد</title>
+      <link>https://recart.ir/news/اعتصاب-اعلام-نشده-کارکنان-یورواستار-قطارهای-پاریس-لندن-را-متوقف-کرد/</link>
+      <guid>https://recart.ir/news/اعتصاب-اعلام-نشده-کارکنان-یورواستار-قطارهای-پاریس-لندن-را-متوقف-کرد/</guid>
+      <description>اعتصاب غافلگیرکننده کارکنان یورواستار در پاریس، دست‌کم شش قطار میان پاریس و لندن را لغو کرد و پنج قطار دیگر را با تاخیر مواجه ساخت. این شرکت از مسافران خواسته سفرشان را به تعویق بیندازند و اعلام کرده امکان تغییر بلیت یا بازپرداخت کامل هزینه وجود دارد.</description>
+      <category>بین‌الملل</category>
+      <source url="https://parsi.euronews.com/2026/11/25/eurostar-unannounced-strike-paris-london-trains-cancelled-delayed">Euronews Persian</source>
     </item>
     <item>
-      <title>احتمال اِعمال تعرفه‌های تازه از سوی آمریکا با واکنش منفی چین و بازار سهام مواجه شد</title>
-      <link>https://recart.ir/news/احتمال-ا-عمال-تعرفه-های-تازه-از-سوی-آمریکا-با/</link>
-      <guid>https://recart.ir/news/احتمال-ا-عمال-تعرفه-های-تازه-از-سوی-آمریکا-با/</guid>
-      <description>نمایندۀ تجاری آمریکا مجموعه‌ای از تعرفه‌های تازه را برای واردات از کشورهای مختلف از جمله، چین، برزیل و اتحادیه اروپا اعلام کرد. موضوعی که با واکنش منفی پکن و بازار سهام روبرو شد. رئیس‌جمهور آمریکا، روز چهارشنبه چهارم آذرماه تعرفه‌های جدیدی را علیه ۱۴ شریک تجاری اصلی این...</description>
+      <title>ایتالیایی‌های جوان با نواختن ناقوس‌های کلیسا میراث گذشته را حفظ می‌کنند</title>
+      <link>https://recart.ir/news/ایتالیایی-های-جوان-با-نواختن-ناقوس-های-کلیسا-میراث-گذشته/</link>
+      <guid>https://recart.ir/news/ایتالیایی-های-جوان-با-نواختن-ناقوس-های-کلیسا-میراث-گذشته/</guid>
+      <description>در سراسر شمال ایتالیا، نسل تازه‌ای هنر کهن ناقوس‌نوازی کلیسا را زنده نگه می‌دارد. با جایگزینی سامانه‌های خودکار، جوانان نواختن دستی زنگ‌ها را با تکیه بر دقت، کار گروهی و بداهه‌پردازی می‌آموزند.</description>
       <category>بین‌الملل</category>
-      <source url="https://www.radiofarda.com/a/trump-unveils-new-tariffs-to-fight-excess-factory-capacity-undeterred-by-midterms-defeat/33905841.html">Radio Farda</source>
-    </item>
-    <item>
-      <title>اصابت پرتابه حوثی‌ها به بندر جازان عربستان؛ ائتلاف به رهبری ریاض از حمله به حدیده خبر داد</title>
-      <link>https://recart.ir/news/اصابت-پرتابه-حوثی-ها-به-بندر-جازان-عربستان-ائتلاف-به/</link>
-      <guid>https://recart.ir/news/اصابت-پرتابه-حوثی-ها-به-بندر-جازان-عربستان-ائتلاف-به/</guid>
-      <description>ائتلاف نظامی به رهبری عربستان سعودی روز چهارشنبه ۴ آذر ۱۴۰۵ (۲۵ نوامبر ۲۰۲۶) اعلام کرد که یک پرتابه شلیک‌شده از سوی حوثی‌ها به بندر جازان در جنوب این کشور اصابت کرده است. به گفته ائتلاف این حادثه خسارت‌های محدودی به بار آورده و هیچ غیرنظامی در آن آسیب ندیده است.</description>
-      <category>بین‌الملل</category>
-      <source url="https://parsi.euronews.com/2026/11/25/saudi-houthi-conflict-projectile-hits-jazan-port-coalition-strikes-hodeidah">Euronews Persian</source>
+      <source url="https://parsi.euronews.com/2026/11/25/bring-the-noise-meet-the-young-italians-ringing-church-bells-to-protect-the-past">Euronews Persian</source>
     </item>
   </channel>
 </rss>

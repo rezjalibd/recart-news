@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تداوم-زن-کشی-در-ایران-در-سایه-جنگ-و-کاستی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کوریره-دلاسرا-کشتی-ایرانی-حامل-تجهیزات-الکترونیکی-در-لیبی-هدف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/لاجوردی-نماینده-مجلس-تعریف-ما-از-خشونت-علیه-زنان-با/</loc>
+    <loc>https://recart.ir/news/اعتصاب-اعلام-نشده-کارکنان-یورواستار-قطارهای-پاریس-لندن-را-متوقف-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایتالیایی-های-جوان-با-نواختن-ناقوس-های-کلیسا-میراث-گذشته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ارتش-آمریکا-در-آیوا-مواد-منفجره-سمی-را-علی-رغم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,21 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رئیس-جمهوری-مونته-نگرو-به-یورونیوز-تا-سال-۲۰۲۸-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گزارش-کارشناسان-درباره-سانحه-مرگبار-قطار-در-اسپانیا-جوشکاری-معیوب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رد-پای-حزب-الله-کشف-بیش-از-یک-تن-مواد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ایندرا-برنامه-رهبری-دفاع-و-فضا-در-اروپا-با-فروش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -447,6 +447,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاپیتان-کشتی-غرق-شده-کوستا-کونکوردیا-پس-از-۹-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/fairphone-6-plus-در-حال-حاضر-ماژولار-قابل-تعمیر-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-برای-اولین-بار-به-miss-universe-رفتم-و-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیتر-تیل-یک-عمارت-تاریخی-بل-ایر-را-در-حراجی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/به-وام-گیرندگان-وام-دانشجویی-اطلاع-داده-می-شود-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیپد-مینی-جدید-اپل-یک-ارتقاء-بزرگ-است-اما-قیمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -576,37 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-تلویزیون-های-oled-جدید-سامسونگ-تا-800-دلار-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-زمان-عالی-برای-خرید-کیندل-است-با-این-مدل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیش-فروش-انتقام-جویان-روز-قیامت-در-ایالات-متحده-اکنون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افتتاحیه-avengers-doomsday-270-میلیون-دلار-بالاترین-عکسی-است-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باکس-آفیس-hunger-games-sunrise-on-the-reaping-در-روز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مهندس-سابق-تسلا-می-گوید-هوش-مصنوعی-شغل-های-جعلی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نوجوان-۱۵-ساله-می-خواست-gta-6-را-به-کامپیوتر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آغازهای-ناتمام-۲۰-هزار-شیشه-شیر-خالی-در-گرامیداشت-کودکان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -806,6 +806,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اگر-عاشق-دختر-خوب-بودید-یک-فیلم-وجود-دارد-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تصاویر-عجیب-فیلم-جدید-فینچر-و-برد-پیت-تماشاگران-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +822,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جین-فوندا-رابرت-دنیرو-و-چهره-های-دیگر-نامه-ای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لیلی-جیمز-در-یونیورسال-نقش-آفرینی-و-تهیه-کنندگی-پارتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آهنگ-کانتری-درباره-از-دست-دادن-بکارت-که-به-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نتفلیکس-نقطه-جدیدی-را-به-کارگردانی-پیتر-برگ-با-الهام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استودیو-لمبرت-در-حال-حفاری-در-آرشیو-برای-موفقیت-بعدی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتفلیکس-با-سریال-های-درام-عاشقانه-منحصر-به-فرد-غافلگیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اولین-تور-بدون-درامر-استفن-موریس-را-شروع-کنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گاهی-اوقات-فقط-باید-فکر-کنید-چه-چیزی-باعث-خندیدن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
