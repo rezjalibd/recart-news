@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-سفارت-مجازی-آمریکا-درباره-تهدیدهای-جمهوری-اسلامی-شهروندان-آمریکایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/احتمال-آغاز-جنگ-در-گفت-وگو-با-نمایندگان-مجلس-ایران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/برندی-کارلیل-می-گوید-وحشتناک-دستگیری-های-ice-در-فرودگاه/</loc>
+    <loc>https://recart.ir/news/محبوب-ترین-شهرهای-اروپایی-برای-تعطیلات-کریسمس-بر-اساس-روند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معاون-درمان-وزارت-بهداشت-از-۱۰-آبان-تا-سوم-آذر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,12 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رکوردی-تلخ-در-آلمان-خشونت-علیه-زنان-همچنان-رو-به/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۴-آذر-۱۴۰۵-۲۵-نوامبر-۲۰۲۶---بامدادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اظهارات-نخست-وزیر-دانمارک-درباره-مهاجران-سوسیالیست-های-اروپا-را/</loc>
+    <loc>https://recart.ir/news/دستمزد-متوسط-کار-تمام-وقت-در-اروپا-کدام-کشورها-بیشترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/توسعه-بازار-تبلیغات-دیجیتال-با-سرویس-تبلیغات-و-رشد-اسنپ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رکورد-جدید-برای-تاکسی-های-خودران-ایلان-ماسک-بیش-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تایدال-پخش-موسیقی-هوش-مصنوعی-را-برای-حمایت-از-عدالت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-ترامپ-و-غول-های-فناوری-آمریکا-برای-بازگشت-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کوپن-های-nordvpn-75-تخفیف-3-ماه-رایگان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کد-تبلیغاتی-آدیداس-60-تخفیف-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-ویژگی-pixel-دست-کم-گرفته-شده-همه-کاره-تر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/tiktok-از-کار-افتاده-بود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ریاضیات-می-گوید-می-توان-یک-توپ-را-به-دو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
