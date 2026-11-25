@@ -471,6 +471,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خودرو-برقی-را-پارک-کنید-و-پول-در-بیاورید-طرح/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مانیرو-چیست-چگونه-به-مانیرو-اعتماد-کنیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-جمعه-سیاه-reformation-با-25-تخفیف-برای-همه-چیز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معاملات-disney-plus-و-hulu-black-friday-تا-62-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -876,6 +876,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/patricia-bright-signs-ارائه-دهنده-و-سازنده-youtube-با-استعداد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ستاره-مینوتور-آیریس-لبدوا-با-گروه-استعدادهای-مستقل-امضا-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/داستان-درونی-منطقه-شراب-دره-ناپا-کالیفرنیا-در-مستند-ویژه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/متیو-کاپر-مدیر-اجرایی-انتشارات-موسیقی-اواخر-با-جایزه-سالانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگردان-انتقام-جویان-سخنرانی-بسیار-احساسی-پاتریک-استوارت-را-در-617199/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنا-اوشکویتز-ستاره-glee-می-گوید-ادای-احترام-کوری-مونتیث/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
