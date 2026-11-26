@@ -646,6 +646,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ده-ها-پرونده-قضایی-در-انگلستان-و-ولز-تحت-تأثیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اختاپوس-ها-از-یک-فرآیند-چند-مرحله-ای-برای-فشرده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/42-شرکت-ایالتی-در-تلاش-هستند-تا-character-ai-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایالت-نیویورک-اسباب-بازی-های-چت-بات-هوش-مصنوعی-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-chewy-50-تخفیف-در-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کد-تبلیغاتی-lg-40-تخفیف-برای-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
