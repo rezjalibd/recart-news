@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/backloggd-از-کاربران-می-خواهد-پس-از-نقض-رمز-عبور/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عصر-طلایی-برای-سازندگان-در-اینجا-چیزی-است-که-رهبران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وقتی-زمین-کنار-خانه-های-مسکونی-ناگهان-دهان-باز-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زمین-گرم-تر-آسمان-خشمگین-تر-تغییرات-اقلیمی-می-تواند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
