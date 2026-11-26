@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مهاجرت-خالص-به-بریتانیا-به-پایین-ترین-سطح-در-نزدیک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ورود-بیش-از-۱۰-هزار-مهاجر-به-جزیره-ای-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/راهنمای-هدیه-های-سفر-کریسمس-۲۰۲۶-پیشنهادهای-مناسب-برای-عاشقان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-هرناندس-د-ک-س-برای-جانشینی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -422,6 +422,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-پابلو-هرناندس-د-کوس-برای-جانشینی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سالها-پس-از-فارغ-التحصیلی-دوباره-به-شهر-قدیمی-کالج/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مسابقه-شگفت-انگیز-را-کجا-تماشا-کنیم-کانال-پخش-زنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,12 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-قاب-های-تخت-تست-شده-در-اتاق-های-خودمان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شمار-جان-باختگان-مسمومیت-الکلی-در-هرمزگان-و-نیشابور-به/</loc>
+    <loc>https://recart.ir/news/مدیرعامل-گروه-دیجی-کالا-بزرگ-ترین-ریسک-تحریم-ها-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-موس-بازی-2026-انتخاب-های-من-پس-از-آزمایش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/هفته-چهاردهم-لیگ-برتر-تساوی-خانگی-چادرملو-اردکان-مقابل-مس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یورش-ماموران-مسلح-به-خانه-مهدی-محمودیان-فعال-حقوق-بشر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نحوه-تماشای-بازی-های-nfl-پخش-زنده-فوتبال-بدون-کابل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/27-6-میلیون-بیننده-برای-فیلم-کریسمس-رودخانه-ویرجین-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوو-ادواردز-برای-اولین-بار-در-مستند-کانال-4-علنا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
