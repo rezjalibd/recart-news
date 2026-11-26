@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سازمان-گزارش-گران-بدون-مرز-شکنجه-مهدی-محمودیان-محکوم-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/احتمال-کنار-رفتن-بی-بی-از-نخست-وزیری-آیا-نتانیاهو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اهدای-جایزه-آزادی-آکادمیک-انجمن-مطالعات-خاورمیانه-آمریکا-به-سعید/</loc>
+    <loc>https://recart.ir/news/اسرائیل-بیش-از-۵۳۰-پهپاد-در-کرانه-باختری-توقیف-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/داروی-ژنریک-ارزان-پیشگیری-از-اچ-آی-وی-به-زامبیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجله-خبری-۵-آذر-۱۴۰۵-۲۶-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -427,6 +427,46 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-پابلو-هرناندس-د-کوس-برای-جانشینی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-هدفون-beats-solo-4-در-walmart-برای-جمعه-سیاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سال-جدید-را-با-بهترین-ساعت-های-هوشمند-و-ردیاب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-جاروبرقی-و-جاروبرقی-roborock-با-مشخصات-پایین-در-جمعه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مانیتور-خود-را-با-مانیتورهای-گیمینگ-ال-جی-سامسونگ-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-سیستم-wi-fi-7-mesh-netgear-در-حال-حاضر-100/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-لپ-تاپ-های-مک-بوک-ایر-m5-تا-300/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-هدفون-جمعه-سیاه-تا-160-دلار-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نوار-صوتی-sonos-arc-ultra-در-جمعه-سیاه-250-دلار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -561,52 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شما-می-توانید-یکی-از-این-کتابخوان-های-الکترونیکی-جیبی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اینها-بهترین-معاملات-جمعه-سیاه-2026-در-dewalt-tools-هستند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-بازی-جمعه-سیاه-2026-در-لپ-تاپ-کنسول/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اینها-بهترین-معاملات-ابزار-جمعه-سیاه-در-lowe-s-هستند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اقتصاد-ایران-بدون-نفت-معیشت-۹۰-میلیون-نفر-چه-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-پخش-جریانی-جمعه-سیاه-disney-hulu-apple-tv/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فهرست-19-استارت-آپی-را-بخوانید-که-به-دنبال-ایجاد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ساخت-mrbeast-چگونه-جیمی-دونالدسون-از-یک-بچه-خجالتی-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/حمله-سایبری-به-فیفا-هکرها-مدعی-سرقت-بیش-از-۱۲/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بلاگ-زنده-جمعه-سیاه-و-دوشنبه-سایبری-2026-بهترین-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازگشت-انویدیا-جنسن-هوانگ-به-دنی-یک-لحظه-بازاریابی-ویروسی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مسی-و-ستاره-های-فوتبال-جهان-در-مراسم-خداحافظی-کارلوس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اسکات-کان-در-100-درصد-آماده-بازی-مجدد-در-ocean/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/11-تا-از-بهترین-اپیزودهای-تلویزیونی-روز-شکرگزاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-فینال-فصل-2-the-lowdown-یک-فصل-سوم-امیدوارم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
