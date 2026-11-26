@@ -201,6 +201,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فینال-فصل-29-south-park-gta-6-از-استن-کایل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طرف-قاضی-با-abc-در-شکایت-متمم-اول-علیه-fcc/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/برد-پیت-و-آنجلینا-جولی-در-مورد-جنگ-تلخ-شراب/</loc>
+    <loc>https://recart.ir/news/مجله-انجمن-مدیران-پزشکی-آمریکا-از-دست-دادن-دندان-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انفجار-پرتابه-ناشناس-در-نزدیکی-یک-نفت-کش-در-غرب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جدال-گردشگر-آلمانی-با-باد-شدید-روی-پل-معلق-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استرالیا-قانون-تازه-ایمنی-آنلاین-تصویب-کرد-خطر-جریمه-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آمریکا-تعرفه-های-جدید-بر-۱۴-شریک-بزرگ-تجاری-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/باب-ایگر-رئیس-سابق-دیزنی-کارمندی-را-در-طول-رابطه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/u2-wind-به-سال-ها-با-کلاسیک-بازگشت-ادای-احترام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سریال-بازی-های-گرسنگی-پس-از-بیش-از-یک-دهه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگردان-گرگ-و-میش-فاش-می-کند-که-رابرت-پتینسون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
