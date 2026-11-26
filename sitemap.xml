@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دنج-ترین-نمایش-نتفلیکس-بازگشتی-بسیار-آرام-داشته-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دهانه-ای-به-اندازه-استادیوم-کاوشگر-هرا-پیامد-برخورد-دارت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هنرمندان-از-ترس-هوش-مصنوعی-در-حال-ترک-اینستاگرام-هستند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نمایش-نیمه-وقت-عروسک-های-گو-گو-در-بازی-جشن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلم-کنسرت-جنیفر-لوپز-در-وگاس-the-jlo-show-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جسی-آیزنبرگ-می-گوید-هیچ-رابطه-جنسی-در-کار-من/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چیوتل-اجیوفور-در-مورد-اینکه-چگونه-چیزهای-زیبای-کثیف-استیون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مارک-تیلدزلی-درگذشت-زمانی-برای-مردن-نیست-f1-the-movie/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یکی-از-بنیانگذاران-record-store-day-در-مورد-چگونگی-تبدیل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مارک-تیلدزلی-طراح-تولید-فیلم-های-زمانی-برای-مردن-نیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مارک-تیلدزلی-طراح-تولید-فیلم-های-زمانی-برای-مردن-نیست-7e6921/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/میشل-هازاناویسیوس-فیلم-انحصاری-دست-سوم-را-در-مطالعه-موردی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
