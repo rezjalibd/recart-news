@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اندی-تیلور-از-دوران-دوران-وحشی-ترین-پسران-وحشی-بود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-سنجاب-یک-درام-آینده-نگر-جذاب-ورود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارگردان-گرگ-و-میش-در-نقش-رابرت-پتینسون-در-نقش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اندی-تیلور-بازیگر-دوران-دوران-در-۶۵-سالگی-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
