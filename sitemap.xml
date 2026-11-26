@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مدال-برنز-تنیس-روی-میز-جوانان-جهان-برای-بنیامین-فرجی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بابک-مرادی-فر-فعال-سیاسی-برای-اجرای-حکم-زندان-بازداشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هزاران-کرد-عراقی-به-تصمیم-الزیدی-درباره-میدان-های-نفتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,16 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عراق-بستن-گذرگاه-های-غیررسمی-را-آغاز-کرد-فشار-تازه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مهدی-محمودیان-پس-از-ضرب-وجرح-هنگام-بازداشت-به-زندان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ناتو-رادار-پرنده-به-آسمان-لهستان-فرستاد-آواکس-چه-توانایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -292,6 +292,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتخابات-ریاست-جمهوری-فرانسه-نامزدها-برای-جلب-حمایت-شهرداران-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-2-شب-را-در-یک-هتل-خانه-کوچک-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تابعیت-از-راه-نیاکان-کشورهای-اروپایی-چگونه-به-نوادگان-مهاجران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/افزایش-شش-برابری-هزینه-حمل-دریایی-مواد-اولیه-لوازم-خانگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -437,6 +437,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-پابلو-هرناندس-د-کوس-برای-جانشینی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تلویزیون-های-led-rgb-سال-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-تلویزیون-ها-و-دستگاه-های-پخش-جریانی-roku-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/حمله-سایبری-به-فیفا-هکرها-مدعی-سرقت-بیش-از-۱۲/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رهبر-تیم-anthropic-می-گوید-هوش-مصنوعی-نحوه-ارتقای-مهندسان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بررسی-آیفون-18-پرو-مکس-بهترین-باتری-و-دوربین-اپل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تماس-ویدیویی-۱۰۸۰p-در-نسخه-وب-گوگل-میت-برای-تمام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/10-بهترین-خدمات-تحویل-غذا-تست-شده-توسط-منتقد-سابق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پیروز-قربانی-اسم-پرسپولیس-به-ما-انگیزه-می-دهد-دنبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-نقش-های-روی-پرده-آریانا-گرانده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مت-دیمون-آگهی-روز-شکرگزاری-برو-مثل-جهنم-فورد-ریسینگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ژرار-دوپاردیو-به-اتهام-تجاوز-به-شارلوت-بازیگر-زن-آرنولد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نود-و-نهمین-اسکار-هر-رقیب-تنها---همه-104/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دادگاه-فرانسه-درخواست-تجدیدنظر-دوپاردیو-در-پرونده-تجاوز-جنسی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
