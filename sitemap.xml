@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اسرائیل-از-آمادگی-حمله-به-ایران-می-گوید-سپاه-بر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اروپا-امروز-رهبران-اتحادیه-اروپا-در-بروکسل-برای-مذاکرات-بودجه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پوچتینو-پس-از-اولین-امتیاز-با-یونایتد-از-عملکرد-تیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روسیه-با-موشک-های-بالستیک-به-کی-یف-حمله-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آبشار-ابرها-بر-فراز-تندیس-مسیح-نجات-دهنده-در-ریو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لایه-سلیقه-اینترنت-مدیر-عملیاتی-ردیت-توضیح-داد-چرا-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -652,6 +657,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انویدیا-فروش-خود-را-به-آسیای-جنوب-شرقی-با-تشدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-مینیمالیستی-تا-حداکثری-کارکنان-ars-دفاتر-خانه-خود-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-اینجا-همه-کارهایی-که-می-توانید-با-هوش-مصنوعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/8-بهترین-صفحه-کلید-2026-انتخاب-های-صادقانه-من-پس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کاسیو-سه-ساعت-فلزی-جدید-با-صفحه-رنگی-و-اعداد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -757,36 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/والپیپر-رسمی-جدید-آیفون-را-دانلود-کنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نسل-بعدی-دست-های-بیونیک-اینجاست-و-می-توانند-احساس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ده-ها-پرونده-قضایی-در-انگلستان-و-ولز-تحت-تأثیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اختاپوس-ها-از-یک-فرآیند-چند-مرحله-ای-برای-فشرده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/42-شرکت-ایالتی-در-تلاش-هستند-تا-character-ai-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برنامه-بزرگ-سامسونگ-برای-افزایش-تولید-حافظه-در-چین-هوش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-معاون-aws-2-اشتباه-بزرگ-هوش-مصنوعی-را-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
