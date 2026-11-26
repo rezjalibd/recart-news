@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هزاران-کرد-عراقی-به-تصمیم-الزیدی-درباره-میدان-های-نفتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-پی-موج-محکومیت-ها-تهران-حمله-منجر-به-کشته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سازمان-گزارش-گران-بدون-مرز-شکنجه-مهدی-محمودیان-محکوم-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مهدی-محمودیان-پس-از-ضرب-وجرح-هنگام-بازداشت-به-زندان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افزایش-تردد-نفتکش-ها-در-هرمز-به-رغم-هدف-قرار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دادگاه-عراق-هشت-تبعه-فرانسه-را-به-اتهام-عضویت-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-اقتصاد-آرژانتین-با-وجود-اصلاحات-اقتصادی-مایلی-وارد-رکود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجله-خبری-۵-آذر-۱۴۰۵-۲۶-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-روترهای-tp-link-در-فروش-جمعه-سیاه-آمازون-تا-100/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/حمله-سایبری-به-فیفا-هکرها-مدعی-سرقت-بیش-از-۱۲/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برخورد-فضاپیمای-ناسا-به-یک-سیارک-دهانه-ای-به-اندازه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مک-بوک-ایر-اولد-با-طراحی-جدید-احتمالا-سال-آینده/</loc>
+    <loc>https://recart.ir/news/پیروز-قربانی-اسم-پرسپولیس-به-ما-انگیزه-می-دهد-دنبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -827,6 +832,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بحران-یهودستیزی-بی-بی-سی-فصلی-بی-سابقه-برای-معتبرترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پرونده-تجاوز-جنسی-ژرار-دوپاردیو-پس-از-عدم-موفقیت-بازیگر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اینجا-جایی-است-که-می-توان-نمایش-آنلاین-سگ-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/11-تا-از-بهترین-اپیزودهای-تلویزیونی-روز-شکرگزاری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
