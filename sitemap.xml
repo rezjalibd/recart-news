@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازداشت-۲عراقی-در-آلمان-به-ظن-عضویت-در-گروه-تروریستی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اسرائیل-از-آمادگی-حمله-به-ایران-می-گوید-سپاه-بر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نشانه-های-خطر-حمله-قلبی-که-از-۳۰-سال-قبل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پوچتینو-پس-از-اولین-امتیاز-با-یونایتد-از-عملکرد-تیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نه-کار-هوش-مصنوعی-نیست-آبشار-ابرها-بر-فراز-مجسمه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آبشار-ابرها-بر-فراز-تندیس-مسیح-نجات-دهنده-در-ریو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -657,6 +662,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زهکشی-تورب-زمین-ها-مسئول-چند-درصد-گرمایش-جهانی-ماست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-متخصصان-آشپزی-بهترین-دستور-غذا-را-برای-چیزی-تعیین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسپیس-ایکس-مجوز-پرتاب-یک-میلیون-ماهواره-هوش-مصنوعی-را/</loc>
+    <loc>https://recart.ir/news/میراث-پائولو-بولگاری-چگونه-نام-جواهرسازی-ایتالیایی-با-شکوه-هالیوود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آلیس-تزو-کارگردان-steps-در-مورد-الهامات-پانک-راک-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتفلیکس-سریال-امستردام-امپراتوری-با-بازی-فامکه-جانسن-را-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
