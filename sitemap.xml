@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-دولت-بریتانیا-فهرست-نیروهای-ذخیره-را-به-روز-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/المپیاکوس-۲-۴-میلان-بازگشت-رویایی-شاگردان-آموریم-در-یونان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/محمدرضا-زنوزی-مالک-تراکتور-مقصر-نتایج-آسیایی-تراکتور-من-هستم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -316,6 +326,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-آلیس-هوانگ-جاسوس-است-یا-نه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-2-شب-را-در-یک-هتل-خانه-کوچک-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -392,21 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ارتش-ایالات-متحده-آزمایش-کرد-که-آیا-در-صورتی-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تشدید-جنگ-در-یمن-عربستان-صنعا-و-حدیده-را-بمباران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازداشت-۲عراقی-در-آلمان-به-ظن-عضویت-در-گروه-تروریستی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسرائیل-از-آمادگی-حمله-به-ایران-می-گوید-سپاه-بر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کارگران-آمازون-در-سراسر-جهان-برای-اعتصاب-و-اعتراض-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گران-ترین-و-بزرگ-ترین-آیپد-تاریخ-اپل-در-راه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-بشر-واقعا-فضا-را-بیشتر-از-اقیانوس-های-زمین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/زندگی-در-ارتفاعات-می-تواند-اتصالات-مغزی-را-تغییر-دهد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدیرعامل-گروه-دیجی-کالا-بزرگ-ترین-ریسک-تحریم-ها-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/40-بهترین-پیشنهاد-جمعه-سیاه-اولیه-انتخاب-های-نهایی-ما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
