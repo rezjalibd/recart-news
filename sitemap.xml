@@ -866,6 +866,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/u2-آخرین-ضبط-دالی-پارتون-را-در-حین-نمایش-نیمه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فینال-فصل-south-park-در-حالی-که-آمریکای-جنوبی-پاک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لورن-اش-و-می-مارتین-در-میان-بازیگران-انیمیشن-بزرگسالان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پیتر-برگ-درباره-دو-حقیقت-جنگ-در-کاسه-پشه-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-abercrombie-تا-zappos-اینها-بهترین-فروش-های-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قاضی-طرفدار-abc-در-شکایت-متمم-اول-علیه-fcc-روند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
