@@ -641,6 +641,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/x-اولین-کنترل-های-والدین-خود-را-اضافه-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پژوهشی-۲۶-ساله-ادعای-کاهش-شدید-تعداد-اسپرم-مردان-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سناتور-سرشناس-آمریکا-مدیرعامل-انویدیا-را-به-نقض-قوانین-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/داریو-آمودی-مدیران-عامل-هوش-مصنوعی-رقیب-را-به-موقعیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
