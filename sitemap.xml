@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ایتالیا-می-گوید-دو-شهروندش-در-حمله-پهپادی-ایران-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گسترش-اعتصاب-کامیون-داران-در-پنجمین-روز-به-۲۰-شهر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آیا-می-توان-از-همسایه-بابت-اشغال-راهرو-با-وسایل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتقاد-شیرین-عبادی-از-بلاتکلیفی-پانزده-ساله-لایحه-منع-خشونت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اینها-بهترین-معاملات-جمعه-سیاه-2026-در-dewalt-tools-هستند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-معاملات-بازی-جمعه-سیاه-2026-در-لپ-تاپ-کنسول/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,12 +601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اینجا-جایی-است-که-می-توانید-کمی-در-بازسازی-ocarina/</loc>
+    <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <loc>https://recart.ir/news/جنسن-هوانگ-بازگشته-است-و-همچنین-پلاک-او-در-دنی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قاضی-فدرال-fcc-را-از-بررسی-زودهنگام-مجوزهای-abc-مسدود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فناوری-جدید-دانشمندان-ساعد-دست-شما-را-به-ترک-پد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نه-کار-هوش-مصنوعی-نیست-آبشار-ابرها-بر-فراز-مجسمه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زهکشی-تورب-زمین-ها-مسئول-چند-درصد-گرمایش-جهانی-ماست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-کیف-پول-magsafe-برای-حمل-روزانه-شما-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مسی-و-ستاره-های-فوتبال-جهان-در-مراسم-خداحافظی-کارلوس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مارک-تیلدزلی-طراح-تولید-فیلم-های-زمانی-برای-مردن-نیست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مارک-تیلدزلی-طراح-تولید-فیلم-های-زمانی-برای-مردن-نیست-7e6921/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نتفلیکس-سریال-هلندی-با-10-میلیون-بیننده-را-لغو-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/nbc-از-تلویزیون-روز-شکرگزاری-برای-شروع-بازاریابی-المپیک-2028/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
