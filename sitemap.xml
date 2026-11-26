@@ -471,6 +471,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یکی-از-بزرگ-ترین-ماینرهای-بیت-کوین-در-حال-کاهش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/صندوق-های-تامینی-در-حال-عقب-نشینی-از-سهام-هستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اینها-بهترین-موارد-رایگان-موجود-در-فروشگاه-در-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آمریکا-با-طرح-اسپیس-ایکس-برای-استقرار-یک-میلیون-ماهواره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -627,6 +627,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کدهای-کوپن-لنوو-15-تخفیف-در-نوامبر-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طراحی-در-دسترس-کدهای-تبلیغاتی-30-تخفیف-نوامبر-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ناتینگ-از-ایرباد-جدید-خود-با-قابلیت-های-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/fcc-طرح-spacex-را-برای-قرار-دادن-مراکز-داده-هوش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سیاره-نهم-تنها-نیست-کشف-شواهد-تازه-از-دنیای-مرموزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/s-p-global-هشدار-داد-که-رتبه-اعتباری-nvidia-ممکن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیام-های-برنامه-ریزی-شده-جدید-واتس-اپ-به-شما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
