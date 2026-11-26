@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عراقچی-دخالت-جمهوری-اسلامی-در-حمله-پهپادی-به-کویت-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مهدی-محمودیان-پس-از-بازداشت-ضرب-وشتم-و-شکنجه-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مدال-برنز-تنیس-روی-میز-جوانان-جهان-برای-بنیامین-فرجی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/عراق-مسدود-کردن-گذرگاه-های-مرزی-غیررسمی-را-آغاز-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کامیون-داران-در-۱۸-شهر-ایران-برای-پنجمین-روز-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خاموشی-های-گسترده-برق-می-رود-کار-تعطیل-و-اینترنت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گوگل-آدرس-و-شماره-تلفن-توسعه-دهندگان-اندروید-را-عمومی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آئودی-به-شاسی-بلند-برقی-جدیدش-یک-موتور-بنزینی-اضافه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ابداع-دانشمندان-نانوربات-هایی-که-می-توانند-دارو-را-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/استیکرهای-صدادار-وارد-واتساپ-شدند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اختلاط-قیمت-گذاری-openai-به-این-معنی-است-که-اکثر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پیروز-قربانی-اسم-پرسپولیس-به-ما-انگیزه-می-دهد-دنبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/میراندا-لمبرت-nfl-نیمه-وقت-نمایش-2026-مکان-تماشای-فیلادلفیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دنی-بویل-از-جک-اوکانل-در-نقش-یک-شرور-باند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سازندگان-تاریک-در-اولین-تیزر-sonnental-به-جنگل-های-وهم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
