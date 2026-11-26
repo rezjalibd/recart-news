@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سنتکام-از-سوریه-برای-جلوگیری-از-انتقال-سلاح-های-قاچاق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اسطوره-جودوی-فرانسه-و-نامزد-انتخابات-ریاست-جمهوری-اوکراین-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سوءاستفاده-جنسی-از-کودکان-ایتالیا-طی-دو-دهه-۵۷-کشیش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بریتانیا-به-دلیل-تهدید-حمله-احتمالی-پهپادها-هواپیماهای-نظامی-خود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
