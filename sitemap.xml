@@ -661,6 +661,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-کیف-پول-magsafe-برای-حمل-روزانه-شما-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/انویدیا-فروش-خود-را-به-آسیای-جنوب-شرقی-با-تشدید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/والپیپر-رسمی-جدید-آیفون-را-دانلود-کنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/حمله-سایبری-به-قلب-فوتبال-جهان-سرقت-اطلاعات-محرمانه-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -891,6 +891,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قطر-در-حال-پیشروی-با-طرح-صنعت-فیلم-و-تلویزیون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مقامات-می-گویند-که-رامایانا-بازدیدکنندگان-را-در-صخره-جاتایو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/27-6-میلیون-بیننده-برای-فیلم-کریسمس-رودخانه-ویرجین-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نتفلیکس-سریال-امستردام-امپراتوری-با-بازی-فامکه-جانسن-را-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پس-از-سه-دهه-جشنواره-موسیقی-اسنس-با-نیواورلئان-وداع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/what-a-talent-بلیندا-کارلایل-ub40-spandau-ballet-و-بیشتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
