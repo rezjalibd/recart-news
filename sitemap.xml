@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تصاویر-هوایی-غرق-شدن-نفتکش-حامل-گازوئیل-در-نزدیکی-ایبیزا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تمو-با-تغییر-رویه-های-تجاری-خود-در-اتحادیه-اروپا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,17 +411,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اندی-تیلور-گیتاریست-دوران-دوران-در-۶۵-سالگی-درگذشت-گروه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-هرناندس-د-کوس-برای-جانشینی-لاگارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-پابلو-هرناندس-د-کوس-برای-جانشینی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایلان-ماسک-رقمی-واقعا-وحشی-برای-ارزش-بالقوه-spacex-ارائه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معاملات-سرخ-کن-بادی-بلک-فرایدی-در-مدل-های-برتر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/140-بهترین-فروش-و-معاملات-بلک-فرایدی-که-اکنون-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -582,21 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/راهنمای-انتخاب-بهترین-سایت-خرید-قسطی-برای-جمعه-سیاه-1405/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-کار-شرکتی-ام-را-رها-کردم-تا-یک-نانوایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-تعویق-افتاد-حوادث-آب-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کمبود-گاز-پس-از-جنگ-پتروشیمی-ها-را-در-آستانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یورش-ماموران-مسلح-به-خانه-مهدی-محمودیان-فعال-حقوق-بشر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-سال-1973-رولینگ-استونز-هنوز-بخشی-از-دوره-کلاسیک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دنی-بویل-از-جک-اوکانل-در-نقش-یک-شرور-باند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سازندگان-تاریک-در-اولین-تیزر-sonnental-به-جنگل-های-وهم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نمایش-صحنه-ای-همه-جانبه-در-سینمای-مخفی-دزدان-دریایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گاز-خنده-ای-که-گریه-می-آورد-زنگ-خطر-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سدریک-کلاپیش-کارگردان-افتخار-یک-عمر-دستاورد-سزار-را-دریافت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باب-ایگر-رئیس-سابق-دیزنی-کارمند-abc-باردار-شد-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باز-بامیگ-بوی-به-جرمی-کانوی-مامور-افسانه-ای-بریتانیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
