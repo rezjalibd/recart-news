@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مدهای-فوق-العاده-بلند-و-امواج-نیرومند-اسکله-را-ویران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اطلاع-رسانی-زیر-تیغ-قوه-قضاییه-تهدید-می-کند-مهدی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قوانین-جدید-دارو-در-اتحادیه-اروپا-به-تصویب-پارلمان-اروپا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/سه-شهر-شبه-جزیره-ایبری-در-میان-ده-شهر-پرطرفدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -477,6 +477,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاپیتان-کشتی-غرق-شده-کوستا-کونکوردیا-پس-از-۹-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طوفان-سفرهای-روز-شکرگزاری-را-مختل-می-کند-زیرا-بیش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/the-home-depot-ابزارهای-برقی-بی-سیم-میلواکی-دی-والت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آمریکا-با-طرح-اسپیس-ایکس-برای-استقرار-یک-میلیون-ماهواره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -627,6 +627,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیوان-عدالت-اداری-سهمیه-۳۰-درصدی-زنان-در-طرح-تربیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جایگزین-جستجوی-گوگل-kagi-رقیب-جیمیل-را-راه-اندازی-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انجمن-سلطنتی-عکاسی-بریتانیا-برندگان-مسابقه-سال-۲۰۲۶-خود-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
