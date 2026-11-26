@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حکم-۳سال-حبس-دانیال-حبیب-الهی-اعلام-شرط-ابراز-ندامت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ضرب-وشتم-شدید-مهدی-محمودیان-هنگام-بازداشت-انتقال-به-زندان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دولت-عراق-مبارزه-با-قاچاق-نفت-از-این-کشور-به/</loc>
+    <loc>https://recart.ir/news/مشوق-۸هزار-یورویی-برای-بازگشت-به-سوریه-مرتس-برای-تسریع/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروشندگان-بادکنک-کابل-سختی-های-زندگی-را-به-لحظه-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اروپا-می-تواند-کمبود-مزمن-دارو-و-اختلال-زنجیره-تأمین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مهاجر-اخراج-شده-از-آمریکا-پس-از-۲۰-ماه-نبرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-می-دانستید-که-در-لندن-بابانوئل-ها-هم-باید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -631,6 +631,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سامانه-جدید-پلیس-راه-جایگزین-سپهتن-می-شود-اتصال-gps/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حتی-چت-جی-پی-تی-هم-به-طور-غیرمستقیم-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازگشت-جنسن-هوانگ-به-انویدیا-اختلاف-بزرگ-غول-های-هوش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سرورهای-mcp-اکنون-می-توانند-مهارت-های-عامل-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
