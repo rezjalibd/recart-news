@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/افزایش-تردد-نفتکش-ها-در-هرمز-به-رغم-هدف-قرار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دادگاه-عراق-هشت-تبعه-فرانسه-را-به-اتهام-عضویت-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/افت-کیفیت-آموزش-در-ایران-تدریس-شتاب-زده-در-کلاس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عراقچی-اسراییل-با-طرح-موضوع-سلاح-شیمیایی-به-دنبال-فریب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -496,6 +496,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-قاب-های-تخت-تست-شده-در-اتاق-های-خودمان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/راهنمای-انتخاب-بهترین-سایت-خرید-قسطی-برای-جمعه-سیاه-1405/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-کارت-تعطیلات-جمعه-سیاه-و-معاملات-کتاب-عکس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مردی-در-دنور-به-سمت-وسایل-نقلیه-waymo-تخم-مرغ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -881,6 +881,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سدریک-کلاپیش-کارگردان-افتخار-یک-عمر-دستاورد-سزار-را-دریافت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/باب-ایگر-رئیس-سابق-دیزنی-کارمند-abc-باردار-شد-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/باز-بامیگ-بوی-به-جرمی-کانوی-مامور-افسانه-ای-بریتانیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ادای-احترام-u2-به-دالی-پارتون-با-بازآفرینی-دوئت-پاره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نقد-و-بررسی-bono-bowl-u2-delivers-halftime-goods-hits/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خانم-راشل-توضیح-می-دهد-که-چگونه-برنامه-نویسی-رادیکال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
