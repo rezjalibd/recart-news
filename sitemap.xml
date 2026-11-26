@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/x-سرانجام-پس-از-20-سال-کنترل-والدین-را-دریافت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ایالت-لئونیدا-در-gta-6-بازآفرینی-دقیق-فلوریدا-است-اما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-نسخه-فلوریدا-در-gta-vi-بسیار-واقعی-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انویدیا-ارسال-تراشه-های-هوش-مصنوعی-به-چهار-کشور-جنوب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
