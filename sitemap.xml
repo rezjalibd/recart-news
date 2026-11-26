@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/افت-۹۵درصدی-معاملات-مسکن-تهران-هم-زمان-با-رشد-۱۲۵/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-مدیترانه-پس-از-غرق-شدن-نفتکش-نزدیک-ایبیزا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-قاب-های-تخت-تست-شده-در-اتاق-های-خودمان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/یک-میلیون-ماهواره-برای-هوش-مصنوعی-آمریکا-به-طرح-جاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -682,6 +682,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/10-بهترین-خدمات-تحویل-غذا-تست-شده-توسط-منتقد-سابق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/thuma-dupes-قاب-های-تخت-نازک-کاری-ژاپنی-که-روی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسپیس-ایکس-مجوز-fcc-را-برای-استقرار-1-میلیون-ماهواره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
