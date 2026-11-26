@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هزاران-نفر-در-اقلیم-کردستان-عراق-علیه-تصمیم-بغداد-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/در-پی-رهگیری-پهپادهای-ایرانی-توسط-کویت-پروازهای-مسافربری-بر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازداشت-هومن-دارابی-و-حمیدرضا-ساداتی-توسط-نیروهای-امنیتی-در/</loc>
+    <loc>https://recart.ir/news/برگ-های-پاییزی-نمادین-کیوتو-انبوه-گردشگران-را-به-شهر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رهبر-کره-شمالی-بر-ضرورت-استقرار-تسلیحات-هسته-ای-تاکتیکی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/افت-۹۵درصدی-معاملات-مسکن-تهران-هم-زمان-با-رشد-۱۲۵/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -541,6 +541,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازار-موبایل-در-آستانه-بزرگ-ترین-سقوط-در-تاریخ-خود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجموعه-سی-امین-سالگرد-پوکمون-casetify-شامل-یک-کیف-poké/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-پس-از-19-سال-اقامت-در-ایالات-متحده-به/</loc>
+    <loc>https://recart.ir/news/نه-ساخته-هوش-مصنوعی-آبشار-ابرها-بر-فراز-مجسمه-مسیح/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-موس-بازی-2026-انتخاب-های-من-پس-از-آزمایش/</loc>
+    <loc>https://recart.ir/news/عماد-قویدل-خواننده-رپ-اعتراضی-به-دادسرای-رشت-احضار-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ریچارد-هاموند-می-گوید-بی-بی-سی-درباره-بازگشت-تاپ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درس-شکرگزاری-لینکلن-برای-ما-اکنون-هنوز-ادعای-پیروزی-نکنید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
