@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ساخت-مجموعه-مستحکم-زیرزمینی-جدید-میان-کوه-کلنگ-و-سایت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/همزمان-با-کشتار-دی-ماه-قطع-اینترنت-و-جنگ-ساخت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -166,6 +171,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/برد-پیت-و-آنجلینا-جولی-در-مورد-جنگ-تلخ-شراب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/برد-پیت-و-آنجلینا-جولی-دعوای-شراب-سازی-را-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/لیبرمن-هیچ-توجیهی-برای-حمله-فوری-اسرائیل-به-ایران-وجود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرونده-سنگین-قضایی-برای-نایب-قهرمان-پارالمپیک-لی-فرایر-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/افزایش-قربانیان-مسمومیت-با-الکل-تقلبی-۲۰جان-باخته-۸۰-دیالیزی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
