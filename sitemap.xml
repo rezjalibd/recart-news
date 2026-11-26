@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شیوع-آنفلوآنزا-در-بیشتر-استان-های-ایران-از-آستانه-هشدار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/زنی-که-همسرش-با-دادن-دارو-به-او-تجاوز-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/انجمن-متخصصان-عفونی-ایران-شیوع-آنفلوانزا-در-بیشتر-استان-ها/</loc>
+    <loc>https://recart.ir/news/یوونتوس-۴-۱-اومونیا-پیروزی-چهارگله-بانوی-پیر-در-لیگ-اروپا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بلندترین-کلیسیای-جهان-چسبی-که-ساخت-شاهکار-گائودی-را-۵۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-درباره-رابرت-پتینسون-نظر-می-دهد-اول-می-پرسد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جان-تراولتا-در-نوامبر-1963-خود-را-به-عنوان-جانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تهیه-کننده-بازی-های-گرسنگی-از-جدایی-ملک-جی-پشیمان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اسنوپ-داگ-برای-تک-آهنگ-روز-شکرگزاری-gracias-x-todo/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بحران-یهودستیزی-بی-بی-سی-فصلی-بی-سابقه-برای-معتبرترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
