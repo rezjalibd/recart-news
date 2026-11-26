@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-می-توان-از-همسایه-بابت-اشغال-راهرو-با-وسایل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/انتقاد-شیرین-عبادی-از-بلاتکلیفی-پانزده-ساله-لایحه-منع-خشونت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خلاصه-داستان-ars-live-انتظار-نداشته-باشید-حملات-نظامی-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گناهکار-هوآوی-به-دلیل-سرقت-اسرار-تجاری-t-mobile-و-cisco/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -631,6 +631,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حتی-چت-جی-پی-تی-هم-به-طور-غیرمستقیم-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فایرفاکس-حالا-می-تواند-vpn-را-برای-سایت-های-دلخواه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-فروشگاه-های-اینترنتی-ایران-معرفی-و-مقایسه-فروشگاه-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مک-بوک-ایر-oled-با-طراحی-جدید-احتمالا-در-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مدیرعامل-آنتروپیک-واگذاری-اراده-انسان-به-هوش-مصنوعی-ایده-مضحک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ویژگی-زمان-بندی-پیام-سال-ها-پس-از-تلگرام-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -762,31 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سرورهای-mcp-اکنون-می-توانند-مهارت-های-عامل-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیام-جنسن-هوانگ-به-انویدیا-ما-به-برنامه-b-نیاز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فضاپیمای-اروپایی-پس-از-آزمایش-انحراف-سیارک-صحنه-آشفته-ای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/s-p-کاهش-اعتبار-انویدیا-را-به-دلیل-خطرات-حاکمیتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماموریت-هرا-اروپا-به-صحنه-هرج-و-مرج-یک-درهم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-می-توانید-gta-6-را-از-روی-هارد-اکسترنال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
