@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-پی-تشدید-تنش-با-اربیل-بغداد-گزارش-ها-درباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ساخت-مجموعه-مستحکم-زیرزمینی-جدید-میان-کوه-کلنگ-و-سایت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مروا-نبیلی-از-زنان-پیشگام-سینمای-ایران-در-۸۵-سالگی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لیبرمن-هیچ-توجیهی-برای-حمله-فوری-اسرائیل-به-ایران-وجود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قاضی-طرفدار-abc-در-شکایت-متمم-اول-علیه-fcc-روند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زهران-ممدانی-شهردار-می-گوید-بالن-های-مشهور-در-رژه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بزرگترین-آثار-بیلبورد-دوران-دوران-ریو-گرسنه-مثل-گرگ-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نحوه-تماشای-آنلاین-اندرو-تیت-امپراتوری-سمی-به-صورت-رایگان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کواچلا-با-استناد-به-اعمال-عمدی-و-تکراری-از-والمارت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-استثنا-تا-هنجار-رونق-لاتین-که-los40-را-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
