@@ -176,6 +176,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قاضی-طرفدار-abc-در-شکایت-اصلاحیه-اول-علیه-fcc-روند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیشنهاد-fcc-به-چالش-کشیدن-مجوزهای-تلویزیونی-abc-در-پیروزی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/برد-پیت-و-آنجلینا-جولی-در-مورد-جنگ-تلخ-شراب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هشدار-انجمن-صنفی-معلمان-کردستان-درباره-خشونت-علیه-زنان-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/توقیف-پنج-رسانه-در-ایلام-پس-از-انتشار-مطالبی-درباره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مروا-نبیلی-از-زنان-پیشگام-سینمای-ایران-در-۸۵-سالگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -451,6 +451,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/143-بهترین-فروش-و-معاملات-بلک-فرایدی-که-هم-اکنون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-کدهای-تبلیغاتی-zenni-که-در-نوامبر-2026-آزمایش-کردیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/به-گفته-کارشناسان-آداب-معاشرت-8-راه-برای-اینکه-مهمان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/داریو-آمودی-مدیران-عامل-هوش-مصنوعی-رقیب-را-به-موقعیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جایی-که-دانشمندان-روی-عوامل-هوش-مصنوعی-خط-می-کشند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/1password-گفت-هکرها-به-سیستم-های-داخلی-آن-نفوذ-کرده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
