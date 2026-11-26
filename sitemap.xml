@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/زنی-که-همسرش-با-دادن-دارو-به-او-تجاوز-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/راین-متال-رشد-غول-تسلیحاتی-آلمان-در-سایه-تشدید-تنش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انجمن-متخصصان-عفونی-ایران-شیوع-آنفلوانزا-در-بیشتر-استان-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازداشت-دو-عراقی-در-آلمان-به-اتهام-طراحی-حمله-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -446,6 +446,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/160-پیشنهاد-داغ-جمعه-سیاه-که-با-پول-خود-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گیم-تئوری-پنهان-بلک-فرایدی-بازی-قیمت-ها-پشت-ویترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-هدفون-2026-برای-جمعه-سیاه-بیش-از-110-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آناتومی---خودت-سرچ-کن-چرا-جست-وجو-در-اینترنت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-خشونت-و-جرم-در-gta-6-پیامدهای-جدی-تری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فناوری-جدید-دانشمندان-ساعد-دست-شما-را-به-ترک-پد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وقتی-زمین-کنار-خانه-های-مسکونی-ناگهان-دهان-باز-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
