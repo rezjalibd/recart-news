@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ورود-بیش-از-۱۰-هزار-مهاجر-به-جزیره-ای-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اتهامات-تازه-یهودستیزی-علیه-جردن-باردلا-رهبر-راست-افراطی-فرانسه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/راهنمای-هدیه-های-سفر-کریسمس-۲۰۲۶-پیشنهادهای-مناسب-برای-عاشقان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسرائیل-از-کشته-شدن-رییس-بخش-اقتصاد-دفتر-سیاسی-حماس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/40-بهترین-پیشنهاد-جمعه-سیاه-اولیه-انتخاب-های-نهایی-ما/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-نسخه-فلوریدا-در-gta-vi-بسیار-واقعی-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/لایه-سلیقه-اینترنت-مدیر-عملیاتی-ردیت-توضیح-داد-چرا-هوش/</loc>
+    <loc>https://recart.ir/news/هفته-چهاردهم-لیگ-برتر-تساوی-خانگی-چادرملو-اردکان-مقابل-مس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -802,6 +807,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تریلر-فصل-سوم-saint-pierre-چهره-های-جدیدی-را-می-بیند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوو-ادواردز-برای-اولین-بار-در-مستند-کانال-4-علنا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حمله-سایبری-به-قلب-فوتبال-جهان-سرقت-اطلاعات-محرمانه-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دنباله-ملکه-راهزن-از-بابی-بدی-کارگردان-ساتلوج-هانی-ترهان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
