@@ -191,6 +191,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/طرف-قاضی-با-abc-در-شکایت-متمم-اول-علیه-fcc/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قاضی-طرفدار-abc-در-شکایت-اصلاحیه-اول-علیه-fcc-روند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/rosamund-pike-در-مورد-بازی-در-spiky-stage-drama-inter/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/top-gear-sets-2028-return-با-گوردون-رمزی-به-عنوان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نقد-و-بررسی-bono-bowl-u2-delivers-halftime-goods-hits/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خانم-راشل-توضیح-می-دهد-که-چگونه-برنامه-نویسی-رادیکال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مایکل-گیلز-درامر-اصلی-کینگ-کریمسون-در-سن-۸۴-سالگی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/carnaval-de-luz-از-u2-در-رتبه-1-در-3/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
