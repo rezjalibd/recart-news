@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آمریکا-با-طرح-اسپیس-ایکس-برای-استقرار-یک-میلیون-ماهواره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-بازارهای-جهانی-صعود-سهام-فناوری-و-کاهش-نگرانی-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چرا-چربی-بدن-بیشتر-در-باسن-و-ران-ها-جمع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/احتمال-فروش-اجباری-منچسترسیتی-به-دستور-نهاد-ناظر-بر-فوتبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برجسته-ترین-مرگ-های-هالیوود-در-سال-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-موقعیت-ها-اولین-فیلمسازی-گرگ-وروتسوس-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیتر-برگ-درباره-دو-حقیقت-جنگ-در-کاسه-پشه-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
