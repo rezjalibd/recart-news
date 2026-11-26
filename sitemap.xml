@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-مصطفی-تاجزاده-از-زندان-درباره-آغاز-دوباره-اعتراضات-سراسری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/انجمن-متخصصان-عفونی-ایران-شیوع-آنفلوانزا-در-بیشتر-استان-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شاهزاده-رضا-پهلوی-جنایت-شلاق-زدن-پرستو-احمدی-تنها-نوک/</loc>
+    <loc>https://recart.ir/news/همسر-مانوئل-نویر-هم-زمان-با-جنجال-جدایی-خیانت-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کارزار-مبارزه-با-فساد-شی-جین-پینگ-چهره-نوظهور-حزب/</loc>
+    <loc>https://recart.ir/news/چرا-مدیترانه-پس-از-غرق-شدن-نفتکش-نزدیک-ایبیزا-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -531,6 +536,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دژاوو-روز-شکرگزاری-نیست-nbc-رژه-به-تعویق-افتاده-میسی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دانشمندان-گیاه-تنباکو-را-به-تولید-داروی-گران-قیمت-سرطان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,12 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/راهنمای-انتخاب-بهترین-سایت-خرید-قسطی-برای-جمعه-سیاه-1405/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-کار-شرکتی-ام-را-رها-کردم-تا-یک-نانوایی/</loc>
+    <loc>https://recart.ir/news/یک-میلیون-ماهواره-برای-هوش-مصنوعی-آمریکا-به-طرح-جاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -677,6 +682,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مک-بوک-ایر-اولد-با-طراحی-جدید-احتمالا-سال-آینده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازگشت-انویدیا-جنسن-هوانگ-به-دنی-یک-لحظه-بازاریابی-ویروسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اسپیس-ایکس-مجوز-fcc-را-برای-استقرار-1-میلیون-ماهواره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-پژوهشگاه-فناوری-اطلاعات-فاصله-میان-ایده-پژوهشی-و-محصول/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/4-موردی-که-سرمایه-گذاران-می-توانند-بابت-آنها-سپاسگزار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خالق-منزوی-minecraft-پیشنهادی-برای-anthropic-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -896,6 +896,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/محل-تماشای-نمایش-ملی-سگ-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طرح-لباس-wild-horse-nine-و-elsinore-تهیه-کننده-تیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نمایش-صحنه-ای-همه-جانبه-در-سینمای-مخفی-دزدان-دریایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سدریک-کلاپیش-کارگردان-افتخار-یک-عمر-دستاورد-سزار-را-دریافت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
