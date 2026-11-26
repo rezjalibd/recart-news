@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سناتور-سرشناس-آمریکا-مدیرعامل-انویدیا-را-به-نقض-قوانین-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/داریو-آمودی-مدیران-عامل-هوش-مصنوعی-رقیب-را-به-موقعیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/1نقض-گذرواژه-نام-و-ایمیل-مشتریان-را-فاش-کرد-اما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/احتمال-فروش-اجباری-منچسترسیتی-به-دستور-نهاد-ناظر-بر-فوتبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پاسخ-کولمن-دومینگو-به-پستی-که-به-کارشناسان-اسکار-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اندی-تیلور-از-دوران-دوران-وحشی-ترین-پسران-وحشی-بود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -877,11 +882,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-چهار-فصل-در-جاوا-ارسال-اسکار-اندونزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پاسخ-کولمن-دومینگو-به-پستی-که-به-کارشناسان-اسکار-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
