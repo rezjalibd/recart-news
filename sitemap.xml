@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-abercrombie-تا-zappos-اینها-بهترین-فروش-های-جمعه-سیاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قاضی-طرفدار-abc-در-شکایت-متمم-اول-علیه-fcc-روند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دانیل-چونگ-کارگردان-hoppers-درباره-ترکیب-آشوب-با-قلب-صحبت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نحوه-تماشای-آنلاین-اندرو-تیت-امپراتوری-سمی-به-صورت-رایگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
