@@ -456,6 +456,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شیائومی-با-وجود-فروش-بیش-از-۱۰۰-هزار-خودرو-زیان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طوفان-عظیمی-در-روز-شکرگزاری-به-سمت-ساحل-شرقی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/143-بهترین-فروش-و-معاملات-بلک-فرایدی-که-هم-اکنون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تسلا-سایبرتراک-لغو-شده-سریع-ترین-پرفروش-ترین-کامیون-دست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اینها-بهترین-تخفیف-های-جمعه-سیاه-2026-در-kindles-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-در-ساعت-های-هوشمند-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
