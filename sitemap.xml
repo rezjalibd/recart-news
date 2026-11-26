@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رهبر-کره-شمالی-بر-ضرورت-استقرار-تسلیحات-هسته-ای-تاکتیکی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کارزار-مبارزه-با-فساد-شی-جین-پینگ-چهره-نوظهور-حزب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آمریکا-تعرفه-های-جدید-بر-۱۴-شریک-بزرگ-تجاری-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نماینده-فرانسه-در-پارلمان-اروپا-اجرای-حکم-شلاق-پرستو-احمدی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
