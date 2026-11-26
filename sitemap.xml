@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ابداع-دانشمندان-نانوربات-هایی-که-می-توانند-دارو-را-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فورد-در-حالی-از-gt41-رونمایی-می-کند-که-امیدوار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اختلاط-قیمت-گذاری-openai-به-این-معنی-است-که-اکثر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سامسونگ-وعده-داد-مشکل-باتری-مربوط-به-one-ui-9/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
