@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ژرار-دپاردیو-بازیگر-سرشناس-فرانسوی-به-اتهام-تجاوز-جنسی-محاکمه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هنگ-کنگ-یک-سال-پس-از-آتش-سوزی-مرگبار-وانگ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/محکومیت-نوید-تشکر-و-الهام-خلص-زوج-بهایی-به-چهار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,16 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حکم-۳سال-حبس-دانیال-حبیب-الهی-اعلام-شرط-ابراز-ندامت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ضرب-وشتم-شدید-مهدی-محمودیان-هنگام-بازداشت-انتقال-به-زندان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/حملات-موشکی-و-پهپادی-روسیه-به-اوکراین-دست-کم-سه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -272,6 +272,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انتخابات-ریاست-جمهوری-فرانسه-نامزدها-برای-جلب-حمایت-شهرداران-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دونالد-ترامپ-درباره-چپ-افراطی-رادیکال-منتقدان-سالن-رقص-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مالیات-های-جدید-اتحادیه-اروپا-را-چه-کسانی-می-پردازند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-هرناندس-د-ک-س-برای-جانشینی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -422,6 +422,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-پابلو-هرناندس-د-کوس-برای-جانشینی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-دستگاه-های-پخش-جریانی-fire-tv-در-جمعه-سیاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اینها-بهترین-معاملات-ابزار-جمعه-سیاه-در-انبار-خانه-هستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/garmin-forerunner-265-در-این-تخفیف-جمعه-سیاه-150-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-خانه-هوشمند-جمعه-سیاه/</loc>
+    <loc>https://recart.ir/news/حمله-سایبری-به-فیفا-هکرها-مدعی-سرقت-بیش-از-۱۲/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگران-در-استودیوی-gta-6-rockstar-games-با-اکثریت-قاطع/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شهروندان-در-کارزاری-به-افزایش-سه-برابری-بهای-اینترنت-مخابرات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیفون-۲۰-پرو-مکس-سرامیکی-می-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-نیست-آبشار-ابرها-بر-فراز-مسیح-نجات-دهنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
