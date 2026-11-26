@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مجلس-در-پی-تشدید-محدودیت-ها-بر-فعالیت-های-مجازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نرخ-باروری-در-ایران-به-۱-۴۳-رسید-و-تجرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هر-ایرانی-یک-بسیجی-برنامه-تازه-رهبر-نادیده-جمهوری-اسلامی/</loc>
+    <loc>https://recart.ir/news/بلژیک-کشاورزان-با-تراکتور-به-بروکسل-رفتند-تا-از-یارانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ارتش-ایالات-متحده-آزمایش-کرد-که-آیا-در-صورتی-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/عبور-دلار-از-۲۹۵-هزار-تومان-ناتوانی-در-تامین-هزینه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -442,6 +442,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-پابلو-هرناندس-د-کوس-برای-جانشینی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-در-پروازها-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-در-یک-تور-1595-دلاری-برای-تماشای-خرس-آلاسکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,12 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یافتن-یک-جاروبرقی-خوب-برای-ربات-سخت-است-و-این/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-پروژکتورهای-xgimi-در-جمعه-سیاه-تا-40-تخفیف-دارند/</loc>
+    <loc>https://recart.ir/news/آناتومی---خودت-سرچ-کن-چرا-جست-وجو-در-اینترنت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مردی-به-دلیل-استفاده-از-هوش-مصنوعی-برای-جعل-هویت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چه-جدید-در-دیزنی-در-دسامبر-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بیژوهای-مصنوعی-از-جسی-موسالم-آمریکا-پشت-در-است-لیلا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تریلر-فصل-سوم-saint-pierre-چهره-های-جدیدی-را-می-بیند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نمایش-نیمه-وقت-وو-تانگ-2026-در-اینجا-می-توان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درون-دنیای-دیوانه-چویین-همه-درباره-مهمانی-بی-پایان-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
