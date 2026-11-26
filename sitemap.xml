@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اهدای-جایزه-آزادی-آکادمیک-انجمن-مطالعات-خاورمیانه-آمریکا-به-سعید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تعطیلی-تنها-خانه-امن-ایلام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حکم-یک-سال-زندان-و-دو-سال-منع-روزنامه-نگاری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/از-محدودیت-موشکی-علی-خامنه-ای-تا-سیاست-بدون-محدودیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/توقف-حکم-اعدام-میلاد-آرمون-و-نوید-نجاران-قوه-قضائیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-جلسه-محرومیت-برای-فرمین-لوپز-به-دلیل-استفاده-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -491,6 +491,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/راهنمای-انتخاب-بهترین-سایت-خرید-قسطی-برای-جمعه-سیاه-1405/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-کار-شرکتی-ام-را-رها-کردم-تا-یک-نانوایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-لباس-خواب-جمعه-سیاه-شامل-50-درصد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تصاویر-تازه-دهانه-ای-به-بزرگی-یک-ورزشگاه-روی-سیارکی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برنامه-بزرگ-سامسونگ-برای-افزایش-تولید-حافظه-در-چین-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-معاون-aws-2-اشتباه-بزرگ-هوش-مصنوعی-را-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/واتس-اپ-بالاخره-قابلیت-زمان-بندی-پیام-ها-را-اضافه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اسپیس-ایکس-مجوز-اولیه-ساخت-دیتاسنتر-هوش-مصنوعی-در-فضا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -771,22 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هکرها-با-نفوذ-به-پلتفرم-1password-اطلاعات-برخی-کاربران-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روزی-که-کنجکاوی-به-فضا-پرتاب-شد-۵-آذر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برنامه-خودرویی-تخت-گاز-برمی-گردد-این-بار-با-اجرای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سناتور-سرشناس-آمریکا-مدیرعامل-انویدیا-را-به-نقض-قوانین-و/</loc>
+    <loc>https://recart.ir/news/حمایت-تمام-قد-کیمیش-از-موسیالا-این-رفتار-در-شان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -872,6 +877,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آلیس-تزو-کارگردان-steps-در-مورد-الهامات-پانک-راک-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/baahubali-rrr-مدیر-فنی-c-v-رائو-همکار-جدید-smpte/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کنستانس-وانگ-مدیر-کریپتو-نقش-خود-را-در-سریال-نوخواهان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پاسخ-کولمن-دومینگو-به-پستی-که-به-کارشناسان-اسکار-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
