@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تهیه-کننده-بازی-های-گرسنگی-از-جدایی-ملک-جی-پشیمان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اریکا-هاموند-درام-و-رزولوشن-را-در-دیدار-مجدد-rhony/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بحران-یهودستیزی-بی-بی-سی-فصلی-بی-سابقه-برای-معتبرترین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسکات-کان-در-100-درصد-آماده-بازی-مجدد-در-ocean/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
