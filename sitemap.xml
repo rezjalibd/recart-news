@@ -461,6 +461,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فروش-جمعه-سیاه-آریتزیا-تا-50-تخفیف-در-سراسر-سایت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شیائومی-با-وجود-فروش-بیش-از-۱۰۰-هزار-خودرو-زیان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-مانیتورهای-بازی-ال-جی-سامسونگ-و-ایسوس-برای-جمعه/</loc>
+    <loc>https://recart.ir/news/بازگشت-بازارهای-جهانی-صعود-سهام-فناوری-و-کاهش-نگرانی-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حباب-هوش-مصنوعی-در-آستانه-انفجار-ترکش-های-سقوط-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/احتمال-فروش-اجباری-منچسترسیتی-به-دستور-نهاد-ناظر-بر-فوتبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لورن-اش-و-می-مارتین-در-میان-بازیگران-انیمیشن-بزرگسالان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قاضی-طرفدار-abc-در-شکایت-متمم-اول-علیه-fcc-روند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زهران-ممدانی-شهردار-می-گوید-بالن-های-مشهور-در-رژه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
