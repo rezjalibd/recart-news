@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کامیون-داران-در-۱۸-شهر-ایران-برای-پنجمین-روز-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خاموشی-های-گسترده-برق-می-رود-کار-تعطیل-و-اینترنت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مهدی-محمودیان-روزنامه-نگار-و-فعال-حقوق-بشر-بازداشت-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هرانا-از-ثبت-دست-کم-۱۰۴-مورد-زن-کشی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -511,6 +511,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تماشای-پرنده-در-gta-6-مهر-تاییدی-از-سوی-پرنده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-جمعه-سیاه-quince-اکنون-دارای-30-درصد-تخفیف-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-تلویزیون-های-صفحه-نمایش-بزرگ-hisense-انحصاری-costco-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,12 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/خانواده-ام-را-برای-رژه-روز-شکرگزاری-به-نیویورک-آوردم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/50-تخفیف-کد-تبلیغاتی-doordash-نوامبر-2026/</loc>
+    <loc>https://recart.ir/news/لایه-سلیقه-اینترنت-مدیر-عملیاتی-ردیت-توضیح-داد-چرا-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -647,6 +652,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارفرمایان-آیا-در-مورد-عرضه-muse-و-سایر-عوامل-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-هوش-مصنوعی-رمزنگاری-امروزی-را-شکسته-است-هشدار-تازه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سامانه-جدید-پلیس-راه-جایگزین-سپهتن-می-شود-اتصال-gps/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حتی-چت-جی-پی-تی-هم-به-طور-غیرمستقیم-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فایرفاکس-حالا-می-تواند-vpn-را-برای-سایت-های-دلخواه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-فروشگاه-های-اینترنتی-ایران-معرفی-و-مقایسه-فروشگاه-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
