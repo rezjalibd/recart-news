@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازداشت-دو-عراقی-در-آلمان-به-اتهام-طراحی-حمله-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آلمان-دو-عراقی-را-به-ظن-عضویت-در-تشکیلاتی-تروریستی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هر-ایرانی-یک-بسیجی-برنامه-تازه-رهبر-نادیده-جمهوری-اسلامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازداشت-محمود-فرخی-سعدآبادی-درویش-گنابادی-و-زندانی-سیاسی-سابق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پارلمان-اسرائیل-نخستین-گام-را-برای-محدود-کردن-دوره-نخست/</loc>
+    <loc>https://recart.ir/news/تشدید-جنگ-در-یمن-عربستان-صنعا-و-حدیده-را-بمباران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نشانه-های-خطر-حمله-قلبی-که-از-۳۰-سال-قبل/</loc>
+    <loc>https://recart.ir/news/جهش-هزینه-حمل-مواد-اولیه-و-گرانی-لوازم-خانگی-پس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-مدیترانه-پس-از-غرق-شدن-نفتکش-نزدیک-ایبیزا-کانون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,12 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-به-تعویق-افتاد-حوادث-آب-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/توقف-فعالیت-سه-صرافی-رمزارزی-به-دلیل-اخلال-در-نظام/</loc>
+    <loc>https://recart.ir/news/هوش-مصنوعی-نیست-آبشار-ابرها-بر-فراز-مسیح-نجات-دهنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -662,6 +667,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/10-بهترین-صندلی-اداری-سال-2026-ما-70-صندلی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/x-بالاخره-اولین-کنترل-والدین-خود-را-دریافت-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-جارو-برقی-2026-کوسه-یوفی-روبوروک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/میراث-پائولو-بولگاری-چگونه-نام-جواهرسازی-ایتالیایی-با-شکوه-هالیوود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -896,12 +896,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قطر-در-حال-پیشروی-با-طرح-صنعت-فیلم-و-تلویزیون/</loc>
+    <loc>https://recart.ir/news/بی-بی-سی-در-مورد-یهودی-ستیزی-مورد-بررسی-قرار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/مقامات-می-گویند-که-رامایانا-بازدیدکنندگان-را-در-صخره-جاتایو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قطر-در-حال-پیشروی-با-طرح-صنعت-فیلم-و-تلویزیون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مقامات-می-گویند-که-رامایانا-بازدیدکنندگان-را-در-صخره-جاتایو-0b274f/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باب-ایگر-رئیس-سابق-دیزنی-کارمند-abc-باردار-شد-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باز-بامیگ-بوی-به-جرمی-کانوی-مامور-افسانه-ای-بریتانیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آلیس-تزو-کارگردان-steps-در-مورد-الهامات-پانک-راک-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
