@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/انتقاد-شیرین-عبادی-از-بلاتکلیفی-پانزده-ساله-لایحه-منع-خشونت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سنتکام-از-توقیف-محموله-تسلیحاتی-منتسب-به-سپاه-پاسداران-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هیئت-منصفه-هوآوی-را-به-سرقت-اسرار-تجاری-آمریکا-و/</loc>
+    <loc>https://recart.ir/news/نبرد-پادشاه-با-گذر-زمان-شاهکار-لبران-جیمز-در-فیلادلفیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تنبل-ها-نمی-توانند-بین-درختان-بپرند-داوطلبان-برایشان-پل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماجراهای-پراگ-از-قلعه-های-قرون-وسطایی-تا-شیشه-گری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -631,6 +631,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ویژگی-زمان-بندی-پیام-سال-ها-پس-از-تلگرام-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/neuralink-تاییدیه-fda-را-برای-آزمایش-محور-ایمپلنت-مغز-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حق-ثبت-اختراع-گوگل-برای-فیدهای-ویدیویی-سفارشی-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/استقلال-قهرمان-لیگ-برتر-هاکی-روی-یخ-زنان-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -872,6 +872,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/what-a-talent-بلیندا-کارلایل-ub40-spandau-ballet-و-بیشتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-سنجاب-یک-درام-آینده-نگر-جذاب-ورود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نقد-و-بررسی-چهار-فصل-در-جاوا-ارسال-اسکار-اندونزی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
