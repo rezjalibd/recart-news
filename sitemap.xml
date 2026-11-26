@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گرانی-مسکن-اسپانیا-را-به-انتخابات-زودهنگام-کشاند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عبور-دلار-از-۲۹۵-هزار-تومان-ناتوانی-در-تامین-هزینه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قیمت-این-هدفون-سونی-در-جمعه-سیاه-زیر-200-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-apple-watch-ultra-4-هم-اکنون-100-دلار-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -846,6 +846,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فروش-بلک-فرایدی-lola-blankets-به-طور-رسمی-پخش-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/asha-bhosle-و-s-janaki-به-یاد-خواننده-k-s/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارگردان-ink-دنی-بویل-می-گوید-که-جک-اوکانل-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/pup-آهنگ-جدیدی-برای-sample-pack-benefitting-kids-در-تورنتو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
