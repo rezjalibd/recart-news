@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گسترش-اعتصاب-کامیون-داران-در-پنجمین-روز-به-۲۰-شهر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مسمومیت-الکلی-در-خوی-هم-جان-۳-نفر-را-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حراست-دانشگاه-علوم-پزشکی-دزفول-سبحان-امری-را-در-کلاس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سنتکام-از-توقیف-محموله-تسلیحاتی-منتسب-به-سپاه-پاسداران-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/توجیه-شهرداری-برای-تفتیش-تلفن-همراه-مسافران-مترو-مبارزه-با/</loc>
+    <loc>https://recart.ir/news/حملات-موشکی-و-پهپادی-روسیه-به-اوکراین-دست-کم-سه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مالیات-های-جدید-اتحادیه-اروپا-را-چه-کسانی-می-پردازند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/۳۱-کشته-در-آتش-سوزی-تانکر-سوخت-در-بزرگراه-قاهره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -606,6 +606,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هنرمندان-از-ترس-هوش-مصنوعی-در-حال-ترک-اینستاگرام-هستند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/grand-theft-auto-vi-به-عنوان-ipo-های-anthropic-ثابت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/در-اینجا-همه-کارهایی-که-می-توانید-با-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مهدی-تارتار-استقلال-در-آسیا-فوق-العاده-بود-شیطنت-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/میشل-هازاناویسیوس-فیلم-انحصاری-دست-سوم-را-در-مطالعه-موردی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/محل-تماشای-نمایش-ملی-سگ-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طرح-لباس-wild-horse-nine-و-elsinore-تهیه-کننده-تیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
