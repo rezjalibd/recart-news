@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/disney-plus-hulu-و-hbo-max-همگی-بیش-از-50/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-معاملات-فنی-از-فروش-جمعه-سیاه-costco/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -462,6 +467,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/140-بهترین-فروش-و-معاملات-بلک-فرایدی-که-اکنون-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/jalen-brunson-در-حال-همکاری-با-lowe-s-برای-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,17 +601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-یک-زوج-درمانگر-سیلیکون-ولی-هستم-در-اینجا-چیزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-پس-از-19-سال-اقامت-در-ایالات-متحده-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/grand-theft-auto-vi-به-عنوان-ipo-های-anthropic-ثابت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/توسعه-دهندگان-gta-vi-به-اتحادیه-سازی-رای-منفی-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مردی-به-دلیل-استفاده-از-هوش-مصنوعی-برای-جعل-هویت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/8-بهترین-صفحه-کلید-2026-انتخاب-های-صادقانه-من-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کاسیو-سه-ساعت-فلزی-جدید-با-صفحه-رنگی-و-اعداد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/waymo-خیابان-های-شهر-را-فتح-کرد---چرا-همچنان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مهدی-تارتار-استقلال-در-آسیا-فوق-العاده-بود-شیطنت-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -817,6 +817,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تلویزیون-2-دانمارکی-با-استخدام-مدیر-برنامه-های-بازیگری-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/طرح-لباس-wild-horse-nine-و-elsinore-تهیه-کننده-تیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بی-بی-سی-در-مورد-یهودی-ستیزی-مورد-بررسی-قرار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
