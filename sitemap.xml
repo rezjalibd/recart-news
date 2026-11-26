@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دو-شهروند-ایتالیایی-در-پی-حمله-جمهوری-اسلامی-به-کویت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تظاهرات-معترضان-به-کنترل-دولت-مرکزی-بر-میادین-نفتی-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/طرف-قاضی-با-abc-در-شکایت-متمم-اول-علیه-fcc/</loc>
+    <loc>https://recart.ir/news/تمو-با-تغییر-رویه-های-تجاری-خود-در-اتحادیه-اروپا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نشست-پرتنش-اتحادیه-اروپا-پابلو-هرناندس-به-سمت-رئیس-بانک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/انتخابات-ریاست-جمهوری-فرانسه-نامزدها-برای-جلب-حمایت-شهرداران-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,17 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آتش-سوزی-ناشی-از-واژگونی-کامیون-حامل-سوخت-در-قاهره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یونی-کردیت-لهستان-آخرین-چراغ-سبز-را-برای-خرید-کومرتس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کیم-جونگ-اون-پس-از-بی-اعتنایی-به-چراغ-سبز/</loc>
+    <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-هرناندس-د-کوس-برای-جانشینی-لاگارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کمبود-گاز-پس-از-جنگ-پتروشیمی-ها-را-در-آستانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/توقف-فعالیت-سه-صرافی-رمزارزی-به-دلیل-اخلال-در-نظام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سازندگان-تاریک-در-اولین-تیزر-sonnental-به-جنگل-های-وهم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/warwick-thornton-teona-strugar-mitevska-و-myroslav-slaboshpytskiy-برای-cinemart/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باز-بامیگ-بوی-به-جرمی-کانوی-مامور-افسانه-ای-بریتانیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حمایت-تمام-قد-کیمیش-از-موسیالا-این-رفتار-در-شان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
