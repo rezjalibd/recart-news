@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قضات-پرونده-فساد-نتانیاهو-خواستار-تجدیدنظر-در-اتهام-رشوه-خواری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روایت-های-استیصال-و-سرسختی-زنان-معترض-دی-ماه-زیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هزاران-نفر-در-اقلیم-کردستان-عراق-علیه-تصمیم-بغداد-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رسانه-ایتالیایی-از-هدف-قرار-گرفتن-کشتی-ایرانی-حامل-تجهیزات/</loc>
+    <loc>https://recart.ir/news/بلندترین-کلیسیای-جهان-چسبی-که-ساخت-شاهکار-گائودی-را-۵۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مروا-نبیلی-فیلمساز-ایرانی-که-در-سکوت-کار-کرد-و/</loc>
+    <loc>https://recart.ir/news/ترامپ-درباره-رابرت-پتینسون-نظر-می-دهد-اول-می-پرسد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پلیس-سوئد-برای-تعقیب-رهبران-شبکه-های-تبهکار-در-عراق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,17 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یونان-اکنون-با-هزینه-ای-کمتر-از-ایتالیا-و-فرانسه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مجله-انجمن-مدیران-پزشکی-آمریکا-از-دست-دادن-دندان-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انفجار-پرتابه-ناشناس-در-نزدیکی-یک-نفت-کش-در-غرب/</loc>
+    <loc>https://recart.ir/news/دلار-به-۲۹۶-هزار-و-۵۰۰-تومان-رسید-حداقل-مزد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-یک-زوج-درمانگر-سیلیکون-ولی-هستم-در-اینجا-چیزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/نه-ساخته-هوش-مصنوعی-آبشار-ابرها-بر-فراز-مجسمه-مسیح/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -687,6 +687,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سامسونگ-وعده-داد-مشکل-باتری-مربوط-به-one-ui-9/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنسن-هوانگ-برنامه-ای-برای-تعیین-مدیرعامل-بعدی-انویدیا-ندارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معرفی-داشبورد-بنچمارک-llama-cpp-برای-amd-ryzen-و-radeon/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -906,6 +906,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نتفلیکس-سریال-هلندی-با-10-میلیون-بیننده-را-لغو-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/nbc-از-تلویزیون-روز-شکرگزاری-برای-شروع-بازاریابی-المپیک-2028/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/محل-تماشای-نمایش-ملی-سگ-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوو-ادواردز-برای-اولین-بار-در-تلویزیون-درباره-اقدامات-جنایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلمسازان-مستقل-در-بازار-فیلم-waves-برای-یافتن-مخاطب-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ریچارد-هاموند-می-گوید-بی-بی-سی-درباره-بازگشت-تاپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
