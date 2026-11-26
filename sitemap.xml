@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حکم-یک-سال-زندان-و-دو-سال-منع-روزنامه-نگاری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/۱۶-ماه-بلاتکلیفی-حدود-۴۰۰-استاد-دانشگاه-فرهنگیان-پس-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیزنکوت-هم-زمان-با-تلاش-برای-کنار-زدن-نتانیاهو-درباره/</loc>
+    <loc>https://recart.ir/news/جدال-حقوقی-طولانی-آنجلینا-جولی-و-برد-پیت-بر-سر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایتالیایی-های-جوان-با-نواختن-ناقوس-های-کلیسا-میراث-گذشته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارتش-آمریکا-در-آیوا-مواد-منفجره-سمی-را-علی-رغم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تصاویر-تازه-دهانه-ای-به-بزرگی-یک-ورزشگاه-روی-سیارکی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-پمپ-حرارتی-در-هوای-بسیار-سرد-کار-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آمریکا-با-طرح-اسپیس-ایکس-برای-استقرار-یک-میلیون-ماهواره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/داریو-آمودی-مدیران-عامل-هوش-مصنوعی-رقیب-را-به-موقعیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اکنون-ویژگی-familiar-faces-ai-گوگل-روی-دوربین-خانگی-هوشمند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آمازون-آخرین-تلاش-خود-را-برای-خارج-شدن-از-رسیدگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
