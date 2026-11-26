@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نرخ-باروری-در-ایران-به-۱-۴۳-رسید-و-تجرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عراقچی-دخالت-جمهوری-اسلامی-در-حمله-پهپادی-به-کویت-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هر-ایرانی-یک-بسیجی-برنامه-تازه-رهبر-نادیده-جمهوری-اسلامی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عراق-مسدود-کردن-گذرگاه-های-مرزی-غیررسمی-را-آغاز-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -446,6 +446,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/garmin-forerunner-265s-به-300-دلار-کاهش-یافته-است-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-داریا-باند-۲-پرو-است-گوشی-۱۸۰-میلیون-تومانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/معامله-جمعه-سیاه-paramount-plus-تا-79-در-cbs-dutton/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-اسپیکر-بلوتوث-قابل-حمل-bose-برای-جمعه-سیاه-33/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اولین-هدفون-nothing-s-over-ear-برای-جمعه-سیاه-130-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-آی-پد-برنده-جایزه-هدیه-سال-لایف-هکر-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -836,6 +836,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مایکل-گیلز-بنیانگذار-کینگ-کریمسون-و-درامر-اصلی-در-۸۴/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کریسمس-paw-patrol-کی-و-کجا-انیمیشن-ویژه-تعطیلات-آنلاین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برای-جشنواره-بزرگ-فیلم-آستریکس-و-سه-انیمیشن-بازسازی-شده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-سال-1973-رولینگ-استونز-هنوز-بخشی-از-دوره-کلاسیک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
