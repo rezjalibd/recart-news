@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نشانه-های-خطر-حمله-قلبی-که-از-۳۰-سال-قبل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پوچتینو-پس-از-اولین-امتیاز-با-یونایتد-از-عملکرد-تیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حملات-متقابل-روسیه-و-اوکراین-هفت-کشته-در-اوکراین-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ایندرا-برنامه-رهبری-دفاع-و-فضا-در-اروپا-با-فروش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -447,6 +447,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاپیتان-کشتی-غرق-شده-کوستا-کونکوردیا-پس-از-۹-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-کدهای-تبلیغاتی-zenni-که-در-نوامبر-2026-آزمایش-کردیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/معاملات-جمعه-سیاه-moccamaster-تا-33-تخفیف-برای-مدل-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آژانس-فضایی-اروپا-نخستین-تصاویر-از-هرج-ومرج-کامل-سیارک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آمازون-آخرین-تلاش-خود-را-برای-خارج-شدن-از-رسیدگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/انفجار-سرب-آیووا-رخ-داد-اکنون-کار-واقعی-شروع-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/احتمال-فروش-اجباری-منچسترسیتی-به-دستور-نهاد-ناظر-بر-فوتبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -866,6 +866,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بزرگترین-آثار-بیلبورد-دوران-دوران-ریو-گرسنه-مثل-گرگ-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایکل-گیلز-بنیانگذار-king-crimson-در-84-سالگی-درگذشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سریال-بازی-های-گرسنگی-پس-از-بیش-از-یک-دهه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -916,7 +926,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مایکل-گیلز-بنیانگذار-king-crimson-در-84-سالگی-درگذشت/</loc>
+    <loc>https://recart.ir/news/مایکل-گیلز-بنیانگذار-king-crimson-در-84-سالگی-درگذشت-b89de4/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/از-استثنا-تا-هنجار-رونق-لاتین-که-los40-را-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ریحانا-فیلم-بی-تی-اس-دوست-داشتنی-را-با-3/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اندی-تیلور-درگذشت-duran-duran-گیتاریست-65-ساله-بود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
