@@ -486,6 +486,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/توقف-فعالیت-سه-صرافی-رمزارزی-به-دلیل-اخلال-در-نظام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طوفان-سفرهای-روز-شکرگزاری-را-مختل-می-کند-زیرا-بیش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-کوپن-ها-و-کدهای-تبلیغاتی-rei-که-در-نوامبر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-شش-بسته-هشدار-دود-و-مونوکسید-کربن-برای-جمعه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
