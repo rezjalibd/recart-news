@@ -511,6 +511,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دانشمندان-گیاه-تنباکو-را-به-تولید-داروی-گران-قیمت-سرطان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تماشای-پرنده-در-gta-6-مهر-تاییدی-از-سوی-پرنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/صندوق-های-تامینی-در-حال-عقب-نشینی-از-سهام-هستند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/لایه-سلیقه-اینترنت-مدیر-عملیاتی-ردیت-توضیح-داد-چرا-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -652,6 +652,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معرفی-داشبورد-بنچمارک-llama-cpp-برای-amd-ryzen-و-radeon/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-موس-بازی-2026-انتخاب-های-من-پس-از-آزمایش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عروسک-های-سخنگوی-هوش-مصنوعی-در-نیویورک-ممنوع-شدند-نگرانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سامانه-جدید-پلیس-راه-جایگزین-سپهتن-می-شود-اتصال-gps/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/گاز-خنده-ای-که-گریه-می-آورد-زنگ-خطر-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -886,6 +886,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بی-بی-سی-در-مورد-یهودی-ستیزی-توسط-مشاور-دولت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چه-زمانی-از-فصل-4-در-نتفلیکس-پخش-می-شود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ریچارد-هاموند-می-گوید-در-مورد-بازگشت-تاپ-گیر-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هوو-ادواردز-برای-اولین-بار-در-تلویزیون-درباره-اقدامات-جنایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برجسته-ترین-مرگ-های-هالیوود-در-سال-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/u2-آخرین-ضبط-دالی-پارتون-را-در-حین-نمایش-نیمه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فینال-فصل-south-park-در-حالی-که-آمریکای-جنوبی-پاک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لورن-اش-و-می-مارتین-در-میان-بازیگران-انیمیشن-بزرگسالان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
