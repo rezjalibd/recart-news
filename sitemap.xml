@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شهر-نان-زنجبیلی-لندن-با-۵۰-سازه-خوراکی-معماری-دوباره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بلژیک-کشاورزان-با-تراکتور-به-بروکسل-رفتند-تا-از-یارانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -341,6 +346,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/صدای-نام-پر-سر-و-صدا-ترامپ-توسط-نیویورک-تایمز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اجرای-نمایش-نیمه-وقت-روز-شکرگزاری-nfl-2026-توسط-قبیله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/برگ-های-پاییزی-نمادین-کیوتو-انبوه-گردشگران-را-به-شهر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محمد-ذیشان-علی-نخستین-فضانورد-پاکستانی-به-ایستگاه-فضایی-چین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/عبور-دلار-از-۲۹۵-هزار-تومان-ناتوانی-در-تامین-هزینه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -442,6 +442,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-پابلو-هرناندس-د-کوس-برای-جانشینی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گیم-تئوری-پنهان-بلک-فرایدی-بازی-قیمت-ها-پشت-ویترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-هدفون-های-skullcandy-با-قابلیت-حذف-نویز-در-جمعه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آناتومی---خودت-سرچ-کن-چرا-جست-وجو-در-اینترنت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دهانه-ای-به-اندازه-استادیوم-کاوشگر-هرا-پیامد-برخورد-دارت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/grand-theft-auto-vi-به-عنوان-ipo-های-anthropic-ثابت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جرالد-آر-مولن-تهیه-کننده-برنده-اسکار-در-فهرست-شیندلر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لوکا-گوادانینو-می-خواهد-فیلم-بعدی-داستان-عاشقانه-باشد-تأیید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/میشل-هازاناویسیوس-فیلم-انحصاری-دست-سوم-را-در-مطالعه-موردی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تلویزیون-2-دانمارکی-با-استخدام-مدیر-برنامه-های-بازیگری-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دفاع-هدی-کتب-از-تعویق-رژه-روز-شکرگزاری-میسی-خوشحالم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
