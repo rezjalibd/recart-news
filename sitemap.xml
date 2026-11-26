@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بابک-مرادی-فر-فعال-سیاسی-برای-اجرای-حکم-زندان-بازداشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجلس-در-پی-تشدید-محدودیت-ها-بر-فعالیت-های-مجازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -52,11 +57,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدال-برنز-تنیس-روی-میز-جوانان-جهان-برای-بنیامین-فرجی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بابک-مرادی-فر-فعال-سیاسی-برای-اجرای-حکم-زندان-بازداشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -341,6 +341,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اجرای-نمایش-نیمه-وقت-روز-شکرگزاری-nfl-2026-توسط-قبیله/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دونالد-ترامپ-درباره-چپ-افراطی-رادیکال-منتقدان-سالن-رقص-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/محمد-ذیشان-علی-نخستین-فضانورد-پاکستانی-به-ایستگاه-فضایی-چین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همسر-مانوئل-نویر-هم-زمان-با-جنجال-جدایی-خیانت-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فید-و-اسنوپ-داگ-همکاری-روز-شکرگزاری-gracias-x-todo/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هجیرا-در-50-سالگی-بک-کامرون-کرو-کلایرو-و-بیشتر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چه-جدید-در-دیزنی-در-دسامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-کتاب-های-شنیداری-برای-گوش-دادن-در-حال-حاضر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کجا-می-توان-بازی-های-nfl-روز-شکرگزاری-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-فصل-سوم-saint-pierre-چهره-های-جدیدی-را-می-بیند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
