@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اکنون-ویژگی-familiar-faces-ai-گوگل-روی-دوربین-خانگی-هوشمند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آمازون-آخرین-تلاش-خود-را-برای-خارج-شدن-از-رسیدگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/1password-گفت-هکرها-به-سیستم-های-داخلی-آن-نفوذ-کرده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/backblaze-توضیح-می-دهد-که-چرا-اطلاعات-مشتری-را-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
