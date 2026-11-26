@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قتل-سه-کودک-همسر-در-یک-ماه-ازدواج-کودکان-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تعویض-داور-مسابقه-گل-گهر-و-الجزیره-بین-دو-نیمه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/طرف-قاضی-با-abc-در-شکایت-متمم-اول-علیه-fcc/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قاضی-طرفدار-abc-در-شکایت-اصلاحیه-اول-علیه-fcc-روند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -626,6 +626,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/روزی-که-کنجکاوی-به-فضا-پرتاب-شد-۵-آذر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/برنامه-خودرویی-تخت-گاز-برمی-گردد-این-بار-با-اجرای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-چربی-بدن-بیشتر-در-باسن-و-ران-ها-جمع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عملکرد-درخشان-call-of-duty-ادامه-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
