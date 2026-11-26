@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/محمدرضا-زنوزی-مالک-تراکتور-مقصر-نتایج-آسیایی-تراکتور-منم-انتخاب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تغییر-لحن-ترامپ-در-قبال-پوتین-رئیس-جمهوری-آمریکا-خواستار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اروپا-امروز-رهبران-اتحادیه-اروپا-در-بروکسل-برای-مذاکرات-بودجه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-وایس-سیتی-تا-سوئیت-های-گیمینگ-گرند-تفت-اتو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -836,6 +836,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نمایش-باید-ادامه-یابد-برادوی-شنبه-در-رژه-شکرگزاری-میسی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بیلی-ایوانز-شریک-الیزابت-هولمز-برای-او-یک-نامه-عاشقانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مایکل-گیلز-بنیانگذار-کینگ-کریمسون-و-درامر-اصلی-در-۸۴/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/همه-بازی-های-gta-که-تاکنون-رتبه-بندی-شده-اند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تمرین-فوتبال-و-موسیقی-قرمز-خاک-در-زمین-با-گروه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برای-جشنواره-بزرگ-فیلم-آستریکس-و-سه-انیمیشن-بازسازی-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
