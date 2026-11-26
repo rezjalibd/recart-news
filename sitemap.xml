@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قدردانی-سنتکام-از-توقیف-محموله-تسلیحاتی-منتسب-به-سپاه-پاسداران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مدهای-فوق-العاده-بلند-و-امواج-نیرومند-اسکله-را-ویران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ماجراهای-پراگ-از-قلعه-های-قرون-وسطایی-تا-شیشه-گری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عراقچی-در-واکنش-به-اتهام-اسرائیل-درباره-سلاح-شیمیایی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -631,6 +631,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/neuralink-تاییدیه-fda-را-برای-آزمایش-محور-ایمپلنت-مغز-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پایان-سردرگمی-مغازه-داران-در-فضای-مجازی-مجوز-دوم-حذف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/وعده-جدید-ایلان-ماسک-هر-کودک-آمریکایی-۲-سهم-اسپیس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/حق-ثبت-اختراع-گوگل-برای-فیدهای-ویدیویی-سفارشی-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/۷-ابزاری-که-فورا-جشن-شکرگزاری-شما-را-ارتقا-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دردسرهای-انویدیا-به-آسیا-رسید-آینده-مراکز-داده-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
