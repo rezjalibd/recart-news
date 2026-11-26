@@ -171,6 +171,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-در-پروازها-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-پروازها-لغو-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-پنجمین-روز-به-۲۰-شهر-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-مصطفی-تاجزاده-از-زندان-درباره-آغاز-دوباره-اعتراضات-سراسری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -466,7 +466,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-در-پروازها-و/</loc>
+    <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-در-پروازها-و-b8b933/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تایمکس-ساعت-کلاسیک-محبوبش-را-با-دو-رنگ-جدید-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قاضی-فدرال-fcc-را-از-بررسی-زودهنگام-مجوزهای-abc-مسدود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فناوری-جدید-دانشمندان-ساعد-دست-شما-را-به-ترک-پد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
