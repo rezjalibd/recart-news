@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مهدی-محمودیان-پس-از-ضرب-وجرح-هنگام-بازداشت-به-زندان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/افزایش-تردد-نفتکش-ها-در-هرمز-به-رغم-هدف-قرار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/افت-کیفیت-آموزش-در-ایران-تدریس-شتاب-زده-در-کلاس/</loc>
+    <loc>https://recart.ir/news/تابعیت-از-راه-نیاکان-کشورهای-اروپایی-چگونه-به-نوادگان-مهاجران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مهدی-محمودیان-روزنامه-نگار-و-فعال-حقوق-بشر-به-دست/</loc>
+    <loc>https://recart.ir/news/آمریکا-اسپیس-اکس-می-تواند-یک-میلیون-ماهواره-برای-ساخت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مسمومیت-الکلی-در-استان-هرمزگان-جان-۷-نفر-و-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تخفیف-های-تلویزیون-جمعه-سیاه-2026-تا-1300-دلار-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-کارت-تعطیلات-جمعه-سیاه-و-معاملات-کتاب-عکس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/نفوذ-تازه-به-داده-های-دانمارک-اطلاعات-۱۱هزار-نفر-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -642,6 +642,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-متخصصان-آشپزی-بهترین-دستور-غذا-را-برای-چیزی-تعیین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اسپیس-ایکس-مجوز-پرتاب-یک-میلیون-ماهواره-هوش-مصنوعی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/والپیپر-رسمی-جدید-آیفون-را-دانلود-کنید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ناتینگ-از-ایرباد-جدید-خود-با-قابلیت-های-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/30-تخفیف-برای-کدهای-تبلیغاتی-canon-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدل-۲۰۲۷-خودرو-شیائومی-su7-اولترا-رونمایی-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تماشا-کنید-انفجار-تانکر-سوخت-در-مصر-جان-۳۱-نفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
