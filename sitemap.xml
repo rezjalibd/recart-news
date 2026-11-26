@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بیش-از-۲۵حمله-پهپادی-سپاه-به-مواضع-پژاک-در-کردستان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ماجرای-حرف-های-جنجالی-وزیر-گردشگری-عراق-و-نگاه-عراقی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/همزمان-با-کشتار-دی-ماه-قطع-اینترنت-و-جنگ-ساخت/</loc>
+    <loc>https://recart.ir/news/اختلاف-بر-سر-بودجه-اروپا-و-کمک-به-اوکراین-آلمان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-تاکسی-های-پرنده-برقی-در-گوانگ-ژو-تا-آشیانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حادثه-رانندگی-برای-اوبامیانگ-به-ستاره-دپورتیوو-لاکرونیا-هیچ-آسیبی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -392,21 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدهای-فوق-العاده-بلند-و-امواج-نیرومند-اسکله-را-ویران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اطلاع-رسانی-زیر-تیغ-قوه-قضاییه-تهدید-می-کند-مهدی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پاندلند-وارد-اداره-قضایی-شد-۱۱هزار-شغل-در-بریتانیا-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بریتانیا-از-حدود-۱۰۰-هزار-نیروی-نظامی-ذخیره-خواست-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -691,6 +691,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-یک-رهبر-هوش-مصنوعی-در-یک-غول-فناوری-هستم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تلویزیون-r95h-سامسونگ-نشان-می-دهد-که-led-rgb-چه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برنامه-screens-به-شما-این-امکان-را-می-دهد-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/استیکرهای-صدادار-وارد-واتساپ-شدند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اختلاط-قیمت-گذاری-openai-به-این-معنی-است-که-اکثر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -767,26 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/8-بهترین-صفحه-کلید-2026-انتخاب-های-صادقانه-من-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کاسیو-سه-ساعت-فلزی-جدید-با-صفحه-رنگی-و-اعداد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/waymo-خیابان-های-شهر-را-فتح-کرد---چرا-همچنان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اولین-رانندگی-با-فیات-توپولینو-در-شهر-نیویورک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آنر-choice-t20-با-قیمت-۱۵۰-دلار-و-طراحی-شبیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -906,6 +906,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پرونده-تجاوز-جنسی-ژرار-دوپاردیو-پس-از-عدم-موفقیت-بازیگر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اینجا-جایی-است-که-می-توان-نمایش-آنلاین-سگ-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوو-ادواردز-برای-اولین-بار-در-مستند-کانال-4-علنا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دنباله-ملکه-راهزن-از-بابی-بدی-کارگردان-ساتلوج-هانی-ترهان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
