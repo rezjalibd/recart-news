@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تظاهرات-معترضان-به-کنترل-دولت-مرکزی-بر-میادین-نفتی-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ژرار-دوپاردیو-به-دلیل-اتهامات-تجاوز-جنسی-پس-از-ناکامی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بیش-از-۲۵حمله-پهپادی-سپاه-به-مواضع-پژاک-در-کردستان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/طرف-قاضی-با-abc-در-شکایت-متمم-اول-علیه-fcc/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/صدور-کیفرخواست-علیه-پدر-مگان-مارکل-به-اتهام-نگهداری-تصاویر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشتادوپنجمین-سالگرد-درگذشت-محمدعلی-فروغی-سیاستمداری-که-ایران-دوستی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-پابلو-هرناندس-د-کوس-برای-جانشینی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پنجمین-روز-اعتصاب-کامیونداران-در-۱۸-شهر-کرایه-ها-کفاف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/توقف-فعالیت-سه-صرافی-رمزارزی-به-دلیل-اخلال-در-نظام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماریو-ون-پیبلز-و-آبدراحمان-سیساکو-برای-sica-ساحل-عاج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/warwick-thornton-teona-strugar-mitevska-و-myroslav-slaboshpytskiy-برای-cinemart/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ژرار-دوپاردیو-به-اتهام-تجاوز-به-شارلوت-بازیگر-زن-آرنولد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نود-و-نهمین-اسکار-هر-رقیب-تنها---همه-104/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دادگاه-فرانسه-درخواست-تجدیدنظر-دوپاردیو-در-پرونده-تجاوز-جنسی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هوو-ادواردز-به-دوربین-ها-اجازه-ورود-به-خانه-اش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/حمایت-تمام-قد-کیمیش-از-موسیالا-این-رفتار-در-شان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آلیس-تزو-کارگردان-steps-در-مورد-الهامات-پانک-راک-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتفلیکس-سریال-امستردام-امپراتوری-با-بازی-فامکه-جانسن-را-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پس-از-سه-دهه-جشنواره-موسیقی-اسنس-با-نیواورلئان-وداع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/what-a-talent-بلیندا-کارلایل-ub40-spandau-ballet-و-بیشتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
