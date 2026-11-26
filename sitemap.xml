@@ -426,6 +426,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-بازی-جمعه-سیاه-2026-در-لپ-تاپ-کنسول/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اینها-بهترین-معاملات-ابزار-جمعه-سیاه-در-lowe-s-هستند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اقتصاد-ایران-بدون-نفت-معیشت-۹۰-میلیون-نفر-چه-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,17 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نیروی-دریایی-ایالات-متحده-می-خواهد-پهپادها-در-کنار-کشتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معامله-جمعه-سیاه-coveron-تا-71-در-محافظت-از-کلاهبرداری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وقتی-زمین-کنار-خانه-های-مسکونی-ناگهان-دهان-باز-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آبشار-ابرها-بر-فراز-تندیس-مسیح-نجات-دهنده-در-ریو/</loc>
+    <loc>https://recart.ir/news/مسی-و-ستاره-های-فوتبال-جهان-در-مراسم-خداحافظی-کارلوس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -822,6 +827,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مارک-تیلدزلی-طراح-تولید-فیلم-های-زمانی-برای-مردن-نیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/nbc-از-تلویزیون-روز-شکرگزاری-برای-شروع-بازاریابی-المپیک-2028/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/عماد-قویدل-خواننده-رپ-اعتراضی-به-دادسرای-رشت-احضار-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خطر-اعدام-مانع-دیپورت-زن-ایرانی-بازیگر-فیلم-های-بزرگسالان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
