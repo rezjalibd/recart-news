@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رئیس-کمیسیون-اروپا-در-واکنش-به-کشته-شدن-دو-ایتالیایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-بودجه-اتحادیه-اروپا-انبوه-اولویت-ها-حضور-نمایندگان-پارلمان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مهاجرت-خالص-به-بریتانیا-به-پایین-ترین-سطح-در-نزدیک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/۳۱-کشته-در-آتش-سوزی-تانکر-سوخت-در-بزرگراه-قاهره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مشوق-۸-هزار-یورویی-برای-بازگشت-به-سوریه-مرتس-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جدال-حقوقی-طولانی-آنجلینا-جولی-و-برد-پیت-بر-سر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
