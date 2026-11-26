@@ -866,6 +866,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/u2-wind-به-سال-ها-با-کلاسیک-بازگشت-ادای-احترام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ادای-احترام-u2-به-دالی-پارتون-با-بازآفرینی-دوئت-پاره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارگردان-گرگ-و-میش-فاش-می-کند-که-رابرت-پتینسون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کنستانس-وانگ-تصویر-نودوخواهان-را-بسیار-کلیشه-ای-و-نژادپرستانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
