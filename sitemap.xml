@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یورونیوز-ویریفای-اتحادیه-اروپا-تا-چه-زمانی-از-پس-کمک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اسرائیل-بیش-از-۵۳۰-پهپاد-در-کرانه-باختری-توقیف-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رابطه-جنسی-کمتر-صفحه-نمایش-بیشتر-عادات-جنسی-بریتانیا-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شمار-زخمی-های-حمله-موشکی-روسیه-به-کی-یف-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترمز-پنهان-مغز-چرا-با-افزایش-سن-میل-کمتری-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/برخورد-فضاپیمای-ناسا-به-یک-سیارک-دهانه-ای-به-اندازه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یک-میلیون-ماهواره-برای-هوش-مصنوعی-آمریکا-به-طرح-جاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پیروز-قربانی-اسم-پرسپولیس-به-ما-انگیزه-می-دهد-دنبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اسنوپ-داگ-برای-تک-آهنگ-روز-شکرگزاری-gracias-x-todo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوو-ادواردز-به-دوربین-ها-اجازه-ورود-به-خانه-اش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرونده-تجاوز-جنسی-ژرار-دوپاردیو-پس-از-عدم-موفقیت-بازیگر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
