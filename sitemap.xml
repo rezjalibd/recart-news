@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نگرانی-از-احتمال-حمله-پهپادی-ایران-نیروی-هوایی-سلطنتی-بریتانیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اتحاد-علیه-آپارتاید-جنسیتی-در-۳-ماه-گذشته-۸۵-مورد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/صدور-کیفرخواست-علیه-پدر-مگان-مارکل-به-اتهام-نگهداری-تصاویر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برد-پیت-و-آنجلینا-جولی-در-مورد-جنگ-تلخ-شراب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برد-پیت-و-آنجلینا-جولی-دعوای-شراب-سازی-را-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/rosamund-pike-در-مورد-بازی-در-spiky-stage-drama-inter/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
