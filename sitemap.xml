@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بانک-مرکزی-حساب-های-بانکی-تمام-سکوهای-تبادل-رمزارزی-متخلف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سالها-پس-از-فارغ-التحصیلی-دوباره-به-شهر-قدیمی-کالج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مسمومیت-الکلی-در-استان-هرمزگان-جان-۷-نفر-و-در/</loc>
+    <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وعده-سامسونگ-آپدیت-one-ui-9-5-مشکل-سلامت-باتری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زندگی-در-ارتفاعات-می-تواند-اتصالات-مغزی-را-تغییر-دهد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آنر-choice-t20-با-قیمت-۱۵۰-دلار-و-طراحی-شبیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-برنامه-ای-برای-تعیین-مدیرعامل-بعدی-انویدیا-ندارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معرفی-داشبورد-بنچمارک-llama-cpp-برای-amd-ryzen-و-radeon/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/هفته-چهاردهم-لیگ-برتر-تساوی-خانگی-چادرملو-اردکان-مقابل-مس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کجا-می-توان-بازی-های-nfl-روز-شکرگزاری-را-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مقامات-می-گویند-که-رامایانا-بازدیدکنندگان-را-در-صخره-جاتایو-0b274f/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/27-6-میلیون-بیننده-برای-فیلم-کریسمس-رودخانه-ویرجین-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
