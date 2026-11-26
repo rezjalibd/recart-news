@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/انجمن-متخصصان-عفونی-ایران-شیوع-آنفلوانزا-در-بیشتر-استان-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازداشت-دو-عراقی-در-آلمان-به-اتهام-طراحی-حمله-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شاهزاده-رضا-پهلوی-جنایت-شلاق-زدن-پرستو-احمدی-تنها-نوک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خشونت-علیه-زنان-در-سایه-قانون-جرم-انگاری-روابط-انکار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تصویر-واقعی-است-نه-ساخته-هوش-مصنوعی-آبشار-ابرها-بر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شهروندان-در-کارزاری-به-افزایش-سه-برابری-بهای-اینترنت-مخابرات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-نیست-آبشار-ابرها-بر-فراز-مسیح-نجات-دهنده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -667,6 +677,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیفون-۲۰-پرو-مکس-سرامیکی-می-شود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جدول-23-استارتاپی-را-که-به-دنبال-ایجاد-اختلال-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-موزیلا-فایرفاکس-می-گوید-که-این-شرکت-در-حال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تامسون-رویترز-از-هوش-مصنوعی-آمریکایی-و-چینی-برای-مدل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/میراث-پائولو-بولگاری-چگونه-نام-جواهرسازی-ایتالیایی-با-شکوه-هالیوود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -896,6 +896,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/طرح-لباس-wild-horse-nine-و-elsinore-تهیه-کننده-تیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بی-بی-سی-در-مورد-یهودی-ستیزی-مورد-بررسی-قرار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سدریک-کلاپیش-کارگردان-افتخار-یک-عمر-دستاورد-سزار-را-دریافت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باب-ایگر-رئیس-سابق-دیزنی-کارمند-abc-باردار-شد-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
