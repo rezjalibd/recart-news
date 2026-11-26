@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آب-های-آسیب-پذیر-مدیترانه-اسپانیا-برای-مهار-لکه-عظیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نفتکش-حامل-۷-هزار-تن-گازوئیل-در-سواحل-جزیره-اسپانیایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تابعیت-از-راه-نیاکان-کشورهای-اروپایی-چگونه-به-نوادگان-مهاجران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,12 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/واژگونی-و-آتش-سوزی-یک-خودرو-حامل-فرآورده-های-نفتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/واژگونی-و-آتش-سوزی-یک-خودرو-حامل-فرآورده-های-نفتی-15a412/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۵-آذر-۱۴۰۵-۲۶-نوامبر-۲۰۲۶---نیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/فروش-جمعه-سیاه-آریتزیا-تا-50-تخفیف-در-سراسر-سایت/</loc>
+    <loc>https://recart.ir/news/ایلان-ماسک-می-گوید-به-هر-کودک-آمریکایی-دو-سهم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -642,6 +647,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اسپیس-ایکس-مجوز-fcc-را-برای-استقرار-1-میلیون-ماهواره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رئیس-پژوهشگاه-فناوری-اطلاعات-فاصله-میان-ایده-پژوهشی-و-محصول/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مک-بوک-ایر-oled-با-طراحی-جدید-احتمالا-در-سال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدیرعامل-آنتروپیک-واگذاری-اراده-انسان-به-هوش-مصنوعی-ایده-مضحک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ویژگی-زمان-بندی-پیام-سال-ها-پس-از-تلگرام-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/neuralink-تاییدیه-fda-را-برای-آزمایش-محور-ایمپلنت-مغز-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
