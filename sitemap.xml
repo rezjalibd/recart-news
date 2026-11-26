@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عراق-مسدود-کردن-گذرگاه-های-مرزی-غیررسمی-را-آغاز-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کامیون-داران-در-۱۸-شهر-ایران-برای-پنجمین-روز-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مهدی-محمودیان-روزنامه-نگار-و-فعال-حقوق-بشر-بازداشت-شد/</loc>
+    <loc>https://recart.ir/news/اروپا-امروز-رهبران-اتحادیه-اروپا-در-بروکسل-برای-مذاکرات-بودجه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مصرف-الکل-چگونه-خطر-سکته-مغزی-را-افزایش-می-دهد/</loc>
+    <loc>https://recart.ir/news/هواپیمایی-ارزان-قیمت-نروژی-نورس-اتلانتیک-با-خطر-ورشکستگی-پروازها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آتش-و-دود-غلیظ-از-پالایشگاه-نفت-بانکوک-پس-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/طوفان-سفرهای-روز-شکرگزاری-را-مختل-می-کند-زیرا-بیش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یکی-از-بزرگ-ترین-ماینرهای-بیت-کوین-در-حال-کاهش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/لایه-سلیقه-اینترنت-مدیر-عملیاتی-ردیت-توضیح-داد-چرا-هوش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -652,6 +652,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اولین-رانندگی-با-فیات-توپولینو-در-شهر-نیویورک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آنر-choice-t20-با-قیمت-۱۵۰-دلار-و-طراحی-شبیه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنسن-هوانگ-برنامه-ای-برای-تعیین-مدیرعامل-بعدی-انویدیا-ندارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,17 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اسپیس-ایکس-مجوز-اولیه-ساخت-دیتاسنتر-هوش-مصنوعی-در-فضا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/x-اولین-کنترل-های-والدین-خود-را-اضافه-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پژوهشی-۲۶-ساله-ادعای-کاهش-شدید-تعداد-اسپرم-مردان-را/</loc>
+    <loc>https://recart.ir/news/حمله-سایبری-به-قلب-فوتبال-جهان-سرقت-اطلاعات-محرمانه-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -886,6 +891,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دنباله-ملکه-راهزن-از-بابی-بدی-کارگردان-ساتلوج-هانی-ترهان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بی-بی-سی-در-مورد-یهودی-ستیزی-توسط-مشاور-دولت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/jiostar-ستاره-پلاس-رنگ-ها-و-پنج-کانال-تلویزیونی-هندی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/candace-cameron-bure-می-گوید-که-او-هنوز-آثار-فول/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برجسته-ترین-مرگ-های-هالیوود-در-سال-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
