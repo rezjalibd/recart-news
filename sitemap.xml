@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-پنجمین-روز-به-۲۰-شهر-ایران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هشدار-مصطفی-تاجزاده-از-زندان-درباره-آغاز-دوباره-اعتراضات-سراسری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گزارش-موسسه-آمریکایی-از-ساخت-سریع-تاسیسات-زیرزمینی-جدید-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گزارش-موسسه-علوم-و-امنیت-بین-المللی-از-ساخت-سریع/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -686,6 +686,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دانلود-دست-های-بیونیک-بهتر-و-رونق-گاز-طبیعی-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نورالینک-با-دریافت-مجوز-fda-به-عرضه-تجاری-تراشه-مغزی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تماس-ویدیویی-۱۰۸۰p-در-نسخه-وب-گوگل-میت-برای-تمام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/10-بهترین-خدمات-تحویل-غذا-تست-شده-توسط-منتقد-سابق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,17 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کارفرمایان-آیا-در-مورد-عرضه-muse-و-سایر-عوامل-هوش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-هوش-مصنوعی-رمزنگاری-امروزی-را-شکسته-است-هشدار-تازه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/thuma-dupes-قاب-های-تخت-نازک-کاری-ژاپنی-که-روی/</loc>
+    <loc>https://recart.ir/news/خطر-اعدام-مانع-دیپورت-زن-ایرانی-بازیگر-فیلم-های-بزرگسالان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/درس-شکرگزاری-لینکلن-برای-ما-اکنون-هنوز-ادعای-پیروزی-نکنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نمایش-صحنه-ای-همه-جانبه-در-سینمای-مخفی-دزدان-دریایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
