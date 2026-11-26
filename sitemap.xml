@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مقام-های-آمریکا-بر-سر-ادعای-جاسوسی-در-پرونده-مدیرعامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یک-عکس-جنجالی-رابطه-درهم-تنیده-ایلان-ماسک-و-جنسن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/حباب-هوش-مصنوعی-در-آستانه-انفجار-ترکش-های-سقوط-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برنامه-character-ai-برای-به-حراج-گذاشتن-چت-های-خصوصی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
