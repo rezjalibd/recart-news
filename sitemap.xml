@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رابطه-جنسی-کمتر-صفحه-نمایش-بیشتر-عادات-جنسی-بریتانیا-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شمار-زخمی-های-حمله-موشکی-روسیه-به-کی-یف-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/داروی-ژنریک-ارزان-پیشگیری-از-اچ-آی-وی-به-زامبیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,12 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مهدی-رحمتی-پس-از-حذف-گل-گهر-از-آسیا-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پارک-مجسمه-آسمان-های-پرث-پیوند-هنر-معاصر-با-طبیعت/</loc>
+    <loc>https://recart.ir/news/شمار-جان-باختگان-مسمومیت-الکلی-در-هرمزگان-و-نیشابور-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-برای-اولین-بار-در-تاریخ-خود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/نفوذ-تازه-به-داده-های-دانمارک-اطلاعات-۱۱هزار-نفر-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -642,6 +642,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نسل-بعدی-دست-های-بیونیک-اینجاست-و-می-توانند-احساس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تماشا-کنید-انفجار-تانکر-سوخت-در-مصر-جان-۳۱-نفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایالت-نیویورک-اسباب-بازی-های-چت-بات-هوش-مصنوعی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
