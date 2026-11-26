@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-پی-رهگیری-پهپادهای-ایرانی-توسط-کویت-پروازهای-مسافربری-بر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-پنجمین-روز-به-۲۰-شهر-ایران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازداشت-هومن-دارابی-و-حمیدرضا-ساداتی-توسط-نیروهای-امنیتی-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گزارش-موسسه-آمریکایی-از-ساخت-سریع-تاسیسات-زیرزمینی-جدید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -541,6 +541,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مجموعه-سی-امین-سالگرد-پوکمون-casetify-شامل-یک-کیف-poké/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دژاوو-روز-شکرگزاری-نیست-nbc-رژه-به-تعویق-افتاده-میسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/من-پس-از-19-سال-اقامت-در-ایالات-متحده-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وال-استریت-می-خواهد-ژنرال-z-را-درک-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
