@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دادگاه-عراق-هشت-تبعه-فرانسه-را-به-اتهام-عضویت-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اهدای-جایزه-آزادی-آکادمیک-انجمن-مطالعات-خاورمیانه-آمریکا-به-سعید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/از-محدودیت-موشکی-علی-خامنه-ای-تا-سیاست-بدون-محدودیت/</loc>
+    <loc>https://recart.ir/news/داروی-ژنریک-ارزان-پیشگیری-از-اچ-آی-وی-به-زامبیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/موارد-ابتلا-به-ابولا-در-کنگو-در-سریع-ترین-موج/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مالیات-های-جدید-اتحادیه-اروپا-را-چه-کسانی-می-پردازند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/۳۱-کشته-در-آتش-سوزی-تانکر-سوخت-در-بزرگراه-قاهره/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مشوق-۸-هزار-یورویی-برای-بازگشت-به-سوریه-مرتس-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -237,11 +262,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-داور-سوری-به-اتهام-مستی-بازیچه-دست-شما-نیستم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مشوق-۸هزار-یورویی-برای-بازگشت-به-سوریه-مرتس-برای-تسریع/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -387,26 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پارک-مجسمه-آسمان-های-پرث-پیوند-هنر-معاصر-با-طبیعت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یونان-راهپیمایی-۱۴-هزار-نفر-در-آتن-علیه-افزایش-هزینه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رسانه-های-لبنان-فشار-آمریکا-و-عربستان-پشت-لحن-تندتر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اعتصاب-اعلام-نشده-کارکنان-یورواستار-قطارهای-پاریس-لندن-را-متوقف-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایتالیایی-های-جوان-با-نواختن-ناقوس-های-کلیسا-میراث-گذشته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نفوذ-تازه-به-داده-های-دانمارک-اطلاعات-۱۱هزار-نفر-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تصاویر-تازه-دهانه-ای-به-بزرگی-یک-ورزشگاه-روی-سیارکی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +642,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/42-شرکت-ایالتی-در-تلاش-هستند-تا-character-ai-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کد-تبلیغاتی-legalzoom-10-تخفیف-انحصاری-برای-تشکیلات-llc/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سریع-تر-پیدا-کنید-راحت-تر-بخوانید-ابزار-جست-وجو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/حمایت-تمام-قد-کیمیش-از-موسیالا-این-رفتار-در-شان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -877,6 +877,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/باتی-هوش-مصنوعی-به-احیای-صدای-جان-موتسون-برای-بازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/باز-بامیگ-بوی-به-جرمی-کانوی-مامور-افسانه-ای-بریتانیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خانم-راشل-توضیح-می-دهد-که-چگونه-برنامه-نویسی-رادیکال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/baahubali-rrr-مدیر-فنی-c-v-رائو-همکار-جدید-smpte/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
