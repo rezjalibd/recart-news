@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/توجیه-شهرداری-برای-تفتیش-تلفن-همراه-مسافران-مترو-مبارزه-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قتل-سه-کودک-همسر-در-یک-ماه-ازدواج-کودکان-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فینال-فصل-29-south-park-gta-6-از-استن-کایل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طرف-قاضی-با-abc-در-شکایت-متمم-اول-علیه-fcc/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پالایشگاه-های-چین-بدون-نفت-ایران-چه-می-کنند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سه-شهر-شبه-جزیره-ایبری-در-میان-ده-شهر-پرطرفدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عرضه-ps5-برای-جمعه-سیاه-کم-است-اما-شما-هنوز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آمریکا-با-طرح-اسپیس-ایکس-برای-استقرار-یک-میلیون-ماهواره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -627,6 +627,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وعده-جدید-ایلان-ماسک-هر-کودک-آمریکایی-۲-سهم-اسپیس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جایگزین-جستجوی-گوگل-kagi-رقیب-جیمیل-را-راه-اندازی-کرد/</loc>
+    <loc>https://recart.ir/news/استقلال-قهرمان-لیگ-برتر-هاکی-روی-یخ-زنان-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-و-بررسی-چهار-فصل-در-جاوا-ارسال-اسکار-اندونزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قاضی-حرکت-fcc-را-در-برابر-مجوزهای-ایستگاه-abc-مسدود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
