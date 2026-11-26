@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مرغ-پیاز-و-خیار-در-میادین-میوه-و-تره-بار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بورس-های-آسیا-با-کاهش-نگرانی-از-تعرفه-های-آمریکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-مانیتورهای-بازی-ال-جی-سامسونگ-و-ایسوس-برای-جمعه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تسلا-سایبرتراک-لغو-شده-سریع-ترین-پرفروش-ترین-کامیون-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -866,6 +866,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/20-بهترین-معاملات-جمعه-سیاه-nordstrom-uggs-state-diamond-studs/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جسی-آیزنبرگ-می-گوید-طرفداران-با-او-دیوانه-نیستند-زیرا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آریانا-گرانده-می-گوید-واکنش-به-ویدیوی-گلبرگ-شبیه-آینه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/زهران-ممدانی-شهردار-می-گوید-بالن-های-مشهور-در-رژه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بزرگترین-آثار-بیلبورد-دوران-دوران-ریو-گرسنه-مثل-گرگ-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مایکل-گیلز-بنیانگذار-king-crimson-در-84-سالگی-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
