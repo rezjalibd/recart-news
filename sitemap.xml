@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/توقف-۳۰-دقیقه-ای-بازی-بشیکتاش-و-هاپوئل-به-دلیل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شهر-نان-زنجبیلی-لندن-با-۵۰-سازه-خوراکی-معماری-دوباره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-درباره-رابرت-پتینسون-نظر-می-دهد-اول-می-پرسد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پلیس-سوئد-برای-تعقیب-رهبران-شبکه-های-تبهکار-در-عراق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عصر-طلایی-برای-سازندگان-در-اینجا-چیزی-است-که-رهبران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دنج-ترین-نمایش-نتفلیکس-بازگشتی-بسیار-آرام-داشته-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/زمین-گرم-تر-آسمان-خشمگین-تر-تغییرات-اقلیمی-می-تواند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-2026-در-گوشی-های-هوشمند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
