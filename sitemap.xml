@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ماجرای-حرف-های-جنجالی-وزیر-گردشگری-عراق-و-نگاه-عراقی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قضات-پرونده-فساد-نتانیاهو-خواستار-تجدیدنظر-در-اتهام-رشوه-خواری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/همزمان-با-کشتار-دی-ماه-قطع-اینترنت-و-جنگ-۴۰/</loc>
+    <loc>https://recart.ir/news/دبیرکل-حزب-الله-ما-برای-ایران-فعالیت-نمی-کنیم-ایران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مرگ-۱۳-کارگر-در-معدن-طلای-غیرقانونی-اندونزی-تلاش-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شکسته-شدن-رکورد-۳۰-ساله-میزان-مهاجرت-خالص-به-بریتانیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,21 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/سنتکام-از-سوریه-برای-جلوگیری-از-انتقال-سلاح-های-قاچاق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسطوره-جودوی-فرانسه-و-نامزد-انتخابات-ریاست-جمهوری-اوکراین-جنگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/داروهای-بیش-فعالی-و-نقص-توجه-در-بارداری-ریسک-مشکلات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دلار-به-۲۹۶-هزار-و-۵۰۰-تومان-رسید-حداقل-مزد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -546,6 +546,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اینجا-جایی-است-که-می-توانید-کمی-در-بازسازی-ocarina/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیروی-دریایی-ایالات-متحده-می-خواهد-پهپادها-در-کنار-کشتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معامله-جمعه-سیاه-coveron-تا-71-در-محافظت-از-کلاهبرداری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-نمی-توانستم-هزینه-مدرسه-آشپزی-را-بپردازم-بنابراین-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طوفان-ها-سفر-روز-شکرگزاری-را-با-تاخیر-یا-لغو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازار-موبایل-در-آستانه-بزرگ-ترین-سقوط-در-تاریخ-خود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -572,31 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-جمعه-سیاه-quince-اکنون-دارای-30-درصد-تخفیف-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-تلویزیون-های-صفحه-نمایش-بزرگ-hisense-انحصاری-costco-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/متا-از-اشتراک-گذاری-muse-برای-آزمایش-خودداری-کرد-سازمان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/والمارت-برای-به-دست-آوردن-زود-هنگام-خریداران-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-کارآفرین-نوجوان-توصیه-علاقه-خود-را-دنبال-کنید-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بای-بای-کارت-های-هدیه-امسال-مردم-تلاش-بیشتری-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -687,6 +687,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-برای-شناسایی-و-رهگیری-لابسترهای-گران-قیمت-استرالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اختلاط-قیمت-گذاری-openai-به-این-معنی-است-که-اکثر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آنر-choice-t20-با-قیمت-۱۵۰-دلار-و-طراحی-شبیه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-برنامه-ای-برای-تعیین-مدیرعامل-بعدی-انویدیا-ندارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -906,6 +906,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اینجا-جایی-است-که-می-توان-نمایش-آنلاین-سگ-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/11-تا-از-بهترین-اپیزودهای-تلویزیونی-روز-شکرگزاری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چگونه-فینال-فصل-2-the-lowdown-یک-فصل-سوم-امیدوارم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیکلاس-سلیس-تهیه-کننده-روما-فیلم-های-وارویک-تورنتون-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نتفلیکس-سریال-هلندی-با-10-میلیون-بیننده-را-لغو-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دنباله-ملکه-راهزن-از-بابی-بدی-کارگردان-ساتلوج-هانی-ترهان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بی-بی-سی-در-مورد-یهودی-ستیزی-توسط-مشاور-دولت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چه-زمانی-از-فصل-4-در-نتفلیکس-پخش-می-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ریچارد-هاموند-می-گوید-در-مورد-بازگشت-تاپ-گیر-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوو-ادواردز-برای-اولین-بار-در-تلویزیون-درباره-اقدامات-جنایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
