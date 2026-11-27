@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دفتر-شاهزاده-رضا-پهلوی-از-برگزاری-تجمع-های-جهانی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آناتومی---سندروم-زن-خوب-چگونه-علم-پزشکی-خشم-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-ششمین-روز-در-۲۰-شهر-ایران-08acb6/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتخابی-جام-جهانی-تیم-ملی-بسکتبال-ایران-۸۴-به-۶۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -851,6 +851,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/لی-ساوا-جفریس-ستاره-پرسی-جکسون-و-المپیک-در-مورد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جوایز-soul-train-2026-اینجا-جایی-است-که-مراسم-جوایز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جاستین-تیمبرلیک-از-جیمی-فالون-بازدید-می-کند-و-غذای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جایگزین-های-آمازون-24-مکان-برای-خرید-آنلاین-به-غیر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
