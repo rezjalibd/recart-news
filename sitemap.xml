@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سنتکام-از-هدف-قرار-دادن-یک-کشتی-ناقض-محاصره-دریایی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/در-پی-جان-باختن-دو-دانش-آموز-در-اثر-ابتلا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/حمایت-اتحادیه-متال-دانمارک-از-اعتصاب-و-مطالبات-کامیون-داران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رییس-انجمن-روان-پزشکان-ایران-مسموم-سازی-عمدی-از-چالش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,12 +411,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/انتخابات-اسپانیا-آیا-وکس-تعیین-کننده-خواهد-شد-و-بحران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجله-خبری-۶-آذر-۱۴۰۵-۲۷-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-خودرو-ژاپنی-شبیه-کوروت-است-و-زیر-کاپوتش-موتور/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,12 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شاسی-بلند-جان-سخت-نیسان-با-طراحی-آفرودی-و-سه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/131-بهترین-تخفیف-جمعه-سیاه-اکنون-به-صورت-زنده-انتخاب/</loc>
+    <loc>https://recart.ir/news/بزرگ-ترین-عقرب-تاریخ-زمین-به-اندازه-سگ-بود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ریچارد-هموند-پیشنهاد-بازگشت-به-برنامه-تخت-گاز-را-رد/</loc>
+    <loc>https://recart.ir/news/منچستریونایتد-قرارداد-برونو-فرناندز-را-به-صورت-یک-طرفه-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -827,6 +832,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دنیس-ویلنوو-باند-سنتی-و-غیر-عذرخواهی-را-متعهد-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روال-صبح-دیوید-بکهام-یک-مورد-غیرقابل-مذاکره-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/صحنه-اسکیزوفرنی-تایسون-فیوری-از-سند-نتفلیکس-حذف-شد-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیل-بارکر-درامر-سابق-buzzcocks-در-65-سالگی-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/pz-دان-تولیور-را-برای-آهنگ-جدید-subliminals-به-خدمت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتفلیکس-صحنه-اسکیزوفرنی-خارج-از-دکتر-تایسون-فیوری-را-بعد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
