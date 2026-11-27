@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/حمایت-ترامپ-از-کنترل-دولت-عراق-بر-گذرگاه-های-کردستان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جنگ-و-بحران-ارزی-۵۳هزار-متقاضی-ایرانی-را-از-حج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/زنی-که-همسرش-با-دادن-دارو-به-او-تجاوز-می/</loc>
+    <loc>https://recart.ir/news/تردید-قضات-در-اتهام-های-فساد-برتری-سیاسی-آشکاری-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دلایل-شتاب-خانواده-های-اروپایی-برای-خرید-پنل-خورشیدی-پیش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دلار-در-بازار-آزاد-پیش-از-رسیدن-به-کانال-۳۰۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -536,6 +536,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/oura-ring-5-به-تازگی-بزرگترین-تخفیف-خود-را-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معاملات-disney-plus-و-hulu-black-friday-هر-دو-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-مک-بوک-جمعه-سیاه-از-649-دلار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-ایرپادهای-جمعه-سیاه-ارزان-ترین-قیمت-در-pro/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-بیدی-جمعه-سیاه-در-مدل-های-تست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نمادین-ترین-غذای-همبرگر-در-هر-ایالت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/برخی-از-تلویزیون-های-سونی-ال-جی-و-tcl-مورد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -571,32 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یک-شرکت-تحقیقاتی-هشدار-داد-که-بازده-جنسن-هوانگ-مانع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-با-گربه-ام-به-14-کشور-پرواز-کرده-ام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-مدیر-اجرایی-می-خواست-کارآفرینان-را-بهتر-درک-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چه-کسی-به-اینفلوئنسرها-اعتماد-دارد-این-4-آمار-وضعیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-با-یک-ایرلاین-آفریقایی-پرواز-کردم-که-هرگز-اسمش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-waymo-گرفته-تا-prometheus-جف-بزوس-با-بزرگترین-جمع/</loc>
+    <loc>https://recart.ir/news/حادثه-سایبری-زنده-و-در-جریان-خدمات-آنلاین-وزارت-کار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -637,6 +642,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-آیفون-جمعه-سیاه-از-verizon-t-mobile-و-at/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/منوی-شکرگزاری-مارک-زاکربرگ-gta-6-گوشت-دودی-و-ابزار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پروتزهای-پیشرفته-به-محققان-اجازه-می-دهد-تا-ذهن-انسان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شهرداری-خانه-مردی-را-پس-از-اشتباه-در-آدرس-تخریب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-پیشنهادهای-پخش-جریانی-جمعه-سیاه-2026-apple-tv-disney/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فیلم-هفته-ی-بخش-فرهنگ-یورونیوز-بدبیاری-های-تازه-کلیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یورش-ماموران-مسلح-به-خانه-مهدی-محمودیان-فعال-حقوق-بشر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چهره-عمومی-آریانا-گرانده-به-یک-مشکل-تبدیل-شده-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-هدایا-برای-گیمرها-در-سال-2026-کنسول-ها-هدست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-هدایای-سال-2026-برای-گیمرها-کنسول-ها-هدست-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
