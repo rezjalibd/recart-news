@@ -186,6 +186,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/طوفان-با-تاخیر-در-پرواز-بیش-از-960000-قطع-برق/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-در-پروازها-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قضات-پرونده-فساد-نتانیاهو-خواستار-تجدیدنظر-در-اتهام-رشوه-خواری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روایت-های-استیصال-و-سرسختی-زنان-معترض-دی-ماه-زیر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -451,6 +451,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/معاملات-vpn-جمعه-سیاه-تا-88-در-قابل-اطمینان-ترین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بیل-آکمن-سرمایه-گذار-میلیاردر-کتابی-را-که-در-این/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قیمت-این-هدفون-سونی-در-جمعه-سیاه-زیر-200-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/پژوهش-جدید-مزایای-جراحی-رباتیک-زانو-را-زیر-سوال-برد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مدیر-عامل-آزمایشگاه-مهندسی-هوش-مصنوعی-cognition-هشدار-می-دهد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارگران-در-استودیوی-gta-6-rockstar-games-با-اکثریت-قاطع/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اپل-واچ-سری-11-با-تخفیف-100-دلاری-در-جمعه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
