@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ستاره-بایرن-فعلا-دور-از-میادین-سال-۲۰۲۶-برای-جمال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مزخرف-می-گوید-واکنش-مورینیو-به-پیش-بینی-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +847,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیشنهاد-fox-one-black-friday-در-اینجا-نحوه-صرفه-جویی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جاستین-تیمبرلیک-توضیح-می-دهد-که-چرا-برای-ساخت-مستندهای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دنیس-ویلنوو-عمیقا-ناامید-است-از-اینکه-انتقام-جویان-روز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سریال-بیمارستانی-جدید-بلافاصله-در-نتفلیکس-تأثیر-می-گذارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
