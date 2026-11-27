@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-پی-جان-باختن-دو-دانش-آموز-بر-اثر-ابتلا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-شکنجه-و-اعتراف-اجباری-تا-حکم-اعدام-روایتی-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ادعای-فرمانده-نیروی-دریایی-ارتش-آمریکایی-ها-خواب-بودند-نفتکش/</loc>
+    <loc>https://recart.ir/news/اصلاح-قانون-شکار-در-ایتالیا-با-مانع-مقررات-اتحادیه-اروپا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معلم-ازبک-مشکل-بازیافت-در-مدرسه-را-به-پروژه-آموزشی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,22 +411,32 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نشست-سران-اتحادیه-اروپا-بر-سر-بودجه-بدون-نتیجه-پایان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ویدئو-لحظه-کشیده-شدن-مرد-و-سگش-به-دریا-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجله-خبری-۶-آذر-۱۴۰۵-۲۷-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تبلیغ-دیگر-برای-اسرائیل-نیست-در-جریان-ویژه-snl-پخش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تخفیف-های-live-moccamaster-black-friday-در-قهوه-سازهای-تک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معاملات-جاروبرقی-جمعه-سیاه-dyson-شامل-55-تخفیف-برای-جدیدترین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معامله-جمعه-سیاه-coursera-plus-160-دلار-در-یک-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -581,22 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حمایت-ترامپ-از-تلاش-نخست-وزیر-عراق-برای-مقابله-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/oura-ring-5-به-تازگی-بزرگترین-تخفیف-خود-را-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معاملات-disney-plus-و-hulu-black-friday-هر-دو-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-مک-بوک-جمعه-سیاه-از-649-دلار/</loc>
+    <loc>https://recart.ir/news/گوگل-به-دلیل-فقدان-مجوز-برنامه-ریزی-ساخت-دیتاسنتر-بلژیک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-پروتزهای-پیشرفته-می-توانند-به-کاوش-در-ذهن-انسان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مادر-مهدی-محمودیان-جلوی-اعدام-بچه-ها-را-گرفت-شیرم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -822,6 +822,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-خوانندگان-به-شلاق-پرستو-احمدی-سپیده-جندقی-به-یورونیوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زندگی-دیزی-ماساکی-یواسا-تصاویری-از-اولین-نگاه-از-ویژگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چهره-عمومی-آریانا-گرانده-به-یک-مشکل-تبدیل-شده-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بین-المللی-اینسایدر-روزهای-دوحه-هفته-سخت-برای-بفتا-مصاحبه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اسپانیا-به-پیمان-جدید-تولید-مشترک-هند-نزدیک-می-شود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
