@@ -351,6 +351,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/او-مدرسه-آشپزی-را-در-نیویورک-به-جای-فوق-لیسانس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-آلیس-هوانگ-جاسوس-است-یا-نه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شکسته-شدن-رکورد-۳۰-ساله-میزان-مهاجرت-خالص-به-بریتانیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نبرد-اوکراین-به-ارتش-بریتانیا-نشان-داد-که-نیاز-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
