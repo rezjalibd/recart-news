@@ -846,6 +846,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/boss-silka-luisa-blade-runner-2099-در-مورد-معنای-پایانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جرالد-آر-مولن-درگذشت-تهیه-کننده-برنده-اسکار-فهرست-شیندلر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-جنگی-واقعی-در-نتفلیکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نمایش-باید-ادامه-یابد-برادوی-شنبه-در-رژه-شکرگزاری-میسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
