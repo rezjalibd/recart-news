@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بن-بست-پارلمانی-در-نیوزیلند-کلید-تشکیل-دولت-آینده-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/راهنمای-سفر-به-کالویا-پایتخت-گردشگری-اروپا-در-سال-۲۰۲۷/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/محمدرضا-زنوزی-مالک-تراکتور-مقصر-نتایج-آسیایی-تراکتور-منم-انتخاب/</loc>
+    <loc>https://recart.ir/news/روایت-یک-خانواده-نظامی-یک-هفته-بعد-از-واریز-حقوق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -516,6 +521,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/se-3-اپل-واچ-است-که-اکثر-مردم-باید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-google-pixel-جمعه-سیاه-2026-تا-400/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-kindle-و-e-reader-2026-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -586,21 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/160-پیشنهاد-داغ-جمعه-سیاه-که-با-پول-خود-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گیم-تئوری-پنهان-بلک-فرایدی-بازی-قیمت-ها-پشت-ویترین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-در-پروازها-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اس-ا-ی-پی-غول-نرم-افزاری-آلمان-در-پی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-می-ترسم-سارا-وین-ویلیامز-نویسنده-مردم-بی-دقت-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شبکه-اجتماعی-ایکس-قابلیت-کنترل-والدین-را-برای-کاربران-نوجوان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بلک-فرایدی-اسنپ-شاپ-ارسال-رایگان-برای-همه-و-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
