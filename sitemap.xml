@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جمعه-سیاه-در-کجای-اروپا-بدبین-ترین-خریداران-زندگی-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تعرفه-های-ترامپ-اتحادیه-اروپا-و-اندونزی-را-در-تجارت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تماشای-تلویزیون-و-استفاده-از-موبایل-چه-ارتباطی-با-یادگیری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شانگهای-بهترین-شهر-جهان-برای-خرید-معرفی-شد-اروپا-فقط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,6 +791,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/واکنش-خوانندگان-به-شلاق-پرستو-احمدی-سپیده-جندقی-به-یورونیوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جاستین-تیمبرلیک-می-گوید-ساخت-سریال-doc-آینده-واقعا-دلخراش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایرلند-شمالی-مدیر-اجرایی-جدیدی-را-منصوب-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/reclab-2026-فیلم-های-جدید-از-آلکاراس-رومریا-تهیه-کنندگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
