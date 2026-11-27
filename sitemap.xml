@@ -856,6 +856,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خانواده-واقعی-نیل-راجرز-اندی-تیلور-دوران-دوران-را-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/موسیقی-متن-grand-theft-auto-vi-به-رتبه-1-نمودار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نمایش-نیمه-وقت-عروسک-های-گو-گو-در-بازی-جشن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-کنسرت-جنیفر-لوپز-در-وگاس-the-jlo-show-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
