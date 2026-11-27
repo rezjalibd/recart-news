@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازگشت-گاوبازی-به-تلویزیون-دولتی-پرتغال-پس-از-شش-سال/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پرستو-در-سرزمین-عجایب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عراقچی-دخالت-جمهوری-اسلامی-در-حمله-پهپادی-به-کویت-را/</loc>
+    <loc>https://recart.ir/news/خداحافظی-غیرمنتظره-اسطوره-مسابقات-موتورسواری-گرندپری-والنسیا-واپسین-رقص-مارکز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قهوه-با-کافئین-یا-بدون-کافئین-می-تواند-خلق-وخو/</loc>
+    <loc>https://recart.ir/news/دلار-در-بازار-آزاد-پیش-از-رسیدن-به-کانال-۳۰۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-حلقه-oura-100-دلار-از-آخرین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اس-ا-ی-پی-غول-نرم-افزاری-آلمان-در-پی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -637,6 +637,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ریچارد-هموند-پیشنهاد-بازگشت-به-برنامه-تخت-گاز-را-رد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-کمکی-نمی-کند-با-افزایش-استفاده-از-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فیلم-هفته-ی-بخش-فرهنگ-یورونیوز-بدبیاری-های-تازه-کلیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -886,6 +886,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بین-المللی-اینسایدر-روزهای-دوحه-هفته-سخت-برای-بفتا-مصاحبه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اسپانیا-به-پیمان-جدید-تولید-مشترک-هند-نزدیک-می-شود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-هدایای-سال-2026-برای-گیمرها-کنسول-ها-هدست-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/backstreet-boys-به-جشن-های-بیستمین-سالگرد-o2-arena-اضافه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
