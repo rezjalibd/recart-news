@@ -636,6 +636,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-برخی-از-a-i-انجیلیست-ها-از-احتمال-انقراض/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوشی-ارزان-قیمت-جدید-اچ-ام-دی-با-اندروید-۱۶/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-کمکی-نمی-کند-با-افزایش-استفاده-از-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-و-تخفیف-های-نایک-30-برای-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اولین-بنچمارک-گلکسی-a38-منتشر-شد-تغییر-مهم-در-میان/</loc>
+    <loc>https://recart.ir/news/ویدئویی-هوادار-لوفسکی-را-در-حال-سلام-نازی-پیش-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/asha-bhosle-و-s-janaki-به-یاد-خواننده-k-s/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جسی-پلمونز-در-مورد-افتخار-بازی-پلوتارک-در-بازی-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
