@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مسمومیت-های-مرگبار-الکلی-انتقاد-رییس-انجمن-روان-پزشکان-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایران-برای-روشن-شدن-ماجرای-کشته-شدن-۲-تبعه-ایتالیا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/استرالیا-دو-متهم-به-سازمان-دهی-حملات-یهودستیزانه-برای-سپاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کارکنان-آمازون-هم-زمان-با-بلک-فرایدی-و-سایبرماندی-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طوفان-با-تاخیر-در-پرواز-بیش-از-960000-قطع-برق/</loc>
+    <loc>https://recart.ir/news/ترامپ-پوتین-اگر-بخواهد-می-تواند-در-نشست-گروه-۲۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/من-2-شب-را-در-یک-هتل-خانه-کوچک-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/صدای-نام-پر-سر-و-صدا-ترامپ-توسط-نیویورک-تایمز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
