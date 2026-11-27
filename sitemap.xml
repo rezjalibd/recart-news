@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سازمان-حقوق-بشر-ایران-از-جامعه-جهانی-خواست-برای-آزادی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-ششمین-روز-در-۲۰-شهر-ایران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-گاوبازی-به-تلویزیون-دولتی-پرتغال-پس-از-شش-سال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -51,7 +61,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-ششمین-روز-در-۲۰-شهر-ایران/</loc>
+    <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-ششمین-روز-در-۲۰-شهر-ایران-08acb6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -211,12 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مجلس-در-پی-تشدید-محدودیت-ها-بر-فعالیت-های-مجازی/</loc>
+    <loc>https://recart.ir/news/سگ-۱۱-ساله-بوکش-مدفوع-ا-با-که-به-نجات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نرخ-باروری-در-ایران-به-۱-۴۳-رسید-و-تجرد/</loc>
+    <loc>https://recart.ir/news/هشدار-کرملین-به-ارمنستان-میان-اتحادیه-اروپا-و-ائتلاف-اقتصادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آژانس-مواد-مخدر-اتحادیه-اروپا-هشدار-داد-مصرف-ترکیبی-مواد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-جاذبه-های-خانوادگی-اروپا-برای-سفر-در-۲۰۲۷-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آماده-باش-برای-جنگ-در-بریتانیا-۱۰۰-هزار-نیروی-ذخیره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -641,6 +641,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/grand-theft-auto-vi-نوع-متفاوتی-از-gta-است-بنابراین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ریچارد-هموند-پیشنهاد-بازگشت-به-برنامه-تخت-گاز-را-رد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چرا-برخی-از-a-i-انجیلیست-ها-از-احتمال-انقراض/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوشی-ارزان-قیمت-جدید-اچ-ام-دی-با-اندروید-۱۶/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
