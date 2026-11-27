@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ایران-انقلاب-و-نیاز-به-ضدانقلاب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مهدی-نورمحمدی-بازداشت-شد-شمار-بازداشت-شدگان-آبدانان-به-۲۲/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دو-شهروند-ایتالیایی-در-پی-حمله-پهپادی-جمهوری-اسلامی-به/</loc>
+    <loc>https://recart.ir/news/آلمان-و-اتریش-خواستار-مالکیت-اروپایی-بر-تیک-تاک-شدند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تحقیقات-کنگره-آمریکا-احضار-چهره-های-سرشناس-فیفا-و-احتمال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اتهامات-تازه-یهودستیزی-علیه-جردن-باردلا-رهبر-راست-افراطی-فرانسه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نشست-پرتنش-اتحادیه-اروپا-پابلو-هرناندز-به-سمت-رئیس-بانک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تصاویر-هوایی-غرق-شدن-نفتکش-حامل-گازوئیل-در-نزدیکی-ایبیزا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازداشت-یک-نوجوان-در-دانمارک-به-اتهام-هک-اطلاعات-۱۱/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-می-توان-مسیر-یک-سیارک-تهدیدکننده-زمین-را-تغییر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دنج-ترین-نمایش-نتفلیکس-بازگشتی-بسیار-آرام-داشته-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دهانه-ای-به-اندازه-استادیوم-کاوشگر-هرا-پیامد-برخورد-دارت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
