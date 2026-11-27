@@ -221,6 +221,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-به-جمهوری-اسلامی-فرصت-توافق-می-دهیم-برای-نفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برند-ایتالیایی-آرمانی-امپراتوری-هتل-های-لوکس-خود-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-پوتین-اگر-بخواهد-می-تواند-در-نشست-گروه-۲۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/او-مدرسه-آشپزی-را-در-نیویورک-به-جای-فوق-لیسانس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-آلیس-هوانگ-جاسوس-است-یا-نه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-2-شب-را-در-یک-هتل-خانه-کوچک-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
