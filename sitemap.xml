@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سازنده-چت-جی-پی-تی-از-اپل-به-اتهام-سرقت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پلتفرم-های-امنیتی-رمزارز-برای-مقابله-با-گزارش-های-انبوه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-2026-ما-از-ساعت-4-صبح/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-ماوس-بازی-باید-یک-قاتل-لاجیتک-باشد-اما-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ویجت-های-diy-اندروید-کمی-سرگرم-کننده-برای-کدنویسی-هستند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/خاتون-بم-۳---۰-گاز-ایلام-خاتون-بم-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -837,6 +837,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جاستین-تیمبرلیک-از-جیمی-فالون-بازدید-می-کند-و-غذای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جاستین-تیمبرلیک-را-با-اکراه-در-حال-آواز-خواندن-backstreet/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فدرال-انگیزه-زمین-بازی-را-برای-خلاقان-آمریکایی-هموار-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
