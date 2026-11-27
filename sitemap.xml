@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/انتقال-میثم-نظری-و-سبحان-امری-از-بازداشت-شدگان-آبدانان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ادعای-فرمانده-نیروی-دریایی-ارتش-آمریکایی-ها-خواب-بودند-نفتکش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مسمومیت-الکلی-در-خوی-هم-جان-۳-نفر-را-گرفت/</loc>
+    <loc>https://recart.ir/news/مسن-ترین-حیوان-باغ-وحش-سان-فرانسیسکو-در-۷۹-سالگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تشدید-عملیات-نظامی-اسرائیل-در-جنوب-سوریه-۱۲-مورد-پیشروی/</loc>
+    <loc>https://recart.ir/news/هشدار-بختیاری-زاده-به-بازیکنانش-بازی-با-صنعت-نفت-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سال-جدید-را-با-بهترین-ساعت-های-هوشمند-و-ردیاب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-جاروبرقی-و-جاروبرقی-roborock-با-مشخصات-پایین-در-جمعه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -856,6 +856,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/reclab-2026-فیلم-های-جدید-از-آلکاراس-رومریا-تهیه-کنندگان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگردان-فیلم-high-fidelity-استیون-فریرز-همچنان-جک-بلک-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مایک-لی-به-دنیا-یادآوری-می-کند-که-چرا-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/لانا-دل-ری-می-گوید-آلبوم-های-جدید-نزدیک-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جان-تراولتا-در-نوامبر-1963-خود-را-به-عنوان-جانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تهیه-کننده-بازی-های-گرسنگی-از-جدایی-ملک-جی-پشیمان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
