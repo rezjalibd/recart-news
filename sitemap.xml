@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/خرید-لپ-تاپ-در-حال-حاضر-سخت-است-اما-این/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گرین-تک-ولی-اتریش-دره-ای-سبز-با-پیچش-چرخه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/من-20-بهترین-تخفیف-فنی-جمعه-سیاه-را-پیدا-کردم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رقابت-نوآوران-زیر-35-سال-2027-ما-اکنون-باز-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
