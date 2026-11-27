@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شکارچی-ماقبل-دایناسورها-بزرگ-ترین-عقرب-تاریخ-زمین-به-اندازه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-currentbody-black-friday-که-ارزش-خرید-دارند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/افشاگر-متا-از-برنهام-می-خواهد-تا-با-ممنوعیت-nda/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مادر-مهدی-محمودیان-جلوی-اعدام-بچه-ها-را-گرفت-شیرم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جاستین-تیمبرلیک-توضیح-می-دهد-که-چرا-برای-ساخت-مستندهای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دنیس-ویلنوو-عمیقا-ناامید-است-از-اینکه-انتقام-جویان-روز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سریال-بیمارستانی-جدید-بلافاصله-در-نتفلیکس-تأثیر-می-گذارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اشک-آملیا-دیمولدنبرگ-در-قسمت-پایانی-تاریخ-فروشگاه-مرغ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نتفلیکس-صحنه-اسکیزوفرنی-خارج-از-دکتر-تایسون-فیوری-را-بعد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خیابان-کنجد-را-تماشا-کنید-که-به-آهنگ-همه-چیزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جاستین-تیمبرلیک-می-گوید-ساخت-سریال-doc-آینده-واقعا-دلخراش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/iv-ها-گروه-های-جاز-و-آگهی-ها-24-ساعت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بازگرداندن-نمودار-در-سال-2021-تیلور-سوئیفت-با-خیلی-خوب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
