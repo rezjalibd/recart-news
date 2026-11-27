@@ -626,6 +626,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کدهای-تبلیغاتی-woop-20-تخفیف-در-نوامبر-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کدهای-تبلیغاتی-ulta-تا-20-تخفیف-در-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فورد-در-حالی-از-gt41-رونمایی-می-کند-که-امیدوار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گزارش-شده-است-که-nvidia-ارسال-تراشه-های-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
