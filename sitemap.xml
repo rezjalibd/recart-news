@@ -411,6 +411,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رئیس-سازمان-امور-مالیاتی-ایران-مالیات-عملکرد-سال-گذشته-حدود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/حمایت-ترامپ-از-تلاش-نخست-وزیر-عراق-برای-مقابله-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دلار-در-بازار-آزاد-پیش-از-رسیدن-به-کانال-۳۰۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/4-چیز-در-لیست-آرزوهای-جمعه-سیاه-وال-استریت-پس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سریعترین-فرصت-برای-سازندگان-ممکن-است-چیزی-باشد-که-دنبال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/حادثه-سایبری-زنده-و-در-جریان-خدمات-آنلاین-وزارت-کار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -642,6 +642,36 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پشم-مرینو-مورد-علاقه-ما-30-تخفیف-در-طول-فروش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دانلود-نامزدهای-نوآوران-زیر-35-سال-باز-هستند-و-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کسپرسکی-هوش-مصنوعی-شاید-بشر-را-نابود-نکند-اما-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سهم-اندروید-از-بازار-جهانی-موبایل-در-سه-ماهه-سوم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سامسونگ-قابلیت-افزایش-وضوح-عکس-با-هوش-مصنوعی-را-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیپد-تاشوی-اپل-شاید-تا-سال-۲۰۲۹-با-قیمت-۵/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -757,36 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-ipad-در-آخرین-مدل-های-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-هدایای-آشپزخانه-برای-آشپز-خانه-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-20-بهترین-تخفیف-فنی-جمعه-سیاه-را-پیدا-کردم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رقابت-نوآوران-زیر-35-سال-2027-ما-اکنون-باز-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-اسباب-بازی-جمعه-سیاه-2026-تا-50-درصد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-بهترین-پیشنهادهای-پخش-جریانی-جمعه-سیاه-2026-را-پیدا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-گرگ-ها-زوزه-می-کشند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
