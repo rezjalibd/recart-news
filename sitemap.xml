@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شمس-آذر-۰---۱-خیبر-خرم-آباد-وریا-غفوری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حمایت-ترامپ-از-کنترل-دولت-عراق-بر-گذرگاه-های-کردستان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/شیوع-آنفلوآنزا-در-بیشتر-استان-های-ایران-از-آستانه-هشدار/</loc>
+    <loc>https://recart.ir/news/ازبکستان-و-قزاقستان-گذرگاه-مهم-مرزی-را-برای-تردد-روزانه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هشدار-سازمان-ملل-درباره-تشدید-گرسنگی-در-افغانستان-بحران-غذایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/درگیری-ها-در-دیدار-لیگ-اروپا-بشیکتاش-با-باشگاه-اسرائیلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کشیش-آمریکایی-که-از-حکومت-دینی-و-لغو-حق-رای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رئیس-سازمان-امور-مالیاتی-ایران-مالیات-عملکرد-سال-گذشته-حدود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -546,6 +546,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/131-بهترین-تخفیف-جمعه-سیاه-اکنون-به-صورت-زنده-انتخاب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/oura-ring-5-به-تازگی-بزرگترین-تخفیف-خود-را-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-از-حرفه-معماری-به-کار-در-sweetgreen-تغییر-مسیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/حادثه-سایبری-زنده-و-در-جریان-خدمات-آنلاین-وزارت-کار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -642,6 +642,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-sonos-2026-تا-34-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-ipad-در-آخرین-مدل-های-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فیلم-هفته-ی-بخش-فرهنگ-یورونیوز-بدبیاری-های-تازه-کلیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -891,6 +891,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تهیه-کننده-نامزد-اسکار-یک-دوست-دوروتی-برای-اولین-بار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بین-المللی-اینسایدر-روزهای-دوحه-هفته-سخت-برای-بفتا-مصاحبه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بارون-سوبتی-ستاره-آبیشک-بانرجی-در-نقش-خالق-پاتال-لوک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-هدایا-برای-گیمرها-در-سال-2026-کنسول-ها-هدست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
