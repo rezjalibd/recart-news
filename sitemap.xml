@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ایتالیا-پهپاد-مهاجم-را-ایرانی-دانست-و-سفیر-جمهوری-اسلامی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ثبت-۳۱مورد-مسمومیت-الکلی-در-کردستان-گزارش-مرگ-در-چند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وای-نت-رییس-موساد-از-حمله-به-جمهوری-اسلامی-حتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دانشمندان-از-خودرو-سرقت-بزرگ-برای-مدل-سازی-تأثیرات-تغییرات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قیمت-کنسول-های-بازی-احتمالا-بیش-از-پیش-رشد-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-از-کالیفرنیا-به-تگزاس-نقل-مکان-کردم-و-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شما-می-توانید-یک-بسته-12-عددی-از-باتری-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/137-بهترین-تخفیف-جمعه-سیاه-اکنون-به-صورت-زنده-انتخاب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
