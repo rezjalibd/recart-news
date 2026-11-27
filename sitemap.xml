@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پیمان-مکه-در-سایه-حملات-جمهوری-اسلامی-اردوغان-توافق-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/لیگ-اروپا-هواداران-بشیکتاش-در-جریان-مسابقه-مقابل-تیمی-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نشست-پرتنش-اتحادیه-اروپا-پابلو-هرناندس-به-سمت-رئیس-بانک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتخابات-ریاست-جمهوری-فرانسه-نامزدها-برای-جلب-حمایت-شهرداران-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -626,6 +626,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/به-روزرسانی-تازه-دریچه-خبرها-تصویر-گرفتند-و-بخش-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اپل-احتمالا-بخش-نوتیفیکیشن-های-آیفون-را-در-ios-28/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تحقیق-جدید-خواب-طولانی-می-تواند-خطر-مرگ-بیماران-قلبی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/nvidia-ارسال-تراشه-به-آسیای-جنوب-شرقی-را-متوقف-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
