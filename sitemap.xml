@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-در-مورد-وسایل-خانه-هوشمند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تخفیف-های-جمعه-سیاه-در-مورد-لوازم-ضروری-خانگی-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/معامله-جمعه-سیاه-اپل-تی-وی-بیش-از-50-درصد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/24-بهترین-پیشنهاد-جمعه-سیاه-آمازون-2026-تا-60-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/داستان-واقعی-زنی-که-توسط-یک-مار-پیتون-بلعیده-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مزخرف-می-گوید-واکنش-مورینیو-به-پیش-بینی-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-پانل-های-درمانی-با-نور-قرمز-می-توانند-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازی-جمعه-سیاه-nfl-2026-اینجا-جایی-است-که-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/the-ultimate-thanksgiving-detox-برترین-کلینیک-طول-عمر-مورد-تایید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
