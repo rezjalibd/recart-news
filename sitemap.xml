@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ناتینگهام-فارست-۳-۲-چلسی-ادامه-نتایج-ضعیف-آبی-های-لندن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تعطیلی-یک-شرکت-خدمات-فرودگاهی-ترکیه-در-پی-تحریم-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خداحافظی-غیرمنتظره-اسطوره-مسابقات-موتورسواری-گرندپری-والنسیا-واپسین-رقص-مارکز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/میوه-معروف-گرنوبل-فرانسه-گردوهای-ارزشمندی-که-قبل-از-برداشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-در-جاروبرقی-های-کوسه-مورد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/منطقه-مدرسه-لس-آنجلس-ویژگی-های-جستجوی-هوش-مصنوعی-گوگل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-که-ars-می-تواند-پیدا-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گزارش-شده-است-که-هکرها-به-سیستم-های-ابری-نیروی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
