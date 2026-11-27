@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تکنوکرات-مورد-اجماع-اسپانیا-رئیس-بانک-مرکزی-اروپا-شد-پابلو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پابلو-هرناندس-د-کوس-تکنوکرات-اجماع-ایدئولوژیک-در-اسپانیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-دستگاه-های-پخش-جریانی-fire-tv-در-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آیا-می-توان-مسیر-یک-سیارک-تهدیدکننده-زمین-را-تغییر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -622,6 +622,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/روزی-که-پیوند-صورت-مرزهای-جراحی-را-جابه-جا-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بلاگ-زنده-جمعه-سیاه-و-دوشنبه-سایبری-2026-بهترین-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/توسعه-دهندگان-اپلیکیشن-اندروید-به-زودی-باید-آدرس-خود-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
