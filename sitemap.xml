@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ادعای-فرمانده-نیروی-دریایی-ارتش-آمریکایی-ها-خواب-بودند-نفتکش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جنگ-خاموش-در-ایران-نان-گران-برق-سهمیه-ای-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حراست-دانشگاه-علوم-پزشکی-دزفول-سبحان-امری-را-در-کلاس/</loc>
+    <loc>https://recart.ir/news/استونی-برای-بستن-همه-پنج-گذرگاه-مرزی-جاده-ای-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تماشای-تلویزیون-و-استفاده-از-موبایل-چه-ارتباطی-با-یادگیری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تشدید-عملیات-نظامی-اسرائیل-در-جنوب-سوریه-۱۲-مورد-پیشروی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حملات-موشکی-و-پهپادی-روسیه-به-اوکراین-دست-کم-سه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-کمیسیون-اروپا-در-واکنش-به-کشته-شدن-دو-ایتالیایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -636,6 +636,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مشخصات-دوربین-ردمی-k100-اولترا-فاش-شد-ارتقاء-بزرگ-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/باتری-های-بزرگ-ولوو-ما-مدل-های-هیبریدی-پلاگین-۲۰۲۸/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عصر-طلایی-برای-سازندگان-در-اینجا-چیزی-است-که-رهبران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مایک-لی-به-دنیا-یادآوری-می-کند-که-چرا-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تهیه-کننده-بازی-های-گرسنگی-از-جدایی-ملک-جی-پشیمان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اریکا-هاموند-درام-و-رزولوشن-را-در-دیدار-مجدد-rhony/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
