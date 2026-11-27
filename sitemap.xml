@@ -221,6 +221,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رنگارنگ-و-پیچیده-موزه-جدید-لندن-وعده-می-دهد-شهر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ترکیه-روند-تصویب-پیمان-دفاعی-مکه-را-تکمیل-کرد-پاکستان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پایان-دوران-طلایی-قهرمان-هشت-دوره-ای-موتو-جی-پی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ارتش-اسرائیل-پنج-عضو-حماس-و-یک-عضو-جهاد-اسلامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -392,21 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/لیگ-اروپا-هواداران-بشیکتاش-در-جریان-مسابقه-مقابل-تیمی-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شب-تلخ-لیگ-اروپا-در-مارسی-زخمی-شدن-۱۱-هوادار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-به-جمهوری-اسلامی-فرصت-توافق-می-دهیم-برای-نفت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برند-ایتالیایی-آرمانی-امپراتوری-هتل-های-لوکس-خود-را-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گرین-تک-ولی-اتریش-دره-ای-سبز-با-پیچش-چرخه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حادثه-سایبری-زنده-و-در-جریان-خدمات-آنلاین-وزارت-کار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -642,6 +647,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-ماوس-بازی-باید-یک-قاتل-لاجیتک-باشد-اما-یک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رقیب-تسلا-ادعای-ایلان-ماسک-درباره-ناتوانی-ربات-های-انسان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پیشرفت-خیره-کننده-هوش-مصنوعی-شیائومی-مدل-جدید-mimo-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فیلم-هفته-ی-بخش-فرهنگ-یورونیوز-بدبیاری-های-تازه-کلیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -891,6 +891,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/iv-ها-گروه-های-جاز-و-آگهی-ها-24-ساعت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگرداندن-نمودار-در-سال-2021-تیلور-سوئیفت-با-خیلی-خوب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بینندگان-نتفلیکس-سریال-های-مورد-انتظار-را-می-بلعند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/cole-brings-plenty-از-ادای-احترام-فصل-2-marshals-کیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
