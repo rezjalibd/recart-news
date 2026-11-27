@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پیام-منتسب-به-مجتبی-خامنه-ای-هراس-از-بازگشت-اعتراض/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ردپای-سپاه-پاسداران-۵۰-متقاضی-تأسیس-شرکت-هواپیمایی-در-آسمان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/استرالیا-دو-متهم-به-سازمان-دهی-حملات-یهودستیزانه-برای-سپاه/</loc>
+    <loc>https://recart.ir/news/تعرفه-های-ترامپ-اتحادیه-اروپا-و-اندونزی-را-در-تجارت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شانگهای-بهترین-شهر-جهان-برای-خرید-معرفی-شد-اروپا-فقط/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رویترز-آمریکا-عراق-و-ونزوئلا-را-به-بررسی-خروج-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/24-بهترین-پیشنهاد-جمعه-سیاه-آمازون-2026-تا-60-تخفیف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/داستان-واقعی-زنی-که-توسط-یک-مار-پیتون-بلعیده-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/خرید-لپ-تاپ-در-حال-حاضر-سخت-است-اما-این/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-هدایای-آشپزخانه-برای-آشپز-خانه-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-20-بهترین-تخفیف-فنی-جمعه-سیاه-را-پیدا-کردم/</loc>
+    <loc>https://recart.ir/news/جاستین-تیمبرلیک-می-گوید-ساخت-سریال-doc-آینده-واقعا-دلخراش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/reclab-2026-فیلم-های-جدید-از-آلکاراس-رومریا-تهیه-کنندگان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگردان-فیلم-high-fidelity-استیون-فریرز-همچنان-جک-بلک-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
