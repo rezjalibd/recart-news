@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قهوه-با-کافئین-یا-بدون-کافئین-می-تواند-خلق-وخو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازارهای-کریسمس-در-سراسر-آلمان-با-تدابیر-شدید-امنیتی-آغاز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مرگ-۱۳-کارگر-در-معدن-طلای-غیرقانونی-اندونزی-تلاش-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شکسته-شدن-رکورد-۳۰-ساله-میزان-مهاجرت-خالص-به-بریتانیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
