@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کویت-سفیر-ایران-را-در-اعتراض-به-حمله-پهپادی-احضار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پیام-منتسب-به-مجتبی-خامنه-ای-هراس-از-بازگشت-اعتراض/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,17 +221,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ایران-برای-روشن-شدن-ماجرای-کشته-شدن-۲-تبعه-ایتالیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/جمعه-سیاه-در-کجای-اروپا-بدبین-ترین-خریداران-زندگی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/تعرفه-های-ترامپ-اتحادیه-اروپا-و-اندونزی-را-در-تجارت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-در-سراسر-آسیا-به-کشورهایی-مانند-ژاپن-و-تایلند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,52 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تماشای-تلویزیون-و-استفاده-از-موبایل-چه-ارتباطی-با-یادگیری/</loc>
+    <loc>https://recart.ir/news/جمعه-سبز-سهام-جهانی-در-یک-رالی-پس-از-شکرگزاری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-هر-کاسترد-شیک-در-shake-shack-را-از-بدترین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/201-پیشنهاد-تازه-جمعه-سیاه-که-با-پول-خود-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تخفیف-های-جمعه-سیاه-vuori-با-صرفه-جویی-های-جدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-لپ-تاپ-جمعه-سیاه-شامل-تخفیف-850-دلاری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-پخش-جریانی-جمعه-سیاه-disney-apple-tv-peacock/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-ipad-100-دلار-در-آخرین-mini/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نورس-آتلانتیک-یک-بار-پروازهای-99-دلاری-به-اروپا-ارائه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ما-نتوانستیم-برای-تعطیلات-13-نفر-به-توافق-برسیم-سپس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فروش-جمعه-سیاه-آریتزیا-تا-50-تخفیف-در-سراسر-سایت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -547,56 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-حلقه-oura-100-دلار-از-آخرین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/10-ایالت-کمترین-مسکن-را-نسبت-به-رشد-جمعیت-خواهند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وسایل-نقلیه-ای-که-ناوگان-روباتاکسی-waymo-را-شکل-دادند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/123-بهترین-پیشنهاد-جمعه-سیاه-اکنون-زنده-هستند-انتخاب-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/6-بهترین-پیشنهاد-جمعه-سیاه-در-لپ-تاپ-های-آزمایش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-kindle-و-e-reader-2026-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/روایت-یک-خانواده-نظامی-یک-هفته-بعد-از-واریز-حقوق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/se-3-اپل-واچ-است-که-اکثر-مردم-باید-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-google-pixel-جمعه-سیاه-2026-تا-400/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-بانک-مرکزی-با-اذعان-به-کاهش-درآمدهای-نفتی-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مجله-خبری-۶-آذر-۱۴۰۵-۲۷-نوامبر-۲۰۲۶---نیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -791,7 +791,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نمایشگاه-کیک-و-شیرینی-لندن-بزرگداشت-صدمین-سال-تولد-دیوید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آلومینیوم-۱---۱-پرسپولیس-سرخ-پوشان-فرصت-صدرنشینی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/واکنش-خوانندگان-به-شلاق-پرستو-احمدی-سپیده-جندقی-به-یورونیوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نتفلیکس-صحنه-اسکیزوفرنی-خارج-از-دکتر-تایسون-فیوری-را-بعد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خیابان-کنجد-را-تماشا-کنید-که-به-آهنگ-همه-چیزی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آنتونی-هد-از-ادای-احترام-فصل-چهارم-ted-lasso-کیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جاستین-تیمبرلیک-واقعا-تمایلی-به-ساخت-یک-مستند-کامل-نداشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چیوتل-اجیوفور-به-دلیل-سن-کارگردان-کین-پارسونز-از-ساخت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ویدئویی-هوادار-لوفسکی-را-در-حال-سلام-نازی-پیش-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایرلند-شمالی-مدیر-اجرایی-جدیدی-را-منصوب-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
