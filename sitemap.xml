@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اگر-همچنان-از-یک-تلفن-android-قدیمی-استفاده-می-کنید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-در-مورد-وسایل-خانه-هوشمند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وزارت-کار-و-بازنشستگی-بریتانیا-هدف-حمله-سایبری-قرار-گرفت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دو-انسان-با-منجنیق-غول-پیکر-به-آسمان-پرتاب-شدند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
