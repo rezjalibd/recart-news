@@ -616,6 +616,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آنچه-افراد-باهوش-در-مورد-نظریه-گرانش-کوانتومی-به-کمک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تایمکس-ساعت-کلاسیک-محبوبش-را-با-دو-رنگ-جدید-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قاضی-فدرال-fcc-را-از-بررسی-زودهنگام-مجوزهای-abc-مسدود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آلبوم-rhlm2-anuel-aa-سرانجام-اینجا-آمد-i-made-it/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مایکل-گیلز-بنیانگذار-کینگ-کریمسون-و-درامر-اصلی-در-۸۴/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کریسمس-paw-patrol-کی-و-کجا-انیمیشن-ویژه-تعطیلات-آنلاین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
