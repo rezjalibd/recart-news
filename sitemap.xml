@@ -411,6 +411,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فرانسه-تورم-در-نوامبر-با-کاهش-شدید-قیمت-انرژی-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رهبری-جدید-بانک-مرکزی-اروپا-چه-تأثیری-بر-نرخ-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هشدار-بختیاری-زاده-به-بازیکنانش-بازی-با-صنعت-نفت-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-تلویزیون-های-led-rgb-سال-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-هدفون-beats-solo-4-در-walmart-برای-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سال-جدید-را-با-بهترین-ساعت-های-هوشمند-و-ردیاب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
