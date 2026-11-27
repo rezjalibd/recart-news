@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/عباس-واحدیان-شاهرودی-جمهوری-اسلامی-از-اعدام-به-عنوان-سلاحی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اخلال-در-مراسم-صداهای-ایرانی-وزیر-خارجه-فرانسه-هدف-برنامه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عراق-گذرگاه-های-شیخ-صله-و-پشته-را-بست-گزارشی/</loc>
+    <loc>https://recart.ir/news/پرونده-جنجالی-خانواده-جنگل-نشین-در-ایتالیا-مددکار-اجتماعی-مسئول/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اوکراین-کره-شمالی-ارسال-موشک-و-مهمات-به-روسیه-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تلاش-دموکرات-ها-برای-قطع-بودجه-جنگ-با-ایران-آیا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پورموسوی-غیبت-آسانی-فرصتی-است-که-باید-به-خوبی-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ویدئو-آویزان-شدن-کامیون-پس-از-لغزش-میان-دو-رمپ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/وزارت-کار-و-بازنشستگی-بریتانیا-هدف-حمله-سایبری-قرار-گرفت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دو-انسان-با-منجنیق-غول-پیکر-به-آسمان-پرتاب-شدند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-a-i-در-حال-دگرگونی-ریاضیات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/نمایشگاه-کیک-و-شیرینی-لندن-بزرگداشت-صدمین-سال-تولد-دیوید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-خوانندگان-به-شلاق-پرستو-احمدی-سپیده-جندقی-به-یورونیوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیل-بارکر-درامر-سابق-buzzcocks-در-65-سالگی-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/backstreet-boys-به-جشن-های-بیستمین-سالگرد-o2-arena-اضافه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ال-نینو-در-نتفلیکس-بر-اساس-یک-فاجعه-واقعی-مدرسه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
