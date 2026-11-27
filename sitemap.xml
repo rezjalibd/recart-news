@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ارتش-اسرائیل-پنج-عضو-حماس-و-یک-عضو-جهاد-اسلامی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ازبکستان-و-قزاقستان-گذرگاه-مهم-مرزی-را-برای-تردد-روزانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ترامپ-پوتین-اگر-بخواهد-می-تواند-در-نشست-گروه-۲۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رئیس-سازمان-امور-مالیاتی-ایران-مالیات-عملکرد-سال-گذشته-حدود/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -546,6 +546,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شاسی-بلند-جان-سخت-نیسان-با-طراحی-آفرودی-و-سه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/131-بهترین-تخفیف-جمعه-سیاه-اکنون-به-صورت-زنده-انتخاب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/190-پیشنهاد-تازه-جمعه-سیاه-که-با-پول-خودمان-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/حادثه-سایبری-زنده-و-در-جریان-خدمات-آنلاین-وزارت-کار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -642,6 +642,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ویجت-های-diy-اندروید-کمی-سرگرم-کننده-برای-کدنویسی-هستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-a-i-در-حال-دگرگونی-ریاضیات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/فیلم-هفته-ی-بخش-فرهنگ-یورونیوز-بدبیاری-های-تازه-کلیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -891,6 +891,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازگرداندن-نمودار-در-سال-2021-تیلور-سوئیفت-با-خیلی-خوب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/wildling-pictures-حقوق-صفحه-نمایش-داستان-جاسوسی-جنگ-جهانی-دوم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تهیه-کننده-نامزد-اسکار-یک-دوست-دوروتی-برای-اولین-بار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/cole-brings-plenty-از-ادای-احترام-فصل-2-marshals-کیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سریال-هلندی-شماره-یک-بی-چون-و-چرا-در-نتفلیکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بارون-سوبتی-ستاره-آبیشک-بانرجی-در-نقش-خالق-پاتال-لوک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
