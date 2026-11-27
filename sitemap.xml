@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چرا-سفر-خلیفه-حفتر-فرمانده-ارتش-ملی-لیبی-به-ترکیه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ناتینگهام-فارست-۳-۲-چلسی-ادامه-نتایج-ضعیف-آبی-های-لندن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -341,6 +346,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شبکه-ان-بی-سی-با-حمایت-از-پایان-دادن-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اولیویا-رودریگو-آهنگ-کریسمس-دیگری-را-ارائه-می-دهد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -397,16 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سگ-۱۱-ساله-بوکش-مدفوع-ا-با-که-به-نجات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-کرملین-به-ارمنستان-میان-اتحادیه-اروپا-و-ائتلاف-اقتصادی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خداحافظی-غیرمنتظره-اسطوره-مسابقات-موتورسواری-گرندپری-والنسیا-واپسین-رقص-مارکز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/واتساپ-کاربردی-تر-می-شود-مدیریت-ای-سیم-از-داخل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/5-راه-برای-اطمینان-از-اینکه-کنسول-شما-عملکرد-gta/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مقامات-بلژیکی-به-گوگل-دستور-دادند-تا-ساخت-مرکز-داده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ستاره-بایرن-فعلا-دور-از-میادین-سال-۲۰۲۶-برای-جمال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -847,6 +847,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیش-بینی-اولین-هفته-بزرگ-فصل-جوایز-چه-کسی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جاستین-تیمبرلیک-توضیح-می-دهد-که-چرا-در-طول-مصاحبه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جاستین-تیمبرلیک-از-جیمی-فالون-بازدید-می-کند-و-غذای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
