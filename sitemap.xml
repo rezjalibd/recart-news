@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شیوع-آنفلوآنزا-در-ایران-شدت-گرفت-۲۶-استان-بالاتر-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کویت-در-پی-حمله-مرگبار-پهپادی-به-خاک-خود-سفیر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنگ-خاموش-در-ایران-نان-گران-برق-سهمیه-ای-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استرالیا-دو-نفر-را-به-اتهام-همکاری-با-سپاه-پاسداران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/واتس-اپ-از-سیم-کارت-های-مسافرتی-پشتیبانی-می-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مردی-بیش-از-۴۰-لایه-خال-کوبی-روی-بدنش-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/15-خرید-بهترین-خرید-جمعه-سیاه-در-hot-tech-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/تارتار-برای-رسیدن-به-پرسپولیس-زحمت-کشیدم-هواداران-حق-دارند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -807,6 +807,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-خوانندگان-به-شلاق-پرستو-احمدی-سپیده-جندقی-به-یورونیوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فدرال-انگیزه-زمین-بازی-را-برای-خلاقان-آمریکایی-هموار-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جشنواره-فیلم-دوحه-پنج-پروژه-از-صنعت-قطر-را-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دنیس-ویلنوو-زمانی-که-دیزنی-انتقام-جویان-روز-قیامت-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایران-۱۰---لبنان-۲-صعود-مقتدرانه-تیم-ملی-فوتبال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/می-توانی-برایم-چند-عکس-برهنه-بفرستی-شکایت-پنج-فوتبالیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلمسازان-gen-z-با-نگاهی-به-رشد-بین-المللی-اپلیکیشن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتهای-خیابان-اوک-هادسون-میک-و-رابرت-آلن-میچل-چه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
