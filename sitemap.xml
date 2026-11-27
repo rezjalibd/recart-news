@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/وزارت-علوم-بازگشت-دانشجویان-معترض-به-دانشگاه-را-به-ابراز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مسمومیت-الکلی-حدود-۶۰۰-نفر-در-ایران-به-مرگ-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هزاران-نفر-در-اقلیم-کردستان-عراق-علیه-تصمیم-بغداد-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-پی-رهگیری-پهپادهای-ایرانی-توسط-کویت-پروازهای-مسافربری-بر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پژوهش-جدید-مزایای-جراحی-رباتیک-زانو-را-زیر-سوال-برد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آناتومی---خودت-سرچ-کن-چرا-جست-وجو-در-اینترنت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنسن-هوانگ-بازگشته-است-و-همچنین-پلاک-او-در-دنی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جرالد-آر-مولن-درگذشت-تهیه-کننده-برنده-اسکار-فهرست-شیندلر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نمایش-باید-ادامه-یابد-برادوی-شنبه-در-رژه-شکرگزاری-میسی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیلی-ایوانز-شریک-الیزابت-هولمز-برای-او-یک-نامه-عاشقانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
