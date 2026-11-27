@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-پی-تاکید-تهران-بر-شکستن-محاصره-سنتکام-به-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نماینده-پارلمان-آلمان-کفالت-سیاسی-وریشه-مرادی-زندانی-سیاسی-محکوم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/درهای-خاوران-امروز-هم-روی-خانواده-های-دادخواه-بسته-ماند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ثبت-۱۰۴-مورد-زن-کشی-طی-یک-سال-گذشته-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شارژر-مسافرتی-100-واتی-anker-به-60-دلار-کاهش-یافته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شکاف-۱۸۰-میلیون-ساله-در-آفریقا-دوباره-فعال-شده-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,12 +596,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/fox-one-با-75-تخفیف-برای-اشتراک-های-پخش-جریانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/sunrise-on-the-reaping-11-میلیون-دلار-روز-شکرگزاری-دومین/</loc>
+    <loc>https://recart.ir/news/چگونه-تخفیف-های-جمعه-سیاه-امسال-وضعیت-پرفراز-و-نشیب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -841,6 +841,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جایگزین-های-آمازون-24-مکان-برای-خرید-آنلاین-به-غیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/برندگان-دوحه-دختری-ناشناس-و-زمین-بتنی-جوایز-برتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدرال-انگیزه-زمین-بازی-را-برای-خلاقان-آمریکایی-هموار-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جشنواره-فیلم-دوحه-پنج-پروژه-از-صنعت-قطر-را-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
