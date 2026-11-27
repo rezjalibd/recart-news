@@ -846,6 +846,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-روز-شکرگزاری-شائولین-است-قبیله-وو-تانگ-چاد-اسمیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/استایلیست-جولیان-هاف-در-این-فصل-با-واکنش-طرفداران-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هجیرا-در-50-سالگی-بک-کامرون-کرو-کلایرو-و-بیشتر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چه-جدید-در-دیزنی-در-دسامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
