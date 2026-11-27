@@ -521,17 +521,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/6-بهترین-پیشنهاد-جمعه-سیاه-در-لپ-تاپ-های-آزمایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-kindle-و-e-reader-2026-تا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/se-3-اپل-واچ-است-که-اکثر-مردم-باید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-google-pixel-جمعه-سیاه-2026-تا-400/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-kindle-و-e-reader-2026-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بیل-آکمن-سرمایه-گذار-میلیاردر-کتابی-را-که-در-این/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/اس-ا-ی-پی-غول-نرم-افزاری-آلمان-در-پی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -641,7 +641,32 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-می-ترسم-سارا-وین-ویلیامز-نویسنده-مردم-بی-دقت-در/</loc>
+    <loc>https://recart.ir/news/من-می-ترسم-نویسنده-مردم-بی-دقت-سارا-وین-ویلیامز-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/15-خرید-بهترین-خرید-جمعه-سیاه-در-hot-tech-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/به-کافه-تعمیر-جایی-که-همسایه-ها-با-فرهنگ-دور/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوگل-توسعه-دهندگان-اپ-های-اندروید-در-بازار-اروپا-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اپل-احتمالا-نسخه-ویژه-سرامیکی-از-آیفون-۲۰-پرو-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رقیب-تسلا-ادعای-ایلان-ماسک-درباره-ناتوانی-ربات-های-انسان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -766,31 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مشخصات-دوربین-ردمی-k100-اولترا-فاش-شد-ارتقاء-بزرگ-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/باتری-های-بزرگ-ولوو-ما-مدل-های-هیبریدی-پلاگین-۲۰۲۸/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/به-روزرسانی-تازه-دریچه-خبرها-تصویر-گرفتند-و-بخش-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اپل-احتمالا-بخش-نوتیفیکیشن-های-آیفون-را-در-ios-28/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شبکه-اجتماعی-ایکس-قابلیت-کنترل-والدین-را-برای-کاربران-نوجوان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ایران-۱۰---لبنان-۲-صعود-مقتدرانه-تیم-ملی-فوتبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -867,6 +867,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رئیس-جمهور-آفریقای-جنوبی-سیریل-رامافوزا-در-مراسم-راه-اندازی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/لوک-بسون-به-شوخی-می-گوید-که-می-تواند-ترمیناتور/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مایک-لی-به-دنیا-یادآوری-می-کند-که-چرا-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خانواده-جان-فارنهام-به-روزرسانی-نادری-در-مورد-سلامتی-خواننده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خانواده-واقعی-نیل-راجرز-اندی-تیلور-دوران-دوران-را-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
