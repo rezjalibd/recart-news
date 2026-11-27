@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-شکلات-تلخ-تا-دمنوش-نعنا-خوراکی-های-سالمی-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پرونده-جنجالی-خانواده-جنگل-نشین-در-ایتالیا-مددکار-اجتماعی-مسئول/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,12 +411,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تلاش-دموکرات-ها-برای-قطع-بودجه-جنگ-با-ایران-آیا/</loc>
+    <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <loc>https://recart.ir/news/شما-می-توانید-یک-بسته-12-عددی-از-باتری-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/137-بهترین-تخفیف-جمعه-سیاه-اکنون-به-صورت-زنده-انتخاب/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یک-مدیر-اجرایی-می-خواست-کارآفرینان-را-بهتر-درک-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چه-کسی-به-اینفلوئنسرها-اعتماد-دارد-این-4-آمار-وضعیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-با-یک-ایرلاین-آفریقایی-پرواز-کردم-که-هرگز-اسمش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
