@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/علوم-پزشکی-یزد-آزمایش-آنفلوانزای-بیش-از-۳۰-درصد-بیماران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ایتالیا-پهپاد-مهاجم-را-ایرانی-دانست-و-سفیر-جمهوری-اسلامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رییس-انجمن-روان-پزشکان-ایران-درباره-مسموم-سازی-عمدی-مشروبات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وای-نت-رییس-موساد-از-حمله-به-جمهوری-اسلامی-حتی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آخرین-airtag-های-اپل-برای-جمعه-سیاه-به-18-دلار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قیمت-کنسول-های-بازی-احتمالا-بیش-از-پیش-رشد-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/معاملات-جمعه-سیاه-kitchenaid-شامل-تا-40-تخفیف-میکسر-ایستاده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شما-می-توانید-یک-بسته-12-عددی-از-باتری-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -846,6 +846,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بن-استیلر-می-گوید-آریانا-گرانده-در-فیلم-فاکر-زن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طرفداران-goo-goo-dolls-به-ان-بی-سی-نسبت-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بیشترین-تحت-تعقیب-روز-جمعه-سیاه-2026-بیتلز-نوح-کاهان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رای-کارگران-gta-6-developer-rockstar-games-علیه-شناسایی-اتحادیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
