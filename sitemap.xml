@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جدال-ماکرون-و-لوپن-بر-سر-بودجه-اتحادیه-اروپا-رئیس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جمعه-سیاه-در-کجای-اروپا-بدبین-ترین-خریداران-زندگی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مسن-ترین-حیوان-باغ-وحش-سان-فرانسیسکو-در-۷۹-سالگی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استونی-برای-بستن-همه-پنج-گذرگاه-مرزی-جاده-ای-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
