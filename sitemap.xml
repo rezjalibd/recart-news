@@ -316,6 +316,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/معمای-عجیب-طناب-دور-زمین-حلقه-ای-به-طول-محیط/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مردی-بدون-کفش-از-استانبول-تا-ایرلند-پیاده-رفت-سفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اندیشکده-بریتانیایی-الگوی-عملیات-جمهوری-اسلامی-در-اروپا-تغییر-کرده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/انتخابات-اسپانیا-آیا-وکس-تعیین-کننده-خواهد-شد-و-بحران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -422,6 +422,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تخفیف-تشک-جمعه-سیاه-تا-55-تخفیف-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آمازون-به-تازگی-تخفیف-های-یک-سنت-نه-واقعا-را/</loc>
+    <loc>https://recart.ir/news/هوش-مصنوعی-قرن-ها-تحقیقات-ریاضی-و-علوم-را-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تحقیق-جدید-استرس-در-کودکی-می-تواند-ریسک-بروز-دردهای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خرید-لپ-تاپ-در-حال-حاضر-سخت-است-اما-این/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دیوید-برن-در-مورد-حضور-در-نقش-ایلان-ماسک-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گرین-تک-ولی-اتریش-دره-ای-سبز-با-پیچش-چرخه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
