@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-پی-جان-باختن-دو-دانش-آموز-در-اثر-ابتلا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/در-پی-جان-باختن-دو-دانش-آموز-بر-اثر-ابتلا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رییس-انجمن-روان-پزشکان-ایران-مسموم-سازی-عمدی-از-چالش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انتقال-میثم-نظری-و-سبحان-امری-از-بازداشت-شدگان-آبدانان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -421,6 +421,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/در-اینجا-بهترین-معاملات-جمعه-سیاه-است-که-می-توانید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تبلیغ-دیگر-برای-اسرائیل-نیست-در-جریان-ویژه-snl-پخش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رئیس-سازمان-امور-مالیاتی-ایران-مالیات-عملکرد-سال-گذشته-حدود/</loc>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-currentbody-black-friday-که-ارزش-خرید-دارند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/16-بهترین-تخفیف-هدفون-جمعه-سیاه-2026-تا-57-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مادر-مهدی-محمودیان-جلوی-اعدام-بچه-ها-را-گرفت-شیرم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -827,6 +827,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/dave-keuning-گیتاریست-the-killers-از-سکته-مغزی-شدید-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بیشترین-تحت-تعقیب-روز-جمعه-سیاه-2026-بیتلز-نوح-کاهان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رای-کارگران-gta-6-developer-rockstar-games-علیه-شناسایی-اتحادیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازگرداندن-نمودار-در-سال-2021-تیلور-سوئیفت-با-خیلی-خوب/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/wildling-pictures-حقوق-صفحه-نمایش-داستان-جاسوسی-جنگ-جهانی-دوم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تهیه-کننده-نامزد-اسکار-یک-دوست-دوروتی-برای-اولین-بار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چهره-عمومی-آریانا-گرانده-به-یک-مشکل-تبدیل-شده-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
