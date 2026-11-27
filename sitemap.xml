@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نماینده-پارلمان-آلمان-کفالت-سیاسی-وریشه-مرادی-زندانی-سیاسی-محکوم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سنتکام-از-هدف-قرار-دادن-یک-کشتی-ناقض-محاصره-دریایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ثبت-۱۰۴-مورد-زن-کشی-طی-یک-سال-گذشته-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حمایت-اتحادیه-متال-دانمارک-از-اعتصاب-و-مطالبات-کامیون-داران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دانش-آموز-۱۸-ساله-هنگام-حفر-کانال-فاضلاب-گنجی-عظیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/207-پیشنهاد-تازه-جمعه-سیاه-که-با-پول-خود-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تخفیف-جمعه-سیاه-audible-تنها-با-99-دلار-در-ماه/</loc>
+    <loc>https://recart.ir/news/دیدگاه-گاردین-در-مورد-هوش-مصنوعی-و-فرضیه-ریمان-پیروزی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پشم-مرینو-مورد-علاقه-ما-در-طول-فروش-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/منچستریونایتد-قرارداد-برونو-فرناندز-را-به-صورت-یک-طرفه-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -832,6 +832,31 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کیت-میدلتون-در-یک-کلیپ-جدید-برای-مستند-آینده-جاده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آماده-برای-آن-uggهای-محبوب-مشهور-تا-37-تخفیف-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رجی-ابسلوم-ستاره-بچه-باشگاه-در-مورد-دوستی-اش-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سباستین-استن-می-گوید-تندربولتس-نسبت-به-بعضی-از-فیلم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مونیکا-بلوچی-درباره-به-چالش-کشیدن-سن-گرایی-هالیوود-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -952,31 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دیو-کیونینگ-the-killers-در-این-ماه-از-یک-سکته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-glee-صنعت-موسیقی-را-تغییر-داد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دمتری-مارتین-آلبوم-استندآپ-کمدی-برای-کریسمس-را-منتشر-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کیت-میدلتون-در-کلیپ-مستند-heal-به-سفر-سرطان-تنها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ما-مجموعه-های-پرطرفدار-لگو-را-با-بیش-از-50/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/feid-snoop-dogg-d-angelo-و-تمام-آهنگ-هایی-که/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
