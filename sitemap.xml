@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پرستو-در-سرزمین-عجایب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گسترش-مسمومیت-های-الکلی-در-ایران-صدها-مسموم-و-ده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ادعای-سپاه-درباره-حاکمیت-مطلق-بر-تنگه-هرمز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مهدی-محمودیان-پس-از-بازداشت-ضرب-وشتم-و-شکنجه-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدال-برنز-تنیس-روی-میز-جوانان-جهان-برای-بنیامین-فرجی/</loc>
+    <loc>https://recart.ir/news/پسر-آنگ-سان-سوچی-پس-از-نخستین-تماس-در-پنج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/توقف-۳۰-دقیقه-ای-بازی-بشیکتاش-و-هاپوئل-به-دلیل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شهر-نان-زنجبیلی-لندن-با-۵۰-سازه-خوراکی-معماری-دوباره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -886,6 +886,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اسپانیا-به-پیمان-جدید-تولید-مشترک-هند-نزدیک-می-شود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تماشای-جشن-خیابان-کنجد-با-یک-جعل-دوست-داشتنی-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/backstreet-boys-به-جشن-های-بیستمین-سالگرد-o2-arena-اضافه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ال-نینو-در-نتفلیکس-بر-اساس-یک-فاجعه-واقعی-مدرسه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
