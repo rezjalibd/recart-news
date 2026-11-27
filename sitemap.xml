@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/جنگ-و-بحران-ارزی-۵۳هزار-متقاضی-ایرانی-را-از-حج/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کابوس-۴۷-ساله-در-راه-نابودی-یا-توسعه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سازمان-حقوق-بشر-ایران-از-جامعه-جهانی-خواست-برای-آزادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/راین-متال-رشد-غول-تسلیحاتی-آلمان-در-سایه-تشدید-تنش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بابک-مرادی-فر-فعال-سیاسی-برای-اجرای-حکم-زندان-بازداشت/</loc>
+    <loc>https://recart.ir/news/نکونام-پیش-از-بازی-با-ذوب-آهن-هفته-سختی-داشتیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دلایل-شتاب-خانواده-های-اروپایی-برای-خرید-پنل-خورشیدی-پیش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آژانس-مواد-مخدر-اتحادیه-اروپا-هشدار-داد-مصرف-ترکیبی-مواد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -641,6 +641,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پشم-مرینو-مورد-علاقه-ما-در-طول-فروش-جمعه-سیاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جنجال-بر-سر-فروش-مکالمات-خصوصی-کاربران-character-ai-پس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/grand-theft-auto-vi-نوع-متفاوتی-از-gta-است-بنابراین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-پیشنهادهای-پخش-جریانی-جمعه-سیاه-2026-apple-tv-disney/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-بهترین-تخفیف-های-جمعه-سیاه-را-برای-تلفن-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-برخی-از-a-i-انجیلیست-ها-از-احتمال-انقراض/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
