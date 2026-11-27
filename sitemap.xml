@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/طوفان-روز-شکرگزاری-برق-نزدیک-به-یک-میلیون-مشترک-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/گرانی-مسکن-اسپانیا-را-به-انتخابات-زودهنگام-کشاند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ora-ring-5-در-طول-فروش-جمعه-سیاه-100-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آیا-می-توان-مسیر-یک-سیارک-تهدیدکننده-زمین-را-تغییر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -622,6 +622,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ساعت-لوکس-جدید-سیتیزن-با-بدنه-تیتانیومی-و-شارژ-نوری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یک-ماه-با-iphone-duo-نحوه-استفاده-من-از-تلفنم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/laxman-utekar-rajkumar-periasamy-و-vishnuvardhan-فیلم-های-جدیدی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فید-و-اسنوپ-داگ-همکاری-روز-شکرگزاری-gracias-x-todo/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هجیرا-در-50-سالگی-بک-کامرون-کرو-کلایرو-و-بیشتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
