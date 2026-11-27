@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مهدی-نورمحمدی-بازداشت-شد-شمار-بازداشت-شدگان-آبدانان-به-۲۲/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-کاپشن-تا-اتاق-تاریک-پزشکیان-هزینه-کمبودها-را-چه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ایتالیا-می-گوید-دو-شهروند-این-کشور-در-حمله-پهپادی/</loc>
+    <loc>https://recart.ir/news/روسیه-پارک-نمادین-نمایشگاه-دوران-شوروی-در-مسکو-پیست-یخی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تمو-با-تغییر-رویه-های-تجاری-خود-در-اتحادیه-اروپا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/از-اعتصاب-سراسری-کامیون-داران-چه-می-دانیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -482,6 +482,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رهبران-منطقه-یورو-از-پابلو-هرناندس-د-کوس-برای-جانشینی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معاملات-جمعه-سیاه-breville-تا-30-تخفیف-برای-دستگاه-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مانیتور-خود-را-با-مانیتورهای-گیمینگ-ال-جی-سامسونگ-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آیا-می-توان-مسیر-یک-سیارک-تهدیدکننده-زمین-را-تغییر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -622,6 +622,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/باتری-های-بزرگ-ولوو-ما-مدل-های-هیبریدی-پلاگین-۲۰۲۸/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دهانه-ای-به-اندازه-استادیوم-کاوشگر-هرا-پیامد-برخورد-دارت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تحقیق-جدید-خواب-طولانی-می-تواند-خطر-مرگ-بیماران-قلبی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
