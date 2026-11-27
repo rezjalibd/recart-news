@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/استرالیا-دو-متهم-به-سازمان-دهی-حملات-یهودستیزانه-برای-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/درون-پایگاه-رامات-داوید-پایگاه-هوایی-اسرائیل-که-ممکن-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بیش-از-۲۵حمله-پهپادی-سپاه-به-مواضع-پژاک-در-کردستان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماجرای-حرف-های-جنجالی-وزیر-گردشگری-عراق-و-نگاه-عراقی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
