@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-کاپشن-تا-اتاق-تاریک-پزشکیان-هزینه-کمبودها-را-چه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/عراق-گذرگاه-های-شیخ-صله-و-پشته-را-بست-گزارشی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سپاه-پاسداران-مدعی-عقب-راندن-جنگنده-آمریکایی-در-نزدیکی-جزیره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دو-شهروند-ایتالیایی-در-پی-حمله-جمهوری-اسلامی-به-کویت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تظاهرات-معترضان-به-کنترل-دولت-مرکزی-بر-میادین-نفتی-و/</loc>
+    <loc>https://recart.ir/news/تهدید-تازه-ترامپ-علیه-کوه-کلنگ-و-مراکز-تولید-پهپاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تمو-با-تغییر-رویه-های-تجاری-خود-در-اتحادیه-اروپا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نشست-پرتنش-اتحادیه-اروپا-پابلو-هرناندس-به-سمت-رئیس-بانک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
