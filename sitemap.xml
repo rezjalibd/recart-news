@@ -346,6 +346,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ان-بی-سی-تبلیغی-را-در-انتقاد-از-کمک-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شبکه-ان-بی-سی-از-پایان-کمک-های-نظامی-آمریکا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نکونام-پیش-از-بازی-با-ذوب-آهن-هفته-سختی-داشتیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سدسازی-در-ترکیه-محوطه-باستانی-۱۲هزار-ساله-را-در-معرض/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -856,6 +856,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/براندی-در-هر-روز-کریسمس-متاهل-و-روشن-برمی-گردد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هدایای-خشمگین-دونالد-ترامپ-جونیور-به-همسران-شکار-نتفلیکس-برخی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گیل-کینگ-برای-دوشیزگی-هفته-برنامه-صبحگاهی-cbs-در-بحبوحه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فرهان-اختر-آشوتوش-گواریکر-و-مادور-باندارکار-به-دیل-چاهتا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/fuerza-regida-نسخه-pisteando-con-la-regida-vol-4-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/طرفداران-goo-goo-dolls-به-ان-بی-سی-نسبت-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/همسران-شکار-به-سالی-نیومن-مدیر-اجرایی-لاینزگیت-ادای-احترام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/im8-پاسخ-دیوید-بکهام-به-شب-های-آخر-پروازهای-طولانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نمایش-کامل-نیمه-وقت-nfl-dolls-goo-goo-dolls-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دختری-ناشناس-خزیدن-به-درون-خودم-زمین-بتنی-جوایز-اصلی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
