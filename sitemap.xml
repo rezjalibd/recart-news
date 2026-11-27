@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ترامپ-به-توافق-با-ایران-خوش-بین-نیستم-در-صورت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/روابط-بلاتکلیف-ایران-و-چین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -201,22 +206,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کارکنان-آمازون-هم-زمان-با-بلک-فرایدی-و-سایبرماندی-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/طوفان-با-تاخیر-در-پرواز-بیش-از-960000-قطع-برق/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-در-پروازها-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-پروازها-لغو-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ژرار-دوپاردیو-به-دلیل-اتهامات-تجاوز-جنسی-پس-از-ناکامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -626,6 +626,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کدهای-تبلیغاتی-dyson-25-تخفیف-در-نوامبر-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معجزه-تکنولوژی-مردی-پس-از-سال-ها-دوباره-لمس-دست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تبلیغات-گمراه-کننده-هوش-مصنوعی-آیفون-۱۶-اپل-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کدهای-تبلیغاتی-squarespace-55-تخفیف-در-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیا-ایلان-ماسک-واقعا-می-تواند-مراکز-داده-هوش-مصنوعی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوگل-آدرس-و-شماره-تلفن-توسعه-دهندگان-اندروید-را-عمومی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آئودی-به-شاسی-بلند-برقی-جدیدش-یک-موتور-بنزینی-اضافه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -822,6 +822,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یورش-ماموران-مسلح-به-خانه-مهدی-محمودیان-فعال-حقوق-بشر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پیام-شبانه-روی-نمای-هتل-استقلال-دیجی-کالا-به-کاربران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جسی-آیزنبرگ-می-گوید-هیچ-رابطه-جنسی-در-کار-من/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چیوتل-اجیوفور-در-مورد-اینکه-چگونه-چیزهای-زیبای-کثیف-استیون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
