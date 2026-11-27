@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/درهای-خاوران-امروز-هم-روی-خانواده-های-دادخواه-بسته-ماند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ثبت-۱۰۴-مورد-زن-کشی-طی-یک-سال-گذشته-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حمایت-اتحادیه-متال-دانمارک-از-اعتصاب-و-مطالبات-کامیون-داران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ژرار-دپاردیو-بازیگر-سرشناس-فرانسوی-به-اتهام-تجاوز-جنسی-محاکمه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هنگ-کنگ-یک-سال-پس-از-آتش-سوزی-مرگبار-وانگ/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محکومیت-نوید-تشکر-و-الهام-خلص-زوج-بهایی-به-چهار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -636,6 +636,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شهرداری-خانه-مردی-را-پس-از-اشتباه-در-آدرس-تخریب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-پیشنهادهای-پخش-جریانی-جمعه-سیاه-2026-apple-tv-disney/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-ulta-تا-20-تخفیف-در-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ویدئویی-هوادار-لوفسکی-را-در-حال-سلام-نازی-پیش-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -857,6 +857,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جاستین-تیمبرلیک-واقعا-تمایلی-به-ساخت-یک-مستند-کامل-نداشت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چیوتل-اجیوفور-به-دلیل-سن-کارگردان-کین-پارسونز-از-ساخت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جرالد-آر-مولن-تهیه-کننده-برنده-اسکار-فهرست-شیندلر-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-بلک-فرایدی-lola-blankets-به-طور-رسمی-پخش-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/asha-bhosle-و-s-janaki-به-یاد-خواننده-k-s/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
