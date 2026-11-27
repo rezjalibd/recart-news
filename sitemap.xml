@@ -526,6 +526,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/باکس-آفیس-شکرگزاری-بازی-های-گرسنگی-طلوع-آفتاب-در-درو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تخفیف-جمعه-سیاه-audible-تنها-با-99-دلار-در-ماه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-nintendo-switch-2-2026-تا/</loc>
+    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-در-ایرپاد-مک-بوک-و-سایر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معاملات-جمعه-سیاه-اپل-2026-airpods-ipads-macbooks-و-موارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کتاب-دوچرخه-و-the-burbs-اینها-هدایای-تعطیلات-کارکنان-ars/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-می-ترسم-نویسنده-مردم-بی-دقت-سارا-وین-ویلیامز-در/</loc>
+    <loc>https://recart.ir/news/استعفای-دوباره-مازیار-زارع-پس-از-شکست-ملوان-مقابل-استقلال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -807,6 +812,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-خوانندگان-به-شلاق-پرستو-احمدی-سپیده-جندقی-به-یورونیوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جاستین-تیمبرلیک-را-با-اکراه-در-حال-آواز-خواندن-backstreet/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رئیس-جمهور-آفریقای-جنوبی-سیریل-رامافوزا-در-مراسم-راه-اندازی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لوک-بسون-به-شوخی-می-گوید-که-می-تواند-ترمیناتور/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایران-۱۰---لبنان-۲-صعود-مقتدرانه-تیم-ملی-فوتبال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
