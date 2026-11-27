@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رییس-انجمن-روان-پزشکان-ایران-مسموم-سازی-عمدی-از-چالش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/انتقال-میثم-نظری-و-سبحان-امری-از-بازداشت-شدگان-آبدانان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایتالیا-می-گوید-دو-شهروندش-در-حمله-پهپادی-ایران-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گسترش-اعتصاب-کامیون-داران-در-پنجمین-روز-به-۲۰-شهر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قیمت-جهانی-طلا-نزدیک-به-سه-درصد-افزایش-یافت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فرانسه-تورم-در-نوامبر-با-کاهش-شدید-قیمت-انرژی-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -501,6 +506,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-که-تا-کنون-پیدا-کرده-ایم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نیسان-nx7-رونمایی-شد-شاسی-بلند-خوش-چهره-ژاپنی-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/معاملات-جمعه-سیاه-breville-تا-30-تخفیف-برای-دستگاه-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -586,21 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/معامله-جمعه-سیاه-paramount-plus-تا-79-در-cbs-dutton/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-جمعه-سیاه-vuori-دارای-عرقیات-و-تجهیزات-ورزشی-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تلویزیون-های-led-rgb-سال-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دانمارک-یک-نوجوان-را-به-دلیل-نفوذ-به-داده-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -632,6 +632,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوگل-به-زودی-آدرس-توسعه-دهندگان-اندروید-را-به-صورت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوگل-مشکل-مصرف-بالای-رم-توسط-جمینای-در-مرورگر-کروم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تایمکس-ساعت-کلاسیک-محبوبش-را-با-دو-رنگ-جدید-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چرا-خشونت-و-جرم-در-gta-6-پیامدهای-جدی-تری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/backloggd-از-کاربران-می-خواهد-پس-از-نقض-رمز-عبور/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
