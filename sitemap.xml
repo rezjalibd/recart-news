@@ -456,6 +456,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مرگ-افراد-مشهور-در-سال-2026-به-یاد-افراد-مشهوری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/معاملات-vpn-جمعه-سیاه-تا-88-در-قابل-اطمینان-ترین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/این-تلویزیون-65-اینچی-مینی-ال-ای-دی-سامسونگ-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تلویزیون-لپ-تاپ-و-موارد-دیگر-از-بهترین-تخفیف-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
