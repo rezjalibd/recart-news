@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کشیش-آمریکایی-که-از-حکومت-دینی-و-لغو-حق-رای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دلایل-شتاب-خانواده-های-اروپایی-برای-خرید-پنل-خورشیدی-پیش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -376,6 +381,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اوکراین-مدعی-سرنگونی-پهپاد-جت-روسیه-با-سلاح-لیزری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/او-مدرسه-آشپزی-را-در-نیویورک-به-جای-فوق-لیسانس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -401,12 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دونالد-ترامپ-درباره-چپ-افراطی-رادیکال-منتقدان-سالن-رقص-در/</loc>
+    <loc>https://recart.ir/news/از-اعتصاب-سراسری-کامیون-داران-چه-می-دانیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اختلاف-بر-سر-بودجه-اروپا-و-کمک-به-اوکراین-آلمان/</loc>
+    <loc>https://recart.ir/news/آی-جی-متال-آلمان-به-توافق-افزایش-دستمزد-در-میانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-لپ-تاپ-های-مک-بوک-ایر-m5-تا-300/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-هدفون-جمعه-سیاه-تا-160-دلار-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آیا-می-توان-مسیر-یک-سیارک-تهدیدکننده-زمین-را-تغییر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -622,6 +622,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوگل-در-حال-ساخت-هوش-مصنوعی-همیشه-فعال-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آیفون-با-این-لنز-جانبی-به-دوربینی-با-زوم-اپتیکال/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/موسیقی-متن-grand-theft-auto-vi-به-رتبه-1-نمودار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلم-کنسرت-جنیفر-لوپز-در-وگاس-the-jlo-show-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جسی-آیزنبرگ-می-گوید-هیچ-رابطه-جنسی-در-کار-من/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
