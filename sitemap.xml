@@ -31,17 +31,17 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/استرالیا-دو-متهم-به-سازمان-دهی-حملات-یهودستیزانه-برای-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-به-توافق-با-ایران-خوش-بین-نیستم-در-صورت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/روابط-بلاتکلیف-ایران-و-چین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استرالیا-دو-متهم-به-سازمان-دهی-حملات-یهودستیزانه-برای-سپاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -206,17 +206,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/انگلستان-طبیعی-به-یک-مرکز-داده-اعتراض-کرد-چند-هفته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کارکنان-آمازون-هم-زمان-با-بلک-فرایدی-و-سایبرماندی-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/طوفان-با-تاخیر-در-پرواز-بیش-از-960000-قطع-برق/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-در-پروازها-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -486,6 +486,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کدهای-تبلیغاتی-peacock-40-تخفیف-در-نوامبر-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بایننس-سرانجام-برداشت-رمزارزها-را-دوباره-فعال-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -526,7 +531,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-در-پروازها-و-b8b933/</loc>
+    <loc>https://recart.ir/news/طوفان-ها-روز-شکرگزاری-را-با-تاخیر-در-پروازها-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-سیستم-wi-fi-7-mesh-netgear-در-حال-حاضر-100/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/آیا-می-توان-مسیر-یک-سیارک-تهدیدکننده-زمین-را-تغییر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -622,6 +622,26 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اگر-ربات-اشتباه-کند-چه-کسی-مسئول-است-خرده-فروشان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نسل-جدیدی-از-تراشه-ها-مدل-های-هوش-مصنوعی-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سقوط-سهم-اندروید-به-پایین-ترین-سطح-تاریخی-آی-او/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایلان-ماسک-سال-ها-پیش-تصاحب-تسلا-را-به-اپل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -767,26 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کارگران-آمازون-در-سراسر-جهان-برای-اعتصاب-و-اعتراض-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گران-ترین-و-بزرگ-ترین-آیپد-تاریخ-اپل-در-راه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-بشر-واقعا-فضا-را-بیشتر-از-اقیانوس-های-زمین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/x-سرانجام-پس-از-20-سال-کنترل-والدین-را-دریافت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایالت-لئونیدا-در-gta-6-بازآفرینی-دقیق-فلوریدا-است-اما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
