@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ویدئو-آویزان-شدن-کامیون-پس-از-لغزش-میان-دو-رمپ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مسن-ترین-حیوان-باغ-وحش-سان-فرانسیسکو-در-۷۹-سالگی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اسرائیل-بیش-از-۵۳۰-پهپاد-در-کرانه-باختری-توقیف-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/قیمت-جهانی-طلا-نزدیک-به-سه-درصد-افزایش-یافت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -506,6 +506,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/22-بهترین-پیشنهاد-جمعه-سیاه-زیر-100-دلار-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-که-تا-کنون-پیدا-کرده-ایم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/این-داریا-باند-۲-پرو-است-گوشی-۱۸۰-میلیون-تومانی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/دانمارک-یک-نوجوان-را-به-دلیل-نفوذ-به-داده-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -632,6 +632,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مدیرعامل-انتروپیک-ادعای-واگذاری-اراده-آزاد-انسان-ها-به-هوش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-تلفن-جمعه-سیاه-2026-آیفون-پیکسل-و-موارد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/شیرین-کننده-محبوب-جایگزین-شکر-می-تواند-خطر-سکته-مغزی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آنچه-افراد-باهوش-در-مورد-نظریه-گرانش-کوانتومی-به-کمک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تایمکس-ساعت-کلاسیک-محبوبش-را-با-دو-رنگ-جدید-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایرلند-شمالی-مدیر-اجرایی-جدیدی-را-منصوب-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جسی-پلمونز-در-مورد-افتخار-بازی-پلوتارک-در-بازی-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/لانا-دل-ری-می-گوید-آلبوم-های-جدید-نزدیک-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
