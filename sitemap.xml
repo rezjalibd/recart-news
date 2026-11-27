@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هدفون-های-مجهز-به-anc-nothing-با-قیمت-کمتر-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آخرین-airtag-های-اپل-برای-جمعه-سیاه-به-18-دلار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/معاملات-جمعه-سیاه-kitchenaid-شامل-تا-40-تخفیف-میکسر-ایستاده/</loc>
+    <loc>https://recart.ir/news/آیا-می-توانیم-با-یک-منجنیق-بزرگ-انسان-را-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/استیو-هانکه-اقتصاددان-برجسته-می-گوید-بازگشت-جنسن-هوانگ-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مزخرف-می-گوید-واکنش-مورینیو-به-پیش-بینی-هوش-مصنوعی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -842,6 +842,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-برویل-تا-بیرکین-میسی-از-قبل-برترین-برندها-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/dave-keuning-گیتاریست-the-killers-از-سکته-مغزی-شدید-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بیشترین-تحت-تعقیب-روز-جمعه-سیاه-2026-بیتلز-نوح-کاهان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
