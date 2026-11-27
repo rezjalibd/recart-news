@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/5-راه-برای-اطمینان-از-اینکه-کنسول-شما-عملکرد-gta/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-در-جاروبرقی-های-کوسه-مورد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مقامات-بلژیکی-به-گوگل-دستور-دادند-تا-ساخت-مرکز-داده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-که-ars-می-تواند-پیدا-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
