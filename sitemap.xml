@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/درون-پایگاه-رامات-داوید-پایگاه-هوایی-اسرائیل-که-ممکن-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/درون-پایگاه-رامات-داوید-جایی-که-حمله-بعدی-اسرائیل-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ماجرای-حرف-های-جنجالی-وزیر-گردشگری-عراق-و-نگاه-عراقی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قضات-پرونده-فساد-نتانیاهو-خواستار-تجدیدنظر-در-اتهام-رشوه-خواری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
