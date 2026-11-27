@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کویت-در-پی-حمله-مرگبار-پهپادی-به-خاک-خود-سفیر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کویت-سفیر-ایران-را-احضار-کرد-تهران-مسئول-کامل-حمله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ایران-انقلاب-و-نیاز-به-ضدانقلاب/</loc>
+    <loc>https://recart.ir/news/افسانه-ها-و-قهرمانان-فولکلور-قزاقستان-به-صفحات-کتاب-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/راهنمای-سفر-به-کالویا-پایتخت-گردشگری-اروپا-در-سال-۲۰۲۷/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -506,6 +506,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تخفیف-جمعه-سیاه-audible-تنها-با-99-دلار-در-ماه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-ربات-جاروبرقی-جمعه-سیاه-از-roborock-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-از-حرفه-معماری-به-کار-در-sweetgreen-تغییر-مسیر/</loc>
+    <loc>https://recart.ir/news/بازی-gta-vi-سرانجام-روی-کامپیوتر-اجرا-شد-اما-نه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رقیب-تسلا-ادعای-ایلان-ماسک-درباره-ناتوانی-ربات-های-انسان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/نمایشگاه-کیک-و-شیرینی-لندن-بزرگداشت-صدمین-سال-تولد-دیوید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -802,6 +802,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-خوانندگان-به-شلاق-پرستو-احمدی-سپیده-جندقی-به-یورونیوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دیو-کیونینگ-the-killers-در-این-ماه-از-یک-سکته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/موکش-چابرا-مدیر-بازیگران-dangal-از-تست-بازیگری-نزدیک-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-بلیت-جمعه-سیاه-2026-در-اینجا-نحوه-خرید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
