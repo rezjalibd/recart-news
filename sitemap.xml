@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/از-شکنجه-و-اعتراف-اجباری-تا-حکم-اعدام-روایتی-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شیوع-آنفلوآنزا-در-ایران-شدت-گرفت-۲۶-استان-بالاتر-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,11 +221,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنگ-خاموش-در-ایران-نان-گران-برق-سهمیه-ای-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/راز-۷۹-اسکلت-دست-بسته-در-یونان-موزه-ای-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -297,6 +297,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تعرفه-های-ترامپ-اتحادیه-اروپا-و-اندونزی-را-در-تجارت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مردی-بدون-کفش-از-استانبول-تا-ایرلند-پیاده-رفت-سفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,12 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/راهنمای-سفر-به-لیوبلیانا-پایتخت-گردشگری-اروپا-در-سال-۲۰۲۷/</loc>
+    <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <loc>https://recart.ir/news/5-costco-electronics-با-تخفیف-های-عمیق-برای-جمعه-سیاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نمادین-ترین-غذای-همبرگر-در-هر-ایالت/</loc>
+    <loc>https://recart.ir/news/در-مسیر-کشاورزی-فضایی-دانشمندان-در-خاک-مشابه-سطح-ماه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/معتقدان-به-آخرالزمان-هوش-مصنوعی-پول-خود-را-در-جایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/استعفای-دوباره-مازیار-زارع-پس-از-شکست-ملوان-مقابل-استقلال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -812,6 +812,21 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واکنش-خوانندگان-به-شلاق-پرستو-احمدی-سپیده-جندقی-به-یورونیوز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بازی-جمعه-سیاه-nfl-2026-اینجا-جایی-است-که-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/the-ultimate-thanksgiving-detox-برترین-کلینیک-طول-عمر-مورد-تایید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بچه-باشگاهی-بریکوت-saturn-risin9-در-آزمون-آزمایشی-هفته-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نتفلیکس-سریال-فانتزی-چینی-موسیقی-محور-ملودی-عشق-را-تنظیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-هفته-ی-بخش-فرهنگ-یورونیوز-بدبیاری-های-تازه-کلیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/canal-با-راه-اندازی-آکادمی-با-حمایت-رئیس-جمهور-آفریقای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رئیس-جمهور-آفریقای-جنوبی-سیریل-رامافوزا-در-مراسم-راه-اندازی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
