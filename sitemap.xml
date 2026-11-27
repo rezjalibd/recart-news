@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/۲۵-سالگی-نشست-بن-اخضر-ابراهیمی-اجماع-بر-سر-انتخاب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/۲۵-سال-از-نشست-بن-در-خصوص-افغانستان-گذشت-اخضر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مهاجرت-خالص-به-بریتانیا-به-پایین-ترین-سطح-در-نزدیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ورود-بیش-از-۱۰-هزار-مهاجر-به-جزیره-ای-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دانمارک-یک-نوجوان-را-به-دلیل-نفوذ-به-داده-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازداشت-یک-نوجوان-در-دانمارک-به-اتهام-هک-اطلاعات-۱۱/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دنج-ترین-نمایش-نتفلیکس-بازگشتی-بسیار-آرام-داشته-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/واکنش-روزنامه-کوریره-دلو-اسپورت-به-مستی-داور-دیدار-گل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فدراسیون-جهانی-فوتبال-قربانی-حمله-سایبری-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/خانواده-جان-فارنهام-به-روزرسانی-نادری-در-مورد-سلامتی-خواننده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اریکا-هاموند-درام-و-رزولوشن-را-در-دیدار-مجدد-rhony/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نمایش-نیمه-وقت-عروسک-های-گو-گو-در-بازی-جشن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
