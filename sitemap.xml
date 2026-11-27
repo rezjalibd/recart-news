@@ -306,6 +306,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اولیویا-رودریگو-آهنگ-کریسمس-دیگری-را-ارائه-می-دهد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دکتر-huw-edwards-channel-4-توسط-نخست-وزیر-بریتانیا-انتقاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,12 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/زلنسکی-در-گفت-وگو-با-بی-بی-سی-دوستی-ترامپ/</loc>
+    <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <loc>https://recart.ir/news/اقتصاد-جهان-در-آستانه-گذار-از-دلار-نفتی-به-دلار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -526,6 +531,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/sunrise-on-the-reaping-11-میلیون-دلار-روز-شکرگزاری-دومین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/باکس-آفیس-شکرگزاری-بازی-های-گرسنگی-طلوع-آفتاب-در-درو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نمادین-ترین-غذای-همبرگر-در-هر-ایالت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دلار-در-بازار-آزاد-پیش-از-رسیدن-به-کانال-۳۰۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برخی-از-تلویزیون-های-سونی-ال-جی-و-tcl-مورد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
