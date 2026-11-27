@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پورشه-کمیاب-مایکل-شوماخر-به-حراج-گذاشته-می-شود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ترامپ-در-حال-از-بین-بردن-حاکمیت-قانون-در-ایالات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کسپرسکی-هوش-مصنوعی-شاید-بشر-را-نابود-نکند-اما-برای/</loc>
+    <loc>https://recart.ir/news/خاتون-بم-۳---۰-گاز-ایلام-خاتون-بم-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -832,6 +837,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برندگان-دوحه-دختری-ناشناس-و-زمین-بتنی-جوایز-برتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جشنواره-فیلم-دوحه-پنج-پروژه-از-صنعت-قطر-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دنیس-ویلنوو-زمانی-که-دیزنی-انتقام-جویان-روز-قیامت-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/the-kills-dave-keuning-فاش-می-کند-که-دچار-سکته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
