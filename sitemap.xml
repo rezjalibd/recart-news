@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بریتانیا-مجوز-پخش-تلویزیونی-شبکه-اللولوه-مرتبط-با-جمهوری-اسلامی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فرمانده-نیروی-دریایی-ارتش-ایران-از-در-پیش-بودن-عملیات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رویترز-نگرانی-مقام-های-جمهوری-اسلامی-از-اعتراضات-تازه-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,22 +221,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/استفاده-حکومت-از-خودروهای-ون-شرکت-گل-گهر-کرمان-برای/</loc>
+    <loc>https://recart.ir/news/ارتش-آمریکا-پهپادهای-نزدیک-شده-به-یک-پایگاه-نظامی-بریتانیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مهدی-محمودیان-فعال-ایرانی-و-فیلمنامه-نویس-فقط-یک-تصادف/</loc>
+    <loc>https://recart.ir/news/گزارش-روسیه-از-سرنگونی-صدها-پهپاد-اوکراین-از-نخستین-انهدام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چندین-کودک-در-انفجار-مدرسه-ای-در-افغانستان-کشته-یا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/حاجی-موسایی-با-برد-آغاز-کرد-حذف-ناهید-کیانی-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارتش-آمریکا-پهپادهای-نزدیک-شده-به-یک-پایگاه-نظامی-بریتانیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -396,17 +406,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اختراع-یک-دانش-آموز-پایه-یازدهم-سامانه-هدایت-پهپاد-بدون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هواپیماهای-امریکن-ایرلاینز-هنگام-تاکسی-برای-برخاستن-در-فرودگاه-واشنگتن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-ساعت-های-ژاپنی-با-حرکت-دست-شارژ-می-شوند/</loc>
+    <loc>https://recart.ir/news/آلمان-و-اتریش-رسما-خواستار-تغییر-مالکیت-بخش-اروپایی-تیک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-بهترین-پیشنهادهای-پخش-جریانی-جمعه-سیاه-2026-را-پیدا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گاز-ویلاهای-خالی-از-سکنه-قطع-می-شود-سه-استان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-chatgpt-wallet-تا-کیف-پول-های-ایرانی-چه-چیزی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چالش-های-رفت-وآمد-در-کلان-شهرها-آیا-اسکوترهای-برقی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/20-بهترین-تخفیف-هدفون-جمعه-سیاه-2026-تا-57-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -767,26 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هک-گسترده-آیفون-ها-با-سیستم-عامل-قدیمی-تلگرام-دست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قیمت-گوشی-امروز-۷-آذر-جهش-آیفون-۱۸-پرو-مکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارشناسان-هشدار-می-دهند-که-آزمایشگاه-های-هوش-مصنوعی-روی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-هوش-مصنوعی-می-تواند-رمزگذاری-را-خراب-کند-دستاوردهای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تغییر-استراتژی-مایکروسافت-بازی-های-محبوب-قرار-است-بیشتر-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
