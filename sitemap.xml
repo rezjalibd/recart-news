@@ -416,6 +416,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/می-توانید-در-حال-حاضر-20-دلار-در-پاوربانک-10000/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دلیل-اینکه-اولین-gpu-nvidia-بسیار-نمادین-بود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پخش-کنندگان-روی-ویدیوهای-کوتاه-شرط-بندی-می-کنند-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,12 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دلار-در-مرز-۳۰۰-هزار-تومان-و-محدودیت-های-تازه/</loc>
+    <loc>https://recart.ir/news/دنیا-به-کدام-سمت-می-رود-تک-تاک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تقریبا-همه-معاملات-عالی-بلک-فرایدی-همچنان-در-این-آخر/</loc>
+    <loc>https://recart.ir/news/پروژه-استارمایند-اسپیس-ایکس-با-یک-میلیون-ماهواره-در-مدار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شیلی-خواستار-جریمه-۸۰-میلیون-دلاری-از-اپل-و-تغییر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فورد-از-هایپرکار-gt41-رونمایی-کرد-آیا-تاریخ-دوباره-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/خرید-فالوور-اینستاگرام-آشنایی-با-خدمات-فرا-فالوور/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
