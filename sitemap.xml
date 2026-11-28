@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/پایان-۲۵-سال-خشونت-خانگی-کژال-صادقی-به-دست-همسرش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نیروی-دریایی-جمهوری-اسلامی-وقتی-به-جای-زیردریایی-تراکتور-خواستند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنگ-و-بحران-ارزی-۵۳هزار-متقاضی-ایرانی-را-از-حج/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کابوس-۴۷-ساله-در-راه-نابودی-یا-توسعه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-بهترین-تخفیف-های-جمعه-سیاه-را-برای-تلفن-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قرارگاه-نهضت-ملی-ترویج-و-ارتقای-سواد-فضای-مجازی-راه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/به-آن-گفتم-دیگر-هرگز-با-من-تماس-نگیرد-ربات/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جنجال-تازه-برای-گیت-هاب-تبلیغ-پروژه-اجرای-بازی-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/این-مینی-ون-برقی-بنفش-چینی-می-تواند-تا-559/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-که-هنوز-هم-می-توانید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
