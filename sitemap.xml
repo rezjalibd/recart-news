@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فرمانده-نیروی-دریایی-ارتش-از-در-پیش-بودن-عملیات-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سنتکام-ادعای-بازپس-گیری-دو-نفتکش-ایرانی-از-آمریکا-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بازگشت-گاوبازی-به-تلویزیون-دولتی-پرتغال-پس-از-شش-سال/</loc>
+    <loc>https://recart.ir/news/حاجی-موسایی-با-برد-آغاز-کرد-حذف-ناهید-کیانی-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/معمای-عجیب-طناب-دور-زمین-حلقه-ای-به-طول-محیط/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مردی-بدون-کفش-از-استانبول-تا-ایرلند-پیاده-رفت-سفر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یک-نماینده-مجلس-انتشار-برخی-از-محتواها-در-شبکه-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-رنگ-قرمز-به-محصولات-اپل-تصاویر-هوم-پاد-مینی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-در-جاروبرقی-های-کوسه-مورد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/منطقه-مدرسه-لس-آنجلس-ویژگی-های-جستجوی-هوش-مصنوعی-گوگل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
