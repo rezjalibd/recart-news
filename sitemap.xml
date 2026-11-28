@@ -51,6 +51,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/گزارش-ها-حاکی-از-آن-است-که-پلیس-هند-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بازگشت-میلاد-آرمون-و-نوید-نجاران-به-بند-عمومی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آناتومی---سندروم-زن-خوب-چگونه-علم-پزشکی-خشم-زنان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کانون-کارگردانان-سینمای-ایران-خواستار-پایان-برخوردهای-قضایی-با-هنرمندان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-برنامه-10-ساله-برنهام-می-تواند-شادی-بیشتر-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چگونه-می-توانید-به-پهپاد-dji-قدیمی-خود-هدف-جدیدی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,12 +791,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تشکیل-دو-کمربند-تابشی-اضافی-پیرامون-زمین-پیامد-شگفت-انگیز/</loc>
+    <loc>https://recart.ir/news/استقلال-۱-۰-صنعت-نفت-آبادان-سهراب-بدون-آسانی-هم-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/5-سرویس-پخش-موسیقی-که-به-شما-امکان-گوش-دادن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/chanel-و-partynextdoor-از-tyla-در-جوایز-soul-train-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/scout-willis-will-peltz-و-kurt-deimer-در-فیلم-indie/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/یولیا-اوینا-بهارا-تهیه-کننده-زندگی-نامه-شوالیه-های-فرانسه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/برانسون-رید-ستاره-wwe-در-38-سالگی-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/bet-جایزه-بشردوستانه-جدید-چاکا-خان-را-در-جوایز-soul/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انوراگ-کاشیاپ-رانجان-سینگ-به-عنوان-تهیه-کنندگان-اجرایی-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
