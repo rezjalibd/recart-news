@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سازمان-بین-المللی-دریانوردی-شش-هزار-ملوان-همچنان-در-خلیج/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هشدار-جمهوری-اسلامی-به-عراق-در-پی-بسته-شدن-گذرگاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/از-شکنجه-و-اعتراف-اجباری-تا-حکم-اعدام-روایتی-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شیوع-آنفلوآنزا-در-ایران-شدت-گرفت-۲۶-استان-بالاتر-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -471,6 +471,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/انجمن-بلاکچین-ایران-از-توقف-هماهنگ-معاملات-تتر-تومان-خبر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هیوندای-مرکوری-معرفی-شد-کراس-اوور-برقی-با-قابلیت-تعویض/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بعد-از-اینکه-شغلم-را-از-دست-دادم-با-خواهرم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/نزاع-حقوقی-اپن-ای-آی-و-اپل-دو-شرکت-یکدیگر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گوگل-بالاخره-مشکل-حلقه-بوت-acer-googlebooks-را-برطرف-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کشف-شتاب-پیری-در-سلول-های-ایمنی-آیا-در-۴۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ماده-تاریک-ممکن-است-جدول-تناوبی-ذرات-نامرئی-خود-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دفترچه-خاطرات-تام-ریدل-با-هوش-مصنوعی-claude-به-صورت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مراقب-حساب-اسنپ-پی-خود-باشید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
