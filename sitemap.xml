@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/فایننشال-تایمز-تهران-احتمالا-در-حادثه-پهپادی-نزدیک-پایگاه-لیکن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/۴۰-روز-تا-سالگرد-مرگ-بارترین-سرکوب-تاریخ-معاصر-ایران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ادعای-سپاه-درباره-حاکمیت-مطلق-بر-تنگه-هرمز/</loc>
+    <loc>https://recart.ir/news/حمایت-تهران-از-حوثی-ها-و-بهایی-که-منطقه-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شبکه-ان-بی-سی-از-پایان-کمک-های-نظامی-آمریکا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شبکه-ان-بی-سی-با-حمایت-از-پایان-دادن-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هکرها-به-زیرساخت-ابری-نیروی-هوایی-آمریکا-نفوذ-کردند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نتیجه-بررسی-شکایت-کاربران-از-حجم-و-قیمت-اینترنت-پژمان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بزرگ-ترین-خودروساز-چین-یک-ون-لوکس-برقی-با-شارژ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/واتس-اپ-از-قابلیت-esim-رونمایی-کرد-قابلیت-ارسال-پیام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ظاهرا-سامسونگ-به-اپلیکیشن-دوربین-خود-حالت-هوش-مصنوعی-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تراشه-های-محدود-nvidia-در-یک-مرکز-داده-چینی-متصل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/openai-با-اپل-مخالفت-می-کند-و-آن-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-ایرپادهای-جمعه-سیاه-که-پیدا-کردم-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
