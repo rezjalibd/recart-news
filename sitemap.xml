@@ -426,6 +426,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/m5-macbook-air-از-زمانی-که-اپل-قیمت-را-افزایش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-که-هنوز-هم-می-توانید-دریافت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/249-معاملات-جمعه-سیاه-که-قبل-از-پایان-روز-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -587,16 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/معامله-جمعه-سیاه-masterclass-در-یک-سال-یادگیری-تحت-رهبری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/nbc-در-حال-ارزیابی-روند-بازبینی-تبلیغات-خود-پس-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-اپل-واچ-شامل-قیمت-های-بی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -856,6 +856,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/انوراگ-کاشیاپ-رانجان-سینگ-به-عنوان-تهیه-کنندگان-اجرایی-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نظر-باب-گرینبلات-چرا-بینندگان-امروز-از-برنامه-های-جدید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تعطیلی-گیل-کینگ-هفته-آینده-از-سریال-cbs-mornings-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رشید-بوچارب-کارگردان-نامزد-اسکار-درباره-چالش-های-فیلمبرداری-رجین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
