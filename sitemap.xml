@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/۴۰-روز-تا-سالگرد-مرگ-بارترین-سرکوب-تاریخ-معاصر-ایران/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/واشینگتن-پست-آینده-پایگاه-پشتیبانی-نیروی-دریایی-آمریکا-در-بحرین/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ادعای-سپاه-درباره-حاکمیت-مطلق-بر-تنگه-هرمز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کاهش-doge-کارمندان-دولت-را-به-سمت-سیاست-سوق-داد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -856,6 +856,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دیو-کیونینگ-از-the-killers-می-گوید-که-از-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جرمین-هیلی-کشتی-گیر-wwe-معروف-به-برونسون-رید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/لی-ساوا-جفریس-ستاره-پرسی-جکسون-و-المپیک-در-مورد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جوایز-soul-train-2026-اینجا-جایی-است-که-مراسم-جوایز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
