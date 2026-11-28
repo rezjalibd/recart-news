@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تبدیل-عنوان-حکومتی-به-عنوان-انقلابی-با-اضافه-کردن-عدد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کشته-شدن-روحانی-اهل-سنت-نزدیک-به-سپاه-پاسداران-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جدال-روایت-ها-میان-تهران-و-واشنگتن-سنتکام-سه-ادعای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فرمانده-نیروی-دریایی-ارتش-از-در-پیش-بودن-عملیات-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مجله-خبری-۷-آذر-۱۴۰۵-۲۸-نوامبر-۲۰۲۶---شامگاهی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-چیزی-است-که-سایر-خوانندگان-verge-در-جمعه-سیاه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اطلاعیه-صرافی-های-رمزارزی-به-دلیل-نوسانات-بازار-معاملات-تتر/</loc>
+    <loc>https://recart.ir/news/گوگل-به-دلیل-عدم-مجوز-برنامه-ریزی-ساخت-مرکز-داده/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مردی-خودش-را-زنده-دفن-کرد-و-۹-روز-زیر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عکس-ثبت-شده-با-آیفون-۱۸-پرو-به-فهرست-۱۰۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دوربین-سامسونگ-بهتره-یا-آیفون-مقایسه-کامل-کیفیت-عکس-و/</loc>
+    <loc>https://recart.ir/news/منچستریونایتد-۰-۴-برنتفورد-پوچتینو-در-برزخ-اولدترافورد-شیاطین-سرخ-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -797,6 +802,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/5-سرویس-پخش-موسیقی-که-به-شما-امکان-گوش-دادن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/raye-با-joy-حال-و-هوای-رژه-روز-شکرگزاری-میسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رشد-۱۸۷-درصدی-نسبت-به-سال-گذشته-درآمد-۱۹۸-میلیارد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/درام-اندونزیایی-آلپا-غیبت-نزول-پسری-به-سمت-افراط-گرایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نقد-گوژپشت-روح-پاریس-کوازیمودو-به-دلایلی-یک-داستان-اصلی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
