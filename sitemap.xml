@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/واشینگتن-پست-آینده-پایگاه-پشتیبانی-نیروی-دریایی-آمریکا-در-بحرین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دفتر-شاهزاده-رضا-پهلوی-از-برگزاری-تجمع-های-جهانی-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کاهش-doge-کارمندان-دولت-را-به-سمت-سیاست-سوق-داد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اعتصاب-کامیون-داران-در-ششمین-روز-در-۲۰-شهر-ایران-08acb6/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
