@@ -601,6 +601,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ناسا-اولین-سیستم-کشت-محصولات-فضایی-در-نوع-خود-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/5-جایگزین-بسیار-ارزشمند-برای-ردیابی-سلامت-و-تناسب-اندام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چرا-اندروید-نام-ویژگی-smart-lock-خود-را-تغییر-داد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/۲۵-سال-پایش-و-فقط-۱۲-مشاهده-سگ-بیشه-بسیار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مزیت-خرید-وسایل-از-فروشگاه-رسمی-anker-به-جای-آمازون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -771,26 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قاب-عکس-الکسا-echo-show-بدون-بیت-هایی-است-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/مدیرعامل-sakana-ai-می-گوید-مدل-های-داخلی-آن-چیزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گوگل-بالاخره-مشکل-حلقه-بوت-acer-googlebooks-را-برطرف-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کشف-شتاب-پیری-در-سلول-های-ایمنی-آیا-در-۴۰/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/بختیاری-زاده-زمین-تمرین-باکیفیت-خواسته-زیادی-نیست-استقلال-نباید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -807,6 +807,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/5-سرویس-پخش-موسیقی-که-به-شما-امکان-گوش-دادن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نحوه-تماشای-u2-live-در-تیت-مدرن-جریان-آنلاین-رایگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کجا-می-توان-رژه-روز-شکرگزاری-میسی-را-به-صورت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کانال-4-از-دکتر-هاو-ادواردز-پس-از-انتقاد-دولت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
