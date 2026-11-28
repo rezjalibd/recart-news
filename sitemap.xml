@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/غیر-حضوری-شدن-مدارس-کرمان-در-پی-مرگ-دو-دانش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/نبود-مددکاران-اجتماعی-در-مدارس-دانش-آموزان-در-معرض-خشونت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/سند-تحول-بسیج-برنامه-گسترش-اختیارات-این-نهاد-در-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کویت-سفیر-ایران-را-در-اعتراض-به-حمله-پهپادی-احضار/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -436,6 +436,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-پیشنهادات-آشپزخانه-جمعه-سیاه-2026-در-مورد-علاقه-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-kindle-و-e-reader-2026-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,17 +601,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ipad-mini-جدید-اولین-تخفیف-عمده-خود-را-برای-جمعه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پرنده-ای-به-وزن-یک-حبه-قند-در-۳۸-روز/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نسخه-اندروید-chatgpt-به-زودی-به-قابلیت-برقراری-تماس-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-کوسه-برای-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-kitchenaid-تا-20-صرفه-جویی-کنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رشد-۱۸۷-درصدی-نسبت-به-سال-گذشته-درآمد-۱۹۸-میلیارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کجا-می-توان-صدمین-رژه-روز-شکرگزاری-میسی-را-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/هدایای-خشمگین-دونالد-ترامپ-جونیور-به-همسران-شکار-نتفلیکس-برخی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/گیل-کینگ-برای-دوشیزگی-هفته-برنامه-صبحگاهی-cbs-در-بحبوحه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
