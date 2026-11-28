@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/249-معاملات-جمعه-سیاه-که-قبل-از-پایان-روز-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-کت-زمستانی-من-در-جمعه-سیاه-به-قیمت-120/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-اپل-واچ-شامل-قیمت-های-بی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چه-فروش-یک-بانک-بزرگ-می-گوید-سهام-تا-پایان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
