@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بازگشت-میلاد-آرمون-و-نوید-نجاران-به-بند-عمومی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-گلستان-تا-سعدآباد-تاریخچه-لباس-مجلسی-مدرن-در-ایران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/در-پی-جان-باختن-دو-دانش-آموز-بر-اثر-ابتلا/</loc>
+    <loc>https://recart.ir/news/بیم-نشت-۷-هزار-تن-گازوئیل-در-مدیترانه-اسپانیا-نفتکش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/موزه-جدید-لندن-نمایش-شهر-در-تمام-شکوه-رنگارنگ-و/</loc>
+    <loc>https://recart.ir/news/مسابقات-تکواندو-گرندپری-زینالی-به-مدال-طلا-رسید-زرین-کمر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دلار-در-مرز-۳۰۰-هزار-تومان-و-محدودیت-های-تازه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -467,6 +477,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تقریبا-همه-معاملات-عالی-بلک-فرایدی-همچنان-در-این-آخر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -586,21 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-خون-خودم-را-با-آزمایش-خانگی-مورد-علاقه-سیلیکون/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سفرهای-تفریحی-مسکونی-یک-تجارت-بسیار-دشوار-است-فقط-این/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-استراتژیست-که-حباب-دات-کام-را-نامیده-است-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/نزاع-حقوقی-اپن-ای-آی-و-اپل-دو-شرکت-یکدیگر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قاب-عکس-الکسا-echo-show-بدون-بیت-هایی-است-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مدیرعامل-sakana-ai-می-گوید-مدل-های-داخلی-آن-چیزی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/معاون-وزیر-آموزش-وپرورش-هوش-مصنوعی-به-۲۰۰-هزار-معلم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ماده-تاریک-ممکن-است-جدول-تناوبی-ذرات-نامرئی-خود-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/زدوخورد-میان-هواداران-فوتبال-ترکیه-و-اسرائیل-به-فرودگاه-باتومی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -881,6 +881,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رژه-روز-شکرگزاری-میسی-آغاز-می-شود-تاریخ-سازی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/برنامه-ریزی-یک-سفر-تعطیلات-به-شهر-نیویورک-این-هتل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فصل-سوم-سریال-the-hunting-wives-چه-زمانی-در-نتفلیکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/برانسون-رید-ستاره-wwe-در-38-سالگی-درگذشت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/bet-جایزه-بشردوستانه-جدید-چاکا-خان-را-در-جوایز-soul/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/انوراگ-کاشیاپ-رانجان-سینگ-به-عنوان-تهیه-کنندگان-اجرایی-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
