@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هشدار-جمهوری-اسلامی-به-عراق-در-پی-بسته-شدن-گذرگاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رسانه-های-اسرائیلی-نتانیاهو-طرحی-دیوانه-وار-برای-نابودی-زیرساخت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سایت-رکنا-کژال-صادقی-زن-اهل-سقز-به-دست-همسرش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شیوع-آنفلوآنزا-در-ایران-شدت-گرفت-۲۶-استان-بالاتر-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کویت-در-پی-حمله-مرگبار-پهپادی-به-خاک-خود-سفیر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کویت-سفیر-ایران-را-احضار-کرد-تهران-مسئول-کامل-حمله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اس-اند-پی-چشم-انداز-اعتباری-فرانسه-را-کاهش-داد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دلار-۳۰۰-هزار-تومانی-نظر-شما-چیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -462,6 +467,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هیوندای-مرکوری-معرفی-شد-کراس-اوور-برقی-با-قابلیت-تعویض/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طلانو-api-معاملات-طلا-را-برای-توسعه-دهندگان-و-معامله/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -586,21 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کجا-رژه-روز-شکرگزاری-میسی-را-تماشا-کنیم-کانال-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پس-از-تماشای-رژه-روز-شکرگزاری-میسی-در-کودکی-من/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هر-ایالت-قرار-است-چه-مقدار-مسکن-نسبت-به-ساکنان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/نزاع-حقوقی-اپن-ای-آی-و-اپل-دو-شرکت-یکدیگر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -617,6 +617,36 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/5-برنامه-رایگان-سامسونگ-گلکسی-واچ-که-هر-صاحبی-باید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/9-سوالی-که-نباید-از-chatgpt-بپرسید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/عکس-ثبت-شده-با-آیفون-۱۸-پرو-به-فهرست-۱۰۰/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دوربین-سامسونگ-بهتره-یا-آیفون-مقایسه-کامل-کیفیت-عکس-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بمب-خبری-شرکت-های-هوش-مصنوعی-دانشمندان-درباره-احتمال-شکسته/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/چری-آریزو-۹-معرفی-شد-سدان-پرچمدار-چینی-با-چهره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -757,36 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مراقب-حساب-اسنپ-پی-خود-باشید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-حالا-می-تواند-گوشی-واقعی-شما-را-کنترل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معاون-علمی-رئیس-جمهور-سند-توسعه-اختراعات-خارجی-ابلاغ-شد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پرنده-ای-به-وزن-یک-حبه-قند-در-۳۸-روز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نسخه-اندروید-chatgpt-به-زودی-به-قابلیت-برقراری-تماس-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-2026-ما-از-ساعت-4-صبح/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-دستگاه-اسپرسو-جمعه-سیاه-تا-38-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
