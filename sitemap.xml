@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-می-توانید-به-پهپاد-dji-قدیمی-خود-هدف-جدیدی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اگر-برنامه-های-اپل-شما-شروع-به-نمایش-پیام-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,12 +791,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ارتش-آمریکا-در-واکنش-به-گزارش-ها-درباره-هک-سامانه/</loc>
+    <loc>https://recart.ir/news/5-سرویس-پخش-موسیقی-که-به-شما-امکان-گوش-دادن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/5-سرویس-پخش-موسیقی-که-به-شما-امکان-گوش-دادن/</loc>
+    <loc>https://recart.ir/news/راهنمای-نهایی-هدیه-تعطیلات-هالیوود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ریشاب-شتی-برنده-بهترین-بازیگر-مرد-برای-کانتارا-یک-افسانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انوراگ-کاشیاپ-رانجان-سینگ-به-عنوان-تهیه-کنندگان-اجرایی-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نظر-باب-گرینبلات-چرا-بینندگان-امروز-از-برنامه-های-جدید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/secrets-نتفلیکس-نویسنده-اندونزیایی-راوی-بهروانی-را-پس-از-هشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
