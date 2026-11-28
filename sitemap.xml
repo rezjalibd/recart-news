@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نتانیاهو-حاضر-شد-نخست-وزیری-را-به-آیزنکوت-واگذار-کند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ورود-بیش-از-هزار-و-صد-مهاجر-به-جزایر-یونان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-و-بدترین-کشورها-در-اروپا-برای-جوانان-کجا-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چگونه-قتل-وحشیانه-خواهران-میرابال-به-نام-گذاری-روز-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-در-حمله-به-زیرساخت-برق-آب-و-مخابرات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/apple-passwords-در-مقابل-google-password-manager-تفاوت-آنها-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/خرید-فالوور-اینستاگرام-آشنایی-با-خدمات-فرا-فالوور/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ios-27-ممکن-است-تجربه-carplay-شما-را-با-google/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
