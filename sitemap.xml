@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مذاکرات-تشکیل-دولت-اسرائیل-به-مرحله-حساس-رسید-نتانیاهو-برای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تمدید-قرارداد-تیاگو-سیلوا-با-فلومیننزه-تا-پایان-۲۰۲۷-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اوکراین-کره-شمالی-ارسال-موشک-و-مهمات-به-روسیه-را/</loc>
+    <loc>https://recart.ir/news/رکوردشکنی-قیمت-ارز-در-بازار-آزاد-ایران-دلار-به-آستانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/260-معاملات-جمعه-سیاه-که-قبل-از-پایان-روز-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کشف-شبکه-ای-از-تونل-های-باستانی-مخفی-در-استانبول/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/یک-نماینده-مجلس-انتشار-برخی-از-محتواها-در-شبکه-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/کلمبوس-۱-۰-اینترمیامی-حذف-زودهنگام-مسی-و-اینترمیامی-از-پلی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -867,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فیلمسازان-پشت-سر-رقیب-اسکار-لبنان-خشم-در-سینما-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نحوه-تماشای-رژه-روز-شکرگزاری-2026-ادای-احترام-به-دالی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/nbc-تبلیغی-را-منتشر-می-کند-که-سیاست-اسرائیل-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
