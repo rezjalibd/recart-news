@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ربات-انسان-نمای-جنجالی-اکس-پنگ-هم-قیمت-یک-خودرو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نخستین-نگاه-نزدیک-بشر-به-مریخ-۷-آذر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هک-گسترده-آیفون-ها-با-سیستم-عامل-قدیمی-تلگرام-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پورشه-کمیاب-مایکل-شوماخر-به-حراج-گذاشته-می-شود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترامپ-در-حال-از-بین-بردن-حاکمیت-قانون-در-ایالات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ستاره-بایرن-فعلا-دور-از-میادین-سال-۲۰۲۶-برای-جمال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جرمین-هیلی-کشتی-گیر-wwe-معروف-به-برونسون-رید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جوایز-soul-train-2026-اینجا-جایی-است-که-مراسم-جوایز/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جوایز-soul-train-2026-را-با-ادای-احترام-به-دالی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
