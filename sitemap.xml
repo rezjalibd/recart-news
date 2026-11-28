@@ -396,17 +396,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اختراع-یک-دانش-آموز-پایه-یازدهم-سامانه-هدایت-پهپاد-بدون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هواپیماهای-امریکن-ایرلاینز-هنگام-تاکسی-برای-برخاستن-در-فرودگاه-واشنگتن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/این-ساعت-های-ژاپنی-با-حرکت-دست-شارژ-می-شوند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معمای-عجیب-طناب-دور-زمین-حلقه-ای-به-طول-محیط/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نخبه-شو-مرجع-تخصصی-آموزش-آنلاین-رباتیک-برای-کودکان-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یک-نماینده-مجلس-انتشار-برخی-از-محتواها-در-شبکه-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/5-راه-برای-اطمینان-از-اینکه-کنسول-شما-عملکرد-gta/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-در-جاروبرقی-های-کوسه-مورد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
