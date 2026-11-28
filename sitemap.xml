@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/یک-هیات-امنیتی-بلندپایه-عراقی-وارد-تهران-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/واکنش-تهران-به-اقدامات-مرزی-عراق-مشاور-خامنه-ای-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/لغو-حکم-رای-باز-یعقوب-محمدی-معلم-اخراجی-اهل-آبدانان/</loc>
+    <loc>https://recart.ir/news/روایت-بی-پرده-همسر-ولیعهد-بریتانیا-از-سرطان-شکستن-سنت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ان-بی-سی-تبلیغی-را-در-انتقاد-از-کمک-های/</loc>
+    <loc>https://recart.ir/news/بهترین-معاملات-پخش-جریانی-جمعه-سیاه-که-هنوز-هم-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/این-7-ایالت-به-شما-پول-می-دهند-تا-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معامله-داده-نامحدود-جمعه-سیاه-mint-mobile-با-15-دلار/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معامله-اینترنتی-بلک-فرایدی-خانگی-t-mobile-با-یک-ماه-رایگان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -581,22 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مادرشوهرم-به-مدت-3-هفته-به-ملاقاتش-رفت-و-خیلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دلار-۳۰۰-هزار-تومانی-نظر-شما-چیست/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/والکس-معاملات-تتر-تومان-را-به-طور-موقت-متوقف-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بررسی-kindle-paperwhite-2026-دکمه-های-چرخاندن-صفحه-با-قیمتی/</loc>
+    <loc>https://recart.ir/news/اگر-برنامه-های-اپل-شما-شروع-به-نمایش-پیام-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ارتش-آمریکا-در-واکنش-به-گزارش-ها-درباره-هک-سامانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-sonos-2026-تا-34-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
