@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کارشناسان-هشدار-می-دهند-که-آزمایشگاه-های-هوش-مصنوعی-روی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/آیا-هوش-مصنوعی-می-تواند-رمزگذاری-را-خراب-کند-دستاوردهای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تغییر-استراتژی-مایکروسافت-بازی-های-محبوب-قرار-است-بیشتر-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/نه-ویندوز-۱۲-به-این-زودی-ها-از-راه-نمی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محققان-یک-سیاه-چاله-می-تواند-آنقدر-سریع-بچرخد-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ستاره-بایرن-فعلا-دور-از-میادین-سال-۲۰۲۶-برای-جمال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایفا-اصفهانی-رئیس-jaff-می-گوید-رشد-جهانی-سینمای-آسیای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یولیا-اوینا-بهارا-تهیه-کننده-زندگی-نامه-شوالیه-های-فرانسه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جوایز-soul-train-2026-را-با-ادای-احترام-به-دالی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ستارگان-و-خالق-سریال-the-hunting-wives-عشق-خطرناک-مارگو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ویرجیل-میلر-داماد-گیل-کینگ-در-45-سالگی-درگذشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
