@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/واکنش-تهران-به-اقدامات-مرزی-عراق-مشاور-خامنه-ای-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/میلاد-پورگی-شهروند-زندانی-در-دهدشت-به-۳۷-ماه-حبس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/لغو-حکم-رای-باز-یعقوب-محمدی-معلم-اخراجی-اهل-آبدانان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/علوم-پزشکی-یزد-آزمایش-آنفلوانزای-بیش-از-۳۰-درصد-بیماران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/اینها-بهترین-تخفیف-های-لحظه-آخری-جمعه-سیاه-در-مورد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-لحظه-آخری-روی-دوچرخه-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بررسی-kindle-paperwhite-2026-دکمه-های-چرخاندن-صفحه-با-قیمتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/امکانات-لوکس-و-هم-قیمت-خودروهای-معمولی-شاسی-بلند-جدید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
