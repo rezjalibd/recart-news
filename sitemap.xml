@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سپاهان-۵-۱-نساجی-آتش-بازی-تیم-محرم-نویدکیا-پیش-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هیئت-امنیتی-بلندپایه-عراقی-در-میانه-فشار-آمریکا-بر-مسیرهای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/یک-هیات-امنیتی-بلندپایه-عراقی-وارد-تهران-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -47,6 +57,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/استقرار-و-آموزش-تیربار-به-دانش-آموزان-مدرسه-در-کرج/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گزارش-شده-است-که-پلیس-به-معترضان-در-خارج-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -202,21 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/۴۰-روز-تا-سالگرد-مرگ-بارترین-سرکوب-تاریخ-معاصر-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/واشینگتن-پست-آینده-پایگاه-پشتیبانی-نیروی-دریایی-آمریکا-در-بحرین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دفتر-شاهزاده-رضا-پهلوی-از-برگزاری-تجمع-های-جهانی-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آناتومی---سندروم-زن-خوب-چگونه-علم-پزشکی-خشم-زنان/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-چیزی-است-که-سایر-خوانندگان-verge-در-جمعه-سیاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دوربین-جاکلیدی-شایان-ستایش-charmera-کداک-تنها-با-قیمت-30/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-معاملات-پخش-جریانی-جمعه-سیاه-که-هنوز-هم-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,12 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/توقف-موقت-معاملات-تتر-در-نوبیتکس-تبدیل-و-والکس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-10-ساعت-در-کلاس-تجاری-بریتیش-ایرویز-پرواز-کردم/</loc>
+    <loc>https://recart.ir/news/چرا-به-روزرسانی-آیفون-می-تواند-تجربه-carplay-شما-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,17 +791,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/29-بهترین-پیشنهاد-جمعه-سیاه-آمازون-2026-تا-60-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/استقلال-۱-۰-صنعت-نفت-آبادان-سهراب-بدون-آسانی-هم-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/5-سرویس-پخش-موسیقی-که-به-شما-امکان-گوش-دادن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ملکه-لطیفه-در-رژه-روز-شکرگزاری-u-n-i-t/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جشنواره-فیلم-آسیایی-jogja-netpac-با-شب-های-خاموش-به-کارگردانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جرمین-هیلی-کشتی-گیر-wwe-معروف-به-برونسون-رید-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایفا-اصفهانی-رئیس-jaff-می-گوید-رشد-جهانی-سینمای-آسیای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یولیا-اوینا-بهارا-تهیه-کننده-زندگی-نامه-شوالیه-های-فرانسه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
