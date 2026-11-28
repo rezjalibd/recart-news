@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/لغو-مجوز-پخش-تلویزیونی-شبکه-متهم-به-تبلیغ-برای-سپاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ده-سال-پس-از-سقوط-مرگبار-هواپیما-بازسازی-چاپه-کوئنزه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جدال-ماکرون-و-لوپن-بر-سر-بودجه-اتحادیه-اروپا-رئیس/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جمعه-سیاه-در-کجای-اروپا-بدبین-ترین-خریداران-زندگی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-26-بهترین-پیشنهادهای-فناوری-جمعه-سیاه-را-پیدا-کردم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معاون-وزیر-آموزش-وپرورش-هوش-مصنوعی-به-۲۰۰-هزار-معلم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ماده-تاریک-ممکن-است-جدول-تناوبی-ذرات-نامرئی-خود-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/واتس-اپ-از-قابلیت-esim-رونمایی-کرد-قابلیت-ارسال-پیام/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شکایت-متقابل-openai-از-اپل-این-بار-کوپرتینویی-ها-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تولید-آیفون-۱۸-بار-دیگر-به-تعویق-افتاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
