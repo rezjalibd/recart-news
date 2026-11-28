@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سنتکام-ادعای-بازپس-گیری-دو-نفتکش-ایرانی-از-آمریکا-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/محکومیت-پروانه-سلحشوری-و-مدیرمسوول-دیدارنیوز-به-حبس-و-ممنوعیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پرستو-در-سرزمین-عجایب/</loc>
+    <loc>https://recart.ir/news/ارتش-آمریکا-پهپادهای-نزدیک-شده-به-یک-پایگاه-نظامی-بریتانیا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مردی-بدون-کفش-از-استانبول-تا-ایرلند-پیاده-رفت-سفر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-در-سراسر-آسیا-به-کشورهایی-مانند-ژاپن-و-تایلند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
