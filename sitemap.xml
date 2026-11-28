@@ -221,6 +221,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ارتش-آمریکا-پهپادهای-نزدیک-شده-به-یک-پایگاه-نظامی-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ایتالیا-در-آستانۀ-تبدیل-شدن-به-قدرتی-خورشیدی-است-وقتی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-مکان-ها-در-اروپا-برای-مشاهده-انقلاب-زمستانی-کجاست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-و-بدترین-کشورها-در-اروپا-برای-جوانان-کجا-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -396,17 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/رنگارنگ-و-پیچیده-موزه-جدید-لندن-وعده-می-دهد-شهر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ترکیه-روند-تصویب-پیمان-دفاعی-مکه-را-تکمیل-کرد-پاکستان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پایان-دوران-طلایی-قهرمان-هشت-دوره-ای-موتو-جی-پی/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۷-آذر-۱۴۰۵-۲۸-نوامبر-۲۰۲۶---بامدادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -422,6 +427,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کد-تبلیغاتی-motley-fool-200-دلار-تخفیف-در-stock-advisor/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,22 +601,47 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قرار-بود-دور-جدید-به-تانک-های-آمریکایی-قدرت-شلیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تخفیف-سرخ-کن-بادی-بلک-فرایدی-برای-هر-نوع-آشپزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کدهای-تخفیف-govee-و-معاملات-30-تخفیف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کد-تخفیف-corsair-تا-50-تخفیف-برای-نوامبر-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کدهای-کوپن-zoro-20-تخفیف-در-نوامبر-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کدهای-تبلیغاتی-ray-ban-50-در-نوامبر-2026-صرفه-جویی-کنید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کدهای-تبلیغاتی-altra-running-10-تخفیف-در-نوامبر-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کدهای-تبلیغاتی-کوسه-برای-نوامبر-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کدهای-تبلیغاتی-kitchenaid-تا-20-صرفه-جویی-کنید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -752,41 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تخفیف-های-جمعه-سیاه-در-مورد-لوازم-ضروری-خانگی-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معامله-جمعه-سیاه-اپل-تی-وی-بیش-از-50-درصد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هوش-مصنوعی-قرن-ها-تحقیقات-ریاضی-و-علوم-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تحقیق-جدید-استرس-در-کودکی-می-تواند-ریسک-بروز-دردهای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سازنده-چت-جی-پی-تی-از-اپل-به-اتهام-سرقت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پلتفرم-های-امنیتی-رمزارز-برای-مقابله-با-گزارش-های-انبوه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-2026-ما-از-ساعت-4-صبح/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-دستگاه-اسپرسو-جمعه-سیاه-تا-38-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
