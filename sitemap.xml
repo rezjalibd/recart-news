@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دادستانی-تهران-علیه-ارسال-کنندگان-ویدیو-به-ساسی-مانکن-اعلام/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سپاهان-۵-۱-نساجی-آتش-بازی-تیم-محرم-نویدکیا-پیش-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فایننشال-تایمز-تهران-احتمالا-در-حادثه-پهپادی-نزدیک-پایگاه-لیکن/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/۴۰-روز-تا-سالگرد-مرگ-بارترین-سرکوب-تاریخ-معاصر-ایران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/آیا-باید-مادربرد-رایانه-شخصی-خود-را-تعمیر-یا-تعویض/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-به-روزرسانی-آیفون-می-تواند-تجربه-carplay-شما-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,17 +791,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بنابراین-آیا-قرار-است-همه-ما-اکنون-قدم-بزنیم-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/استقلال-۱-۰-صنعت-نفت-آبادان-سهراب-بدون-آسانی-هم-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/5-سرویس-پخش-موسیقی-که-به-شما-امکان-گوش-دادن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کارگردان-ضعیف-ترین-مخلوقات-او-در-ارائه-امید-به-مصری/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دو-نفره-کارگردانی-کلاریسا-در-مورد-اینکه-چگونه-سوفی-اوکوندو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پینگ-پنگونومیکس-آیا-تنیس-روی-میز-می-تواند-غریبه-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دیو-کیونینگ-از-the-killers-می-گوید-که-از-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جرمین-هیلی-کشتی-گیر-wwe-معروف-به-برونسون-رید-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
