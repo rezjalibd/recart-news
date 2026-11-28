@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رویترز-نگرانی-مقام-های-جمهوری-اسلامی-از-اعتراضات-تازه-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/افزایش-فشارهای-بین-المللی-بر-تهران-پیامدهای-حمله-به-زیرساخت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/مهدی-محمودیان-فعال-ایرانی-و-فیلمنامه-نویس-فقط-یک-تصادف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شمس-آذر-۰---۱-خیبر-خرم-آباد-وریا-غفوری/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/20-بهترین-تخفیف-هدفون-جمعه-سیاه-2026-تا-57-تخفیف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/18-بهترین-پیشنهادهای-تلویزیونی-جمعه-سیاه-2026-تا-60-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -786,7 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/قرارداد-جمعه-سیاه-verizon-با-آیفون-18-پرو-یا-گلکسی/</loc>
+    <loc>https://recart.ir/news/رشد-۱۸۷-درصدی-نسبت-به-سال-گذشته-درآمد-۱۹۸-میلیارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -857,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/درام-اندونزیایی-آلپا-غیبت-نزول-پسری-به-سمت-افراط-گرایی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -967,16 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/گیل-کینگ-برای-دوشیزگی-هفته-برنامه-صبحگاهی-cbs-در-بحبوحه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فرهان-اختر-آشوتوش-گواریکر-و-مادور-باندارکار-به-دیل-چاهتا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/fuerza-regida-نسخه-pisteando-con-la-regida-vol-4-پس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
