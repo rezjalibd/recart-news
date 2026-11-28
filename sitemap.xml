@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کشته-شدن-شش-جوان-پنجشیری-در-کابل-تداوم-تیراندازی-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/حمایت-ترامپ-از-بغداد-فشار-همزمان-بر-اقلیم-کردستان-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/موزه-جدید-لندن-نمایش-شهر-در-تمام-شکوه-رنگارنگ-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سی-ان-ان-۶-عضو-دولت-ترامپ-در-پی-افزایش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
