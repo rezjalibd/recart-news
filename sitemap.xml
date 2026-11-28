@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/دادستانی-تهران-موضوع-موزیک-ویدیو-تازه-ساسی-را-با-حساسیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دادستانی-تهران-علیه-ارسال-کنندگان-ویدیو-به-ساسی-مانکن-اعلام/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/محکومیت-پروانه-سلحشوری-و-مدیرمسوول-دیدارنیوز-به-حبس-و-ممنوعیت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فایننشال-تایمز-تهران-احتمالا-در-حادثه-پهپادی-نزدیک-پایگاه-لیکن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,26 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رانندگی-فعالیتی-بدون-فشار-نیست-قلب-پشت-فرمان-با-الگوی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زنی-که-یک-ماه-با-۵۳۲۰-عقرب-سمی-در-یک/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اگر-ناسا-دروغ-می-گوید-چگونه-می-توان-ثابت-کرد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/رئیس-کمیسیون-تحول-نوآوری-و-بهره-وری-اتاق-تهران-بخش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/آیا-باید-مادربرد-رایانه-شخصی-خود-را-تعمیر-یا-تعویض/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -771,32 +791,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تپسی-از-هویت-بصری-جدید-خود-رونمایی-کرد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/در-اینجا-نحوه-ساخت-تلویزیون-جدید-جمعه-سیاه-به-بهترین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-اسباب-بازی-جمعه-سیاه-2026-تا-50-درصد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-دایسون-2026-تا-400-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/استقلال-۱-۰-صنعت-نفت-آبادان-سهراب-بدون-آسانی-هم-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/5-سرویس-پخش-موسیقی-که-به-شما-امکان-گوش-دادن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/میکی-گایتون-و-بریتنی-اسپنسر-در-مراسم-soul-train-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نقد-گوژپشت-روح-پاریس-کوازیمودو-به-دلایلی-یک-داستان-اصلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/پینگ-پنگونومیکس-آیا-تنیس-روی-میز-می-تواند-غریبه-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
