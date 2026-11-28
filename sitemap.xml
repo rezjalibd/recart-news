@@ -856,6 +856,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/nbc-تبلیغی-را-منتشر-می-کند-که-سیاست-اسرائیل-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اولیویا-رودریگو-دومین-آهنگ-تعطیلات-miss-this-christmas-را-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فصل-اسکی-اینجاست---اینها-هتل-های-کلرادو-هستند-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-برویل-تا-بیرکین-میسی-از-قبل-برترین-برندها-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
