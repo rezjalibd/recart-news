@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/میلاد-پورگی-شهروند-زندانی-در-دهدشت-به-۳۷-ماه-حبس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/استقرار-و-آموزش-تیربار-به-دانش-آموزان-مدرسه-در-کرج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/علوم-پزشکی-یزد-آزمایش-آنفلوانزای-بیش-از-۳۰-درصد-بیماران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ایتالیا-پهپاد-مهاجم-را-ایرانی-دانست-و-سفیر-جمهوری-اسلامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-لحظه-آخری-روی-دوچرخه-ها/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-فنی-لحظه-آخری-از-فروش-جمعه-سیاه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-خانه-هوشمند-جمعه-سیاه-لحظه-آخری-در-eufy/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-پیشنهادهای-بازی-لحظه-آخری-جمعه-سیاه-2026-در-لپ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سال-جدید-را-با-بهترین-ساعت-های-هوشمند-و-ردیاب/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/اینها-بهترین-معاملات-لحظه-آخری-ابزار-جمعه-سیاه-در-lowe/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دوربین-جاکلیدی-فوق-العاده-زیبای-کداک-charmera-تنها-با-قیمت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -571,32 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/جنجال-تازه-در-ایران-خودرو-فروش-۵۰-هزار-خودرو-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/قیمت-روز-پرفروش-ترین-گوشی-های-بازار-ایران-7-آذر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-nintendo-switch-2-2026-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رکوردشکنی-قیمت-ارز-در-بازار-آزاد-ایران-دلار-به-آستانه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/دلار-به-مرز-۳۰۰-هزار-تومان-رسید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معامله-instacart-doordash-می-تواند-قدرت-درآمد-کارگران-را-محدود/</loc>
+    <loc>https://recart.ir/news/قانون-33-درصد-برای-نصب-پنل-های-خورشیدی-به-چه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-sonos-2026-تا-34-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/7-نکته-حرفه-ای-برای-استفاده-بیشتر-از-برنامه-google/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
