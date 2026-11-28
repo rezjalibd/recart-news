@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تغییر-استراتژی-مایکروسافت-بازی-های-محبوب-قرار-است-بیشتر-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قرارداد-جمعه-سیاه-verizon-با-آیفون-18-پرو-یا-گلکسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/محققان-یک-سیاه-چاله-می-تواند-آنقدر-سریع-بچرخد-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/استارتاپ-روسی-با-کاشت-ایمپلنت-مغزی-کبوترها-را-به-پهپاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
