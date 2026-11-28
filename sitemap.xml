@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/سایت-رکنا-کژال-صادقی-زن-اهل-سقز-به-دست-همسرش/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قتل-آیلار-دختر-۱۰ساله-دارای-معلولیت-به-دست-پدرش-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مسمومیت-های-الکلی-در-ایران-چرا-این-حوادث-تکرار-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حمایت-ترامپ-از-بغداد-فشار-همزمان-بر-اقلیم-کردستان/</loc>
+    <loc>https://recart.ir/news/حمایت-ترامپ-از-بغداد-فشار-همزمان-بر-اقلیم-کردستان-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -466,6 +466,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مامانم-6-سال-پیش-فوت-کرد-اما-هنوز-نمیتونم-کمدشو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/اطلاعیه-صرافی-های-رمزارزی-به-دلیل-نوسانات-بازار-معاملات-تتر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,11 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/من-4-سال-پس-از-نقل-مکان-به-ایالات-متحده/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-آمریکا-در-واکنش-به-گزارش-ها-درباره-هک-سامانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/در-اینجا-نحوه-ساخت-تلویزیون-جدید-جمعه-سیاه-به-بهترین/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-اسباب-بازی-جمعه-سیاه-2026-تا-50-درصد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گاز-ویلاهای-خالی-از-سکنه-قطع-می-شود-سه-استان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/از-chatgpt-wallet-تا-کیف-پول-های-ایرانی-چه-چیزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/زدوخورد-میان-هواداران-فوتبال-ترکیه-و-اسرائیل-به-فرودگاه-باتومی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -877,6 +877,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فصل-سوم-سریال-the-hunting-wives-چه-زمانی-در-نتفلیکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/انوراگ-کاشیاپ-رانجان-سینگ-به-عنوان-تهیه-کنندگان-اجرایی-با/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نظر-باب-گرینبلات-چرا-بینندگان-امروز-از-برنامه-های-جدید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
