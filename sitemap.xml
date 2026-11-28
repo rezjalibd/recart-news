@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ورود-بیش-از-هزار-و-صد-مهاجر-به-جزایر-یونان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پیشنهاد-تازه-نتانیاهو-برای-تشکیل-دولت-وحدت-ملی-ابتدا-آیزنکوت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پیکر-۱۴-مهاجر-در-قایقی-در-نزدیکی-جزایر-قناری-پیدا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجله-خبری-۷-آذر-۱۴۰۵-۲۸-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -551,6 +551,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/باکس-آفیس-بازی-های-گرسنگی-طلوع-آفتاب-در-درو-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/sunrise-on-the-reaping-83-میلیون-دلار-5-روز-گرم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/طلانو-api-معاملات-طلا-را-برای-توسعه-دهندگان-و-معامله/</loc>
+    <loc>https://recart.ir/news/از-سلام-دنیا-تا-خداحافظ-دنیا-عصر-برنامه-نویس-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/5-چیز-جالب-carplay-می-تواند-برای-آنها-مفید-باشد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/17-خرید-بهترین-خرید-جمعه-سیاه-در-hot-tech-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
