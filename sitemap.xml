@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مالک-یک-شبکه-خبری-پرمخاطب-ترکیه-دولت-شبکه-ما-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/انفجار-شدید-در-نزدیکی-یک-مدرسه-در-افغانستان-هفت-دانش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,7 +411,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/از-شکلات-تلخ-تا-دمنوش-نعنا-خوراکی-های-سالمی-که/</loc>
+    <loc>https://recart.ir/news/دلار-۳۰۰-هزار-تومانی-نظر-شما-چیست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -457,6 +462,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/والکس-معاملات-تتر-تومان-را-به-طور-موقت-متوقف-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/عظمت-بازی-gta-6-به-روایت-اعداد-فروش-بیشتر-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ثبت-رکورد-تازه-در-تجارت-الکترونیک-ایران-توسط-اسنپ-پی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-آمریکا-در-واکنش-به-گزارش-ها-درباره-هک-سامانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/29-بهترین-پیشنهاد-جمعه-سیاه-آمازون-2026-تا-60-تخفیف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تشکیل-دو-کمربند-تابشی-اضافی-پیرامون-زمین-پیامد-شگفت-انگیز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/18-بهترین-پیشنهادهای-تلویزیونی-جمعه-سیاه-2026-تا-60-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-بهترین-تخفیف-های-جمعه-سیاه-را-برای-تلفن-ها/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/کلمبوس-۱-۰-اینترمیامی-حذف-زودهنگام-مسی-و-اینترمیامی-از-پلی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -867,6 +867,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-بچه-شیطان-و-یک-شرکت-قاتل-قراردادی-کمدی-تاریک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نفس-اول-بعد-از-کما-جیسون-اسکندر-پس-از-سه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/strong-i-play-rocky-how-to-rob-a-bank-ko/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
