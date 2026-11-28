@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نیروی-دریایی-جمهوری-اسلامی-وقتی-به-جای-زیردریایی-تراکتور-خواستند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/جدال-روایت-ها-میان-تهران-و-واشنگتن-سنتکام-سه-ادعای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کابوس-۴۷-ساله-در-راه-نابودی-یا-توسعه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سازمان-حقوق-بشر-ایران-از-جامعه-جهانی-خواست-برای-آزادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ذخایر-فرانسوی-عناصر-کمیاب-این-تاب-آوری-ضروری-است-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجله-خبری-۷-آذر-۱۴۰۵-۲۸-نوامبر-۲۰۲۶---بامدادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -431,6 +436,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ثبت-رکورد-تازه-در-تجارت-الکترونیک-ایران-توسط-اسنپ-پی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/مجلس-وضعیت-تولید-و-واردات-تلفن-همراه-را-بررسی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -441,7 +451,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ثبت-رکورد-تازه-در-تجارت-الکترونیک-ایران-توسط-اسنپ-پی/</loc>
+    <loc>https://recart.ir/news/ثبت-رکورد-تازه-در-تجارت-الکترونیک-ایران-توسط-اسنپ-پی-58b2d7/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,22 +601,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/25-بهترین-معاملات-بازی-که-تاکنون-برای-جمعه-سیاه-پیدا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-قهوه-ساز-و-اسپرسوساز-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/به-آن-گفتم-دیگر-هرگز-با-من-تماس-نگیرد-ربات/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/amd-با-کارت-گرافیک-radeon-rx-9060-xt-رکورد-جهانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/از-ویترین-فروشگاه-تا-بسته-بندی-محصول-کاربردهای-متنوع-چاپ/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مدل-هوش-مصنوعی-magi-2-معرفی-شد-قدرتمند-در-تولید-ویدیو/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گلکسی-a38-سامسونگ-به-جای-تراشه-اگزینوس-از-دایمنسیتی-۷۵۰۰/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -762,31 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-که-هنوز-هم-می-توانید-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کولرهای-yeti-تا-30-تخفیف-برای-جمعه-سیاه-2026-دارند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارتقاء-رایگان-yooka-laylee-از-ایکس-باکس-صرف-نظر-می-کند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-بازی-جمعه-سیاه-که-پیدا-کردم-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/واتساپ-کاربردی-تر-می-شود-مدیریت-ای-سیم-از-داخل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/5-راه-برای-اطمینان-از-اینکه-کنسول-شما-عملکرد-gta/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
