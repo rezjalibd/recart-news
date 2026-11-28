@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-دستگاه-اسپرسو-جمعه-سیاه-تا-38-تخفیف/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تهدید-تازه-برای-گوگل-و-آمازون-کاربران-خریدهایشان-را-به/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-بهترین-پیشنهادهای-پخش-جریانی-جمعه-سیاه-2026-را-پیدا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ربات-انسان-نمای-جنجالی-اکس-پنگ-هم-قیمت-یک-خودرو/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نخستین-نگاه-نزدیک-بشر-به-مریخ-۷-آذر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هک-گسترده-آیفون-ها-با-سیستم-عامل-قدیمی-تلگرام-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
