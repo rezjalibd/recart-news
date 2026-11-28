@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-و-بدترین-کشورها-در-اروپا-برای-جوانان-کجا-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چگونه-قتل-وحشیانه-خواهران-میرابال-به-نام-گذاری-روز-جهانی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/پایان-دوران-طلایی-قهرمان-هشت-دوره-ای-موتو-جی-پی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ارتش-اسرائیل-پنج-عضو-حماس-و-یک-عضو-جهاد-اسلامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
