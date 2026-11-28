@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/چگونه-قتل-وحشیانه-خواهران-میرابال-به-نام-گذاری-روز-جهانی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پیکر-۱۴-مهاجر-در-قایقی-در-نزدیکی-جزایر-قناری-پیدا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ارتش-اسرائیل-پنج-عضو-حماس-و-یک-عضو-جهاد-اسلامی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ازبکستان-و-قزاقستان-گذرگاه-مهم-مرزی-را-برای-تردد-روزانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هک-گسترده-آیفون-ها-با-سیستم-عامل-قدیمی-تلگرام-دست/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/قیمت-گوشی-امروز-۷-آذر-جهش-آیفون-۱۸-پرو-مکس/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ترامپ-در-حال-از-بین-بردن-حاکمیت-قانون-در-ایالات/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-دستگاه-اسپرسوساز-جمعه-سیاه-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
