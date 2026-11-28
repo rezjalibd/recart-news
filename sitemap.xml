@@ -581,6 +581,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/hunger-games-sunrise-on-the-reaping-carts-away-22-5/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/باکس-آفیس-بازی-های-گرسنگی-طلوع-آفتاب-در-درو-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مسابقات-تکواندو-گرندپری-زینالی-به-مدال-طلا-رسید-زرین-کمر/</loc>
+    <loc>https://recart.ir/news/کارشناسان-معتقدند-آزمایشگاه-های-هوش-مصنوعی-بر-روی-افشاگری-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-کیت-غذای-جمعه-سیاه-cookunity-سرآشپز-سبز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,12 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پژوهش-جدید-خطر-حمله-قلبی-و-سکته-مغزی-را-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شیلی-خواستار-جریمه-۸۰-میلیون-دلاری-از-اپل-و-تغییر/</loc>
+    <loc>https://recart.ir/news/پوچتینو-پس-از-شکست-۴-بر-صفر-منچستریونایتد-هیچ-توجیهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ایران-۳---۱-ژاپن-تیم-ملی-فوتبال-ساحلی-ایران/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/یک-بچه-شیطان-و-یک-شرکت-قاتل-قراردادی-کمدی-تاریک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
