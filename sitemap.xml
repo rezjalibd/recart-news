@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-بالش-جمعه-سیاه-2026-در-مورد-علاقه-های/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بهترین-جاروبرقی-های-روباتی-که-ما-آزمایش-کرده-ایم-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فروش-نادر-جمعه-سیاه-quince-تا-30-درصد-تخفیف-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-جمعه-سیاه-nordstrom-تا-60-تخفیف-دارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
