@@ -426,6 +426,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مدل-موی-dreame-s-airstyle-era-برای-جمعه-سیاه-65/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/260-معاملات-جمعه-سیاه-که-قبل-از-پایان-روز-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -592,11 +597,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تخفیف-سرخ-کن-بادی-بلک-فرایدی-برای-هر-نوع-آشپزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رکوردشکنی-جیمز-وب-و-اقلیدس-کشف-قدیمی-ترین-اختروش-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
