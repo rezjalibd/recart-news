@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/افزایش-فشارهای-بین-المللی-بر-تهران-پیامدهای-حمله-به-زیرساخت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ادامه-واکنش-ها-به-شلاق-پرستو-احمدی-نگرانی-حکومت-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پایان-۲۵-سال-خشونت-خانگی-کژال-صادقی-به-دست-همسرش/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/شمس-آذر-۰---۱-خیبر-خرم-آباد-وریا-غفوری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/حمایت-ترامپ-از-کنترل-دولت-عراق-بر-گذرگاه-های-کردستان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنگ-و-بحران-ارزی-۵۳هزار-متقاضی-ایرانی-را-از-حج/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -436,6 +436,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بانک-مرکزی-برداشت-غیرحضوری-شش-سکوی-رمزارزی-دیگر-را-محدود/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عظمت-بازی-gta-6-به-روایت-اعداد-فروش-بیشتر-از/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/معاملات-کباب-پز-بلک-فرایدی-گودال-آتش-نشانی-و-بخاری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/18-بهترین-پیشنهادهای-تلویزیونی-جمعه-سیاه-2026-تا-60-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/قرارداد-جمعه-سیاه-verizon-با-آیفون-18-پرو-یا-گلکسی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جنجال-تازه-برای-گیت-هاب-تبلیغ-پروژه-اجرای-بازی-های/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
