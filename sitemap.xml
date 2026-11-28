@@ -466,6 +466,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-10-ساعت-در-کلاس-تجاری-بریتیش-ایرویز-پرواز-کردم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مادرشوهرم-به-مدت-3-هفته-به-ملاقاتش-رفت-و-خیلی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/والکس-معاملات-تتر-تومان-را-به-طور-موقت-متوقف-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -591,16 +601,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-kindle-و-e-reader-2026-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بانک-مرکزی-برداشت-غیرحضوری-شش-سکوی-رمزارزی-دیگر-را-محدود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-آمریکا-در-واکنش-به-گزارش-ها-درباره-هک-سامانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +612,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بنابراین-آیا-قرار-است-همه-ما-اکنون-قدم-بزنیم-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/چالش-های-رفت-وآمد-در-کلان-شهرها-آیا-اسکوترهای-برقی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/20-بهترین-تخفیف-هدفون-جمعه-سیاه-2026-تا-57-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
