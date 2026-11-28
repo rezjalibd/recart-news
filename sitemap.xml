@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کشته-شدن-روحانی-اهل-سنت-نزدیک-به-سپاه-پاسداران-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/درگیری-معترضان-با-پلیس-در-آلبانی-هزاران-نفر-خواستار-استعفای/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/دادستانی-تهران-موضوع-موزیک-ویدیو-تازه-ساسی-را-با-حساسیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -207,16 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فرمانده-نیروی-دریایی-ارتش-از-در-پیش-بودن-عملیات-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سنتکام-ادعای-بازپس-گیری-دو-نفتکش-ایرانی-از-آمریکا-را/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/محکومیت-پروانه-سلحشوری-و-مدیرمسوول-دیدارنیوز-به-حبس-و-ممنوعیت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/این-برنامه-ورزشی-جدید-به-طور-خاص-برای-ورزش-بانوان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/5-ویژگی-جالب-آمازون-echo-show-که-نباید-نادیده-بگیرید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/رانندگی-فعالیتی-بدون-فشار-نیست-قلب-پشت-فرمان-با-الگوی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بمب-خبری-شرکت-های-هوش-مصنوعی-دانشمندان-درباره-احتمال-شکسته/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چری-آریزو-۹-معرفی-شد-سدان-پرچمدار-چینی-با-چهره/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نزاع-حقوقی-اپن-ای-آی-و-اپل-دو-شرکت-یکدیگر/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
