@@ -856,6 +856,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نظر-باب-گرینبلات-چرا-بینندگان-امروز-از-برنامه-های-جدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/secrets-نتفلیکس-نویسنده-اندونزیایی-راوی-بهروانی-را-پس-از-هشت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/رشید-بوچارب-کارگردان-نامزد-اسکار-درباره-چالش-های-فیلمبرداری-رجین/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/چالش-آلوم-تایلر-داکورث-علت-مرگ-فاش-شد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
