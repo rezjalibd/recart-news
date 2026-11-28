@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/رابطه-جنسی-کمتر-پورن-بیشتر-تغییر-رفتار-جنسی-جوانان-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/چرا-سفر-خلیفه-حفتر-فرمانده-ارتش-ملی-لیبی-به-ترکیه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تردید-قضات-در-اتهام-های-فساد-برتری-سیاسی-آشکاری-برای/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نکونام-پیش-از-بازی-با-ذوب-آهن-هفته-سختی-داشتیم/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
