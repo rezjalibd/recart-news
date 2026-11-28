@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/محبوبه-رحمانی-راد-شهروند-ساکن-پردیس-به-یک-سال-حبس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/تبدیل-عنوان-حکومتی-به-عنوان-انقلابی-با-اضافه-کردن-عدد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -212,11 +217,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/نیروی-دریایی-جمهوری-اسلامی-وقتی-به-جای-زیردریایی-تراکتور-خواستند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/جدال-روایت-ها-میان-تهران-و-واشنگتن-سنتکام-سه-ادعای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -601,6 +601,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/شکایت-جدید-openai-اپل-را-به-فشار-غیرقانونی-بر-فروشندگان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/نحوه-دسترسی-به-منوی-برنامه-نویس-مخفی-در-apple-tv/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-هچ-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/از-سلام-دنیا-تا-خداحافظ-دنیا-عصر-برنامه-نویس-ها/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,17 +791,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چگونه-اکانت-پلی-استیشن-خود-را-برای-همیشه-حذف-کنیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بریتانیا-خدمات-مستمری-آنلاین-خود-را-به-دلیل-حادثه-سایبری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/5-چیز-جالب-carplay-می-تواند-برای-آنها-مفید-باشد/</loc>
+    <loc>https://recart.ir/news/توقف-بایرن-مونیخ-مقابل-هامبورگ-اخراج-کیمیش-فرصت-صدرنشینی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -807,6 +812,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/5-سرویس-پخش-موسیقی-که-به-شما-امکان-گوش-دادن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زمین-لرزه-شدید-منطقه-لس-آنجلس-را-لرزاند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/devo-whip-it-را-به-رژه-روز-شکرگزاری-بیاورید/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,21 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/فیلمسازان-پشت-سر-رقیب-اسکار-لبنان-خشم-در-سینما-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کلمبوس-۱-۰-اینترمیامی-حذف-زودهنگام-مسی-و-اینترمیامی-از-پلی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلم-ترسناک-بدن-اندونزیایی-اصلی-غم-یک-مادر-را-در/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کجا-می-توان-رژه-روز-شکرگزاری-میسی-را-به-صورت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
