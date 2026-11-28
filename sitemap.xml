@@ -411,6 +411,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/مجله-خبری-۷-آذر-۱۴۰۵-۲۸-نوامبر-۲۰۲۶---نیم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ذخایر-فرانسوی-فلزات-نادر-این-تاب-آوری-ضروری-است-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/تخفیف-79-درصدی-جمعه-سیاه-پارامونت-پلاس-عالی-است-اما/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/گلکسی-زد-ترای-فولد-۲-احتمالا-باریک-تر-و-سبک/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بازگشت-رنگ-قرمز-به-محصولات-اپل-تصاویر-هوم-پاد-مینی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/grand-theft-anthropic-چگونه-gta-می-تواند-الهام-بخش-مبارزه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
