@@ -446,6 +446,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/کیپا-بازار-خرید-اعتباری-در-ایران-هنوز-با-ظرفیت-کامل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جدال-ایران-خودرو-و-وزارت-صمت-بر-سر-فروش-۱۰/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/فعالان-بازار-آنلاین-طلا-خواستار-تضمین-پایداری-زرپایش-شدند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/من-خون-خودم-را-با-آزمایش-خانگی-مورد-علاقه-سیلیکون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -586,27 +601,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/m5-macbook-air-از-زمانی-که-اپل-قیمت-را-افزایش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-که-هنوز-هم-می-توانید-دریافت/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/249-معاملات-جمعه-سیاه-که-قبل-از-پایان-روز-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-ربات-جاروبرقی-جمعه-سیاه-از-roborock-2026-تا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/افشای-جزئیات-دوربین-گلکسی-s27-اولترا-حالت-هوش-مصنوعی-جدید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تولید-آیفون-۱۸-و-آیفون-۱۸e-احتمالا-عقب-افتاده-است/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-دوربین-زنگ-در-در-جمعه-سیاه-از/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هشدار-پاول-دورف-به-کاربران-آیفون-برای-اینکه-هک-نشوید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/وقتی-هر-کسی-می-تواند-برای-خودش-نرم-افزار-بسازد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رشد-۱۸۷-درصدی-نسبت-به-سال-گذشته-درآمد-۱۹۸-میلیارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کجا-می-توان-رژه-روز-شکرگزاری-میسی-را-به-صورت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/outlander-blood-of-my-blood-bosses-در-فصل-دوم-چرخش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/براندی-در-هر-روز-کریسمس-متاهل-و-روشن-برمی-گردد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
