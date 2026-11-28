@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/محکومیت-پروانه-سلحشوری-و-مدیرمسوول-دیدارنیوز-به-حبس-و-ممنوعیت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/فایننشال-تایمز-تهران-احتمالا-در-حادثه-پهپادی-نزدیک-پایگاه-لیکن/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/گسترش-مسمومیت-های-الکلی-در-ایران-صدها-مسموم-و-ده/</loc>
+    <loc>https://recart.ir/news/پایش-فاضلاب-چگونه-می-تواند-به-دانشمندان-در-شناسایی-همه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بابا-می-ترسم-روایت-زندگی-در-ریاض-هم-زمان-با/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -401,16 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/ان-بی-سی-تبلیغی-را-در-انتقاد-از-کمک-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شبکه-ان-بی-سی-از-پایان-کمک-های-نظامی-آمریکا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/مجله-خبری-۷-آذر-۱۴۰۵-۲۸-نوامبر-۲۰۲۶---بامدادی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -427,6 +427,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ثبت-رکورد-تازه-در-تجارت-الکترونیک-ایران-توسط-اسنپ-پی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,32 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/black-friday-motley-fool-stock-advisor-با-70-درصد-کاهش/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/grand-theft-anthropic-چگونه-gta-می-تواند-الهام-بخش-مبارزه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-دوربین-زنگ-در-در-جمعه-سیاه-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هشدار-پاول-دورف-به-کاربران-آیفون-برای-اینکه-هک-نشوید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/وقتی-هر-کسی-می-تواند-برای-خودش-نرم-افزار-بسازد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -767,26 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/allstate-از-روز-دوشنبه-دچار-قطعی-برق-شده-است/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/سازنده-mpc-beat-مورد-علاقه-من-برای-سفت-افزار-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-دستگاه-آمازون-2026-kindles-echo-speakers/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/آیا-می-توانیم-با-یک-منجنیق-بزرگ-انسان-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ظاهرا-سامسونگ-به-اپلیکیشن-دوربین-خود-حالت-هوش-مصنوعی-می/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
