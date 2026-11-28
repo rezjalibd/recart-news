@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/تولید-آیفون-۱۸-بار-دیگر-به-تعویق-افتاد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کدهای-تخفیف-govee-و-معاملات-30-تخفیف/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-در-مورد-وسایل-خانه-هوشمند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تخفیف-های-جمعه-سیاه-در-مورد-لوازم-ضروری-خانگی-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
