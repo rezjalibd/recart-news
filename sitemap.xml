@@ -601,6 +601,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نزاع-حقوقی-اپن-ای-آی-و-اپل-دو-شرکت-یکدیگر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ارتش-آمریکا-در-واکنش-به-گزارش-ها-درباره-هک-سامانه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -612,6 +617,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تپسی-از-هویت-بصری-جدید-خود-رونمایی-کرد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-دستگاه-اسپرسو-جمعه-سیاه-تا-38-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تهدید-تازه-برای-گوگل-و-آمازون-کاربران-خریدهایشان-را-به/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/من-بهترین-پیشنهادهای-پخش-جریانی-جمعه-سیاه-2026-را-پیدا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
