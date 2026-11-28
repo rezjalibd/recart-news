@@ -336,6 +336,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هواپیماهای-امریکن-ایرلاینز-هنگام-تاکسی-برای-برخاستن-در-فرودگاه-واشنگتن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/این-ساعت-های-ژاپنی-با-حرکت-دست-شارژ-می-شوند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هشدار-سازمان-ملل-درباره-تشدید-گرسنگی-در-افغانستان-بحران-غذایی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/انتخابات-اسپانیا-آیا-وکس-تعیین-کننده-خواهد-شد-و-بحران/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -422,6 +422,16 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/با-ترکیب-disney-plus-و-hulu-black-friday-با-قیمت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تخفیف-79-درصدی-جمعه-سیاه-پارامونت-پلاس-عالی-است-اما/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -591,22 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-ردیاب-تناسب-اندام-جمعه-سیاه-شامل-تا-350/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معامله-جمعه-سیاه-masterclass-در-یک-سال-یادگیری-تحت-رهبری/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/قرارداد-جمعه-سیاه-verizon-با-آیفون-18-پرو-یا-گلکسی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -786,11 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/دیدگاه-گاردین-در-مورد-هوش-مصنوعی-و-فرضیه-ریمان-پیروزی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ستاره-بایرن-فعلا-دور-از-میادین-سال-۲۰۲۶-برای-جمال/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -852,6 +852,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/bet-جایزه-بشردوستانه-جدید-چاکا-خان-را-در-جوایز-soul/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/آثار-معرفی-شده-در-بفتا-2027-126-رقیب-بهترین-فیلم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تعطیلی-گیل-کینگ-هفته-آینده-از-سریال-cbs-mornings-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
