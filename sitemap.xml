@@ -611,6 +611,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/قیمت-گوشی-امروز-۷-آذر-جهش-آیفون-۱۸-پرو-مکس/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/کارشناسان-هشدار-می-دهند-که-آزمایشگاه-های-هوش-مصنوعی-روی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/بهترین-تخفیف-های-دستگاه-اسپرسوساز-جمعه-سیاه-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-currentbody-2026-20-تخفیف-برای/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
