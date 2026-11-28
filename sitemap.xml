@@ -221,6 +221,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ده-سال-پس-از-سقوط-مرگبار-هواپیما-بازسازی-چاپه-کوئنزه/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/سایت-خبری-رکنا-زن-۳۹-ساله-سقزی-که-به-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -402,11 +407,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/جمعه-سیاه-در-کجای-اروپا-بدبین-ترین-خریداران-زندگی-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تعرفه-های-ترامپ-اتحادیه-اروپا-و-اندونزی-را-در-تجارت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -611,6 +611,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/ماده-تاریک-ممکن-است-جدول-تناوبی-ذرات-نامرئی-خود-را/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/دفترچه-خاطرات-تام-ریدل-با-هوش-مصنوعی-claude-به-صورت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/مراقب-حساب-اسنپ-پی-خود-باشید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/هوش-مصنوعی-حالا-می-تواند-گوشی-واقعی-شما-را-کنترل/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -776,21 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/کدهای-تخفیف-govee-و-معاملات-30-تخفیف/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کد-تخفیف-corsair-تا-50-تخفیف-برای-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-کوپن-zoro-20-تخفیف-در-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/رشد-۱۸۷-درصدی-نسبت-به-سال-گذشته-درآمد-۱۹۸-میلیارد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -862,6 +862,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/10-بهترین-و-10-بدترین-فیلم-بن-استیلر-از-نظر/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کانال-4-از-دکتر-هاو-ادواردز-پس-از-انتقاد-دولت/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -972,11 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/براندی-در-هر-روز-کریسمس-متاهل-و-روشن-برمی-گردد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هدایای-خشمگین-دونالد-ترامپ-جونیور-به-همسران-شکار-نتفلیکس-برخی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
