@@ -31,6 +31,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/توقف-۸۹۰۰-کامیون-در-بازرگان-تنگ-تر-شدن-مسیرهای-تجارت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/شرکت-ترکیه-ای-پس-از-تحریم-آمریکا-به-دلیل-ارائه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -216,7 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اخلال-در-مراسم-صداهای-ایرانی-وزیر-خارجه-فرانسه-هدف-برنامه/</loc>
+    <loc>https://recart.ir/news/تمدید-قرارداد-تیاگو-سیلوا-با-فلومیننزه-تا-پایان-۲۰۲۷-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,7 +411,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/حملات-گسترده-پهپادی-روسیه-به-اوکراین-دست-کم-چهار-کشته/</loc>
+    <loc>https://recart.ir/news/ذخایر-فرانسوی-فلزات-نادر-این-تاب-آوری-ضروری-است-و/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/جوادی-آملی-جوانان-نباید-به-دلیل-مشکلات-اقتصادی-ازدواج-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -432,6 +442,51 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-خون-خودم-را-با-آزمایش-خانگی-مورد-علاقه-سیلیکون/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/سفرهای-تفریحی-مسکونی-یک-تجارت-بسیار-دشوار-است-فقط-این/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/یک-استراتژیست-که-حباب-دات-کام-را-نامیده-است-می/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/19-عضو-مجلس-نمایندگان-در-کنگره-آینده-را-ببینید-که/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بعد-از-اینکه-شغلم-را-از-دست-دادم-با-خواهرم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کجا-رژه-روز-شکرگزاری-میسی-را-تماشا-کنیم-کانال-2026/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/پس-از-تماشای-رژه-روز-شکرگزاری-میسی-در-کودکی-من/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/هر-ایالت-قرار-است-چه-مقدار-مسکن-نسبت-به-ساکنان/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-4-سال-پس-از-نقل-مکان-به-ایالات-متحده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -546,67 +601,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/بهترین-کت-زمستانی-من-در-جمعه-سیاه-به-قیمت-120/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/معاملات-چمدان-جمعه-سیاه-شامل-50-تخفیف-برای-چمدان-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ما-60-معامله-عجیب-جمعه-سیاه-را-پیدا-کردیم-که/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-بالش-جمعه-سیاه-2026-در-مورد-علاقه-های/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-جاروبرقی-های-روباتی-که-ما-آزمایش-کرده-ایم-تا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/با-چیپ-ویلسون-بنیانگذار-lululemon-آشنا-شوید-کسی-که-حتی/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فروش-جمعه-سیاه-rothy-تا-40-تخفیف-دارد-با-یک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هدفون-1000xm4c-سونی-در-جمعه-سیاه-با-قیمت-198-دلار/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/roborock-dreame-و-eufy-قیمت-robovac-را-برای-جمعه-سیاه/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تا-100-دلار-در-shark-depuffi-و-facialpro-glow-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-هوکا-از-88-دلار-شروع-می/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/راهنمای-بقا-برای-کلمات-پشت-رونق-هوش-مصنوعی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/من-پس-از-حدود-10-سال-در-این-شرکت-از/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/ما-از-6-متخصص-خواستیم-که-مخاطبین-آیفون-پین-شده/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -772,21 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/وقتی-هر-کسی-می-تواند-برای-خودش-نرم-افزار-بسازد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هکرها-به-زیرساخت-ابری-نیروی-هوایی-آمریکا-نفوذ-کردند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/نتیجه-بررسی-شکایت-کاربران-از-حجم-و-قیمت-اینترنت-پژمان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بزرگ-ترین-خودروساز-چین-یک-ون-لوکس-برقی-با-شارژ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
