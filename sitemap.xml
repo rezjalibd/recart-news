@@ -541,6 +541,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/sunrise-on-the-reaping-83-میلیون-دلار-5-روز-گرم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/در-افغانستان-برای-استخراج-معادن-از-چه-نوع-مواد-منفجره/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -596,7 +601,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/چرا-ژاپنی-ها-نمی-خواهند-خانه-های-پدری-خود-را/</loc>
+    <loc>https://recart.ir/news/صدای-بلندگوهای-ماشین-قبل-از-تماس-با-مکانیک-این-راه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/دوربین-سامسونگ-بهتره-یا-آیفون-مقایسه-کامل-کیفیت-عکس-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بمب-خبری-شرکت-های-هوش-مصنوعی-دانشمندان-درباره-احتمال-شکسته/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
