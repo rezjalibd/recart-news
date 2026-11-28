@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هوش-مصنوعی-حالا-می-تواند-گوشی-واقعی-شما-را-کنترل/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معاون-علمی-رئیس-جمهور-سند-توسعه-اختراعات-خارجی-ابلاغ-شد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/پرنده-ای-به-وزن-یک-حبه-قند-در-۳۸-روز/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کدهای-کوپن-zoro-20-تخفیف-در-نوامبر-2026/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-ray-ban-50-در-نوامبر-2026-صرفه-جویی-کنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کدهای-تبلیغاتی-altra-running-10-تخفیف-در-نوامبر-2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
