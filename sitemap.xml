@@ -611,6 +611,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-که-هنوز-هم-می-توانید-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/کولرهای-yeti-تا-30-تخفیف-برای-جمعه-سیاه-2026-دارند/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/ارتقاء-رایگان-yooka-laylee-از-ایکس-باکس-صرف-نظر-می-کند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -777,16 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/ارتش-ربات-ها-را-آزمایش-کرد-تا-به-پزشکان-کمک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/بزرگ-ترین-عقرب-تاریخ-زمین-به-اندازه-سگ-بود/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/شکارچی-ماقبل-دایناسورها-بزرگ-ترین-عقرب-تاریخ-زمین-به-اندازه/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
