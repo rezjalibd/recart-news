@@ -236,6 +236,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/من-یک-آمریکایی-هستم-که-در-آلمان-زندگی-می-کنم/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/عکس-های-قبل-و-بعد-تغییرات-دکوری-که-ترامپ-تاکنون/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -406,12 +411,27 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/هواپیماهای-امریکن-ایرلاینز-هنگام-تاکسی-برای-برخاستن-در-فرودگاه-واشنگتن/</loc>
+    <loc>https://recart.ir/news/مجله-خبری-۷-آذر-۱۴۰۵-۲۸-نوامبر-۲۰۲۶---شامگاهی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/مجله-خبری-۷-آذر-۱۴۰۵-۲۸-نوامبر-۲۰۲۶---شامگاهی/</loc>
+    <loc>https://recart.ir/news/پخش-کنندگان-روی-ویدیوهای-کوتاه-شرط-بندی-می-کنند-تا/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معامله-جمعه-سیاه-دیزنی-پلاس-و-هولو-تنها-فروش-اشتراکی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/66-بهترین-فروش-مبلمان-جمعه-سیاه-از-wayfair-west-elm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/معاملات-لباس-مردانه-جمعه-سیاه-ارزش-خرید-در-levi-s/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -581,22 +601,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/اولین-نوزاد-ما-در-بهار-امسال-به-دنیا-می-آید/</loc>
+    <loc>https://recart.ir/news/apple-passwords-در-مقابل-google-password-manager-تفاوت-آنها-در/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/انجمن-بلاکچین-ایران-از-توقف-هماهنگ-معاملات-تتر-تومان-خبر/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/اس-اند-پی-چشم-انداز-اعتباری-فرانسه-را-کاهش-داد/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/هیوندای-مرکوری-معرفی-شد-کراس-اوور-برقی-با-قابلیت-تعویض/</loc>
+    <loc>https://recart.ir/news/به-روز-رسانی-معاملات-جمعه-سیاه-بیش-از-250-پیشنهاد/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -781,16 +791,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/خودتان-را-به-عروسک-پارچه-ای-دست-دوز-تبدیل-کنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/رسوایی-انویدیا-سالهاست-که-در-حال-شکل-گیری-است-اینجا/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/توقف-بایرن-مونیخ-مقابل-هامبورگ-اخراج-کیمیش-فرصت-صدرنشینی-را/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -811,7 +811,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/هر-فیلم-برد-پیت-توسط-منتقدان-رتبه-بندی-شده-است/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/5-سرویس-پخش-موسیقی-که-به-شما-امکان-گوش-دادن/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/همیشه-با-بهترین-هشدارهای-زلزله-آماده-باشید/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/طراح-صحنه-و-لباس-cliff-booth-تریش-سامرویل-در-مورد/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/زلزله-شدید-منطقه-لس-آنجلس-را-لرزاند/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -957,26 +977,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/تماشاگران-نتفلیکس-مجذوب-سریال-های-هلندی-نفس-گیر-شدند/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/زیبایی-و-هیولا-در-ژاف-مارکت-به-داستانی-از-کنترل/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/تریلر-اجتماعی-اندونزیایی-یک-آفتاب-آرام-از-خودمختاری-بدنی-زنان/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/کارگر-مهاجر-داستان-لوز-و-فلور-انسان-های-فیلیپینی-و/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/فیلمسازان-پشت-سر-رقیب-اسکار-لبنان-خشم-در-سینما-به/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
