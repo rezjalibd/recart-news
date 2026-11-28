@@ -31,6 +31,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://recart.ir/news/نبود-مددکاران-اجتماعی-در-مدارس-دانش-آموزان-در-معرض-خشونت/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/تهدیدهای-دریایی-سپاه-و-ارتش-سنتکام-ادعاهایشان-دروغ-و-ساختگی/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://recart.ir/news/بریتانیا-مجوز-پخش-تلویزیونی-شبکه-اللولوه-مرتبط-با-جمهوری-اسلامی/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -211,12 +221,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/پیام-منتسب-به-مجتبی-خامنه-ای-هراس-از-بازگشت-اعتراض/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ردپای-سپاه-پاسداران-۵۰-متقاضی-تأسیس-شرکت-هواپیمایی-در-آسمان/</loc>
+    <loc>https://recart.ir/news/سایت-خبری-رکنا-زن-۳۹-ساله-سقزی-که-به-دست/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -406,11 +411,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/آلمان-و-اتریش-رسما-خواستار-تغییر-مالکیت-بخش-اروپایی-تیک/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ذخایر-فرانسوی-عناصر-کمیاب-این-تاب-آوری-ضروری-است-و/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -432,6 +432,11 @@
   </url>
   <url>
     <loc>https://recart.ir/news/با-وجود-اراده-دموکرات-ها-برای-قطع-بودجه-جنگ-با/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-تخفیف-های-جمعه-سیاه-kindle-و-e-reader-2026-تا/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -596,17 +601,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://recart.ir/news/237-معامله-جمعه-سیاه-که-با-پول-خود-می-خریدیم/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://recart.ir/news/ارتش-پشت-لب-تاپ-نشین-با-هوش-مصنوعی-آیا-جنگ/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://recart.ir/news/اوگاندا-نخستین-کارآزمایی-واکسن-ابولا-با-فناوری-mrna-را-در/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://recart.ir/news/بهترین-معاملات-جمعه-سیاه-2026-ما-از-ساعت-4-صبح/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -782,11 +787,6 @@
   </url>
   <url>
     <loc>https://recart.ir/news/کدهای-تبلیغاتی-kitchenaid-تا-20-صرفه-جویی-کنید/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://recart.ir/news/ربات-انسان-نمای-جنجالی-اکس-پنگ-هم-قیمت-یک-خودرو/</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
